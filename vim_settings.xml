@@ -200,13 +200,15 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1510735820913">
         <mark key="'" line="90" column="26" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1511337083691">
-        <mark key="'" line="211" column="21" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1511339915523">
+        <mark key="'" line="163" column="165" />
         <mark key="[" line="329" column="2" />
         <mark key="]" line="329" column="13" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1511329866987">
-        <mark key="'" line="279" column="59" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1511340012822">
+        <mark key="'" line="506" column="20" />
+        <mark key="[" line="458" column="0" />
+        <mark key="]" line="463" column="29" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/Logger.pm" timestamp="1510638942853">
         <mark key="'" line="61" column="22" />
@@ -304,6 +306,7 @@
       <file name="/System/Library/Perl/5.18/Module/Load.pm" timestamp="1509589142056">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Budget/CapType/Impression.pm" timestamp="1511337900205" />
       <file name="$FOUT_HOME$/t/fout/bid/data/cvr_mfm_prediction.t" timestamp="1509945824586">
         <mark key="'" line="96" column="14" />
       </file>
@@ -496,7 +499,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1508222364273">
         <mark key="'" line="15" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511330956980">
+      <file name="/Dummy.txt" timestamp="1511339460469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1511245851119">
@@ -553,8 +556,8 @@
       <file name="$FOUT_HOME$/lib/FOut/OpenX/Categories.pm" timestamp="1508133330654">
         <mark key="'" line="24" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1511252798590">
-        <mark key="'" line="332" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1511339415243">
+        <mark key="'" line="1093" column="5" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -567,6 +570,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Manager.pm" timestamp="1510712094078">
         <mark key="'" line="41" column="31" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1511337920147">
+        <mark key="'" line="213" column="60" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/Budget.pm" timestamp="1510039877685">
         <mark key="'" line="157" column="19" />
@@ -584,46 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="511" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="512" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="516" column="85" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="532" column="81" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="534" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="536" column="94" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="541" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="550" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="554" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="556" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="557" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="558" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="565" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="566" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="567" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="575" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="593" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="595" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="631" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="634" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="439" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="302" column="26" filename="$USER_HOME$/Documents/perl/local/lib/perl5/darwin-thread-multi-2level/Mouse.pm" />
-      <jump line="429" column="0" filename="$USER_HOME$/Documents/perl/local/lib/perl5/darwin-thread-multi-2level/Mouse.pm" />
-      <jump line="452" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="48" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1997" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="667" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2016" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="9" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="103" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="87" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="677" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="159" column="23" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Memcached/Client.pm" />
-      <jump line="45" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="18" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Review/Defs.pm" />
-      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Review/Defs.pm" />
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Review/Defs.pm" />
-      <jump line="29" column="18" filename="$FOUT_HOME$/lib/FOut/Review/Defs.pm" />
-      <jump line="363" column="16" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher.pm" />
       <jump line="362" column="17" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher.pm" />
       <jump line="320" column="25" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher.pm" />
       <jump line="202" column="34" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher.pm" />
@@ -684,6 +650,46 @@
       <jump line="279" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
       <jump line="333" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
       <jump line="187" column="12" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/DBIx/Sunny.pm" />
+      <jump line="192" column="12" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
+      <jump line="196" column="38" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
+      <jump line="203" column="40" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
+      <jump line="213" column="60" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
+      <jump line="1149" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1316" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1317" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1318" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1321" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1518" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1545" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1552" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1553" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1554" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1558" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1568" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1887" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1888" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1927" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1931" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1946" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="351" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1986" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="125" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="2407" column="12" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="65" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1937" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1151" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1093" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="134" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="159" column="42" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="28" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="140" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="163" column="165" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1347" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1958" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1991" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1996" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="458" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="506" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -696,10 +702,10 @@
         <text encoding="base64">Z3JlcCB7ICRfLT57bWVzc2FnZX0gPX4gL2FkIG5vdCBhdmFpbGFibGUgYWRfaWQ6NDA0LyB9IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0X3Nwb3RfZmlsdGVyc19hZF9pbmRleF9vbmx5XD4=</text>
+        <text>review_landing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9rIGdyZXAgeyAkXy0+e21lc3NhZ2V9ID1+IC9hZCBub3QgYXZhaWxhYmxlIGFkX2lkOjQwNC8gfSBAd2FybnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYS5yZXZpZXdfbGFuZGluZ191cmwsCiAgICAgICAgICAgIGEuc3R0aW1lLAogICAgICAgICAgICBhLmVudGltZSwKICAgICAgICAgICAgYS5iZWFjb25fdXJsLAogICAgICAgICAgICBhLnZpZGVvX3N0YXJ0X3RpbWluZywKICAgICAgICAgICAgYS52aWRlb19za2lwcGFibGUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlzIEB3YXJucywgMjsK</text>
@@ -736,13 +742,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0X3Nwb3RfZmlsdGVyc19hZF9pbmRleF9vbmx5XD4=</last-search>
+      <last-search>review_landing</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0X3Nwb3RfZmlsdGVyc19hZF9pbmRleF9vbmx5XD4=</last-pattern>
+      <last-pattern>review_landing</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxiaWRfdG9fYWRfc3RyaW5nXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -766,6 +772,13 @@
         <entry encoding="base64">XDxjb2xsZWN0X2dvb2dsZV9zbmlwcGV0X3N0YXR1c1w+</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVfZmlsdGVyX3NxbF9ieV90eXBlXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0X3Nwb3RfZmlsdGVyc19hZF9pbmRleF9vbmx5XD4=</entry>
+        <entry encoding="base64">XDxkYWlseV9zdGF0dXNcPg==</entry>
+        <entry>name</entry>
+        <entry>agenci</entry>
+        <entry>agen</entry>
+        <entry encoding="base64">XDx0b19nZXRkYXRhXD4=</entry>
+        <entry>agency</entry>
+        <entry>review_landing</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
