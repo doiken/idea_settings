@@ -8,20 +8,11 @@
   <template name="sub" value="sub $NAME$ {&#10;    my ($ARGUMENTS$) = @_;&#10;    $END$&#10;}" description="new sub" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="&quot;subname&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="&quot;$self&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="unless" value="unless ($EXPRESSION$) {&#10;    $END$&#10;}" description="unless block" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="wrap with unless" value="unless ($EXPRESSION$) {&#10;    $SELECTION$&#10;}" description="wrap with unless block" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="cmp" value="use Benchmark qw(:all);&#10;cmpthese(timethese(1_000_000, +{&#10;    $KEY$ =&gt; sub { $END$ },&#10;}));" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PERL5_PREFIX" value="true" />
-    </context>
   </template>
 </templateSet>
