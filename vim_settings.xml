@@ -66,10 +66,10 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hackerbase/Gemfile" timestamp="1511615201163">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/hackerbase/Gemfile" timestamp="1511616682490">
+        <mark key="'" line="92" column="14" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="12" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/MarginRate/DB.pm" timestamp="1502176644731">
         <mark key="'" line="32" column="4" />
@@ -173,7 +173,7 @@
       <file name="$FOUT_HOME$/t/fout/apps_plus/index/companion_script.t" timestamp="1500527519267">
         <mark key="'" line="167" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/development.rb" timestamp="1511613536531">
+      <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/development.rb" timestamp="1511617089528">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -248,10 +248,11 @@
       <file name="$FOUT_HOME$/t/fout/cache/companion_scripts/run.t" timestamp="1501122003021">
         <mark key="'" line="32" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/Gemfile" timestamp="1511615272394">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/Gemfile" timestamp="1511616963999">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/fout_ui/lib/FOutUI/M/Internal.pm" timestamp="1499039477935">
         <mark key="'" line="48" column="4" />
@@ -302,6 +303,12 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/config/environment.rb" timestamp="1511617014179">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Session/PostBackTest.pm" timestamp="1502072882020">
         <mark key="'" line="0" column="0" />
@@ -392,7 +399,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511615142422">
+      <file name="/Dummy.txt" timestamp="1511617089790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/blog2/app/views/layouts/application.html.erb" timestamp="1511613492756">
@@ -433,6 +440,9 @@
       <file name="$FOUT_HOME$/t/lib/Test/MockObject/Util.pm" timestamp="1501465852138">
         <mark key="'" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/production.rb" timestamp="1511617085579">
+        <mark key="'" line="43" column="27" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker/Hike.pm" timestamp="1503284826719">
         <mark key="'" line="36" column="35" />
       </file>
@@ -456,8 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="31" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/Click.pm" />
-      <jump line="15" column="18" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/Click.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
       <jump line="155" column="53" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
       <jump line="100" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/Click.pm" />
@@ -556,6 +564,8 @@
       <jump line="43" column="2" filename="$USER_HOME$/IdeaProjects/blog2/config/database.yml" />
       <jump line="64" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase/config/database.yml" />
       <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase/config/database.yml" />
+      <jump line="92" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase/Gemfile" />
+      <jump line="43" column="27" filename="$USER_HOME$/IdeaProjects/blog2/config/environments/production.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -571,7 +581,7 @@
         <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGV2ZWxvcG1lbnQ6CiAgPDw6ICpkZWZhdWx0CiAgZGF0YWJhc2U6IGhhY2tlcmJhc2VfZGV2ZWxvcG1lbnQKCiMgbG9jYWwgZW52IGZvciBzdWJkb21haW4gKHVzZSAqLmx2aC5tZTozMDAwKQpkZXZfc3ViZG9tYWluOgogIDw8OiAqZGVmYXVsdAogIGRhdGFiYXNlOiBoYWNrZXJiYXNlX2RldmVsb3BtZW50Cgp0ZXN0OgogIDw8OiAqZGVmYXVsdAogIGRhdGFiYXNlOiBoYWNrZXJiYXNlX3Rlc3QK</text>
+        <text encoding="base64">Z2VtICdkZXZpc2UnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGV2ZWxvcG1lbnQ6CiAgPDw6ICpkZWZhdWx0CiAgZGF0YWJhc2U6IHNucwoK</text>
