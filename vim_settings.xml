@@ -302,10 +302,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="40" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" timestamp="1511695946254">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="48" column="14" />
-        <mark key="]" line="48" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" timestamp="1511698310363">
+        <mark key="'" line="16" column="14" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="31" />
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
       </file>
@@ -360,6 +360,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/PMP.pm" timestamp="1502955391188">
         <mark key="'" line="62" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hackerbase/db/schema.rb" timestamp="1511698304742">
+        <mark key="'" line="610" column="79" />
       </file>
       <file name="/Deparsed Click.pm" timestamp="1501661799354">
         <mark key="[" line="0" column="0" />
@@ -534,7 +537,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511696412710">
+      <file name="/Dummy.txt" timestamp="1511697854122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -614,14 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase/app/models/commit.rb" />
-      <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/hackerbase/app/models/commit.rb" />
-      <jump line="9" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase/app/models/commit.rb" />
-      <jump line="28" column="4" filename="$USER_HOME$/IdeaProjects/hackerbase/app/models/commit.rb" />
-      <jump line="3" column="11" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/app/models/user.rb" />
-      <jump line="1377" column="28" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
-      <jump line="1379" column="42" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
-      <jump line="1382" column="69" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
       <jump line="1351" column="55" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
       <jump line="1344" column="52" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
       <jump line="1342" column="81" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" />
@@ -714,6 +709,14 @@
       <jump line="4" column="32" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/arel-8.0.0/lib/arel/nodes/update_statement.rb" />
       <jump line="57" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
       <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="34" column="50" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="18" column="22" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="30" column="69" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="17" column="20" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
+      <jump line="610" column="79" filename="$USER_HOME$/IdeaProjects/hackerbase/db/schema.rb" />
+      <jump line="16" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/db/schema.rb" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -726,10 +729,10 @@
         <text>y_branches</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGVyZXNcPg==</text>
+        <text>organi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QHVzZXJzID0g</text>
+        <text>encrypted_password</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFVzZXIucGFnZQo=</text>
@@ -766,13 +769,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aGVyZXNcPg==</last-search>
+      <last-search>organi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGVyZXNcPg==</last-pattern>
+      <last-pattern>organi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxrYW1pbmFyaVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -789,13 +792,14 @@
         <entry encoding="base64">XDxjb25maWd1cmVfcGVybWl0dGVkX3BhcmFtZXRlcnNcPg==</entry>
         <entry>review</entry>
         <entry>lang</entry>
-        <entry>organi</entry>
         <entry>delete_all</entry>
         <entry>truncate</entry>
         <entry encoding="base64">XDxyXD4=</entry>
         <entry>where</entry>
         <entry encoding="base64">XDxleHByXD4=</entry>
         <entry encoding="base64">XDx3aGVyZXNcPg==</entry>
+        <entry>password</entry>
+        <entry>organi</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
