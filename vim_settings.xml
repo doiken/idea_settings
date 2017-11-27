@@ -9,12 +9,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/x86_64-linux/List/MoreUtils.pm" timestamp="1500431161792">
         <mark key="'" line="584" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1511494995260">
-        <mark key="'" line="66" column="34" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="13" column="71" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1511775139451">
+        <mark key="'" line="63" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/.bin/_mocha" timestamp="1507877979679">
         <mark key="'" line="359" column="24" />
@@ -271,8 +267,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1500449529932">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1511495800055">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1511775339246">
         <mark key="'" line="179" column="46" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="4" />
+        <mark key="^" line="323" column="166" />
+        <mark key="." line="328" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/cvr_mfm_prediction.t" timestamp="1509945824586">
         <mark key="'" line="96" column="14" />
@@ -440,7 +440,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511770570894">
+      <file name="/Dummy.txt" timestamp="1511774989403">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1510200005607">
@@ -487,6 +487,10 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Moose/Meta/Class.pm" timestamp="1507776122707">
         <mark key="'" line="569" column="21" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/gmosspsp.t" timestamp="1511774689764">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="138" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1511765923951">
         <mark key="[" line="0" column="0" />
@@ -538,6 +542,12 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/S3/Sender.pm" timestamp="1508206568122">
         <mark key="'" line="158" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" timestamp="1511774818528">
+        <mark key="[" line="279" column="4" />
+        <mark key="]" line="279" column="5" />
+        <mark key="." line="279" column="4" />
+        <mark key="^" line="267" column="44" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-city.t" timestamp="1499138579206">
         <mark key="'" line="0" column="0" />
@@ -741,12 +751,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1500442169467">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1511495919945">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="^" line="142" column="81" />
-        <mark key="." line="141" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1511775548968">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="146" column="73" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Vendor/Google/SnippetStatusFetcher.pm" timestamp="1499910396438">
         <mark key="'" line="210" column="34" />
@@ -817,8 +827,8 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" timestamp="1510712084918">
         <mark key="'" line="40" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" timestamp="1511488844437">
-        <mark key="'" line="17" column="69" />
+      <file name="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" timestamp="1511773803966">
+        <mark key="'" line="30" column="9" />
       </file>
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1499831320049">
         <mark key="'" line="58" column="27" />
@@ -986,40 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="121" column="65" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="111" column="57" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="17" column="69" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="222" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="352" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="231" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="235" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="126" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="19" column="2" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="23" column="2" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="33" column="2" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="45" column="24" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="47" column="24" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="55" column="26" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="153" column="32" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="154" column="0" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="170" column="26" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="215" column="7" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="339" column="24" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="350" column="24" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="378" column="33" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="480" column="48" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="481" column="12" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
-      <jump line="127" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="376" column="8" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="375" column="8" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="550" column="6" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="558" column="31" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="18" column="8" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="352" column="17" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="208" column="4" filename="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" />
-      <jump line="100" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="165" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="139" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
       <jump line="91" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
@@ -1045,7 +1021,6 @@
       <jump line="396" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
       <jump line="71" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="17" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="66" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="305" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
       <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
@@ -1086,6 +1061,41 @@
       <jump line="263" column="1" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="1" column="0" filename="$FOUT_HOME$/tools/create_config_local_yaml.pl" />
       <jump line="55" column="0" filename="$FOUT_HOME$/t/fout/cli/db_checker/delivery.t" />
+      <jump line="53" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="54" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="79" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="144" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="17" column="69" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
+      <jump line="24" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
+      <jump line="30" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
+      <jump line="206" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="208" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="215" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="218" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="219" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="90" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="224" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="238" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="259" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="83" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="82" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="81" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="260" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="258" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="28" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="237" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="270" column="59" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="106" column="90" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="285" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="265" column="1" filename="$FOUT_HOME$/t/fout/bid/adserver/openrtb2_infeed_role.t" />
+      <jump line="77" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="202" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="187" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="198" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="329" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="63" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="146" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1095,56 +1105,56 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>$repo</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1a2lndW1vX3VybFw+</text>
+        <text encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>fout_ukigumo</text>
+        <text>img_assets</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiwK</text>
+        <text encoding="base64">dXNlIExpc3Q6Ok1vcmVVdGlscyBxdyhmaXJzdF92YWx1ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwogICAgICAgIHByaW50IER1bXBlciAkYXNzZXRzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAkbWFpbl9pbWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgOwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IER1bXBlciAkbWFpbl9pbWctPntpbWd9e3VybH07Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
+        <text encoding="base64">CnN1YnRlc3QgJ19yZXNvbHZlX2ZvX2tleScgPT4gc3ViewogICAgbXkgJHBhcmFtcyA9IFRlc3Q6Ok1vY2tPYmplY3QtPm5ldyhUZXN0TmF0aXZlQWRTZXJ2ZXI6OlBhcmFtcy0+bmV3KHhpZCA9PiAnZHVtbXknKSk7CiAgICBteSAkYWRzZXJ2ZXIgPSBUZXN0OjpNb2NrT2JqZWN0OjpFeHRlbmRzLT5uZXcoVGVzdE5hdGl2ZUFkU2VydmVyLT5uZXcoZW52ID0+IHt9KSk7CiAgICAkYWRzZXJ2ZXItPmNvbnRleHQtPmluZmVlZF9yZXF1aXJlbWVudHMoCiAgICAgICAgdGl0bGUgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMjAsCiAgICAgICAgfSwKICAgICAgICBjb250ZW50ID0+IHsKICAgICAgICAgICAgbGVuZ3RoID0+IDUwLAogICAgICAgIH0sCiAgICAgICAgcHJpbmNpcGFsID0+IHt9LAogICAgICAgIGltYWdlcyA9PiB7CiAgICAgICAgICAgIG1haW4gPT4geyBzaXplID0+ICc2NDB4MzIwJyB9LAogICAgICAgICAgICBsb2dvID0+IHsgc2l6ZSA9PiAnMTYweDE2MCcgfSwKICAgICAgICB9LAogICAgKTsKCiAgICBpcyAnbWFpbicsICRhZHNlcnZlci0+X3Jlc29sdmVfZm9fa2V5KHtpbWcgPT4ge3R5cGUgPT4gM319KTsKICAgIGlzICdsb2dvJywgJGFkc2VydmVyLT5fcmVzb2x2ZV9mb19rZXkoe2ltZyA9PiB7dHlwZSA9PiAxfX0pOwoKICAgIGRlbGV0ZSAkYWRzZXJ2ZXItPmNvbnRleHQtPmluZmVlZF9yZXF1aXJlbWVudHMtPntpbWFnZXN9e2xvZ299OwogICAgaXMgJ21haW4nLCAkYWRzZXJ2ZXItPl9yZXNvbHZlX2ZvX2tleSh7aW1nID0+IHt0eXBlID0+IDF9fSk7Cn07Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0IGlmICRtb2R1bGUgPX4gL0FkRnVubmVsfEdvb2dsZUFkRXhjaGFuZ2V8T3Blblh8WHJvc3R8WWllbGRPbmUvOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">KAogICAgICAgIHRpdGxlID0+IHsKICAgICAgICAgICAgbGVuZ3RoID0+IDIwLAogICAgICAgIH0sCiAgICAgICAgY29udGVudCA9PiB7CiAgICAgICAgICAgIGxlbmd0aCA9PiA1MCwKICAgICAgICB9LAogICAgICAgIHByaW5jaXBhbCA9PiB7fSwKICAgICAgICBpbWFnZXMgPT4gewogICAgICAgICAgICBtYWluID0+IHsgc2l6ZSA9PiAnNjQweDMyMCcgfSwKICAgICAgICAgICAgbG9nbyA9PiB7IHNpemUgPT4gJzE2MHgxNjAnIH0sCiAgICAgICAgfSwKICAgICk=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIExpc3Q6Ok1vcmVVdGlscyBxdyh1bmlxKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ViIF9nZXRfYWR2ZXJ0aXNlcl9pYWJfdmFsdWVfZnJvbV9tYXBwaW5nIHsKICAgIG15ICgkc2VsZiwgJGFkdmVydGlzZXJfY2F0ZWdvcnlfaWQsICRjYXRfbWFwcGluZykgPSBAXzsKICAgIG15ICRhZHZlcnRpc2VyX2lhYl9jYXRlZ29yeV9pZCA9IFtdOwoKICAgIGZvcmVhY2ggbXkgJGluZGV4ICgga2V5cyAlJGNhdF9tYXBwaW5nICkgewogICAgICAgIG15ICgkY2F0X2lkcykgPSAkY2F0X21hcHBpbmctPnskaW5kZXh9OwogICAgICAgICRjYXRfaWRzID0gWyRjYXRfaWRzXSB1bmxlc3MoIHJlZigkY2F0X2lkcykgZXEgJ0FSUkFZJyApOwoKICAgICAgICBpZiAoIGFueSB7ICRfIGVxICRhZHZlcnRpc2VyX2NhdGVnb3J5X2lkIH0gQCRjYXRfaWRzICkgewogICAgICAgICAgICBwdXNoIEAkYWR2ZXJ0aXNlcl9pYWJfY2F0ZWdvcnlfaWQsICRpbmRleDsKICAgICAgICB9CiAgICB9CgogICAgJGFkdmVydGlzZXJfaWFiX2NhdGVnb3J5X2lkOwp9CgpzdWIgX2dldF9hZHZlcnRpc2VyX2lhYl9jYXRlZ29yeV9pZCB7CiAgICBteSAoJHNlbGYsICRiaWRfcmVzcG9uc2UpID0gQF87CiAgICBteSAkYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCA9ICRiaWRfcmVzcG9uc2UtPntiaWRfZGF0YX0tPnthZHZlcnRpc2VyX2NhdGVnb3J5X2lkfSBvciByZXR1cm47CiAgICBteSAkY2F0X21hcHBpbmcgPSBtb2RlbHMoJ2JpZF9jb25mJyktPntvcGVucnRiX2luZmVlZF9mb3V0X2NhdGV9OwoKICAgICRzZWxmLT5fZ2V0X2FkdmVydGlzZXJfaWFiX3ZhbHVlX2Zyb21fbWFwcGluZygkYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCwgJGNhdF9tYXBwaW5nKTsKfQoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ewogICAgbXkgKCRzZWxmLCAkYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCwgJGNhdF9tYXBwaW5nKSA9IEBfOwogICAgbXkgJGFkdmVydGlzZXJfaWFiX2NhdGVnb3J5X2lkID0gW107CgogICAgZm9yZWFjaCBteSAkaW5kZXggKCBrZXlzICUkY2F0X21hcHBpbmcgKSB7CiAgICAgICAgbXkgKCRjYXRfaWRzKSA9ICRjYXRfbWFwcGluZy0+eyRpbmRleH07CiAgICAgICAgJGNhdF9pZHMgPSBbJGNhdF9pZHNdIHVubGVzcyggcmVmKCRjYXRfaWRzKSBlcSAnQVJSQVknICk7CgogICAgICAgIGlmICggYW55IHsgJF8gZXEgJGFkdmVydGlzZXJfY2F0ZWdvcnlfaWQgfSBAJGNhdF9pZHMgKSB7CiAgICAgICAgICAgIHB1c2ggQCRhZHZlcnRpc2VyX2lhYl9jYXRlZ29yeV9pZCwgJGluZGV4OwogICAgICAgIH0KICAgIH0KCiAgICAkYWR2ZXJ0aXNlcl9pYWJfY2F0ZWdvcnlfaWQ7Cn0KCnN1YiBfZ2V0X2FkdmVydGlzZXJfaWFiX2NhdGVnb3J5X2lkIHsKICAgIG15ICgkc2VsZiwgJGJpZF9yZXNwb25zZSkgPSBAXzsKICAgIG15ICRhZHZlcnRpc2VyX2NhdGVnb3J5X2lkID0gJGJpZF9yZXNwb25zZS0+e2JpZF9kYXRhfS0+e2FkdmVydGlzZXJfY2F0ZWdvcnlfaWR9IG9yIHJldHVybjsKICAgIG15ICRjYXRfbWFwcGluZyA9IG1vZGVscygnYmlkX2NvbmYnKS0+e29wZW5ydGJfaW5mZWVkX2ZvdXRfY2F0ZX07CgogICAgJHNlbGYtPl9nZXRfYWR2ZXJ0aXNlcl9pYWJfdmFsdWVfZnJvbV9tYXBwaW5nKCRhZHZlcnRpc2VyX2NhdGVnb3J5X2lkLCAkY2F0X21hcHBpbmcpOwp9Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICRhZHNlcnZlci0+bW9jaygncGFyYW1zJywgc3ViIHskcGFyYW1zfSk7CiAgICBteSAkbG9nZ2VyID0gbW9kZWxzKCdsb2dnZXInKTsKCiAgICAkcGFyYW1zLT5zZXRfYWx3YXlzKCduYXRpdmVfcmVxdWVzdCcsIHt9KTsKICAgIG9rICEkYWRzZXJ2ZXItPl9nZXRfbmF0aXZlX2Fzc2V0cywgJ3doZW4gbmF0aXZlX3JlcXVlc3Qgbm90IHNldCwgcmV0dXJuIHVuZGVmJzsKICAgIG9rICEkbG9nZ2VyLT50b19zdHI7CgogICAgJHBhcmFtcy0+c2V0X2Fsd2F5cygnbmF0aXZlX3JlcXVlc3QnLCAndW5kZWZpbmVkJyk7CiAgICBvayAhJGFkc2VydmVyLT5fZ2V0X25hdGl2ZV9hc3NldHMsICd3aGVuIG5hdGl2ZV9yZXF1ZXN0IHN0cmluZywgcmV0dXJuIHVuZGVmJzsKICAgIGxpa2UgJGxvZ2dlci0+dG9fc3RyLCBxci9eXFFbd2Fybl0gaW52YWxpZCBuYXRpdmVfcmVxdWVzdCBmb3JtYXQ6IHhpZD0zMyByZXF1ZXN0X2RhdGE9XEUvOwogICAgb2sgJGxvZ2dlci0+Zmx1c2g7CgogICAgJHBhcmFtcy0+c2V0X2Fsd2F5cygnbmF0aXZlX3JlcXVlc3QnLCB7bmF0aXZlID0+ICd1bmRlZmluZWQnfSk7CiAgICBvayAhJGFkc2VydmVyLT5fZ2V0X25hdGl2ZV9hc3NldHMsICd3aGVuIG5hdGl2ZSBzdHJpbmcsIHJldHVybiB1bmRlZic7CiAgICBsaWtlICRsb2dnZXItPnRvX3N0ciwgcXIvXlxRW3dhcm5dIGludmFsaWQgbmF0aXZlX3JlcXVlc3QgZm9ybWF0OiB4aWQ9MzMgcmVxdWVzdF9kYXRhPVxFLzsKICAgIG9rICRsb2dnZXItPmZsdXNoOwoKICAgICRwYXJhbXMtPnNldF9hbHdheXMoJ25hdGl2ZV9yZXF1ZXN0Jywge25hdGl2ZSA9PiB7YXNzZXRzID0+IEpTT046OmRlY29kZV9qc29uIHFxKFt7InJlcXVpcmVkIjowLCJpZCI6NCwiZGF0YSI6eyJsZW4iOjI1LCJ0eXBlIjoyfX0seyJyZXF1aXJlZCI6MCwidGl0bGUiOnsibGVuIjoxMH0sImlkIjo1fSx7InJlcXVpcmVkIjoxLCJpbWciOnsid21pbiI6MTYwLCJ0eXBlIjoxLCJobWluIjoxNjAsIm1pbWUiOlsiaW1hZ2UvanBlZyIsImltYWdlL2dpZiIsImltYWdlL3BuZyJdfSwiaWQiOjF9LHsicmVxdWlyZWQiOjAsImltZyI6eyJ3bWluIjo2MDAsInR5cGUiOjMsImhtaW4iOjM2MCwibWltZSI6WyJpbWFnZS9qcGVnIiwiaW1hZ2UvZ2lmIiwiaW1hZ2UvcG5nIl19LCJpZCI6Mn0seyJyZXF1aXJlZCI6MSwiaWQiOjMsImRhdGEiOnsidHlwZSI6MX19XSl9fSk7CiAgICBpcyBAeyRhZHNlcnZlci0+X2dldF9uYXRpdmVfYXNzZXRzfSwgNSwgJ25vcm1hbGx5IHJldHVybiBhc3NldHMgdmFsdWUnOwogICAgb2sgISRsb2dnZXItPnRvX3N0cjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1a2lndW1vX3VybFw+</last-search>
+      <last-search encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1a2lndW1vX3VybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1168,6 +1178,19 @@
         <entry>update</entry>
         <entry encoding="base64">XDx1cGRhdGVfZ2l0aHViX2NvbW1pdF9zdGF0dXNcPg==</entry>
         <entry encoding="base64">XDx1a2lndW1vX3VybFw+</entry>
+        <entry encoding="base64">XDxuYXRpdmVfcmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X25hdGl2ZV9hc3NldHNcPg==</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0ZWRfYXNzZXRzXD4=</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxmb19rZXlcPg==</entry>
+        <entry encoding="base64">XDxyZXNvbHZlX2ZvX2tleVw+</entry>
+        <entry encoding="base64">XDxhc3NldFw+</entry>
+        <entry encoding="base64">XDxfcmVzb2x2ZV9mb19rZXlcPg==</entry>
+        <entry>type</entry>
+        <entry>size</entry>
+        <entry encoding="base64">XDxpbWdfd1w+</entry>
+        <entry encoding="base64">XDxhZG1fbmF0aXZlX2ltYWdlX2Fzc2V0XD4=</entry>
+        <entry encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
