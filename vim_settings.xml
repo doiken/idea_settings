@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Memcached/Client.pm" timestamp="1511256811852">
         <mark key="'" line="159" column="23" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Publish.pm" timestamp="1511781005552">
+      <file name="$FOUT_HOME$/lib/FOut/AD/Publish.pm" timestamp="1511832881002">
         <mark key="'" line="212" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/MarginRate/DB.pm" timestamp="1502176644731">
@@ -94,8 +94,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Click.pm" timestamp="1511236506490">
         <mark key="'" line="81" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1511778855984">
-        <mark key="'" line="283" column="0" />
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1511833179770">
+        <mark key="'" line="89" column="4" />
         <mark key="[" line="170" column="43" />
         <mark key="]" line="170" column="46" />
         <mark key="." line="170" column="46" />
@@ -777,6 +777,9 @@
       <file name="$USER_HOME$/Documents/perl/xs/Mouse-v2.4.5/lib/Mouse/Meta/Attribute.pm" timestamp="1508123925734">
         <mark key="'" line="72" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Model/Git.pm" timestamp="1511833165729">
+        <mark key="'" line="24" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/Sender/SFTPBase.pm" timestamp="1507765793874">
         <mark key="'" line="94" column="44" />
       </file>
@@ -1003,32 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="113" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="72" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="387" column="26" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="179" column="46" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="74" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/ssp_medibasp.t" />
-      <jump line="86" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="88" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="11" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServers.pm" />
-      <jump line="43" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/AdServers.pm" />
-      <jump line="8" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="71" column="36" filename="$FOUT_HOME$/t/fout/bid/adserver/ssp_medibasp.t" />
-      <jump line="80" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="1069" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
-      <jump line="51" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="99" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
-      <jump line="113" column="41" filename="$FOUT_HOME$/t/fout/bid/adserver/ssp_medibasp.t" />
-      <jump line="98" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="358" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="396" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="71" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="17" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="66" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="305" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
       <jump line="74" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
       <jump line="92" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
@@ -1037,12 +1014,10 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="62" column="20" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="335" column="7" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="322" column="11" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="12" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutUkigumo.pm" />
       <jump line="41" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/webhook.psgi" />
       <jump line="55" column="24" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="89" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="186" column="18" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="300" column="6" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="383" column="14" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
@@ -1054,9 +1029,6 @@
       <jump line="143" column="5" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="276" column="29" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="215" column="15" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="148" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="274" column="15" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="136" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="140" column="20" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="154" column="29" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
@@ -1103,6 +1075,37 @@
       <jump line="146" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
       <jump line="283" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/app.psgi" />
+      <jump line="169" column="10" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="274" column="15" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="148" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="166" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="196" column="5" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="216" column="35" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="157" column="53" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="209" column="35" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="215" column="22" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="284" column="1" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="299" column="37" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="308" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="322" column="6" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="334" column="7" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="403" column="33" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="10" column="16" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="11" column="23" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="34" column="8" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="41" column="19" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="107" column="18" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="94" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="91" column="19" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="96" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="79" column="16" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="80" column="22" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="86" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="19" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Model/Git.pm" />
+      <jump line="61" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Model/Git.pm" />
+      <jump line="24" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Model/Git.pm" />
+      <jump line="89" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1115,7 +1118,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</text>
+        <text encoding="base64">XDxsb2FkX2xhdGVzdF9yZXZzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fTsK</text>
@@ -1155,22 +1158,19 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkX2xhdGVzdF9yZXZzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX2xhdGVzdF9yZXZzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkX2xhdGVzdF9yZXZzXD4=</entry>
         <entry encoding="base64">XDxydW5fcHJvdmVcPg==</entry>
         <entry encoding="base64">XDxydW5fcHJvdmVfYmV0dGVyX2Vudmlyb25tZW50XD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>update</entry>
-        <entry encoding="base64">XDx1cGRhdGVfZ2l0aHViX2NvbW1pdF9zdGF0dXNcPg==</entry>
         <entry encoding="base64">XDx1a2lndW1vX3VybFw+</entry>
         <entry encoding="base64">XDxuYXRpdmVfcmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxfZ2V0X25hdGl2ZV9hc3NldHNcPg==</entry>
@@ -1185,6 +1185,16 @@
         <entry encoding="base64">XDxpbWdfd1w+</entry>
         <entry encoding="base64">XDxhZG1fbmF0aXZlX2ltYWdlX2Fzc2V0XD4=</entry>
         <entry encoding="base64">XDxpbmZlZWRfaW1hZ2VfcmVxdWlyZW1lbnRzXD4=</entry>
+        <entry>update</entry>
+        <entry encoding="base64">XDx1cGRhdGVfZ2l0aHViX2NvbW1pdF9zdGF0dXNcPg==</entry>
+        <entry>pending</entry>
+        <entry>models</entry>
+        <entry>git</entry>
+        <entry encoding="base64">XDxtb2RlbF9naXRcPg==</entry>
+        <entry encoding="base64">XDxsaXN0X2Zyb21fcHJvamVjdF9uYW1lXD4=</entry>
+        <entry encoding="base64">XDxnZXRfZnJvbV9wcm9qZWN0X25hbWVfYW5kX2JyYW5jaF9uYW1lXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVfb3JfdXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxsb2FkX2xhdGVzdF9yZXZzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
