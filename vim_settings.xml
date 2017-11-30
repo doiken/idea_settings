@@ -364,8 +364,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1510631705218">
-        <mark key="'" line="341" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512011565818">
+        <mark key="'" line="306" column="4" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -1044,8 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="17" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="14" column="0" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" />
       <jump line="46" column="50" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" />
       <jump line="61" column="35" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" />
@@ -1144,6 +1142,8 @@
       <jump line="826" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="152" column="26" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="24" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/App.pm" />
+      <jump line="308" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="306" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1156,7 +1156,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>ifa</text>
+        <text encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$all_cnt</text>
@@ -1196,9 +1196,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ifa</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>ifa</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,6 +1299,8 @@
         <entry>l_</entry>
         <entry encoding="base64">XDxnZW5kZXJcPg==</entry>
         <entry>ifa</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
