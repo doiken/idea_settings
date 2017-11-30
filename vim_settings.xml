@@ -119,6 +119,7 @@
       <file name="$FOUT_HOME$/extlib/lib/perl5/SQL/Statement.pm" timestamp="1508828217947">
         <mark key="'" line="1200" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/redmine.coffee" timestamp="1512019354303" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/db/nn" timestamp="1511341869393">
         <mark key="'" line="29" column="115" />
       </file>
@@ -164,8 +165,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenX/PMP.pm" timestamp="1502955533693">
         <mark key="'" line="37" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1510631705218">
-        <mark key="'" line="341" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512019262259">
+        <mark key="'" line="292" column="20" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -216,7 +217,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512014238367">
+      <file name="/Dummy.txt" timestamp="1512019328941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -234,7 +235,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker/Hike.pm" timestamp="1503284826719">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" timestamp="1508226979559">
+      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" timestamp="1512019559076">
         <mark key="'" line="1" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1511493685807">
@@ -1106,10 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="54" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="79" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="144" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="17" column="69" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
       <jump line="24" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
@@ -1206,6 +1203,10 @@
       <jump line="373" column="45" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
       <jump line="286" column="44" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
       <jump line="107" column="26" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
+      <jump line="282" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="283" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="284" column="44" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="292" column="20" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1218,7 +1219,7 @@
         <text>user_age_group</text>
       </register>
       <register name="/" type="4">
-        <text>enter</text>
+        <text encoding="base64">XDxpc19pZGZhX2F1ZGllbmNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>user_interests</text>
@@ -1258,9 +1259,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enter</last-search>
+      <last-search encoding="base64">XDxpc19pZGZhX2F1ZGllbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>enter</last-pattern>
+      <last-pattern encoding="base64">XDxpc19pZGZhX2F1ZGllbmNlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1368,6 +1369,8 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV91c2VyX2RhdGFcPg==</entry>
         <entry>demo</entry>
         <entry>enter</entry>
+        <entry encoding="base64">XDxtZXRob2RcPg==</entry>
+        <entry encoding="base64">XDxpc19pZGZhX2F1ZGllbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
