@@ -179,12 +179,12 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/GetAppsPlusIndex.pm" timestamp="1501124294621">
         <mark key="'" line="12" column="27" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" timestamp="1512015176526">
-        <mark key="'" line="8" column="20" />
-        <mark key="[" line="109" column="7" />
-        <mark key="]" line="109" column="11" />
-        <mark key="^" line="109" column="14" />
-        <mark key="." line="110" column="0" />
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" timestamp="1512016973144">
+        <mark key="'" line="113" column="36" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/apps_plus/apps_charges_calculator.t" timestamp="1502248528012">
         <mark key="'" line="7" column="20" />
@@ -326,10 +326,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1499138226731">
         <mark key="'" line="42" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1512014957332">
-        <mark key="'" line="458" column="17" />
-        <mark key="[" line="458" column="17" />
-        <mark key="]" line="458" column="39" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1512016757065">
+        <mark key="'" line="480" column="11" />
+        <mark key="[" line="457" column="18" />
+        <mark key="]" line="457" column="40" />
         <mark key="." line="503" column="86" />
         <mark key="^" line="503" column="85" />
         <mark key="o" line="0" column="0" />
@@ -505,11 +505,11 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/DBIx/Skinny/Iterator.pm" timestamp="1508982912493">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512015139824">
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512016937642">
         <mark key="'" line="2325" column="15" />
-        <mark key="[" line="2629" column="0" />
-        <mark key="]" line="2629" column="26" />
-        <mark key="." line="2710" column="19" />
+        <mark key="[" line="2628" column="0" />
+        <mark key="]" line="2628" column="0" />
+        <mark key="." line="2628" column="0" />
         <mark key="^" line="2710" column="19" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/Meta/Method/Accessor.pm" timestamp="1507767190014">
@@ -1101,15 +1101,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1511761122325">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" timestamp="1512017297087">
+        <mark key="'" line="107" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="29" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="239" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="245" column="32" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="249" column="13" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="263" column="1" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/tools/create_config_local_yaml.pl" />
-      <jump line="55" column="0" filename="$FOUT_HOME$/t/fout/cli/db_checker/delivery.t" />
       <jump line="53" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="54" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
       <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
@@ -1203,6 +1199,13 @@
       <jump line="68" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
       <jump line="93" column="5" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
       <jump line="8" column="20" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
+      <jump line="480" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
+      <jump line="113" column="36" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
+      <jump line="210" column="14" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
+      <jump line="283" column="44" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
+      <jump line="373" column="45" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
+      <jump line="286" column="44" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
+      <jump line="107" column="26" filename="$USER_HOME$/Documents/mtburn/sql/resource/line_demographic_master.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1212,52 +1215,52 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>user_age_group</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZV91c2VyX2RhdGFcPg==</text>
+        <text>enter</text>
       </register>
       <register name="0" type="4">
-        <text>$maps</text>
+        <text>user_interests</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15ICRnZW5lcmF0ZV91c2VyX2RhdGEgPSBzdWIgewogICAgICAgIG15ICRpbnRlcmVzdCA9IHNoaWZ0OwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpZCIgPT4gIkxJTkVEZW1vZ3JhcGhpY0ludGVyZXN0IiwKICAgICAgICAgICAgICAgICJuYW1lIiA9PiAiTElORSIsCiAgICAgICAgICAgICAgICAic2VnbWVudCIgPT4gWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIiA9PiAkaW50ZXJlc3QKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICB9LAogICAgICAgIF07CiAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15ICRnZW5lcmF0ZV91c2VyX2RhdGEgPSBzdWIgewogICAgICAgIG15ICRhZ2VfZ3JvdXAgPSBzaGlmdDsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaWQiID0+ICJMSU5FRGVtb2dyYXBoaWNBZ2VSYW5nZSIsCiAgICAgICAgICAgICAgICAibmFtZSIgPT4gIkxJTkUiLAogICAgICAgICAgICAgICAgInNlZ21lbnQiID0+IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJpZCIgPT4gJGFnZV9ncm91cAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgXTsKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIG15ICRnZW5lcmF0ZV91c2VyX2RhdGEgPSBzdWIgewogICAgICAgIG15ICRpbnRlcmVzdCA9IHNoaWZ0OwogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJpZCIgPT4gIkxJTkVEZW1vZ3JhcGhpY0ludGVyZXN0IiwKICAgICAgICAgICAgICAgICJuYW1lIiA9PiAiTElORSIsCiAgICAgICAgICAgICAgICAic2VnbWVudCIgPT4gWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgImlkIiA9PiAkaW50ZXJlc3QKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICB9LAogICAgICAgIF07CiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgeyAkXy0+e2lkfSB9Cg==</text>
+        <text encoding="base64">ICAgIG15ICRnZW5lcmF0ZV91c2VyX2RhdGEgPSBzdWIgewogICAgICAgIG15ICRhZ2VfZ3JvdXAgPSBzaGlmdDsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiaWQiID0+ICJMSU5FRGVtb2dyYXBoaWNBZ2VSYW5nZSIsCiAgICAgICAgICAgICAgICAibmFtZSIgPT4gIkxJTkUiLAogICAgICAgICAgICAgICAgInNlZ21lbnQiID0+IFsKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJpZCIgPT4gJGFnZV9ncm91cAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgIH0sCiAgICAgICAgXTsKICAgIH07Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkXy0+e2lkfSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGluZV9pbnRlcmVzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFR1cmJvbGlua3MgZnJvbSAndHVyYm9saW5rcycK</text>
+        <text encoding="base64">bGluZV9pbnRlcmVzdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmVfdHJlZSAuCg==</text>
+        <text encoding="base64">aW1wb3J0IFR1cmJvbGlua3MgZnJvbSAndHVyYm9saW5rcycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
+        <text encoding="base64">Ly89IHJlcXVpcmVfdHJlZSAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly89IHJlcXVpcmUgcmFpbHMtdWpzCg==</text>
+        <text encoding="base64">Ly89IHJlcXVpcmUgdHVyYm9saW5rcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZV91c2VyX2RhdGFcPg==</last-search>
+      <last-search>enter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZV91c2VyX2RhdGFcPg==</last-pattern>
+      <last-pattern>enter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1363,6 +1366,8 @@
         <entry>interest</entry>
         <entry encoding="base64">XDxMSU5FRGVtb2dyYXBoaWNJbnRlcmVzdFw+</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV91c2VyX2RhdGFcPg==</entry>
+        <entry>demo</entry>
+        <entry>enter</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
