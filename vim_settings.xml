@@ -31,8 +31,8 @@
         <mark key="^" line="2619" column="4" />
         <mark key="." line="2619" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1498634093523">
-        <mark key="'" line="174" column="11" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1512009829289">
+        <mark key="'" line="24" column="13" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/Meta/Method/Accessor.pm" timestamp="1507767190014">
         <mark key="'" line="5" column="11" />
@@ -469,7 +469,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511863539081">
+      <file name="/Dummy.txt" timestamp="1512009430499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1510200005607">
@@ -516,8 +516,8 @@
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" timestamp="1508226979559">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1511853273416">
-        <mark key="'" line="70" column="27" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1512009736543">
+        <mark key="'" line="826" column="47" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -573,8 +573,8 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/DBIx/Skinny/Schema.pm" timestamp="1508890414368">
         <mark key="'" line="45" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1511840179655">
-        <mark key="'" line="202" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1512009797880">
+        <mark key="'" line="152" column="26" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/BinarySearch/XS.pm" timestamp="1509497992551">
         <mark key="'" line="369" column="0" />
@@ -633,8 +633,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/functions/LInterestLargeCategoryGenerator.scala" timestamp="1509517648389">
         <mark key="'" line="71" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1511838434172">
-        <mark key="'" line="1065" column="37" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1512009422133">
+        <mark key="'" line="147" column="12" />
         <mark key="[" line="120" column="19" />
         <mark key="]" line="120" column="3" />
         <mark key="." line="120" column="3" />
@@ -1044,35 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="39" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="262" column="39" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="322" column="39" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="408" column="35" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="14" column="16" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="46" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="13" column="18" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="18" column="22" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="59" column="21" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="169" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="205" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="361" column="8" filename="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" />
-      <jump line="467" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="114" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="142" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="492" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="8" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="115" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="143" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="493" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="9" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="491" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="208" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="168" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
-      <jump line="198" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="500" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="13" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="455" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="501" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="17" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="14" column="0" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" />
@@ -1144,6 +1115,35 @@
       <jump line="1376" column="18" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Models.pm" />
       <jump line="322" column="0" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" />
+      <jump line="26" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="53" column="22" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="55" column="27" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="59" column="22" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="61" column="27" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="158" column="61" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="147" column="12" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="86" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="113" column="56" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="117" column="31" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="124" column="35" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="125" column="54" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="126" column="39" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="127" column="43" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="128" column="30" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="93" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="94" column="6" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="96" column="39" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="99" column="40" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="104" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="107" column="48" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="121" column="24" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="145" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="768" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="808" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="826" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="152" column="26" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="24" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/App.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1156,7 +1156,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>reduce</text>
+        <text>ifa</text>
       </register>
       <register name="0" type="4">
         <text>$all_cnt</text>
@@ -1196,12 +1196,12 @@
       </register>
     </registers>
     <search>
-      <last-search>reduce</last-search>
+      <last-search>ifa</last-search>
       <last-offset />
-      <last-pattern>reduce</last-pattern>
+      <last-pattern>ifa</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1237,7 +1237,6 @@
         <entry encoding="base64">XDxwbVw+</entry>
         <entry>audience</entry>
         <entry>audience_id</entry>
-        <entry>l_</entry>
         <entry encoding="base64">XDxBVkFJTEFCTEVfVkFMVUVTXD4=</entry>
         <entry encoding="base64">XDxfYWdlXD4=</entry>
         <entry>initi</entry>
@@ -1267,7 +1266,6 @@
         <entry encoding="base64">XDxyZXF1ZXN0X2Zvcl90ZXN0XD4=</entry>
         <entry>utf8</entry>
         <entry>area</entry>
-        <entry encoding="base64">XDx1c2VyX2RhdGFcPg==</entry>
         <entry>data</entry>
         <entry>models</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
@@ -1293,6 +1291,14 @@
         <entry>402</entry>
         <entry>db_master</entry>
         <entry>reduce</entry>
+        <entry>cache</entry>
+        <entry encoding="base64">XDx1c2VyX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxyb3dcPg==</entry>
+        <entry>gender</entry>
+        <entry encoding="base64">XDxyZXFfZ2VuZGVyXD4=</entry>
+        <entry>l_</entry>
+        <entry encoding="base64">XDxnZW5kZXJcPg==</entry>
+        <entry>ifa</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
