@@ -2,11 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="coffee" type="JavaScript" />
-      <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern="nn" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="root" type="PLAIN_TEXT" />
+      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
-      <mapping ext="00" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="00" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="psgi" type="Perl5 script" />
       <removed_mapping ext="so" type="UNKNOWN" />
@@ -20,8 +23,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
