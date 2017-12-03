@@ -1409,7 +1409,7 @@
         <text>user_age_group</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGlcPg==</text>
+        <text>curl_get</text>
       </register>
       <register name="0" type="4">
         <text>user_interests</text>
@@ -1449,9 +1449,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGlcPg==</last-search>
+      <last-search>curl_get</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGlcPg==</last-pattern>
+      <last-pattern>curl_get</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1481,6 +1481,7 @@
         <entry>local</entry>
         <entry encoding="base64">XDxhcGl1cmxcPg==</entry>
         <entry encoding="base64">XDxjbGlcPg==</entry>
+        <entry>curl_get</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
