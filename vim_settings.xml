@@ -80,11 +80,6 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
         <mark key="'" line="896" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1501459381630">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="424" column="10" />
-        <mark key="]" line="424" column="22" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" timestamp="1499823088650">
         <mark key="'" line="147" column="4" />
       </file>
@@ -234,6 +229,9 @@
       </file>
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1502776572562">
         <mark key="'" line="26" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" timestamp="1512359998049">
+        <mark key="'" line="192" column="70" />
       </file>
       <file name="$FOUT_HOME$/t/fout/click/redirect/run.t" timestamp="1503455978768">
         <mark key="'" line="0" column="0" />
@@ -489,11 +487,6 @@
       <file name="/System/Library/Perl/Extras/5.18/darwin-thread-multi-2level/List/MoreUtils.pm" timestamp="1511490993028">
         <mark key="'" line="208" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1512120924183">
-        <mark key="'" line="44" column="5" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="14" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Worker/ItemImportWorker.pm" timestamp="1509353190544">
         <mark key="'" line="34" column="8" />
       </file>
@@ -701,11 +694,6 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/PurePerl.pm" timestamp="1507774520920">
         <mark key="'" line="320" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/sql/migrate/20141210_7963_dsp.sql" timestamp="1512013606747">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="121" />
       </file>
       <file name="$USER_HOME$/Documents/fout_ui/lib/FOutUI/Web/C/Jp/Reports/Performance.pm" timestamp="1498630369469">
         <mark key="'" line="23" column="0" />
@@ -927,11 +915,6 @@
       <file name="$FOUT_HOME$/t/fout/api/impl/adgroup/set_bulk.t" timestamp="1508492608839">
         <mark key="'" line="19" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/openrtb_paramsbase.t" timestamp="1511855702201">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="12" />
-      </file>
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1499831320049">
         <mark key="'" line="58" column="27" />
       </file>
@@ -1115,8 +1098,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="283" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="284" column="44" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="292" column="20" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="311" column="59" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1215,6 +1196,8 @@
       <jump line="75" column="14" filename="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" />
       <jump line="469" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="44" column="99" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" />
+      <jump line="209" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
+      <jump line="192" column="70" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1227,7 +1210,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0X2dlbmRlclw+</text>
+        <text encoding="base64">XDxfZ2V0X3RhcmdldGluZ19kYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$params</text>
@@ -1267,9 +1250,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0X2dlbmRlclw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0X3RhcmdldGluZ19kYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0X2dlbmRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X3RhcmdldGluZ19kYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,6 +1297,7 @@
         <entry>l_gender</entry>
         <entry>gender</entry>
         <entry encoding="base64">XDxpbml0X2dlbmRlclw+</entry>
+        <entry encoding="base64">XDxfZ2V0X3RhcmdldGluZ19kYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
