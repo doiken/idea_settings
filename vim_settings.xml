@@ -24,12 +24,12 @@
       <file name="/a.dummy" timestamp="1495437724418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512355253349">
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512372813430">
         <mark key="'" line="1956" column="16" />
-        <mark key="[" line="2620" column="21" />
-        <mark key="]" line="2620" column="21" />
+        <mark key="[" line="2637" column="0" />
+        <mark key="]" line="2637" column="0" />
         <mark key="^" line="2620" column="20" />
-        <mark key="." line="2620" column="21" />
+        <mark key="." line="2637" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1498634093523">
         <mark key="'" line="174" column="11" />
@@ -198,8 +198,8 @@
         <mark key="^" line="1431" column="77" />
         <mark key="." line="1431" column="77" />
       </file>
-      <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1512352292050">
-        <mark key="'" line="88" column="2" />
+      <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1512373196180">
+        <mark key="'" line="11" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1512114593974">
         <mark key="'" line="448" column="12" />
@@ -403,7 +403,7 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/MakeAppsPlusIndex.pm" timestamp="1500015564941">
         <mark key="'" line="32" column="12" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" timestamp="1512372116302">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike-params.t" timestamp="1512372742594">
         <mark key="'" line="75" column="14" />
         <mark key="[" line="137" column="6" />
         <mark key="]" line="137" column="6" />
@@ -746,6 +746,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1499138226731">
         <mark key="'" line="42" column="5" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1512373910387">
+        <mark key="o" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/index/hdb/pg-l_interest_parent_id.t" timestamp="1509955591356">
         <mark key="'" line="8" column="27" />
@@ -1107,7 +1110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2600" column="0" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="2601" column="33" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="10" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="0" column="0" filename="$FOUT_HOME$/config.yaml" />
@@ -1207,6 +1209,7 @@
       <jump line="477" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="182" column="21" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="22" column="12" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/App.pm" />
+      <jump line="11" column="6" filename="$FOUT_HOME$/dmp/config.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1216,43 +1219,43 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWdpc3Rlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>'ABCDEFGHIJKLMN'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICAgICAgICAgICAgICBwcmludCBEdW1wZXIgJGF1ZGllbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQHskc2VsZi0+dXNlcl9kYXRhfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICAgICAgICAgICAgICBwcmludCBEdW1wZXIgJGF1ZGllbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICAgICAgICAgICAgICBwcmludCBEdW1wZXIgJHJlczsK</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyBAeyRfLT57c2VnbWVudH19IH0gIyBmbGF0dGVuIG5lc3RlZCBhcnJheQogICAgICAgIGdyZXAgeyAkXy0+e2lkfSBlcSBVU0VSX0RBVEFfSURTX0FHRV9HUk9VUCB9CiAgICAgICAgICAgIEB7JHNlbGYtPnVzZXJfZGF0YX07Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15ICRhdWRpZW5jZSA9ICRzZWxmLT51bmlxdWVfaWQtPmdldCgkYXVkaWVuY2VfaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBteSAoJGFnZV9ncm91cCwgQGFnZV9ncm91cHMpID0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15ICRhdWRpZW5jZSA9ICRzZWxmLT51bmlxdWVfaWQtPmdldCgkYXVkaWVuY2VfaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCiAgICAgICAgbWFwIHsgQHskXy0+e3NlZ21lbnR9fSB9ICMgZmxhdHRlbiBuZXN0ZWQgYXJyYXkKICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQogICAgICAgICAgICBAeyRzZWxmLT51c2VyX2RhdGF9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG15ICRhdWRpZW5jZV9pZCA9ICRzZWxmLT5yZXEtPnF1ZXJ5X3BhcmFtZXRlcnMtPntpZH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChteSAkZGV2aWNlX2lkID0gJHNlbGYtPnJlcS0+cXVlcnlfcGFyYW1ldGVycy0+e2RldmljZV9pZH0pIHsK</text>
+        <text encoding="base64">ICAgIG1vZGVscygnbG9nZ2VyJyktPndhcm4oc3ByaW50ZiAibW9yZSB0aGFuIDEgYWdlIGdyb3VwIGZvdW5kIHJlcXVlc3RfaWQ6ICVzLCBhZ2VfZ3JvdXBzOiAlcyIsICRzZWxmLT5pZCAvLyAnJywgam9pbignLCcsICgkYWdlX2dyb3VwLCBAYWdlX2dyb3VwcykpKQogICAgICAgIGlmIGdyZXAgeyAhZGVmaW5lZCAkXyB9ICgkYWdlX2dyb3VwLCBAYWdlX2dyb3Vwcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IyBMSU5F44GoRk/jga7oiIjlkbPplqLlv4PjgrPjg7zjg4nlt67liIYgIzQzOTUxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVubGVzcyAoJGF1ZGllbmNlX2lkKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICAgICAgICAgICAgICBwcmludCBEdW1wZXIgJGF1ZGllbmNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
