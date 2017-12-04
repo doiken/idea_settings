@@ -125,7 +125,7 @@
       <file name="/System/Library/Perl/5.18/Memoize.pm" timestamp="1501847134165">
         <mark key="'" line="43" column="7" />
       </file>
-      <file name="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" timestamp="1500877916521">
+      <file name="/System/Library/Perl/5.18/darwin-thread-multi-2level/List/Util.pm" timestamp="1512375174902">
         <mark key="'" line="355" column="3" />
       </file>
       <file name="$FOUT_HOME$/t/fout/cache/ad/get_from_mysql.t" timestamp="1509001406552">
@@ -288,8 +288,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/FluctSP.pm" timestamp="1500615820759">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" timestamp="1511489330633">
-        <mark key="'" line="481" column="12" />
+      <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" timestamp="1512375100301">
+        <mark key="'" line="27" column="9" />
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1503302449627">
         <mark key="'" line="65" column="4" />
@@ -747,7 +750,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1499138226731">
         <mark key="'" line="42" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1512373910387">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1512375646132">
+        <mark key="'" line="501" column="7" />
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="4" />
+        <mark key="." line="493" column="4" />
+        <mark key="^" line="493" column="0" />
         <mark key="o" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/index/hdb/pg-l_interest_parent_id.t" timestamp="1509955591356">
@@ -1110,9 +1118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2601" column="33" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="10" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/config.yaml" />
       <jump line="97" column="27" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="44" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="441" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
@@ -1210,6 +1215,9 @@
       <jump line="182" column="21" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="22" column="12" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/App.pm" />
       <jump line="11" column="6" filename="$FOUT_HOME$/dmp/config.yaml" />
+      <jump line="492" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
+      <jump line="1" column="0" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
+      <jump line="27" column="9" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1219,52 +1227,52 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text># LINEのセグメントをFOのセグメントに変換</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3Rlclw+</text>
+        <text encoding="base64">XDxwYXJ0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
+      <register name="0" type="4">
+        <text>$map_or_warn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHskc2VsZi0+dXNlcl9kYXRhfTsK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT53YXJuKHNwcmludGYgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgeyBAeyRfLT57c2VnbWVudH19IH0gIyBmbGF0dGVuIG5lc3RlZCBhcnJheQogICAgICAgIGdyZXAgeyAkXy0+e2lkfSBlcSBVU0VSX0RBVEFfSURTX0FHRV9HUk9VUCB9CiAgICAgICAgICAgIEB7JHNlbGYtPnVzZXJfZGF0YX07Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBMaXN0OjpVdGlsIHF3KHJlZHVjZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteSAoJGFnZV9ncm91cCwgQGFnZV9ncm91cHMpID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQHskc2VsZi0+dXNlcl9kYXRhfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCiAgICAgICAgbWFwIHsgQHskXy0+e3NlZ21lbnR9fSB9ICMgZmxhdHRlbiBuZXN0ZWQgYXJyYXkKICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQogICAgICAgICAgICBAeyRzZWxmLT51c2VyX2RhdGF9Owo=</text>
+        <text encoding="base64">ICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyBAeyRfLT57c2VnbWVudH19IH0gIyBmbGF0dGVuIG5lc3RlZCBhcnJheQogICAgICAgIGdyZXAgeyAkXy0+e2lkfSBlcSBVU0VSX0RBVEFfSURTX0FHRV9HUk9VUCB9CiAgICAgICAgICAgIEB7JHNlbGYtPnVzZXJfZGF0YX07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vZGVscygnbG9nZ2VyJyktPndhcm4oc3ByaW50ZiAibW9yZSB0aGFuIDEgYWdlIGdyb3VwIGZvdW5kIHJlcXVlc3RfaWQ6ICVzLCBhZ2VfZ3JvdXBzOiAlcyIsICRzZWxmLT5pZCAvLyAnJywgam9pbignLCcsICgkYWdlX2dyb3VwLCBAYWdlX2dyb3VwcykpKQogICAgICAgIGlmIGdyZXAgeyAhZGVmaW5lZCAkXyB9ICgkYWdlX2dyb3VwLCBAYWdlX2dyb3Vwcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBteSAoJGFnZV9ncm91cCwgQGFnZV9ncm91cHMpID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBMSU5F44GoRk/jga7oiIjlkbPplqLlv4PjgrPjg7zjg4nlt67liIYgIzQzOTUxCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCiAgICAgICAgbWFwIHsgQHskXy0+e3NlZ21lbnR9fSB9ICMgZmxhdHRlbiBuZXN0ZWQgYXJyYXkKICAgICAgICBncmVwIHsgJF8tPntpZH0gZXEgVVNFUl9EQVRBX0lEU19BR0VfR1JPVVAgfQogICAgICAgICAgICBAeyRzZWxmLT51c2VyX2RhdGF9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICAgICAgICAgICAgICBwcmludCBEdW1wZXIgJGF1ZGllbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAgeyAkbWFwcy0+eyRfLT57aWR9fSB9ICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3Rlclw+</last-search>
+      <last-search encoding="base64">XDxwYXJ0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3Rlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1327,6 +1335,8 @@
         <entry>request</entry>
         <entry encoding="base64">XDxzZWxlY3RfYWRzXD4=</entry>
         <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
+        <entry>part</entry>
+        <entry encoding="base64">XDxwYXJ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
