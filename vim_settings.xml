@@ -24,12 +24,12 @@
       <file name="/a.dummy" timestamp="1495437724418">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512372813430">
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1512438526210">
         <mark key="'" line="1956" column="16" />
-        <mark key="[" line="2637" column="0" />
-        <mark key="]" line="2637" column="0" />
+        <mark key="[" line="2625" column="0" />
+        <mark key="]" line="2625" column="0" />
         <mark key="^" line="2620" column="20" />
-        <mark key="." line="2637" column="0" />
+        <mark key="." line="2625" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1498634093523">
         <mark key="'" line="174" column="11" />
@@ -614,8 +614,8 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/DBIx/Skinny/Schema.pm" timestamp="1508890414368">
         <mark key="'" line="45" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1512352549447">
-        <mark key="'" line="43" column="19" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1512438227761">
+        <mark key="'" line="218" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion/Summary.pm" timestamp="1498629923304">
         <mark key="'" line="43" column="4" />
@@ -1133,7 +1133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="441" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="163" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
       <jump line="470" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
@@ -1233,6 +1232,7 @@
       <jump line="1" column="0" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
       <jump line="27" column="9" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
       <jump line="23" column="18" filename="$USER_HOME$/Documents/fout_logs/hadoop/pom.xml" />
+      <jump line="218" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1251,34 +1251,34 @@
         <text encoding="base64">cGFja2FnZSBqcC5mb3V0LmxvZy5oYWRvb3AuY29tbW9uOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IF9yb290Xy5qcC5mb3V0LmxvZy5oYWRvb3AuY29tbW9uLkNvbmZpZ1lBTUwK</text>
+        <text encoding="base64">IyBGT3V0L0RNUC9BdWRpZW5jZUFQSS5wb2Qj5bm05Luj44Kz44O844OJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpwLmZvdXQubG9nLmhhZG9vcC5jb21tb24uQ29uZmlnWUFNTAo=</text>
+        <text encoding="base64">aW1wb3J0IF9yb290Xy5qcC5mb3V0LmxvZy5oYWRvb3AuY29tbW9uLkNvbmZpZ1lBTUwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIExJTkXjga7jgrvjgrDjg6Hjg7Pjg4jjgpJGT+OBruOCu+OCsOODoeODs+ODiOOBq+WkieaPmwo=</text>
+        <text encoding="base64">aW1wb3J0IGpwLmZvdXQubG9nLmhhZG9vcC5jb21tb24uQ29uZmlnWUFNTAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
+        <text encoding="base64">ICAgICAgICAjIExJTkXjga7jgrvjgrDjg6Hjg7Pjg4jjgpJGT+OBruOCu+OCsOODoeODs+ODiOOBq+WkieaPmwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgTElOReOBruOCu+OCsOODoeODs+ODiOOCkkZP44Gu44K744Kw44Oh44Oz44OI44Gr5aSJ5o+bCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT53YXJuKHNwcmludGYgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT53YXJuKHNwcmludGYgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZSBMaXN0OjpVdGlsIHF3KHJlZHVjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHskc2VsZi0+dXNlcl9kYXRhfTsK</text>
+        <text encoding="base64">ICAgIHVzZSBMaXN0OjpVdGlsIHF3KHJlZHVjZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
