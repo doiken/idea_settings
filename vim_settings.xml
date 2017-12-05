@@ -540,8 +540,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1512020213098">
         <mark key="'" line="44" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1512457859113">
-        <mark key="'" line="679" column="66" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1512464053988">
+        <mark key="'" line="1274" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -1117,7 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="33" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="134" column="16" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="135" column="23" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="144" column="17" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
@@ -1217,6 +1216,7 @@
       <jump line="157" column="27" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="259" column="41" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="101" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" />
+      <jump line="1274" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1229,7 +1229,7 @@
         <text>$device_id2</text>
       </register>
       <register name="/" type="4">
-        <text>uniqueid</text>
+        <text encoding="base64">XDxkZXZpY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>'B17D2F31-FCCB-42C6-A41A-D1CF2362308D'</text>
@@ -1269,9 +1269,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uniqueid</last-search>
+      <last-search encoding="base64">XDxkZXZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>uniqueid</last-pattern>
+      <last-pattern encoding="base64">XDxkZXZpY2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1321,6 +1321,7 @@
         <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry>unique</entry>
         <entry>uniqueid</entry>
+        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
