@@ -383,8 +383,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512547088903">
-        <mark key="'" line="358" column="50" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512549015708">
+        <mark key="'" line="274" column="4" />
         <mark key="[" line="316" column="59" />
         <mark key="]" line="316" column="59" />
         <mark key="^" line="316" column="33" />
@@ -426,6 +426,11 @@
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1512440146766">
+        <mark key="'" line="16" column="38" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="37" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1503384249403">
         <mark key="'" line="0" column="0" />
@@ -486,7 +491,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512546999962">
+      <file name="/Dummy.txt" timestamp="1512549066875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -500,6 +505,11 @@
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/Class/Accessor/TrackDirty.pm" timestamp="1512543583621">
         <mark key="'" line="90" column="9" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1512549020915">
+        <mark key="'" line="62" column="8" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/LineVideoCTRPredictionData.scala" timestamp="1512442160977">
         <mark key="'" line="28" column="15" />
@@ -1135,9 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="62" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="165" column="6" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" />
-      <jump line="96" column="39" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="99" column="40" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="104" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="107" column="48" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
@@ -1235,6 +1242,9 @@
       <jump line="354" column="89" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="406" column="26" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="358" column="50" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="274" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="62" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1247,7 +1257,7 @@
         <text>line</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>is_new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcm93LT57bF9hZ2VfZ3JvdXB9ID0gMTsK</text>
@@ -1287,9 +1297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>is_new</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>is_new</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1372,6 +1382,8 @@
         <entry>uid</entry>
         <entry encoding="base64">XDxyZXFfdWlkXD4=</entry>
         <entry>new</entry>
+        <entry>_is_new</entry>
+        <entry>is_new</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
