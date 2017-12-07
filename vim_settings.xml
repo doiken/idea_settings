@@ -51,7 +51,6 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/darwin-thread-multi-2level/Mouse.pm" timestamp="1511255577021">
         <mark key="'" line="429" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Logger.pm" timestamp="1512526150457" />
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1511342280203">
         <mark key="'" line="94" column="33" />
       </file>
@@ -281,6 +280,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Cache/Abstract.pm" timestamp="1500004339340">
         <mark key="'" line="29" column="28" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime.pm" timestamp="1512609870262">
+        <mark key="'" line="76" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/db/nn" timestamp="1511341869393">
         <mark key="'" line="29" column="115" />
       </file>
@@ -341,6 +343,9 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase/db/schema.rb" timestamp="1511698304742">
         <mark key="'" line="610" column="79" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" timestamp="1512610184506">
+        <mark key="'" line="66" column="7" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/cli/db_checker/delivery.t" timestamp="1511772935845">
         <mark key="'" line="55" column="0" />
       </file>
@@ -390,6 +395,7 @@
         <mark key="^" line="316" column="33" />
         <mark key="." line="316" column="59" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/YieldOne.pm" timestamp="1512609817547" />
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
@@ -467,12 +473,6 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Memcached/Client/Request.pm" timestamp="1509003570439">
         <mark key="'" line="116" column="29" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" timestamp="1512445782719">
-        <mark key="'" line="88" column="85" />
-        <mark key="[" line="88" column="4" />
-        <mark key="]" line="88" column="50" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/cli/db_checker/budget_empty_campaings.t" timestamp="1503282798281">
         <mark key="'" line="72" column="0" />
       </file>
@@ -491,7 +491,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512553674405">
+      <file name="/Dummy.txt" timestamp="1512609454074">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -589,11 +589,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" timestamp="1508119783493">
         <mark key="'" line="120" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/AudienceIMSegment/map.pl" timestamp="1512441566864" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB.pm" timestamp="1501852687161">
         <mark key="'" line="49" column="36" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/review/fetcher/imobile.t" timestamp="1512535616265" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent.conf" timestamp="1510638285118">
         <mark key="'" line="7" column="7" />
       </file>
@@ -606,7 +604,7 @@
       <file name="$FOUT_HOME$/extlib/lib/perl5/Net/MPRPC/Client.pm" timestamp="1510710344761">
         <mark key="'" line="0" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/PartitionedFilterFetcher.pm" timestamp="1511319697614">
+      <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/PartitionedFilterFetcher.pm" timestamp="1512610115729">
         <mark key="'" line="136" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_ui/lib/FOutUI/View/PerformanceReport/XLSX/Sheet/CampaignConsiderationDays.pm" timestamp="1498630335556">
@@ -667,8 +665,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Ad.pm" timestamp="1512443949903">
         <mark key="'" line="597" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" timestamp="1512540692037" />
-      <file name="$FOUT_HOME$/lib/FOut/Vendor/Common/DealsFetcherRole.pm" timestamp="1512465994878" />
       <file name="/Library/Perl/5.18/darwin-thread-multi-2level/Mouse/Meta/Method/Accessor.pm" timestamp="1508123608308">
         <mark key="'" line="0" column="8" />
       </file>
@@ -684,7 +680,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Creative.pm" timestamp="1502769258760">
         <mark key="'" line="603" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1512441574985" />
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/functions/LInterestLargeCategoryGenerator.scala" timestamp="1512442107521">
         <mark key="'" line="29" column="12" />
       </file>
@@ -774,6 +769,7 @@
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/SqoopImporter.pm" timestamp="1501138152010">
         <mark key="'" line="65" column="5" />
       </file>
+      <file name="/System/Library/Perl/5.18/darwin-thread-multi-2level/Time/Piece.pm" timestamp="1512609973432" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1499138226731">
         <mark key="'" line="42" column="5" />
       </file>
@@ -804,7 +800,6 @@
       <file name="$FOUT_HOME$/lib/FOut/DMP/Logger.pm" timestamp="1510638942853">
         <mark key="'" line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/LineVideoCTRPredictionDataExtractionRunner.scala" timestamp="1512442176836" />
       <file name="$FOUT_HOME$/t/fout/apps_plus/index/companion_script.t" timestamp="1500527519267">
         <mark key="'" line="167" column="20" />
       </file>
@@ -890,7 +885,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AppNexus.pm" timestamp="1510897968139">
         <mark key="'" line="176" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1512442210901" />
       <file name="$FOUT_HOME$/t/fout/cache/companion_scripts/run.t" timestamp="1501122003021">
         <mark key="'" line="32" column="7" />
       </file>
@@ -954,6 +948,9 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase/db/fixtures/event_type.rb" timestamp="1511659632787">
         <mark key="'" line="147" column="0" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" timestamp="1512609981308">
+        <mark key="'" line="118" column="44" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/Updatable.pm" timestamp="1507773859417">
         <mark key="'" line="86" column="4" />
       </file>
@@ -1008,7 +1005,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1509347666921">
         <mark key="'" line="126" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1512441864044" />
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1507774134331">
         <mark key="'" line="33" column="0" />
       </file>
@@ -1063,12 +1059,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1512525750464">
         <mark key="'" line="85" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" timestamp="1512546530124">
-        <mark key="'" line="49" column="21" />
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="25" column="13" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1512546973677">
         <mark key="'" line="12" column="42" />
@@ -1139,29 +1129,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Cache/Budget.pm" timestamp="1502931685471">
         <mark key="'" line="162" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1512454327093" />
       <file name="$FOUT_HOME$/t/fout/bid/data/prediction/extractor.t" timestamp="1509952162053">
         <mark key="'" line="33" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="40" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="104" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="107" column="48" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="121" column="24" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="145" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="150" column="34" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="876" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="209" column="26" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="105" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="14" column="5" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="13" column="5" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="133" column="19" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="182" column="39" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="198" column="16" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="200" column="39" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="22" column="37" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
-      <jump line="84" column="33" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
       <jump line="90" column="9" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
       <jump line="91" column="37" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
       <jump line="99" column="29" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Class/Accessor/TrackDirty.pm" />
@@ -1245,6 +1217,23 @@
       <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="274" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="62" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
+      <jump line="109" column="20" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" />
+      <jump line="18" column="6" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime.pm" />
+      <jump line="73" column="7" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime.pm" />
+      <jump line="72" column="24" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" />
+      <jump line="18" column="0" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" />
+      <jump line="76" column="4" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime.pm" />
+      <jump line="96" column="32" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" />
+      <jump line="118" column="44" filename="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Test/MockTime/HiRes.pm" />
+      <jump line="17" column="4" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="47" column="16" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="48" column="32" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="49" column="44" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="75" column="16" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="55" column="23" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="54" column="5" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="53" column="16" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
+      <jump line="66" column="7" filename="$FOUT_HOME$/lib/FOut/Review/PartitionedFilterManager.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1257,7 +1246,7 @@
         <text>line</text>
       </register>
       <register name="/" type="4">
-        <text>is_new</text>
+        <text>datetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcm93LT57bF9hZ2VfZ3JvdXB9ID0gMTsK</text>
@@ -1297,9 +1286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_new</last-search>
+      <last-search>datetime</last-search>
       <last-offset />
-      <last-pattern>is_new</last-pattern>
+      <last-pattern>datetime</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1307,63 +1296,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfc2VnbWVudFw+</entry>
-        <entry encoding="base64">XDxfc2hvdWxkX3VwZGF0ZV9kZW1vZ3JhcGhpY1w+</entry>
-        <entry encoding="base64">XDxlbmRwb2ludFw+</entry>
-        <entry encoding="base64">XDxnZXRfb3JfcG9zdF9kZW1vZ3JhcGhpY1w+</entry>
-        <entry>local</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
-        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
-        <entry encoding="base64">XDxzZXR1cFw+</entry>
-        <entry encoding="base64">XDxfbWFrZV9yZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxfZ2V0X2F1ZGllbmNlX2FwaV9kYXRhXD4=</entry>
-        <entry>request</entry>
-        <entry encoding="base64">XDxzZWxlY3RfYWRzXD4=</entry>
-        <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
-        <entry>part</entry>
-        <entry encoding="base64">XDxwYXJ0XD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2FkdmVydGlzZXJfaWFiX3ZhbHVlX2Zyb21fbWFwcGluZ1w+</entry>
-        <entry>review</entry>
-        <entry encoding="base64">XDxmaWx0ZXJBZERhdGFGcmFtZVw+</entry>
-        <entry encoding="base64">XDxleHRyYWN0XD4=</entry>
-        <entry encoding="base64">XDxjcmF3bF90YXJnZXRfdXJsXD4=</entry>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>allow_bl</entry>
-        <entry encoding="base64">XDxfdmFsaWRhdGVfcmV2aWV3X2xhbmRpbmdfdXJsXD4=</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZV9yZXFcPg==</entry>
-        <entry encoding="base64">XDxsYW5kaW5nX3VybFw+</entry>
-        <entry encoding="base64">XDxhcHBseV91cGRhdGVfZGF0YVw+</entry>
-        <entry encoding="base64">XDxkZXZpY2VfdWlkXD4=</entry>
-        <entry encoding="base64">XDxfY3JlYXRlX2lkZmFfbWFwX2lmX25lZWRlZFw+</entry>
-        <entry encoding="base64">XDxfc3luY193aXRoX3NzcFw+</entry>
-        <entry encoding="base64">XDxhdWRpZW5jZV9pZDJcPg==</entry>
-        <entry encoding="base64">XDxkZXZpY2VfaWQyXD4=</entry>
-        <entry>any</entry>
-        <entry encoding="base64">XDxhbnlcPg==</entry>
-        <entry>audience_id</entry>
-        <entry encoding="base64">XDxhdWRpZW5jZVw+</entry>
-        <entry encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</entry>
-        <entry encoding="base64">XDxyZXNcPg==</entry>
-        <entry>unique</entry>
-        <entry>uniqueid</entry>
-        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
-        <entry encoding="base64">XDxDTElFTlRfU0VDUkVUU1w+</entry>
-        <entry encoding="base64">XDxfYXNzb3J0X2RlYWxzXD4=</entry>
-        <entry encoding="base64">XDxfcGFyc2VfZGVhbF9maWVsZHNcPg==</entry>
-        <entry encoding="base64">XDx1bmtub3duX2RlYWxzXD4=</entry>
-        <entry encoding="base64">XDxzdG9yZV9pZF9tYXBcPg==</entry>
-        <entry encoding="base64">XDxpZF9tYXBfaW5mb1w+</entry>
-        <entry encoding="base64">XDx0YXJnZXRfdGltZVw+</entry>
-        <entry encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</entry>
-        <entry>is_line</entry>
-        <entry encoding="base64">XDxyb3dcPg==</entry>
-        <entry>se</entry>
-        <entry>web_</entry>
-        <entry>web</entry>
-        <entry encoding="base64">XDxNT0RJRklFRF9GSUVMRFNcPg==</entry>
         <entry encoding="base64">XDxJU19NT0RJRklFRFw+</entry>
         <entry encoding="base64">XDxfbWtfYWNjZXNzb3JzXD4=</entry>
         <entry encoding="base64">XDxfbWFrZV9hY2Nlc3Nvclw+</entry>
@@ -1384,6 +1316,9 @@
         <entry>new</entry>
         <entry>_is_new</entry>
         <entry>is_new</entry>
+        <entry encoding="base64">XDxmaXhlZFw+</entry>
+        <entry encoding="base64">XDxkYXRldGltZV9udW1iZXJcPg==</entry>
+        <entry>datetime</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
