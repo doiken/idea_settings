@@ -659,11 +659,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion/Summary/AbstractCampaignUnit.pm" timestamp="1498629634654">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/crawl_qiita.pl" timestamp="1512572385414">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="24" column="1" />
-        <mark key="^" line="24" column="8" />
-        <mark key="." line="24" column="1" />
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/crawl_qiita.pl" timestamp="1512646870073">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1501567379253">
         <mark key="'" line="120" column="60" />
@@ -1169,12 +1169,12 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activesupport-5.1.4/lib/active_support/cache/file_store.rb" timestamp="1512401926335">
         <mark key="'" line="119" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" timestamp="1512576151506">
-        <mark key="'" line="48" column="9" />
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
-        <mark key="^" line="108" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" timestamp="1512646897522">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/config/environment.rb" timestamp="1511617014179">
         <mark key="[" line="4" column="29" />
@@ -1295,9 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1818" column="4" filename="/System/Library/Perl/5.18/Getopt/Long.pm" />
-      <jump line="1832" column="4" filename="/System/Library/Perl/5.18/Getopt/Long.pm" />
-      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/fout/lib/FOut/CLI.pm" />
       <jump line="107" column="4" filename="$USER_HOME$/IdeaProjects/fout/lib/FOut/CLI.pm" />
       <jump line="1842" column="34" filename="/System/Library/Perl/5.18/Getopt/Long.pm" />
       <jump line="1923" column="10" filename="/System/Library/Perl/5.18/Getopt/Long.pm" />
@@ -1386,15 +1383,18 @@
       <jump line="95" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Plugin.pm" />
       <jump line="89" column="8" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="81" column="36" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
-      <jump line="93" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="65" column="5" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Scraper.pm" />
       <jump line="609" column="16" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Scraper.pm" />
       <jump line="610" column="14" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Scraper.pm" />
       <jump line="611" column="20" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Scraper.pm" />
       <jump line="64" column="2" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Scrappy/Scraper.pm" />
-      <jump line="98" column="13" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="48" column="9" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
+      <jump line="93" column="4" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
+      <jump line="19" column="1" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
+      <jump line="98" column="4" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
+      <jump line="113" column="1" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
+      <jump line="18" column="13" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1404,13 +1404,13 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>insert on duplicate key update</text>
+        <text>user|users</text>
       </register>
       <register name="/" type="4">
         <text>plugin</text>
       </register>
       <register name="0" type="4">
-        <text>https://qiita.com/</text>
+        <text>Crawler::Qiita</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBteSAkcGFnZSA9IDA7CiAgICAgICAgbXkgQGxvZ2lucyA9ICgpOyAjIAogICAgICAgICRzZWxmLT5jcmF3bGVyLT5jcmF3bCgiaHR0cHM6Ly9xaWl0YS5jb20vdXNlcnM/Y2hhcj0ke2N1cnJlbnRfaW5kaWNlfSZwYWdlPTEiLAogICAgICAgICAgICAnL3VzZXJzJyA9PiB7CiAgICAgICAgICAgICAgICAnZGl2LlVzZXJzUGFnZV9fdXNlciBkaXYubWVkaWFfX2JvZHkgYScgPT4gc3ViIHsKICAgICAgICAgICAgICAgICAgICBteSAoJHNlbGYsICRpdGVtKSA9IEBfOwogICAgICAgICAgICAgICAgICAgIHB1c2ggQGxvZ2lucywgJGl0ZW0tPnt0ZXh0fTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAnYVtyZWw9bmV4dF0nID0+IHN1YiB7CiAgICAgICAgICAgICAgICAgICAgbXkgKCRzZWxmLCAkaXRlbSkgPSBAXzsKICAgICAgICAgICAgICAgICAgICAkcGFnZSsrOwogICAgICAgICAgICAgICAgICAgICRzZWxmLT5xdWV1ZS0+YWRkKCRpdGVtLT57aHJlZn0pOyAjIHNldCBuZXh0IGxpbmsgZm9yIGNyYXdsaW5nCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9LAogICAgICAgICk7CiAgICAgICAgcHJpbnQgIiR7Y3VycmVudF9pbmRpY2V9OiAkeyBcc2NhbGFyIEBsb2dpbnMgfSBpbiAkcGFnZSBwYWdlc1xuIjsKICAgICAgICAkc2VsZi0+cWlpdGFfYWNjb3VudC0+Y3JlYXRlX3VzZXJzKFxAbG9naW5zKTsK</text>
