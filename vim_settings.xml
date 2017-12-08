@@ -46,11 +46,12 @@
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/darwin-thread-multi-2level/Mouse.pm" timestamp="1511255577021">
         <mark key="'" line="429" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1512720552811">
-        <mark key="[" line="9" column="79" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
+      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1512721552113">
+        <mark key="'" line="109" column="28" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
       </file>
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1511342280203">
         <mark key="'" line="94" column="33" />
@@ -1122,14 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="114" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="197" column="9" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="22" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="94" column="27" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="4" column="20" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
-      <jump line="144" column="18" filename="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" />
-      <jump line="145" column="9" filename="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" />
       <jump line="13" column="20" filename="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" />
       <jump line="94" column="21" filename="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" />
       <jump line="21" column="4" filename="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" />
@@ -1222,6 +1215,14 @@
       <jump line="229" column="8" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Util.pm" />
       <jump line="184" column="8" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Util.pm" />
       <jump line="974" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="20" column="1" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="15" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="40" column="30" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="62" column="29" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="85" column="31" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
+      <jump line="109" column="28" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1234,7 +1235,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>while</text>
+        <text>is</text>
       </register>
       <register name="0" type="4">
         <text>isnt_exhausted</text>
@@ -1270,17 +1271,17 @@
         <text encoding="base64">ICAgIHByaW50IER1bXBlciBAYXJyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz4vaXM=</text>
       </register>
     </registers>
     <search>
-      <last-search>while</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern>while</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxhZHNcPg==</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-pattern>is</last-pattern>
+      <last-replace>as</last-replace>
+      <last-substitute>is</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1306,6 +1307,7 @@
         <entry>while</entry>
         <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry encoding="base64">XDxfYnVpbGRfc3BsaXRydW5fcGFyYW1zXD4=</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -1319,6 +1321,8 @@
         <entry>1773</entry>
         <entry>w</entry>
         <entry>set paste</entry>
+        <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
+        <entry encoding="base64">JzwsJz4vaXM=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
