@@ -1034,6 +1034,14 @@
       <file name="$FOUT_HOME$/lib/FOut/Request.pm" timestamp="1502328708760">
         <mark key="'" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/connect_account.pl" timestamp="1512827889791">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="10" column="59" />
+        <mark key="k" line="0" column="42" />
+        <mark key="]" line="10" column="72" />
+        <mark key="." line="10" column="72" />
+        <mark key="^" line="10" column="72" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/adgroup/set_bulk.t" timestamp="1508492608839">
         <mark key="'" line="19" column="4" />
       </file>
@@ -1168,7 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="29" column="9" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="30" column="9" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
@@ -1268,6 +1275,7 @@
       <jump line="69" column="13" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="78" column="72" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Crawler/Qiita.pm" />
       <jump line="24" column="5" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/sql/hackerbase_job.sql" />
+      <jump line="10" column="11" filename="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/connect_account.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1277,7 +1285,7 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG15ZmlsZS50eHQgPiBjb25jYXQudHh0</text>
+        <text>Qiita</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -1286,34 +1294,34 @@
         <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHBlcmwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHN0cmljdDsKdXNlIHdhcm5pbmdzOwp1c2UgU25zOjpDTEk7CgpTbnM6OkNMSS0+bmV3LT5iYXNpY2luZm87Cg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLS0gVGFibGUgYHNuc19hY2NvdW50c2AKLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KRFJPUCBUQUJMRSBJRiBFWElTVFMgYHNuc19hY2NvdW50c2AgOwoKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYHNuc19hY2NvdW50c2AgKAogIGBpZGAgSU5UIFVOU0lHTkVEIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIGBjcmVhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCwKICBgdXBkYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGBpZGApKQpFTkdJTkUgPSBJbm5vREI7CgoK</text>
+        <text encoding="base64">dXNlIHN0cmljdDsKdXNlIHdhcm5pbmdzOwp1c2UgU25zOjpDTEk7CgpTbnM6OkNMSS0+bmV3LT5iYXNpY2luZm87Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZWxmLT5jbGktPmxvZ2dlci0+ZGVidWdmKCduZXcgdXNlcjogJXMnLCAkbG9naW4gLy8gJycpOwo=</text>
+        <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLS0gVGFibGUgYHNuc19hY2NvdW50c2AKLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KRFJPUCBUQUJMRSBJRiBFWElTVFMgYHNuc19hY2NvdW50c2AgOwoKQ1JFQVRFIFRBQkxFIElGIE5PVCBFWElTVFMgYHNuc19hY2NvdW50c2AgKAogIGBpZGAgSU5UIFVOU0lHTkVEIE5PVCBOVUxMIEFVVE9fSU5DUkVNRU5ULAogIGBjcmVhdGVkX2F0YCBEQVRFVElNRSBOT1QgTlVMTCwKICBgdXBkYXRlZF9hdGAgREFURVRJTUUgTk9UIE5VTEwsCiAgUFJJTUFSWSBLRVkgKGBpZGApKQpFTkdJTkUgPSBJbm5vREI7CgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYWdlKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZWxmLT5jbGktPmxvZ2dlci0+ZGVidWdmKCduZXcgdXNlcjogJXMnLCAkbG9naW4gLy8gJycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpZiAkc2VsZi0+Y2xpLT5kZWJ1ZyAmJiBzY2FsYXIgJHVzZXJfbnVtKysgPiAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYWdlKys7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz4vaXM=</text>
