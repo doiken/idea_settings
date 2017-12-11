@@ -408,6 +408,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512961723282">
+        <mark key="'" line="406" column="26" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
@@ -529,7 +532,7 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Time/Piece/MySQL.pm" timestamp="1503023332960">
         <mark key="'" line="9" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" timestamp="1512958620726">
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" timestamp="1512961595845">
         <mark key="'" line="15" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/Role/Cached.pm" timestamp="1509496371442">
@@ -1140,10 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="38" filename="$USER_HOME$/Documents/perl/iterator_simple_trial.pl" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="717" column="0" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="0" column="12" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
       <jump line="9" column="33" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
       <jump line="14" column="1" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
       <jump line="15" column="1" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
@@ -1240,6 +1239,10 @@
       <jump line="819" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="839" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="968" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="342" column="0" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="354" column="89" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="358" column="50" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="406" column="26" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1252,7 +1255,7 @@
         <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>audience</text>
+        <text>new</text>
       </register>
       <register name="0" type="4">
         <text>JSON.stringify</text>
@@ -1300,9 +1303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>audience</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>audience</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1332,6 +1335,7 @@
         <entry encoding="base64">XDxub3Rlc1w+</entry>
         <entry encoding="base64">XDxHRVRcPg==</entry>
         <entry>audience</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
