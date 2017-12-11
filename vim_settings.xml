@@ -15,6 +15,7 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/arel-8.0.0/lib/arel/nodes/update_statement.rb" timestamp="1511692812118">
         <mark key="'" line="4" column="32" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1512964742163" />
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/.bin/_mocha" timestamp="1507877979679">
         <mark key="'" line="359" column="24" />
       </file>
@@ -409,7 +410,7 @@
         <mark key="'" line="28" column="71" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1512961723282">
-        <mark key="'" line="406" column="26" />
+        <mark key="'" line="418" column="26" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -467,8 +468,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1512960082646">
-        <mark key="'" line="975" column="11" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1512964758525">
+        <mark key="'" line="105" column="17" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DB/Dsp/Row/Ads.pm" timestamp="1502757809527">
         <mark key="'" line="18" column="0" />
@@ -497,7 +498,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512960287693">
+      <file name="/Dummy.txt" timestamp="1512964776289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -566,9 +567,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1512020213098">
         <mark key="'" line="44" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1512960274163">
-        <mark key="'" line="968" column="25" />
-      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1512964491169" />
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
       </file>
@@ -1143,16 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="33" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="14" column="1" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="15" column="1" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="21" column="44" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="22" column="22" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="454" column="25" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="8" column="12" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Iterator/Simple.pm" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/cpanfile" />
-      <jump line="41" column="12" filename="$USER_HOME$/Documents/perl/benchmark_trial.pl" />
-      <jump line="30" column="8" filename="$USER_HOME$/Documents/perl/iterator_simple_trial.pl" />
       <jump line="50" column="0" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="156" column="0" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/perl/iterator_simple_trial.pl" />
@@ -1243,6 +1232,16 @@
       <jump line="354" column="89" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="358" column="50" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="406" column="26" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="1133" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="10" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="33" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="99" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="100" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="101" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="102" column="69" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="103" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="105" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1255,7 +1254,7 @@
         <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>audience</text>
       </register>
       <register name="0" type="4">
         <text>JSON.stringify</text>
@@ -1303,9 +1302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>audience</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>audience</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1334,8 +1333,8 @@
         <entry>note</entry>
         <entry encoding="base64">XDxub3Rlc1w+</entry>
         <entry encoding="base64">XDxHRVRcPg==</entry>
-        <entry>audience</entry>
         <entry>new</entry>
+        <entry>audience</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
