@@ -498,7 +498,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512964776289">
+      <file name="/Dummy.txt" timestamp="1512970240470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -557,8 +557,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker/Hike.pm" timestamp="1503284826719">
         <mark key="'" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" timestamp="1512727906216">
-        <mark key="'" line="180" column="18" />
+      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" timestamp="1512970228178">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="132" column="42" />
         <mark key="]" line="132" column="44" />
         <mark key="^" line="132" column="44" />
@@ -1005,6 +1005,7 @@
       <file name="$USER_HOME$/Documents/fout_ui/lib/FOutUI/Web/JpDispatcher.pm" timestamp="1499040229420">
         <mark key="'" line="891" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1512970844979" />
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Test/MockObject/Extends.pm" timestamp="1501464435963">
         <mark key="'" line="0" column="8" />
       </file>
@@ -1142,7 +1143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="156" column="0" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/perl/iterator_simple_trial.pl" />
       <jump line="43" column="45" filename="$USER_HOME$/Documents/perl/iterator_util_trial.pl" />
@@ -1212,7 +1212,6 @@
       <jump line="23" column="2" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
       <jump line="48" column="18" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
       <jump line="51" column="7" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
-      <jump line="132" column="7" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
       <jump line="180" column="18" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
       <jump line="92" column="0" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
       <jump line="147" column="0" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
@@ -1242,6 +1241,8 @@
       <jump line="102" column="69" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="103" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="105" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="132" column="7" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/redmine.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1254,7 +1255,7 @@
         <text>B</text>
       </register>
       <register name="/" type="4">
-        <text>audience</text>
+        <text>token</text>
       </register>
       <register name="0" type="4">
         <text>JSON.stringify</text>
@@ -1302,9 +1303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>audience</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern>audience</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1318,7 +1319,6 @@
         <entry encoding="base64">XDxfYnVpbGRfc3BsaXRydW5fcGFyYW1zXD4=</entry>
         <entry>is</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>token</entry>
         <entry encoding="base64">XDxyZWRtaW5lXD4=</entry>
         <entry encoding="base64">XDxSZWRtaW5lXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -1335,6 +1335,7 @@
         <entry encoding="base64">XDxHRVRcPg==</entry>
         <entry>new</entry>
         <entry>audience</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
