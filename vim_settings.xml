@@ -414,11 +414,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513060974338">
-        <mark key="'" line="362" column="9" />
-        <mark key="[" line="362" column="31" />
-        <mark key="]" line="362" column="31" />
-        <mark key="." line="362" column="31" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513068338657">
+        <mark key="'" line="313" column="16" />
+        <mark key="[" line="321" column="19" />
+        <mark key="]" line="321" column="19" />
+        <mark key="." line="321" column="19" />
+        <mark key="^" line="315" column="24" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -1141,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="133" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="40" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="111" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
@@ -1202,7 +1202,6 @@
       <jump line="79" column="16" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy.pm" />
       <jump line="264" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="312" column="59" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="313" column="36" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="314" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="317" column="67" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="324" column="63" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1241,25 +1240,36 @@
       <jump line="388" column="55" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="351" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="362" column="9" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="315" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="313" column="16" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>wlx</text>
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dWMg</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVcPg==</text>
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Iy91c2VyL2Jpbi9lbnYgcGVybAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Iwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text>f$xj^</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dXNlIFRlc3Q6OkRvdWJsZSBxdyhtb2NrIHN0dWIpOwo=</text>
@@ -1293,12 +1303,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1354,6 +1364,7 @@
         <entry>uc</entry>
         <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
@@ -1379,6 +1390,12 @@
         <entry>put</entry>
         <entry>help</entry>
         <entry encoding="base64">JzwsJz5wdXQgMQ==</entry>
+        <entry>r!ls</entry>
+        <entry>r</entry>
+        <entry>normal</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
+        <entry>&quot;qp</entry>
+        <entry>%normal @a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
