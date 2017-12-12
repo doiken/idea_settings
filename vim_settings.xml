@@ -405,7 +405,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513059873264" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513060974338">
+        <mark key="'" line="362" column="9" />
+        <mark key="[" line="362" column="31" />
+        <mark key="]" line="362" column="31" />
+        <mark key="." line="362" column="31" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
@@ -1126,16 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="24" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
-      <jump line="139" column="18" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
-      <jump line="84" column="0" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
-      <jump line="81" column="41" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
-      <jump line="83" column="30" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" />
-      <jump line="306" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="294" column="19" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="379" column="40" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="428" column="11" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="156" column="20" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="133" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="40" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
@@ -1143,7 +1138,6 @@
       <jump line="2" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="2" column="10" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="561" column="3" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="265" column="9" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="75" column="0" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="116" column="10" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1202,7 +1196,6 @@
       <jump line="314" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="317" column="67" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="324" column="63" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="358" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="359" column="17" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="326" column="49" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="323" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1214,7 +1207,6 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="641" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="2635" column="15" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="351" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="406" column="2" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="242" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="23" column="39" filename="$FOUT_HOME$/conti/plack/conti.psgi" />
@@ -1226,6 +1218,19 @@
       <jump line="2262" column="9" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="2444" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="2111" column="12" filename="$FOUT_HOME$/bid/config.yaml" />
+      <jump line="358" column="26" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="364" column="47" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="333" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="338" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="342" column="39" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="355" column="12" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="357" column="43" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="363" column="16" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="268" column="28" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="265" column="27" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="388" column="55" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="351" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="362" column="9" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1235,10 +1240,10 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>like</text>
+        <text encoding="base64">dWMg</text>
       </register>
       <register name="/" type="4">
-        <text>iso</text>
+        <text encoding="base64">XDx1cGRhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyDoiIjlkbPplqLlv4Pjgqvjg4bjgrTjg6rlr77lv5zooajjgpLlj4LnhacK</text>
@@ -1278,9 +1283,9 @@
       </register>
     </registers>
     <search>
-      <last-search>iso</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>iso</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,7 +1304,6 @@
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxub3RlXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry encoding="base64">XDxwdXRcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxib2R5XD4=</entry>
@@ -1330,7 +1334,6 @@
         <entry encoding="base64">XDx1aWRcPg==</entry>
         <entry encoding="base64">XDxhcHBseV91cGRhdGVfZGF0YVw+</entry>
         <entry encoding="base64">XDxkZXZpY2VfaWRcPg==</entry>
-        <entry>uc</entry>
         <entry>wiki</entry>
         <entry encoding="base64">XDxFbmFibGVEZW1vZ3JQcmVkXD4=</entry>
         <entry encoding="base64">XDxfZm9ybWF0X2F1ZGllbmNlXD4=</entry>
@@ -1338,6 +1341,9 @@
         <entry encoding="base64">XDxtYWtlX2F1ZGllbmNlX2RhdGFcPg==</entry>
         <entry>is</entry>
         <entry>iso</entry>
+        <entry>uc</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
