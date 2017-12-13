@@ -283,12 +283,12 @@
         <mark key="^" line="132" column="44" />
         <mark key="." line="132" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1513135502801">
-        <mark key="'" line="1228" column="4" />
-        <mark key="[" line="376" column="36" />
-        <mark key="]" line="376" column="13" />
-        <mark key="^" line="376" column="13" />
-        <mark key="." line="376" column="13" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1513141192366">
+        <mark key="'" line="1226" column="56" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -319,7 +319,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/PartitionedFilterFetcher.pm" timestamp="1512610115729">
         <mark key="'" line="136" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Charged.pm" timestamp="1513137368083" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Charged.pm" timestamp="1513140491590">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion/Summary.pm" timestamp="1498629923304">
         <mark key="'" line="43" column="4" />
       </file>
@@ -1177,7 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="29" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="608" column="8" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="48" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="12" column="9" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double/Mock.pm" />
@@ -1277,6 +1281,7 @@
       <jump line="83" column="34" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="182" column="78" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
       <jump line="128" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" />
+      <jump line="1226" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1297,8 +1302,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0b3VjaFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>auction_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICBwcmludCBEdW1wZXIgJHN0cjsK</text>
@@ -1440,9 +1445,9 @@
         <entry>r!ls</entry>
         <entry>r</entry>
         <entry>normal</entry>
-        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
         <entry>&quot;qp</entry>
         <entry>%normal @a</entry>
+        <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
