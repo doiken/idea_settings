@@ -27,7 +27,7 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase/app/views/asct/index.html.slim" timestamp="1511626865204">
         <mark key="'" line="26" column="6" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1513134493036">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1513143200509">
         <mark key="'" line="334" column="42" />
         <mark key="[" line="321" column="0" />
         <mark key="]" line="321" column="4" />
@@ -148,8 +148,12 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1503302449627">
-        <mark key="'" line="65" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1513143333298">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="16" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1509517503548">
         <mark key="'" line="71" column="9" />
@@ -246,7 +250,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513137643769">
+      <file name="/Dummy.txt" timestamp="1513143800738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/activerecord-5.1.4/lib/active_record/associations.rb" timestamp="1511681830122">
@@ -658,6 +662,9 @@
         <mark key="[" line="352" column="13" />
         <mark key="]" line="352" column="21" />
         <mark key="." line="352" column="13" />
+      </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1513143366229">
+        <mark key="'" line="408" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl.pm" timestamp="1510639099998">
         <mark key="'" line="42" column="4" />
@@ -1091,7 +1098,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1509347666921">
         <mark key="'" line="126" column="17" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" timestamp="1513135753198">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" timestamp="1513143899395">
         <mark key="'" line="307" column="4" />
         <mark key="[" line="303" column="0" />
         <mark key="]" line="303" column="0" />
@@ -1182,8 +1189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="8" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="48" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
       <jump line="12" column="9" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double/Mock.pm" />
       <jump line="17" column="16" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double/Mock.pm" />
       <jump line="21" column="9" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double/Mock.pm" />
@@ -1282,6 +1287,8 @@
       <jump line="182" column="78" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
       <jump line="128" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" />
       <jump line="1226" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="9" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="408" column="24" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1297,13 +1304,13 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>$bid_to_ad</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b3VjaFw+</text>
+        <text>type</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">MQo=</text>
+      <register name="0" type="4">
+        <text>CREATIVE_TYPE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICBwcmludCBEdW1wZXIgJHN0cjsK</text>
@@ -1343,9 +1350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b3VjaFw+</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b3VjaFw+</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1417,6 +1424,8 @@
         <entry encoding="base64">XDxCaWRUb0FEXD4=</entry>
         <entry encoding="base64">XDxfbWFrZV9iaWRfdG9fYWRcPg==</entry>
         <entry encoding="base64">XDx0b3VjaFw+</entry>
+        <entry>creative</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>217</entry>
