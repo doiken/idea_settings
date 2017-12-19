@@ -90,6 +90,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Reader.pm" timestamp="1511840044237">
         <mark key="'" line="123" column="19" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/D2C.pm" timestamp="1513673129468" />
       <file name="$FOUT_HOME$/lib/FOut/Currency/RateMap/None.pm" timestamp="1502321832979">
         <mark key="'" line="0" column="0" />
       </file>
@@ -186,6 +187,9 @@
       <file name="$FOUT_HOME$/lib/FOut/DSP/Vendor/Yield1/XML/Generator.pm" timestamp="1503023464897">
         <mark key="'" line="18" column="22" />
       </file>
+      <file name="$FOUT_HOME$/js/html/conversion.js" timestamp="1513672918336">
+        <mark key="'" line="92" column="38" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Moose/Meta/Attribute.pm" timestamp="1507686048898">
         <mark key="'" line="306" column="4" />
       </file>
@@ -194,13 +198,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenX/PMP.pm" timestamp="1502955533693">
         <mark key="'" line="37" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513651190525">
-        <mark key="'" line="307" column="16" />
-        <mark key="[" line="307" column="15" />
-        <mark key="]" line="307" column="22" />
-        <mark key="^" line="307" column="14" />
-        <mark key="." line="307" column="15" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -231,13 +228,6 @@
         <mark key="]" line="5" column="19" />
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1513651017215">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="246" column="37" />
-        <mark key="]" line="246" column="37" />
-        <mark key="." line="246" column="37" />
-        <mark key="^" line="246" column="37" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DB/Dsp/Row/Ads.pm" timestamp="1502757809527">
         <mark key="'" line="18" column="0" />
@@ -835,13 +825,6 @@
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Worker/ItemImportWorker.pm" timestamp="1509353190544">
         <mark key="'" line="34" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pod" timestamp="1513584664458">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="137" column="15" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="138" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/Role/Cached.pm" timestamp="1509496371442">
         <mark key="'" line="35" column="28" />
       </file>
@@ -857,7 +840,7 @@
       <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/production.rb" timestamp="1511617085579">
         <mark key="'" line="43" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1512020213098">
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1513672581943">
         <mark key="'" line="44" column="4" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Moose/Meta/Class.pm" timestamp="1507776122707">
@@ -899,6 +882,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1513664241920">
         <mark key="'" line="145" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/js/html/beacon.html" timestamp="1513673395577">
+        <mark key="'" line="58" column="4" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/BinarySearch/XS.pm" timestamp="1509497992551">
         <mark key="'" line="369" column="0" />
@@ -1230,28 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="63" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="359" column="17" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="326" column="49" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="316" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="163" column="35" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="299" column="0" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="273" column="37" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="641" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="2635" column="15" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="406" column="2" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="242" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="23" column="39" filename="$FOUT_HOME$/conti/plack/conti.psgi" />
-      <jump line="59" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="173" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="132" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="130" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="2262" column="9" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="2444" column="4" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="2111" column="12" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="364" column="47" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="338" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="342" column="39" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="355" column="12" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="357" column="43" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1330,6 +1294,28 @@
       <jump line="120" column="20" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="145" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="43" column="20" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" />
+      <jump line="148" column="4" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="25" column="27" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="47" column="13" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="76" column="16" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="111" column="40" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="114" column="40" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="127" column="29" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="140" column="48" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="145" column="87" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="149" column="29" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="158" column="21" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="160" column="26" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="171" column="100" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="175" column="49" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="184" column="17" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="210" column="39" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="191" column="9" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="55" column="4" filename="$FOUT_HOME$/js/html/beacon.html" />
+      <jump line="46" column="0" filename="$FOUT_HOME$/js/html/conversion.js" />
+      <jump line="92" column="38" filename="$FOUT_HOME$/js/html/conversion.js" />
+      <jump line="58" column="4" filename="$FOUT_HOME$/js/html/beacon.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1342,7 +1328,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</text>
+        <text encoding="base64">XDxpZHN5bmNfZW5kcG9pbnRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$update</text>
@@ -1385,9 +1371,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxpZHN5bmNfZW5kcG9pbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpZHN5bmNfZW5kcG9pbnRzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1439,6 +1425,9 @@
         <entry encoding="base64">XDxnZXRfb3JfcG9zdF9kZW1vZ3JhcGhpY1w+</entry>
         <entry encoding="base64">XDxiXD4=</entry>
         <entry encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</entry>
+        <entry>sync</entry>
+        <entry encoding="base64">XDxzZW5kX3VpZFw+</entry>
+        <entry encoding="base64">XDxpZHN5bmNfZW5kcG9pbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
