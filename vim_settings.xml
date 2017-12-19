@@ -33,6 +33,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1513136814083">
         <mark key="'" line="128" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/mtburn_go/rtb/web/calldsp.go" timestamp="1513663462727">
+        <mark key="'" line="32" column="15" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/CreativeInfeedMainVideo.pm" timestamp="1502776453931">
         <mark key="'" line="103" column="4" />
       </file>
@@ -257,7 +260,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513661744168">
+      <file name="/Dummy.txt" timestamp="1513663463127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -453,8 +456,8 @@
       <file name="$FOUT_HOME$/extlib/lib/perl5/YAML.pm" timestamp="1507863561301">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" timestamp="1512540915729">
-        <mark key="'" line="165" column="6" />
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" timestamp="1513664496619">
+        <mark key="'" line="43" column="20" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" timestamp="1511773803966">
         <mark key="'" line="30" column="9" />
@@ -522,8 +525,8 @@
       <file name="$FOUT_HOME$/t/fout/ad/delivery/publish_companion_script.t" timestamp="1502162286796">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" timestamp="1513661260306">
-        <mark key="'" line="294" column="6" />
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" timestamp="1513664003628">
+        <mark key="'" line="120" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/OpenX/Categories.pm" timestamp="1508133330654">
         <mark key="'" line="24" column="4" />
@@ -670,7 +673,7 @@
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/mobileapp-update.coffee" timestamp="1507873765547">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" timestamp="1513661573204">
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" timestamp="1513663960479">
         <mark key="'" line="29" column="36" />
       </file>
       <file name="$FOUT_HOME$/t/fout/click/redirect/run.t" timestamp="1503455978768">
@@ -893,6 +896,9 @@
       </file>
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/DBIx/Skinny/Schema.pm" timestamp="1508890414368">
         <mark key="'" line="45" column="6" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" timestamp="1513664241920">
+        <mark key="'" line="145" column="8" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/List/BinarySearch/XS.pm" timestamp="1509497992551">
         <mark key="'" line="369" column="0" />
@@ -1224,11 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="16" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy.pm" />
-      <jump line="264" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="313" column="36" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="314" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="317" column="67" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="324" column="63" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="359" column="17" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="326" column="49" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1317,13 +1318,18 @@
       <jump line="1815" column="45" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="29" column="36" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
-      <jump line="120" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
       <jump line="294" column="6" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
       <jump line="286" column="0" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
       <jump line="287" column="4" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
       <jump line="934" column="8" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
       <jump line="137" column="22" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Container.pm" />
       <jump line="21" column="45" filename="$USER_HOME$/Documents/mtburn_go/cachemap/cachemap.go" />
+      <jump line="32" column="15" filename="$USER_HOME$/Documents/mtburn_go/rtb/web/calldsp.go" />
+      <jump line="67" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
+      <jump line="120" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
+      <jump line="120" column="20" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="145" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
+      <jump line="43" column="20" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy/MPRPC.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1336,7 +1342,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</text>
+        <text encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$update</text>
@@ -1379,9 +1385,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</last-search>
+      <last-search encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1425,9 +1431,14 @@
         <entry encoding="base64">XDxwaWNrdXBfYWRzXD4=</entry>
         <entry>req</entry>
         <entry encoding="base64">XDxnZXRfbGF0ZXN0X2RlbW9ncmFwaGljXD4=</entry>
-        <entry encoding="base64">XDxnZXRfb3JfcG9zdF9kZW1vZ3JhcGhpY1w+</entry>
         <entry encoding="base64">XDxtZW1jYWNoZWRcPg==</entry>
         <entry encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</entry>
+        <entry encoding="base64">XDxva1w+</entry>
+        <entry encoding="base64">XDxkYW9cPg==</entry>
+        <entry encoding="base64">XDxfc2hvdWxkX3VwZGF0ZV9kZW1vZ3JhcGhpY1w+</entry>
+        <entry encoding="base64">XDxnZXRfb3JfcG9zdF9kZW1vZ3JhcGhpY1w+</entry>
+        <entry encoding="base64">XDxiXD4=</entry>
+        <entry encoding="base64">XDxhZHNlcnZlcl9uYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
