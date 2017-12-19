@@ -220,10 +220,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenX/PMP.pm" timestamp="1502955533693">
         <mark key="'" line="37" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513585392446">
-        <mark key="'" line="207" column="4" />
-        <mark key="[" line="385" column="36" />
-        <mark key="]" line="385" column="47" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1513651190525">
+        <mark key="'" line="307" column="16" />
+        <mark key="[" line="307" column="15" />
+        <mark key="]" line="307" column="22" />
+        <mark key="^" line="307" column="14" />
+        <mark key="." line="307" column="15" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -262,6 +264,13 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1513651017215">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="246" column="37" />
+        <mark key="]" line="246" column="37" />
+        <mark key="." line="246" column="37" />
+        <mark key="^" line="246" column="37" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/DB/Dsp/Row/Ads.pm" timestamp="1502757809527">
         <mark key="'" line="18" column="0" />
       </file>
@@ -283,7 +292,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513581821811">
+      <file name="/Dummy.txt" timestamp="1513650718173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1055,7 +1064,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/config.yaml" timestamp="1513584665766">
-        <mark key="'" line="620" column="13" />
+        <mark key="'" line="622" column="13" />
       </file>
       <file name="/System/Library/Perl/5.18/Getopt/Long.pm" timestamp="1503032801505">
         <mark key="'" line="294" column="9" />
@@ -1403,19 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="610" column="26" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="609" column="46" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="9" column="10" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
-      <jump line="127" column="0" filename="$FOUT_HOME$/extlib/lib/perl5/Test/Double.pm" />
-      <jump line="61" column="54" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="77" column="44" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="80" column="21" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="238" column="13" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="240" column="17" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="245" column="51" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="359" column="70" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="481" column="17" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="491" column="33" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="616" column="12" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
       <jump line="10" column="18" filename="$FOUT_HOME$/extlib/lib/perl5/Class/Accessor/TrackDirty.pm" />
       <jump line="129" column="86" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
@@ -1503,6 +1499,19 @@
       <jump line="620" column="13" filename="$FOUT_HOME$/config.yaml" />
       <jump line="358" column="18" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="207" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="354" column="47" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="353" column="16" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="332" column="42" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="345" column="12" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="347" column="43" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="123" column="15" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="247" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="244" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="231" column="17" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="306" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
+      <jump line="305" column="16" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1512,55 +1521,55 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dWMg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfdXBkYXRlX2RhdGFcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ID not found</text>
+        <text>$update</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFRlc3Q6OkRvdWJsZSBxdyhtb2NrIHN0dWIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyAjIFBPU1QK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJHVwZGF0ZSA9IHt9OwogICAgICAgICAgICBteSAkYXVkaWVuY2UgPSBGT3V0OjpVbmlxdWVJRDo6QXVkaWVuY2UtPmZyb21faGFzaCh7fSk7CiAgICAgICAgICAgIG1vY2soJHVuaXF1ZV9pZCktPmV4cGVjdHMoJ3NldCcpLT50aW1lcygwKTsKICAgICAgICAgICAgJGF1ZGllbmNlID0gJGFwaS0+YXBwbHlfdXBkYXRlX2RhdGEoJGF1ZGllbmNlLCAkdXBkYXRlKTsKCiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmRldmljZV9pZDsKICAgICAgICAgICAgb2sgISRhdWRpZW5jZS0+bF9nZW5kZXI7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfYWdlX2dyb3VwOwogICAgICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FyZWE7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfaW50ZXJlc3Q7CiAgICAgICAgICAgIG15ICRyZXN1bHQgPSBUZXN0OjpEb3VibGUtPnZlcmlmeV9yZXN1bHQ7CiAgICAgICAgICAgIG9rICEkcmVzdWx0LT57c2V0fXt0aW1lc307CgogICAgICAgICAgICBUZXN0OjpEb3VibGUtPnJlc2V0Ow==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJHVwZGF0ZSA9IHt9OwogICAgICAgICAgICBteSAkYXVkaWVuY2UgPSBGT3V0OjpVbmlxdWVJRDo6QXVkaWVuY2UtPmZyb21faGFzaCh7fSk7CiAgICAgICAgICAgIG1vY2soJHVuaXF1ZV9pZCktPmV4cGVjdHMoJ3NldCcpLT50aW1lcygwKTsKICAgICAgICAgICAgJGF1ZGllbmNlID0gJGFwaS0+YXBwbHlfdXBkYXRlX2RhdGEoJGF1ZGllbmNlLCAkdXBkYXRlKTsKCiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmRldmljZV9pZDsKICAgICAgICAgICAgb2sgISRhdWRpZW5jZS0+bF9nZW5kZXI7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfYWdlX2dyb3VwOwogICAgICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FyZWE7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfaW50ZXJlc3Q7CiAgICAgICAgICAgIG15ICRyZXN1bHQgPSBUZXN0OjpEb3VibGUtPnZlcmlmeV9yZXN1bHQ7CiAgICAgICAgICAgIG9rICEkcmVzdWx0LT57c2V0fXt0aW1lc307CgogICAgICAgICAgICBUZXN0OjpEb3VibGUtPnJlc2V0Owo=</text>
+        <text encoding="base64">I21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEgPT4gMSwgMiA9PiAyKTsKI21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEsIEB7WzMsIDRdfSk7CgpteSAoJGlzX2JsYWNrLCAkZG9tYWlucykgPSAiIiA9fiAvXighPykoLispJC87CnByaW50IDEgaWYgbGVuZ3RoICRkb21haW5zOwoKbXkgJGFyciA9IHt9OwokYXJyLT57Zm9vfS0+e2Jhcn07CnVzZSBEYXRhOjpEdW1wZXI7CnByaW50IER1bXBlciAkYXJyOyAjIE5HCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJHVwZGF0ZSA9IHt9OwogICAgICAgICAgICBteSAkYXVkaWVuY2UgPSBGT3V0OjpVbmlxdWVJRDo6QXVkaWVuY2UtPmZyb21faGFzaCh7fSk7CiAgICAgICAgICAgIG1vY2soJHVuaXF1ZV9pZCktPmV4cGVjdHMoJ3NldCcpLT50aW1lcygwKTsKICAgICAgICAgICAgJGF1ZGllbmNlID0gJGFwaS0+YXBwbHlfdXBkYXRlX2RhdGEoJGF1ZGllbmNlLCAkdXBkYXRlKTsKCiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmRldmljZV9pZDsKICAgICAgICAgICAgb2sgISRhdWRpZW5jZS0+bF9nZW5kZXI7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfYWdlX2dyb3VwOwogICAgICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FyZWE7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfaW50ZXJlc3Q7CiAgICAgICAgICAgIG15ICRyZXN1bHQgPSBUZXN0OjpEb3VibGUtPnZlcmlmeV9yZXN1bHQ7CiAgICAgICAgICAgIG9rICEkcmVzdWx0LT57c2V0fXt0aW1lc307CgogICAgICAgICAgICBUZXN0OjpEb3VibGUtPnJlc2V0Ow==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CnBhY2thZ2UgY29uZGl0aW9uX3RyaWFsIHsKICAgIHByaW50ICJcbi0tICIgLiBfX1BBQ0tBR0VfXyAuICIgLS1cbiI7CiAgICBpZiAobXkgJGZvbyA9IDApIHsKICAgICAgICBwcmludCAkZm9vOwogICAgfSBlbHNlIHsKICAgICAgICAkZm9vID0gMTsKICAgICAgICBwcmludCAkZm9vOwogICAgfQp9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJHVwZGF0ZSA9IHt9OwogICAgICAgICAgICBteSAkYXVkaWVuY2UgPSBGT3V0OjpVbmlxdWVJRDo6QXVkaWVuY2UtPmZyb21faGFzaCh7fSk7CiAgICAgICAgICAgIG1vY2soJHVuaXF1ZV9pZCktPmV4cGVjdHMoJ3NldCcpLT50aW1lcygwKTsKICAgICAgICAgICAgJGF1ZGllbmNlID0gJGFwaS0+YXBwbHlfdXBkYXRlX2RhdGEoJGF1ZGllbmNlLCAkdXBkYXRlKTsKCiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmRldmljZV9pZDsKICAgICAgICAgICAgb2sgISRhdWRpZW5jZS0+bF9nZW5kZXI7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfYWdlX2dyb3VwOwogICAgICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FyZWE7CiAgICAgICAgICAgIG9rICEkYXVkaWVuY2UtPmxfaW50ZXJlc3Q7CiAgICAgICAgICAgIG15ICRyZXN1bHQgPSBUZXN0OjpEb3VibGUtPnZlcmlmeV9yZXN1bHQ7CiAgICAgICAgICAgIG9rICEkcmVzdWx0LT57c2V0fXt0aW1lc307CgogICAgICAgICAgICBUZXN0OjpEb3VibGUtPnJlc2V0Ow==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAkZm9vOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">VGVzdDo6RG91YmxlLT5yZXNldDsKICAgICAgICB9OwogICAgICAgIHN1YnRlc3QgJ2FsbCBwYXJhbXMgc2V0JyA9PiBzdWIgewogICAgICAgICAgICBteSAkdXBkYXRlID0ge307CiAgICAgICAgICAgIG15ICRhdWRpZW5jZSA9IEZPdXQ6OlVuaXF1ZUlEOjpBdWRpZW5jZS0+ZnJvbV9oYXNoKHt9KTsKICAgICAgICAgICAgbW9jaygkdW5pcXVlX2lkKS0+ZXhwZWN0cygnc2V0JyktPnRpbWVzKDApOwogICAgICAgICAgICAkYXVkaWVuY2UgPSAkYXBpLT5hcHBseV91cGRhdGVfZGF0YSgkYXVkaWVuY2UsICR1cGRhdGUpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkZm9vID0gMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3VidGVzdCAnYXBwbHlfdXBkYXRlX2RhdGEnID0+IHN1YiB7CiAgICBteSAkdW5pcXVlX2lkID0gRk91dDo6VW5pcXVlSUQtPm5ldzsKCiAgICBteSAkYXBpID0gRk91dDo6RE1QOjpBdWRpZW5jZUFQSS0+bmV3KAogICAgICAgIHJlcSA9PiBGT3V0OjpSZXF1ZXN0LT5uZXcoe30pLAogICAgICAgIHVuaXF1ZV9pZCA9PiAkdW5pcXVlX2lkLAogICAgKTsKICAgIHN1YnRlc3QgJ2FsbCBwYXJhbXMgc2V0JyA9PiBzdWIgewogICAgICAgIG15ICR1cGRhdGUgPSB7CiAgICAgICAgICAgIGRldmljZV9pZCA9PiAnZm9vYmFyJywKICAgICAgICAgICAgbF9nZW5kZXIgPT4gMSwKICAgICAgICAgICAgbF9hZ2VfZ3JvdXAgPT4gNDAxLAogICAgICAgICAgICBsX2FyZWEgPT4gJ0pQLTEzJywKICAgICAgICAgICAgbF9pbnRlcmVzdCA9PiBbcXcoMDAxMDAxIDAwMjAwNildLAogICAgICAgIH07CiAgICAgICAgbXkgJGF1ZGllbmNlID0gRk91dDo6VW5pcXVlSUQ6OkF1ZGllbmNlLT5mcm9tX2hhc2goe30pOwogICAgICAgIG1vY2soJHVuaXF1ZV9pZCktPmV4cGVjdHMoJ3NldCcpLT50aW1lcygxKTsKICAgICAgICAkYXVkaWVuY2UgPSAkYXBpLT5hcHBseV91cGRhdGVfZGF0YSgkYXVkaWVuY2UsICR1cGRhdGUpOwoKICAgICAgICBpcyAkYXVkaWVuY2UtPmRldmljZV9pZCwgJ0ZPT0JBUicsICdVcHBlciBDYXNlZCc7CiAgICAgICAgaXMgJGF1ZGllbmNlLT5sX2dlbmRlciwgMTsKICAgICAgICBpcyAkYXVkaWVuY2UtPmxfYWdlX2dyb3VwLCA0MDE7CiAgICAgICAgaXMgJGF1ZGllbmNlLT5sX2FyZWEsICdKUC0xMyc7CiAgICAgICAgaXNfZGVlcGx5ICRhdWRpZW5jZS0+bF9pbnRlcmVzdCwgJzAwMTAwMSwwMDIwMDYnOwogICAgICAgIG15ICRyZXN1bHQgPSBUZXN0OjpEb3VibGUtPnZlcmlmeV9yZXN1bHQ7CiAgICAgICAgb2sgJHJlc3VsdC0+e3NldH17dGltZXN9OwoKICAgICAgICBUZXN0OjpEb3VibGUtPnJlc2V0OwogICAgfTsKICAgIHN1YnRlc3QgJ2FsbCBwYXJhbXMgc2V0JyA9PiBzdWIgewogICAgICAgIG15ICR1cGRhdGUgPSB7fTsKICAgICAgICBteSAkYXVkaWVuY2UgPSBGT3V0OjpVbmlxdWVJRDo6QXVkaWVuY2UtPmZyb21faGFzaCh7fSk7CiAgICAgICAgbW9jaygkdW5pcXVlX2lkKS0+ZXhwZWN0cygnc2V0JyktPnRpbWVzKDApOwogICAgICAgICRhdWRpZW5jZSA9ICRhcGktPmFwcGx5X3VwZGF0ZV9kYXRhKCRhdWRpZW5jZSwgJHVwZGF0ZSk7CgogICAgICAgIG9rICEkYXVkaWVuY2UtPmRldmljZV9pZDsKICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2dlbmRlcjsKICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FnZV9ncm91cDsKICAgICAgICBvayAhJGF1ZGllbmNlLT5sX2FyZWE7CiAgICAgICAgb2sgISRhdWRpZW5jZS0+bF9pbnRlcmVzdDsKICAgICAgICBteSAkcmVzdWx0ID0gVGVzdDo6RG91YmxlLT52ZXJpZnlfcmVzdWx0OwogICAgICAgIG9rICEkcmVzdWx0LT57c2V0fXt0aW1lc307CgogICAgICAgIFRlc3Q6OkRvdWJsZS0+cmVzZXQ7CiAgICB9Owp9OwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRhdWRpZW5jZS0+aXNfbmV3KSB7CiAgICAgICAgICAgICAgICAkYXVkaWVuY2UtPmRldmljZV9pZCgkZGV2aWNlX2lkKTsKICAgICAgICAgICAgICAgICRzZWxmLT51bmlxdWVfaWQtPnNldCgkYXVkaWVuY2UpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJcbi0tICIgLiBfX1BBQ0tBR0VfXyAuICIgLS1cbiI7CiAgICB3aGlsZSAoPERBVEE+KSB7CiAgICAgICAgcHJpbnQgJF87CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5wdXQgMQ==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfdXBkYXRlX2RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfdXBkYXRlX2RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1587,11 +1596,13 @@
         <entry encoding="base64">XDxfb3Blbl9sb2dcPg==</entry>
         <entry encoding="base64">XDxfc3BvdF9sb2dfZmlsZV9wYXRoXD4=</entry>
         <entry encoding="base64">XDxsb2dfZmlsZVw+</entry>
-        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
         <entry>adstir</entry>
         <entry encoding="base64">XDxUT0tFTlw+</entry>
         <entry encoding="base64">XDxnZXRfdXBkYXRlX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
+        <entry>conition</entry>
+        <entry encoding="base64">XDxfZ2V0X2F1ZGllbmNlXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
