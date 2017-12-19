@@ -50,23 +50,6 @@
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="d" />
   </action>
   <action id="Diagram.DeselectAll" />
-  <action id="Diff.AppendLeftSide">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="period" />
-  </action>
-  <action id="Diff.ApplyLeftSide">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift greater" />
-  </action>
-  <action id="Diff.ApplyRightSide">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift less" />
-  </action>
-  <action id="Diff.NextConflict">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="c" />
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift down" />
-  </action>
-  <action id="Diff.PreviousConflict">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift c" />
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift up" />
-  </action>
   <action id="Diff.SelectedChange">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -154,12 +137,6 @@
   </action>
   <action id="FullyExpandTreeNode" />
   <action id="Git.Add" />
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="d" />
-  </action>
-  <action id="Github.Open.In.Browser">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="o" />
-  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
@@ -210,12 +187,6 @@
     <keyboard-shortcut first-keystroke="shift meta back_space" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
-  <action id="LocalHistory.ShowHistory">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="l" />
-  </action>
-  <action id="LocalHistory.ShowSelectionHistory">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift l" />
-  </action>
   <action id="MakeStatic">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
@@ -242,10 +213,6 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NewElementSamePlace" />
-  <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="f7" />
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="down" />
-  </action>
   <action id="NextIdentifierReloaded">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
@@ -268,11 +235,6 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="PreviousDiff">
-    <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift d" />
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="up" />
   </action>
   <action id="PreviousIdentifierReloaded">
     <keyboard-shortcut first-keystroke="shift alt h" />
@@ -387,17 +349,9 @@
   </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
-  <action id="Vcs.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="ctrl v" />
-  </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ShowDiffWithLocal">
     <keyboard-shortcut first-keystroke="meta l" />
-  </action>
-  <action id="Vcs.ShowHistoryForBlock">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift h" />
-  </action>
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="h" />
   </action>
   <action id="VimChangeNumberDec">
     <keyboard-shortcut first-keystroke="ctrl x" />
