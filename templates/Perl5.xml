@@ -12,11 +12,9 @@
   </template>
   <template name="unless" value="unless ($EXPRESSION$) {&#10;    $END$&#10;}" description="unless block" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="wrap with unless" value="unless ($EXPRESSION$) {&#10;    $SELECTION$&#10;}" description="wrap with unless block" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="cmpthese" value="use Benchmark qw(:all);&#10;cmpthese($TIME_TRIAL$, {&#10;    $FUNC1$ =&gt; sub { $FUNC1$() },&#10;    $FUNC2$ =&gt; sub { $FUNC2$() },$END$&#10;});" description="benchmark" toReformat="true" toShortenFQNames="true">
     <variable name="TIME_TRIAL" expression="" defaultValue="&quot;1_000_000&quot;" alwaysStopAt="true" />
