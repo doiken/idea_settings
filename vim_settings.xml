@@ -257,7 +257,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513659937817">
+      <file name="/Dummy.txt" timestamp="1513660746403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -482,6 +482,9 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Test/MockObject/Extends.pm" timestamp="1501464435963">
         <mark key="'" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Container.pm" timestamp="1513661359583">
+        <mark key="'" line="137" column="22" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Seconds.pm" timestamp="1513130695993">
         <mark key="'" line="156" column="14" />
       </file>
@@ -518,8 +521,8 @@
       <file name="$FOUT_HOME$/t/fout/ad/delivery/publish_companion_script.t" timestamp="1502162286796">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" timestamp="1513656120656">
-        <mark key="'" line="40" column="4" />
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" timestamp="1513661260306">
+        <mark key="'" line="294" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/OpenX/Categories.pm" timestamp="1508133330654">
         <mark key="'" line="24" column="4" />
@@ -666,7 +669,7 @@
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/mobileapp-update.coffee" timestamp="1507873765547">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" timestamp="1513660136378">
+      <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" timestamp="1513660780583">
         <mark key="'" line="29" column="36" />
       </file>
       <file name="$FOUT_HOME$/t/fout/click/redirect/run.t" timestamp="1503455978768">
@@ -1154,8 +1157,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Adveri/Comscore.pm" timestamp="1501827520600">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/mtburn/config.yaml" timestamp="1513655871384">
-        <mark key="'" line="156" column="19" />
+      <file name="$USER_HOME$/Documents/mtburn/config.yaml" timestamp="1513661229794">
+        <mark key="'" line="934" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentIndex/Generator.pm" timestamp="1498636643894">
         <mark key="'" line="351" column="4" />
@@ -1220,12 +1223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="53" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="540" column="8" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="262" column="0" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="2" column="0" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
-      <jump line="455" column="0" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
-      <jump line="51" column="9" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="668" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="79" column="16" filename="$FOUT_HOME$/lib/FOut/UniqueID/Proxy.pm" />
       <jump line="264" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1303,7 +1300,6 @@
       <jump line="64" column="26" filename="$USER_HOME$/Documents/mtburn_go/cachemap/cachemap.go" />
       <jump line="38" column="63" filename="$USER_HOME$/Documents/mtburn_go/dao/line_demographic_code.go" />
       <jump line="74" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
-      <jump line="40" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
       <jump line="201" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/Hike/Delivery.pm" />
       <jump line="158" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/Hike/Delivery.pm" />
       <jump line="124" column="70" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/Hike/Delivery.pm" />
@@ -1320,6 +1316,13 @@
       <jump line="1802" column="37" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="1815" column="45" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
       <jump line="29" column="36" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/LINE/Delivery.pm" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
+      <jump line="120" column="4" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
+      <jump line="294" column="6" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/API/Client/AudienceAPI.pm" />
+      <jump line="286" column="0" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
+      <jump line="287" column="4" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
+      <jump line="934" column="8" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
+      <jump line="137" column="22" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Container.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1332,7 +1335,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>req</text>
+        <text encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$update</text>
@@ -1375,9 +1378,9 @@
       </register>
     </registers>
     <search>
-      <last-search>req</last-search>
+      <last-search encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</last-search>
       <last-offset />
-      <last-pattern>req</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1414,13 +1417,16 @@
         <entry encoding="base64">XDxtdGJjb25mXD4=</entry>
         <entry encoding="base64">XDx0dGxcPg==</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdGVfZGVtb2dyYXBoaWNfZGF0YVw+</entry>
-        <entry encoding="base64">XDxnZXRfbGF0ZXN0X2RlbW9ncmFwaGljXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2F1ZGllbmNlX2FwaV9kYXRhXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3RhcmdldGluZ19kYXRhXD4=</entry>
         <entry>request</entry>
         <entry encoding="base64">XDxfcGlja3VwX2Fkc19saW5lXD4=</entry>
         <entry encoding="base64">XDxwaWNrdXBfYWRzXD4=</entry>
         <entry>req</entry>
+        <entry encoding="base64">XDxnZXRfbGF0ZXN0X2RlbW9ncmFwaGljXD4=</entry>
+        <entry encoding="base64">XDxnZXRfb3JfcG9zdF9kZW1vZ3JhcGhpY1w+</entry>
+        <entry encoding="base64">XDxtZW1jYWNoZWRcPg==</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZV9hcGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
