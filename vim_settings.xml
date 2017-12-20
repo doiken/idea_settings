@@ -48,6 +48,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1513136814083">
         <mark key="'" line="128" column="16" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1513763795450">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="151" />
+      </file>
       <file name="$USER_HOME$/Documents/mtburn_go/rtb/web/calldsp.go" timestamp="1513663462727">
         <mark key="'" line="32" column="15" />
       </file>
@@ -117,6 +122,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Log/Any.pm" timestamp="1513003597221">
         <mark key="'" line="91" column="56" />
+      </file>
+      <file name="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" timestamp="1513763864900">
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="28" />
+        <mark key="." line="448" column="28" />
+        <mark key="^" line="449" column="0" />
       </file>
       <file name="$FOUT_HOME$/protobuf/doubleclickadex/realtime-bidding.v110.proto" timestamp="1512984498825">
         <mark key="'" line="0" column="0" />
@@ -288,7 +299,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513760955272">
+      <file name="/Dummy.txt" timestamp="1513764150180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -556,12 +567,11 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="14" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1513760435324">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1513763852593">
         <mark key="'" line="189" column="75" />
-        <mark key="[" line="427" column="31" />
-        <mark key="]" line="427" column="32" />
-        <mark key="^" line="427" column="32" />
-        <mark key="." line="427" column="32" />
+        <mark key="[" line="500" column="21" />
+        <mark key="]" line="500" column="31" />
+        <mark key="." line="500" column="21" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/YAML.pm" timestamp="1507863561301">
         <mark key="'" line="0" column="0" />
@@ -1092,8 +1102,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1509504821392">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/config.yaml" timestamp="1513584665766">
-        <mark key="'" line="622" column="13" />
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1513763416825">
+        <mark key="'" line="966" column="18" />
       </file>
       <file name="/System/Library/Perl/5.18/Getopt/Long.pm" timestamp="1503032801505">
         <mark key="'" line="294" column="9" />
@@ -1447,8 +1457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
-      <jump line="244" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="231" column="17" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="306" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1547,6 +1555,8 @@
       <jump line="26" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" />
       <jump line="27" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" />
       <jump line="28" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" />
+      <jump line="966" column="18" filename="$FOUT_HOME$/config.yaml" />
+      <jump line="52" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1556,55 +1566,55 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>de</text>
+        <text>$response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWFjb25fdXJsXD4=</text>
+        <text>beacon</text>
       </register>
       <register name="0" type="4">
-        <text>JSON::XS::decode_json</text>
+        <text>$admNative</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwogICAgICAgIHByaW50IER1bXBlciAkcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyAjIFBPU1QK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwogICAgICAgIHByaW50IER1bXBlciBKU09OOjpYUzo6ZW5jb2RlX2pzb24gJHJlcXVlc3RfZm9yX3Rlc3Q7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEgPT4gMSwgMiA9PiAyKTsKI21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEsIEB7WzMsIDRdfSk7CgpteSAoJGlzX2JsYWNrLCAkZG9tYWlucykgPSAiIiA9fiAvXighPykoLispJC87CnByaW50IDEgaWYgbGVuZ3RoICRkb21haW5zOwoKbXkgJGFyciA9IHt9OwokYXJyLT57Zm9vfS0+e2Jhcn07CnVzZSBEYXRhOjpEdW1wZXI7CnByaW50IER1bXBlciAkYXJyOyAjIE5HCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CnBhY2thZ2UgY29uZGl0aW9uX3RyaWFsIHsKICAgIHByaW50ICJcbi0tICIgLiBfX1BBQ0tBR0VfXyAuICIgLS1cbiI7CiAgICBpZiAobXkgJGZvbyA9IDApIHsKICAgICAgICBwcmludCAkZm9vOwogICAgfSBlbHNlIHsKICAgICAgICAkZm9vID0gMTsKICAgICAgICBwcmludCAkZm9vOwogICAgfQp9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAkZm9vOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZm9vID0gMTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgeyAjIFBPU1QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">I21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEgPT4gMSwgMiA9PiAyKTsKI21hcCB7IHByaW50ICRfIC4gIjoiOyAkXyA9PiAxIH0gKDEsIEB7WzMsIDRdfSk7CgpteSAoJGlzX2JsYWNrLCAkZG9tYWlucykgPSAiIiA9fiAvXighPykoLispJC87CnByaW50IDEgaWYgbGVuZ3RoICRkb21haW5zOwoKbXkgJGFyciA9IHt9OwokYXJyLT57Zm9vfS0+e2Jhcn07CnVzZSBEYXRhOjpEdW1wZXI7CnByaW50IER1bXBlciAkYXJyOyAjIE5HCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CnBhY2thZ2UgY29uZGl0aW9uX3RyaWFsIHsKICAgIHByaW50ICJcbi0tICIgLiBfX1BBQ0tBR0VfXyAuICIgLS1cbiI7CiAgICBpZiAobXkgJGZvbyA9IDApIHsKICAgICAgICBwcmludCAkZm9vOwogICAgfSBlbHNlIHsKICAgICAgICAkZm9vID0gMTsKICAgICAgICBwcmludCAkZm9vOwogICAgfQp9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJcbi0tICIgLiBfX1BBQ0tBR0VfXyAuICIgLS1cbiI7CiAgICB3aGlsZSAoPERBVEE+KSB7CiAgICAgICAgcHJpbnQgJF87CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAkZm9vOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWFjb25fdXJsXD4=</last-search>
+      <last-search>beacon</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWFjb25fdXJsXD4=</last-pattern>
+      <last-pattern>beacon</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1642,9 +1652,9 @@
         <entry encoding="base64">XDxiaWRfZGF0YVw+</entry>
         <entry>mode</entry>
         <entry encoding="base64">XDxydW5fbW9kZXNcPg==</entry>
-        <entry>beacon</entry>
         <entry encoding="base64">XDxhZG1fbmF0aXZlXD4=</entry>
         <entry encoding="base64">XDxiZWFjb25fdXJsXD4=</entry>
+        <entry>beacon</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
