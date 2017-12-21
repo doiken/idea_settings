@@ -343,6 +343,13 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1513845244394">
+        <mark key="'" line="951" column="38" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
       </file>
@@ -1466,8 +1473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="169" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="259" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="324" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="348" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
@@ -1566,6 +1571,8 @@
       <jump line="482" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="861" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1254" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="950" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="951" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1578,7 +1585,7 @@
         <text encoding="base64">LCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAn</text>
       </register>
       <register name="/" type="4">
-        <text>bids</text>
+        <text encoding="base64">XDxpc19ub19iaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXMgJHNkLT5nZXRfc2l0ZV9kb21haW4oJ3d3dy55YWhvby5jby5qcCcpLCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAnOwo=</text>
@@ -1621,9 +1628,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bids</last-search>
+      <last-search encoding="base64">XDxpc19ub19iaWRcPg==</last-search>
       <last-offset />
-      <last-pattern>bids</last-pattern>
+      <last-pattern encoding="base64">XDxpc19ub19iaWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1679,6 +1686,8 @@
         <entry encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</entry>
         <entry>app</entry>
         <entry>bids</entry>
+        <entry encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxpc19ub19iaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
