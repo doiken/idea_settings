@@ -190,8 +190,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdFunnel.pm" timestamp="1507790527987">
         <mark key="'" line="157" column="41" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1513840054108">
-        <mark key="'" line="24" column="10" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1513849348616">
+        <mark key="'" line="8" column="9" />
         <mark key="[" line="57" column="4" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="7" column="0" />
@@ -294,7 +294,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513848013645">
+      <file name="/Dummy.txt" timestamp="1513848966461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -482,6 +482,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Log/Any/Proxy.pm" timestamp="1513624706187">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1513849035608">
+        <mark key="'" line="364" column="50" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1510735820913">
         <mark key="'" line="90" column="26" />
@@ -998,7 +1005,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1513847630228">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1513848999473">
         <mark key="'" line="800" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/User.pm" timestamp="1511677112100">
@@ -1146,8 +1153,8 @@
       <file name="$FOUT_HOME$/t/fout/bid/decision/memd_bid-no_bid.t" timestamp="1501656384080">
         <mark key="'" line="29" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1513843152182">
-        <mark key="'" line="13" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1513849049398">
+        <mark key="'" line="134" column="34" />
       </file>
       <file name="$FOUT_HOME$/bid/cron/extract_bid_aucnum_info.sh" timestamp="1513580240914">
         <mark key="'" line="19" column="26" />
@@ -1475,21 +1482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="68" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="76" column="16" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="103" column="38" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="178" column="52" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="418" column="9" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="189" column="75" filename="$FOUT_HOME$/t/fout/bid/adserver/hike.t" />
-      <jump line="44" column="31" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="55" column="43" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="105" column="12" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="160" column="33" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="561" column="22" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="65" column="0" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="68" column="29" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="126" column="20" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="433" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" />
       <jump line="110" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
       <jump line="113" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
       <jump line="635" column="26" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
@@ -1556,9 +1548,7 @@
       <jump line="116" column="13" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
       <jump line="115" column="13" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
-      <jump line="90" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="210" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="8" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="24" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="482" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="861" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1575,6 +1565,23 @@
       <jump line="8" column="16" filename="$FOUT_HOME$/lib/FOut/AdSpot/Register.pm" />
       <jump line="10" column="24" filename="$FOUT_HOME$/lib/FOut/AdSpot/Register.pm" />
       <jump line="11" column="24" filename="$FOUT_HOME$/lib/FOut/AdSpot/Register.pm" />
+      <jump line="91" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="400" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="57" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="92" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="96" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="364" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="134" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
+      <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="90" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="125" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="130" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="131" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="203" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="208" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="8" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1587,7 +1594,7 @@
         <text encoding="base64">LCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbVw+</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXMgJHNkLT5nZXRfc2l0ZV9kb21haW4oJ3d3dy55YWhvby5jby5qcCcpLCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAnOwo=</text>
@@ -1630,9 +1637,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbVw+</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbVw+</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1694,6 +1701,9 @@
         <entry encoding="base64">XDxzcG90XD4=</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
+        <entry>param</entry>
+        <entry>response</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
