@@ -196,8 +196,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdFunnel.pm" timestamp="1507790527987">
         <mark key="'" line="157" column="41" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1513838911660">
-        <mark key="'" line="90" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1513840054108">
+        <mark key="'" line="24" column="10" />
         <mark key="[" line="57" column="4" />
         <mark key="]" line="57" column="16" />
         <mark key="." line="7" column="0" />
@@ -300,7 +300,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513833244593">
+      <file name="/Dummy.txt" timestamp="1513840062899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1468,9 +1468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="104" column="33" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
-      <jump line="300" column="15" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="54" column="27" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="98" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
       <jump line="122" column="9" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
@@ -1568,6 +1565,9 @@
       <jump line="115" column="13" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="90" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="210" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="8" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="24" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1580,7 +1580,7 @@
         <text encoding="base64">LCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</text>
+        <text>app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXMgJHNkLT5nZXRfc2l0ZV9kb21haW4oJ3d3dy55YWhvby5jby5qcCcpLCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAnOwo=</text>
@@ -1623,9 +1623,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1679,6 +1679,7 @@
         <entry>app_id</entry>
         <entry encoding="base64">XDw9XD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
