@@ -423,6 +423,9 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1502753306399">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" timestamp="1513837504332">
+        <mark key="'" line="115" column="13" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/sync/beacon/new_sync.t" timestamp="1499999686888">
         <mark key="'" line="65" column="68" />
       </file>
@@ -479,6 +482,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" timestamp="1511773803966">
         <mark key="'" line="30" column="9" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" timestamp="1513837498991">
+        <mark key="'" line="109" column="67" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/x86_64-linux/URI/Escape/XS.pm" timestamp="1510890149538">
         <mark key="'" line="50" column="4" />
@@ -1262,13 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="22" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Container.pm" />
-      <jump line="163" column="0" filename="$FOUT_HOME$/js/html/beacon.html" />
-      <jump line="2" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="442" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="311" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
-      <jump line="139" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="26" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/NoIframeRole.pm" />
       <jump line="432" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" />
       <jump line="81" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
       <jump line="61" column="0" filename="$FOUT_HOME$/lib/FOut/AD/Publish.pm" />
@@ -1362,6 +1361,13 @@
       <jump line="28" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
       <jump line="25" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
       <jump line="673" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" />
+      <jump line="41" column="12" filename="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" />
+      <jump line="40" column="12" filename="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" />
+      <jump line="109" column="67" filename="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
+      <jump line="116" column="13" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
+      <jump line="115" column="13" filename="$FOUT_HOME$/lib/FOut/API/Impl/NativeApp.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1374,7 +1380,7 @@
         <text encoding="base64">LCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUERBVEVfTE9HX0ZJTEVcPg==</text>
+        <text>categ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aXMgJHNkLT5nZXRfc2l0ZV9kb21haW4oJ3d3dy55YWhvby5jby5qcCcpLCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAnOwo=</text>
@@ -1417,9 +1423,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUERBVEVfTE9HX0ZJTEVcPg==</last-search>
+      <last-search>categ</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUERBVEVfTE9HX0ZJTEVcPg==</last-pattern>
+      <last-pattern>categ</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1469,6 +1475,7 @@
         <entry encoding="base64">XDx1cGRhdGVfbG9nXD4=</entry>
         <entry encoding="base64">XDxVUERBVEVfU1lNTElOS19OQU1FXD4=</entry>
         <entry encoding="base64">XDxVUERBVEVfTE9HX0ZJTEVcPg==</entry>
+        <entry>categ</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
