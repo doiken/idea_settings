@@ -471,12 +471,6 @@
       <file name="/System/Library/Perl/Extras/5.18/namespace/autoclean.pm" timestamp="1500879374258">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1513763852593">
-        <mark key="'" line="189" column="75" />
-        <mark key="[" line="500" column="21" />
-        <mark key="]" line="500" column="31" />
-        <mark key="." line="500" column="21" />
-      </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/YAML.pm" timestamp="1507863561301">
         <mark key="'" line="0" column="0" />
       </file>
@@ -687,7 +681,7 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1513050181925">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1513143366229">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1513836449181">
         <mark key="'" line="408" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl.pm" timestamp="1510639099998">
@@ -831,8 +825,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1513828780605">
-        <mark key="'" line="794" column="51" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1513836070874">
+        <mark key="'" line="673" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/User.pm" timestamp="1511677112100">
         <mark key="'" line="0" column="0" />
@@ -1268,7 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="934" column="8" filename="$USER_HOME$/Documents/mtburn/config.yaml" />
       <jump line="137" column="22" filename="$USER_HOME$/Documents/mtburn/lib/MTBurn/Container.pm" />
       <jump line="163" column="0" filename="$FOUT_HOME$/js/html/beacon.html" />
       <jump line="2" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
@@ -1368,6 +1361,7 @@
       <jump line="106" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/BidExtractor.pm" />
       <jump line="28" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
       <jump line="25" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
+      <jump line="673" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
