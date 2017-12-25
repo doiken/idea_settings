@@ -341,8 +341,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1513845244394">
-        <mark key="'" line="951" column="38" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1514183817468">
+        <mark key="'" line="938" column="0" />
         <mark key="[" line="44" column="8" />
         <mark key="]" line="46" column="28" />
         <mark key="^" line="46" column="28" />
@@ -1165,8 +1165,8 @@
       <file name="$FOUT_HOME$/t/fout/bid/decision/memd_bid-no_bid.t" timestamp="1501656384080">
         <mark key="'" line="29" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1513849049398">
-        <mark key="'" line="134" column="34" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1514183839643">
+        <mark key="'" line="211" column="17" />
       </file>
       <file name="$FOUT_HOME$/bid/cron/extract_bid_aucnum_info.sh" timestamp="1513580240914">
         <mark key="'" line="19" column="26" />
@@ -1494,11 +1494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="8" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="253" column="19" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="254" column="19" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="263" column="43" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="272" column="20" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="310" column="12" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="320" column="12" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="358" column="15" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
@@ -1594,6 +1589,11 @@
       <jump line="189" column="32" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/files/etc/nagios/commands.cfg" />
       <jump line="130" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/files/etc/nagios/commands.cfg" />
       <jump line="231" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/nodes.pp" />
+      <jump line="771" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="938" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="210" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
+      <jump line="212" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
+      <jump line="211" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1606,7 +1606,7 @@
         <text encoding="base64">LCAnd3d3LnlhaG9vLmNvLmpwJywgJ3d3dy55YWhvby5jby5qcCAtPiB3d3cueWFob28uY28uanAn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19waW5nXD4=</text>
+        <text>page</text>
       </register>
       <register name="0" type="4">
         <text>td_bid_log</text>
@@ -1649,9 +1649,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19waW5nXD4=</last-search>
+      <last-search>page</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19waW5nXD4=</last-pattern>
+      <last-pattern>page</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1718,6 +1718,8 @@
         <entry>url</entry>
         <entry>ping</entry>
         <entry encoding="base64">XDxjaGVja19waW5nXD4=</entry>
+        <entry>query</entry>
+        <entry>page</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
