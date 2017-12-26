@@ -216,12 +216,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenX/PMP.pm" timestamp="1502955533693">
         <mark key="'" line="37" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1514188829868">
+      <file name="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" timestamp="1514269986842">
         <mark key="'" line="402" column="10" />
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="^" line="349" column="50" />
-        <mark key="." line="352" column="0" />
+        <mark key="[" line="308" column="5" />
+        <mark key="]" line="308" column="15" />
+        <mark key="^" line="308" column="15" />
+        <mark key="." line="308" column="15" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
@@ -280,7 +280,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514267260217">
+      <file name="/Dummy.txt" timestamp="1514269989265">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -572,7 +572,9 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Google/API/Client.pm" timestamp="1508222832865">
         <mark key="'" line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/capistrano/Capfile" timestamp="1514182849121" />
+      <file name="$USER_HOME$/Documents/fout_infra/capistrano/Capfile" timestamp="1514269710036">
+        <mark key="'" line="49" column="25" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/ad/delivery/publish_companion_script.t" timestamp="1502162286796">
         <mark key="'" line="16" column="0" />
       </file>
@@ -1313,7 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="308" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="313" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="319" column="29" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="321" column="32" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
@@ -1413,6 +1414,7 @@
       <jump line="1192" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="126" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="256" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="49" column="25" filename="$USER_HOME$/Documents/fout_infra/capistrano/Capfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
