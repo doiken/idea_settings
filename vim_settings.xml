@@ -47,6 +47,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1511486030895">
         <mark key="'" line="107" column="11" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1515479701031">
+        <mark key="[" line="180" column="47" />
+      </file>
       <file name="$FOUT_HOME$/conti/plack/conti.psgi" timestamp="1512986349611">
         <mark key="'" line="23" column="39" />
       </file>
@@ -472,7 +475,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Class/MOP/Mixin/HasAttributes.pm" timestamp="1507773844445">
         <mark key="'" line="64" column="27" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange.t" timestamp="1515478384743">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange.t" timestamp="1515480064872">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="54" column="6" />
         <mark key="]" line="54" column="7" />
         <mark key="." line="54" column="7" />
@@ -494,6 +498,12 @@
       </file>
       <file name="/System/Library/Perl/Extras/5.18/namespace/autoclean.pm" timestamp="1500879374258">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1513763852593">
+        <mark key="'" line="189" column="75" />
+        <mark key="[" line="500" column="21" />
+        <mark key="]" line="500" column="31" />
+        <mark key="." line="500" column="21" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/YAML.pm" timestamp="1507863561301">
         <mark key="'" line="0" column="0" />
@@ -765,6 +775,9 @@
       <file name="/Library/Perl/5.18/Test/MockObject/Extends.pm" timestamp="1511859402671">
         <mark key="'" line="73" column="21" />
       </file>
+      <file name="/file.dummy" timestamp="1515478985638">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1513847656031">
         <mark key="'" line="40" column="13" />
       </file>
@@ -1032,6 +1045,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1514189975360">
         <mark key="'" line="31" column="40" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1513820895853">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/oozie/coordinators/run_oozie_job.sh" timestamp="1514190893916">
         <mark key="'" line="50" column="0" />
@@ -1307,7 +1323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1192" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="126" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="256" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="49" column="25" filename="$USER_HOME$/Documents/fout_infra/capistrano/Capfile" />
@@ -1407,6 +1422,7 @@
       <jump line="161" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="307" column="1" filename="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange.t" />
       <jump line="88" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange.t" />
+      <jump line="26" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1419,7 +1435,7 @@
         <text encoding="base64">IGlmICRhdWRpZW5jZV9pZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxcPg==</text>
+        <text>semi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRhdWRpZW5jZSA9ICRzZWxmLT51bmlxdWVfaWQtPmdldCgkYXVkaWVuY2VfaWQpIHVubGVzcyAkYXVkaWVuY2U7Cg==</text>
@@ -1462,9 +1478,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxcPg==</last-search>
+      <last-search>semi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-pattern>semi</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1573,6 +1589,7 @@
         <entry encoding="base64">XDxyZXNvbHZlX3VybFw+</entry>
         <entry encoding="base64">XDx3cml0ZV9zcG90X2xvZ1w+</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
+        <entry>semi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
