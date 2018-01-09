@@ -45,8 +45,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1511486030895">
         <mark key="'" line="107" column="11" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1515487303128">
-        <mark key="'" line="6" column="58" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1515488238832">
+        <mark key="'" line="174" column="28" />
         <mark key="[" line="555" column="25" />
         <mark key="]" line="555" column="38" />
       </file>
@@ -425,6 +425,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Log/Any/Proxy.pm" timestamp="1513624706187">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1515488096117">
+        <mark key="'" line="364" column="50" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1510735820913">
         <mark key="'" line="90" column="26" />
@@ -1340,21 +1347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="608" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="655" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="662" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="658" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="178" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="587" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="627" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="590" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="221" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="301" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="429" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="7" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="269" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="168" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="503" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="504" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="492" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
@@ -1381,11 +1373,9 @@
       <jump line="500" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="493" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="171" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
-      <jump line="209" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="596" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="279" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="68" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="166" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="171" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="172" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="177" column="65" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
@@ -1440,6 +1430,23 @@
       <jump line="621" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="591" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="6" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="213" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="19" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="73" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="91" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="94" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="96" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="98" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="100" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="209" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="284" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="285" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="286" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="167" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="280" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="276" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="166" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="174" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1452,7 +1459,7 @@
         <text encoding="base64">IEZBVEFMID0+ICdhbGwn</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0X2luZmVlZFw+</text>
+        <text encoding="base64">XDxhZHNsb3Rfc2VsZWN0ZWRfd2lkdGhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>size</text>
@@ -1495,9 +1502,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0X2luZmVlZFw+</last-search>
+      <last-search encoding="base64">XDxhZHNsb3Rfc2VsZWN0ZWRfd2lkdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0X2luZmVlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZHNsb3Rfc2VsZWN0ZWRfd2lkdGhcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1588,7 +1595,6 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxzbG90X3Njb3JlXD4=</entry>
         <entry encoding="base64">XDxtYXhfc2xvdF9zY29yZVw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RfYWRzbG90XD4=</entry>
         <entry>gogle</entry>
         <entry>google</entry>
         <entry encoding="base64">XDxBZFNsb3RcPg==</entry>
@@ -1619,6 +1625,11 @@
         <entry encoding="base64">XDxsb2dnaW5nX3JlcXVlc3RfZGF0YVw+</entry>
         <entry encoding="base64">XDxpbmZlZWRfcmVxdWlyZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxpbml0X2luZmVlZFw+</entry>
+        <entry>width</entry>
+        <entry encoding="base64">XDx3aWR0aFw+</entry>
+        <entry encoding="base64">XDx3aWR0aF9zaXplXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RfYWRzbG90XD4=</entry>
+        <entry encoding="base64">XDxhZHNsb3Rfc2VsZWN0ZWRfd2lkdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
