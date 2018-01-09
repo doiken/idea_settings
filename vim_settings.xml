@@ -47,8 +47,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1511486030895">
         <mark key="'" line="107" column="11" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1511257479043">
-        <mark key="'" line="45" column="11" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1515467618685">
+        <mark key="'" line="183" column="113" />
       </file>
       <file name="$FOUT_HOME$/conti/plack/conti.psgi" timestamp="1512986349611">
         <mark key="'" line="23" column="39" />
@@ -1315,9 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="318" column="67" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="309" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="307" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="402" column="10" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="573" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
@@ -1415,6 +1412,9 @@
       <jump line="401" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
       <jump line="87" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
       <jump line="101" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
+      <jump line="172" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="180" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
+      <jump line="183" column="113" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1427,7 +1427,7 @@
         <text encoding="base64">IGlmICRhdWRpZW5jZV9pZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxzaXplXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRhdWRpZW5jZSA9ICRzZWxmLT51bmlxdWVfaWQtPmdldCgkYXVkaWVuY2VfaWQpIHVubGVzcyAkYXVkaWVuY2U7Cg==</text>
@@ -1470,9 +1470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxzaXplXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaXplXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1562,6 +1562,7 @@
         <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
         <entry encoding="base64">XDxpc190b19wdXNoX2luZmVlZF9tZW1vXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
