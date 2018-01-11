@@ -140,12 +140,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion/Summary/Abstract.pm" timestamp="1498629611024">
         <mark key="'" line="108" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/sitedomain/get_site_domain.t" timestamp="1513828812030">
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="18" column="52" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="12" />
-      </file>
       <file name="$FOUT_HOME$/tools/adlog_parser.pl" timestamp="1502841179082">
         <mark key="'" line="187" column="59" />
       </file>
@@ -315,12 +309,6 @@
         <mark key="]" line="17" column="34" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1515551744294">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="46" column="28" />
-        <mark key="^" line="46" column="28" />
-        <mark key="." line="46" column="28" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -994,6 +982,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1514265478071">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1515652926587">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/System/Library/Perl/5.18/Getopt/Long.pm" timestamp="1503032801505">
         <mark key="'" line="294" column="9" />
       </file>
@@ -1324,8 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="255" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="293" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="279" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
       <jump line="211" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
@@ -1424,6 +1413,8 @@
       <jump line="1766" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="984" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="930" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1473" column="4" filename="$FOUT_HOME$/config.yaml" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/config.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1436,7 +1427,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdGhcPg==</text>
+        <text>appnex</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1480,9 +1471,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdGhcPg==</last-search>
+      <last-search>appnex</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdGhcPg==</last-pattern>
+      <last-pattern>appnex</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1642,6 +1633,7 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxfYWRncnBfcmVxdWlyZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxzdGhcPg==</entry>
+        <entry>appnex</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
