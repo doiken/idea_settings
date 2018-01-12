@@ -90,8 +90,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Test/Warn.pm" timestamp="1503281768728">
         <mark key="'" line="271" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1501207624403">
-        <mark key="'" line="13" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1515750548553">
+        <mark key="'" line="32" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Reader.pm" timestamp="1511840044237">
         <mark key="'" line="123" column="19" />
@@ -163,7 +163,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/Defs.pm" timestamp="1511318390023">
         <mark key="'" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1515723809264">
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1515748649655">
+        <mark key="'" line="26" column="51" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
@@ -307,7 +308,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515738455405">
+      <file name="/Dummy.txt" timestamp="1515748748939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -343,6 +344,13 @@
         <mark key="]" line="17" column="34" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1515748874716">
+        <mark key="'" line="255" column="23" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AssortedSpots/Optimizer.pm" timestamp="1510812220905">
         <mark key="'" line="101" column="17" />
@@ -426,7 +434,7 @@
         <mark key="'" line="7" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SiteDomain.pm" timestamp="1513828784750" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1499138226731">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1515748608636">
         <mark key="'" line="42" column="5" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1515551247201">
@@ -597,6 +605,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1515649982377">
         <mark key="'" line="892" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/bid/nn" timestamp="1515748692012" />
       <file name="$FOUT_HOME$/lib/FOut/AD/Request/OpenXUSWest.pm" timestamp="1508132999731">
         <mark key="'" line="92" column="0" />
       </file>
@@ -788,8 +797,12 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="46" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1515650453217">
-        <mark key="'" line="930" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1515750969478">
+        <mark key="'" line="1043" column="4" />
+        <mark key="[" line="1051" column="4" />
+        <mark key="]" line="1051" column="4" />
+        <mark key="^" line="1051" column="4" />
+        <mark key="." line="1051" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl.pm" timestamp="1510639099998">
         <mark key="'" line="42" column="4" />
@@ -937,8 +950,8 @@
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1515650081464">
-        <mark key="'" line="72" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1515749143495">
+        <mark key="'" line="109" column="25" />
       </file>
       <file name="$FOUT_HOME$/tools/create_config_local_yaml.pl" timestamp="1511772831090">
         <mark key="'" line="1" column="0" />
@@ -949,7 +962,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1515485086349">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1515748780331">
         <mark key="'" line="432" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/User.pm" timestamp="1511677112100">
@@ -1233,6 +1246,9 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/lib/tasks/dummy_data.rake" timestamp="1511809479152">
         <mark key="'" line="2" column="10" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1515750533617">
+        <mark key="'" line="111" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/emergency-call.coffee" timestamp="1507866200336">
         <mark key="'" line="88" column="19" />
       </file>
@@ -1404,34 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="20" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="193" column="12" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="57" column="20" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="41" column="0" filename="$FOUT_HOME$/t/fout/dmp/audience_api-rfp.t" />
-      <jump line="0" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="51" column="6" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/ItemTermVecSimilarityDaily.pm" />
-      <jump line="73" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/ItemTermVecSimilarityDaily.pm" />
-      <jump line="20" column="25" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/dynamicads/ItemTermVecSimilarityDailyRunner.scala" />
-      <jump line="119" column="25" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/dynamicads/ItemTermVecSimilarityDailyRunner.scala" />
-      <jump line="67" column="25" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/ItemTermVecSimilarityDaily.pm" />
-      <jump line="34" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/ItemTermVecSimilarityDaily.pm" />
-      <jump line="131" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="119" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="118" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="92" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="33" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="60" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="95" column="16" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="102" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="108" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="91" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DynamicAd/SparkToHive.pm" />
-      <jump line="84" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/dynamicads/ItemTermVecSimilarityDailyRunner.scala" />
-      <jump line="88" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/dynamicads/ItemTermVecSimilarityDailyRunner.scala" />
-      <jump line="92" column="24" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/dynamicads/ItemTermVecSimilarityDailyRunner.scala" />
-      <jump line="328" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/dynamicads/logic/TestItemTermVecSimilarityDaily.scala" />
       <jump line="340" column="43" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/dynamicads/logic/TestItemTermVecSimilarityDaily.scala" />
       <jump line="37" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
       <jump line="72" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
@@ -1504,6 +1492,34 @@
       <jump line="181" column="5" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
       <jump line="17" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Redirect.pm" />
+      <jump line="965" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="288" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="26" column="51" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" />
+      <jump line="121" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="311" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="255" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="109" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="56" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1058" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1188" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1254" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1054" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1062" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1064" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1065" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1068" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1070" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1071" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1073" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1074" column="88" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="151" column="15" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="99" column="1" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="244" column="0" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="111" column="18" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="32" column="8" filename="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" />
+      <jump line="1715" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="271" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1043" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1516,7 +1532,7 @@
         <text>«</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</text>
+        <text encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1559,9 +1575,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</last-search>
+      <last-search encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1616,7 +1632,6 @@
         <entry encoding="base64">XDxpc19ub19iaWRcPg==</entry>
         <entry>score</entry>
         <entry encoding="base64">XDxzcG90XD4=</entry>
-        <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry>param</entry>
         <entry>response</entry>
@@ -1731,6 +1746,12 @@
         <entry encoding="base64">XDxiZWFjb25fY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</entry>
         <entry encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</entry>
+        <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
+        <entry encoding="base64">XDxzcWxcPg==</entry>
+        <entry encoding="base64">XDxyb3dcPg==</entry>
+        <entry encoding="base64">XDxjb2xzX2hhc2hcPg==</entry>
+        <entry encoding="base64">XDxub19wYXRjaFw+</entry>
+        <entry encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
