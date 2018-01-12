@@ -32,6 +32,7 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Class/Accessor.pm" timestamp="1501114338152">
         <mark key="'" line="15" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Logger.pm" timestamp="1515737316191" />
       <file name="$USER_HOME$/IdeaProjects/hackerbase/app/views/asct/index.html.slim" timestamp="1511626865204">
         <mark key="'" line="26" column="6" />
       </file>
@@ -95,8 +96,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Reader.pm" timestamp="1511840044237">
         <mark key="'" line="123" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" timestamp="1515736698266">
-        <mark key="'" line="190" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" timestamp="1515738010371">
+        <mark key="'" line="79" column="47" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -267,7 +268,7 @@
       <file name="$FOUT_HOME$/lib/FOut/DB/Dsp/Row/Ads.pm" timestamp="1502757809527">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1514265617095">
+      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1515736977603">
         <mark key="'" line="202" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/review_active/nn" timestamp="1499929080229">
@@ -288,7 +289,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515736005486">
+      <file name="/Dummy.txt" timestamp="1515738455405">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -544,6 +545,9 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Seconds.pm" timestamp="1513130695993">
         <mark key="'" line="156" column="14" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1515737209949">
+        <mark key="'" line="0" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentAPI/Audience.pm" timestamp="1510626864940">
         <mark key="'" line="75" column="16" />
@@ -815,6 +819,7 @@
       <file name="$USER_HOME$/Documents/fout_ui/lib/FOutUI/M/Internal.pm" timestamp="1499039477935">
         <mark key="'" line="48" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Reader/SyncAudience.pm" timestamp="1515737341780" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" timestamp="1508745259950">
         <mark key="'" line="27" column="17" />
       </file>
@@ -949,8 +954,8 @@
       <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/production.rb" timestamp="1511617085579">
         <mark key="'" line="43" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1515736038164">
-        <mark key="'" line="79" column="36" />
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1515738453675">
+        <mark key="'" line="91" column="4" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Moose/Meta/Class.pm" timestamp="1507776122707">
         <mark key="'" line="569" column="21" />
@@ -1163,8 +1168,8 @@
         <mark key="^" line="145" column="14" />
         <mark key="." line="145" column="14" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" timestamp="1515735892822">
-        <mark key="'" line="45" column="22" />
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" timestamp="1515737436225">
+        <mark key="'" line="0" column="39" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/x86_64-linux/Class/MOP/Mixin/HasAttributes.pm" timestamp="1507679092760">
         <mark key="'" line="24" column="14" />
@@ -1289,8 +1294,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/HTTP/Request.pm" timestamp="1508222813654">
         <mark key="'" line="151" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1515736321555">
-        <mark key="'" line="87" column="31" />
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1515737974119">
+        <mark key="'" line="0" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/ItemImporter.pm" timestamp="1509353183741">
         <mark key="'" line="43" column="8" />
@@ -1343,25 +1348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="692" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="681" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="624" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="664" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" />
-      <jump line="4" column="4" filename="$USER_HOME$/Documents/perl/xpath_trial.pl" />
-      <jump line="5" column="13" filename="$USER_HOME$/Documents/perl/xpath_trial.pl" />
-      <jump line="8" column="13" filename="$USER_HOME$/Documents/perl/xpath_trial.pl" />
-      <jump line="615" column="4" filename="$FOUT_HOME$/config.yaml" />
-      <jump line="28" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="545" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="527" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="242" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/ParamsBase.pm" />
-      <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/ParamsBase.pm" />
-      <jump line="146" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/ParamsBase.pm" />
-      <jump line="308" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="132" column="8" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="130" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="371" column="10" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="59" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
       <jump line="32" column="35" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
       <jump line="44" column="19" filename="$FOUT_HOME$/t/fout/dmp/audience_api-line.t" />
@@ -1420,10 +1406,8 @@
       <jump line="89" column="21" filename="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/SyncAudience.pm" />
       <jump line="105" column="34" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
       <jump line="109" column="29" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
-      <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
       <jump line="190" column="14" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
       <jump line="95" column="24" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
-      <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
       <jump line="62" column="32" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
       <jump line="68" column="8" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
       <jump line="59" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
@@ -1443,6 +1427,27 @@
       <jump line="241" column="21" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
       <jump line="167" column="8" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
       <jump line="211" column="13" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
+      <jump line="103" column="31" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="14" column="1" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" />
+      <jump line="106" column="29" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
+      <jump line="244" column="14" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
+      <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="87" column="0" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="64" column="34" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="67" column="32" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="13" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="20" column="23" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" />
+      <jump line="14" column="11" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
+      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
+      <jump line="0" column="39" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" />
+      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
+      <jump line="99" column="26" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="47" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="77" column="15" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="79" column="47" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
+      <jump line="89" column="13" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
+      <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
+      <jump line="91" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1455,7 +1460,7 @@
         <text>«</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZW5kb3JcPg==</text>
+        <text encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1498,9 +1503,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZW5kb3JcPg==</last-search>
+      <last-search encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZW5kb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1661,13 +1666,15 @@
         <entry encoding="base64">XDxfYWRncnBfcmVxdWlyZW1lbnRzXD4=</entry>
         <entry encoding="base64">XDxzdGhcPg==</entry>
         <entry>appnex</entry>
-        <entry encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</entry>
-        <entry encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</entry>
-        <entry encoding="base64">XDxiZWFjb25fY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxpZF9tYXBfaW5mb1w+</entry>
         <entry>vendor</entry>
         <entry encoding="base64">XDx2ZW5kb3JzXD4=</entry>
         <entry encoding="base64">XDx2ZW5kb3JcPg==</entry>
+        <entry encoding="base64">XDxTaXN0ZXJBY2Nlc3NvcnNcPg==</entry>
+        <entry encoding="base64">XDxsaW5lXD4=</entry>
+        <entry encoding="base64">XDxkZXZpY2VfYXVkaWVuY2VcPg==</entry>
+        <entry encoding="base64">XDxiZWFjb25fY2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxiZWFjb25fY2xhc3NfZGVmaW5pdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lzL2FzL2dj</entry>
