@@ -595,6 +595,9 @@
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/pg_deal_index.t" timestamp="1512112740708">
         <mark key="'" line="2" column="1" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/SplitRun.pm" timestamp="1515987874688">
+        <mark key="'" line="28" column="7" />
+      </file>
       <file name="/Updater.pm" timestamp="1510103103397">
         <mark key="'" line="65" column="12" />
       </file>
@@ -663,6 +666,13 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1508892571536">
         <mark key="'" line="1823" column="11" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" timestamp="1515988216584">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="84" column="31" />
+        <mark key="]" line="84" column="31" />
+        <mark key="^" line="139" column="5" />
+        <mark key="." line="84" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1514265682743">
         <mark key="'" line="123" column="0" />
@@ -770,8 +780,8 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="46" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1515985683271">
-        <mark key="'" line="1047" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1515987737262">
+        <mark key="'" line="795" column="12" />
         <mark key="[" line="1051" column="4" />
         <mark key="]" line="1051" column="4" />
         <mark key="^" line="1051" column="4" />
@@ -1249,6 +1259,9 @@
       <file name="$FOUT_HOME$/t/fout/api/impl/adgroup/set_bulk.t" timestamp="1508492608839">
         <mark key="'" line="19" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" timestamp="1515987994913">
+        <mark key="'" line="60" column="4" />
+      </file>
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1499831320049">
         <mark key="'" line="58" column="27" />
       </file>
@@ -1398,19 +1411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="31" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
-      <jump line="183" column="5" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="61" column="20" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="82" column="20" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="112" column="20" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="125" column="32" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="146" column="20" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="159" column="32" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="199" column="10" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="228" column="35" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="241" column="21" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
-      <jump line="167" column="8" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
       <jump line="211" column="13" filename="$FOUT_HOME$/t/fout/log/scanner/worker/sync_audience.t" />
       <jump line="103" column="31" filename="$FOUT_HOME$/lib/FOut/UniqueID/CrossDeviceMapper.pm" />
       <jump line="14" column="1" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" />
@@ -1498,6 +1498,19 @@
       <jump line="68" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="78" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="502" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="795" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="28" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/SplitRun.pm" />
+      <jump line="89" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="22" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="84" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="81" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="107" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="104" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="130" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="135" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="23" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1507,10 +1520,10 @@
         <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpDYW1wYWlnbjsK</text>
       </register>
       <register name="-" type="4">
-        <text>«</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaFw+</text>
+        <text encoding="base64">XDxmaFw+</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1553,9 +1566,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaFw+</last-search>
+      <last-search encoding="base64">XDxmaFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1593,6 +1606,11 @@
         <entry encoding="base64">XDxhZ19zcGxpdHJ1bl9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxzcGxpdHJ1bl9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
+        <entry encoding="base64">XDxoaXZlX2NsaWVudFw+</entry>
+        <entry encoding="base64">XDxfZG93bmxvYWRfdmlhX3NzaFw+</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25cPg==</entry>
+        <entry encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxmaFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
