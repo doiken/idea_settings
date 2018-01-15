@@ -279,7 +279,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516007402589">
+      <file name="/Dummy.txt" timestamp="1516009365338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -639,7 +639,7 @@
         <mark key="^" line="139" column="5" />
         <mark key="." line="84" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1514265682743">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1516009214562">
         <mark key="'" line="123" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" timestamp="1499823088650">
@@ -717,8 +717,8 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1513581949867">
         <mark key="'" line="30" column="35" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1508291888128">
-        <mark key="'" line="86" column="43" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1516010222179">
+        <mark key="'" line="22" column="142" />
       </file>
       <file name="$FOUT_HOME$/tools/notify-slack" timestamp="1511768794068">
         <mark key="'" line="38" column="4" />
@@ -744,14 +744,14 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1513050181925">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1516004725163">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1516008955365">
         <mark key="'" line="353" column="2" />
         <mark key="[" line="46" column="90" />
         <mark key="]" line="46" column="1" />
         <mark key="^" line="46" column="1" />
         <mark key="." line="46" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1516007436339">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1516009942124">
         <mark key="'" line="1118" column="31" />
         <mark key="[" line="1051" column="4" />
         <mark key="]" line="1051" column="4" />
@@ -1053,8 +1053,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Creative.pm" timestamp="1502769258760">
         <mark key="'" line="603" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1514265527091">
-        <mark key="'" line="91" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1516010239459">
+        <mark key="'" line="986" column="20" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1508823549088">
         <mark key="'" line="7" column="0" />
@@ -1266,6 +1266,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1509347666921">
         <mark key="'" line="126" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1516009297864">
+        <mark key="'" line="142" column="54" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" timestamp="1513846027132">
         <mark key="'" line="433" column="24" />
       </file>
@@ -1379,15 +1382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="18" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
-      <jump line="32" column="8" filename="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" />
-      <jump line="1715" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="271" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1043" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="259" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="266" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="282" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="63" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="74" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="8" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="36" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
@@ -1479,6 +1473,15 @@
       <jump line="22" column="38" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
       <jump line="67" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCVRPercentilesEstimation.pm" />
       <jump line="1118" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="142" column="54" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
+      <jump line="18" column="40" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
+      <jump line="24" column="103" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
+      <jump line="25" column="51" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
+      <jump line="28" column="17" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
+      <jump line="990" column="29" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="22" column="142" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
+      <jump line="1028" column="16" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="986" column="20" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1491,7 +1494,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXB0dXJlX2V4ZWNfY29tYmluZWRcPg==</text>
+        <text>price</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1534,9 +1537,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXB0dXJlX2V4ZWNfY29tYmluZWRcPg==</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXB0dXJlX2V4ZWNfY29tYmluZWRcPg==</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1596,6 +1599,12 @@
         <entry encoding="base64">XDxoaXZlX2NtZFw+</entry>
         <entry encoding="base64">XDxkcnlydW5cPg==</entry>
         <entry encoding="base64">XDxjYXB0dXJlX2V4ZWNfY29tYmluZWRcPg==</entry>
+        <entry>gross</entry>
+        <entry>charge</entry>
+        <entry encoding="base64">XDxpc19ub3RfY2hhcmdlX3JlcXVlc3RcPg==</entry>
+        <entry>ad</entry>
+        <entry encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
