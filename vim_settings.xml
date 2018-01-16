@@ -57,8 +57,8 @@
       <file name="$FOUT_HOME$/conti/plack/conti.psgi" timestamp="1512986349611">
         <mark key="'" line="23" column="39" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1515995576810">
-        <mark key="'" line="78" column="15" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1516071637364">
+        <mark key="'" line="359" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
         <mark key="'" line="896" column="34" />
@@ -279,7 +279,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516068729441">
+      <file name="/Dummy.txt" timestamp="1516071805125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -751,8 +751,8 @@
         <mark key="^" line="46" column="1" />
         <mark key="." line="46" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1516009942124">
-        <mark key="'" line="1118" column="31" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1516071081814">
+        <mark key="'" line="1363" column="10" />
         <mark key="[" line="1051" column="4" />
         <mark key="]" line="1051" column="4" />
         <mark key="^" line="1051" column="4" />
@@ -903,8 +903,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1511227878131">
-        <mark key="'" line="90" column="7" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516071034562">
+        <mark key="'" line="1330" column="2" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
@@ -921,7 +921,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1515999122951">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1516071633898">
         <mark key="'" line="1098" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/User.pm" timestamp="1511677112100">
@@ -1026,7 +1026,7 @@
       <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutUkigumo.pm" timestamp="1511766196363">
         <mark key="'" line="12" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1514265478071">
+      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1516071186667">
         <mark key="'" line="2" column="0" />
       </file>
       <file name="$FOUT_HOME$/config.yaml" timestamp="1515652926587">
@@ -1257,6 +1257,9 @@
       <file name="$FOUT_HOME$/t/script/purge_rabbitmq_messages.pl" timestamp="1502264409948">
         <mark key="'" line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BidPriceEstimation.pm" timestamp="1516071011785">
+        <mark key="'" line="71" column="4" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/Meta/Module.pm" timestamp="1507768432811">
         <mark key="'" line="21" column="0" />
       </file>
@@ -1382,9 +1385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
-      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
-      <jump line="49" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="38" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="41" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
@@ -1427,7 +1427,6 @@
       <jump line="1493" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2145" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1318" column="113" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1363" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1371" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1449" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="85" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
@@ -1482,6 +1481,10 @@
       <jump line="141" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="287" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="437" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BidPriceEstimation.pm" />
+      <jump line="1330" column="2" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1363" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="359" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
