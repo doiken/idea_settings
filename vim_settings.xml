@@ -279,7 +279,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516009365338">
+      <file name="/Dummy.txt" timestamp="1516066994277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1263,8 +1263,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Click/Status.pm" timestamp="1501751879902">
         <mark key="'" line="7" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1509347666921">
-        <mark key="'" line="126" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1516066755490">
+        <mark key="'" line="437" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1516009297864">
         <mark key="'" line="142" column="54" />
@@ -1382,9 +1382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
-      <jump line="8" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
-      <jump line="36" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="39" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
       <jump line="49" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PcvrCut/PcvrCut.pm" />
@@ -1482,6 +1479,9 @@
       <jump line="22" column="142" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" />
       <jump line="1028" column="16" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="986" column="20" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="141" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="287" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="437" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1494,7 +1494,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text encoding="base64">XDxfcHJpY2VfY29uc2lkZXJpbmdfYXBwc19jaGFyZ2VzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$vendor</text>
@@ -1537,9 +1537,9 @@
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search encoding="base64">XDxfcHJpY2VfY29uc2lkZXJpbmdfYXBwc19jaGFyZ2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJpY2VfY29uc2lkZXJpbmdfYXBwc19jaGFyZ2VzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute>is</last-substitute>
       <last-dir>1</last-dir>
@@ -1605,6 +1605,7 @@
         <entry>ad</entry>
         <entry encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</entry>
         <entry>price</entry>
+        <entry encoding="base64">XDxfcHJpY2VfY29uc2lkZXJpbmdfYXBwc19jaGFyZ2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
