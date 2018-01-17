@@ -313,7 +313,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516175860134">
+      <file name="/Dummy.txt" timestamp="1516181296553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1030,6 +1030,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1501657107425">
         <mark key="'" line="76" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1516181449198" />
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/User.pm" timestamp="1511677112100">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1175,8 +1176,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1516171662291">
         <mark key="'" line="250" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1516160195784">
-        <mark key="'" line="981" column="29" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1516181359820">
+        <mark key="'" line="167" column="39" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1508823549088">
         <mark key="'" line="7" column="0" />
@@ -1463,6 +1464,9 @@
       <file name="$USER_HOME$/Documents/mtburn/config.yaml" timestamp="1513661229794">
         <mark key="'" line="934" column="8" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID.pm" timestamp="1516181009320">
+        <mark key="'" line="150" column="15" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentIndex/Generator.pm" timestamp="1498636643894">
         <mark key="'" line="351" column="4" />
       </file>
@@ -1538,11 +1542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="13" filename="$USER_HOME$/Documents/fout_logs/hadoop/etl/src/main/java/jp/fout/log/hadoop/etl/bean/AudienceUniqueWritable.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/Documents/fout_logs/hadoop/etl/src/main/java/jp/fout/log/hadoop/etl/bean/AudienceUniqueWritable.java" />
-      <jump line="83" column="13" filename="$USER_HOME$/Documents/fout_logs/hadoop/etl/src/main/java/jp/fout/log/hadoop/etl/bean/AudienceUniqueWritable.java" />
-      <jump line="32" column="6" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAudienceDatabaseLdemogra" />
-      <jump line="14" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
       <jump line="20" column="62" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
       <jump line="21" column="28" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
       <jump line="26" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
@@ -1638,6 +1637,11 @@
       <jump line="116" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="89" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="91" column="9" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="126" column="9" filename="$FOUT_HOME$/lib/FOut/UniqueID.pm" />
+      <jump line="150" column="15" filename="$FOUT_HOME$/lib/FOut/UniqueID.pm" />
+      <jump line="290" column="23" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="155" column="5" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="167" column="39" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1650,7 +1654,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</text>
+        <text encoding="base64">XDx1bmlxdWVpZF9tYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlzIEZPdXQ6OkJpZDo6Q29udGV4dDo6RGVtb1ByZWRpY3Rpb246Ol9tYXBfZ2VuZGVyX2NvZGUoMCksIHVuZGVmOwo=</text>
@@ -1693,9 +1697,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</last-search>
+      <last-search encoding="base64">XDx1bmlxdWVpZF9tYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1bmlxdWVpZF9tYW5hZ2VyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1735,6 +1739,9 @@
         <entry encoding="base64">XDxfc2V0X3RvX2dldGRhdGFfb25fYmFzaXNfb2ZfYmlkX2F1ZGllbmNlXD4=</entry>
         <entry encoding="base64">XDx0b19oYXNoXD4=</entry>
         <entry encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZVw+</entry>
+        <entry encoding="base64">XDxzYW5pdGl6ZVw+</entry>
+        <entry encoding="base64">XDx1bmlxdWVpZF9tYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
