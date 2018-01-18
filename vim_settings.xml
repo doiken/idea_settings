@@ -340,7 +340,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516254702149">
+      <file name="/Dummy.txt" timestamp="1516258516731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -575,8 +575,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1509961032420">
         <mark key="'" line="140" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" timestamp="1516172546940">
-        <mark key="'" line="26" column="12" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" timestamp="1516258515335">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Summarizer.pm" timestamp="1508823240047">
         <mark key="'" line="5" column="18" />
@@ -1545,6 +1545,7 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/DBIx/Sunny.pm" timestamp="1511331300272">
         <mark key="'" line="187" column="12" />
       </file>
+      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1516258075002" />
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Test/More.pm" timestamp="1500434468408">
         <mark key="'" line="63" column="2" />
       </file>
@@ -1599,7 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
       <jump line="37" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="115" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="71" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
@@ -1699,6 +1699,7 @@
       <jump line="111" column="4" filename="$FOUT_HOME$/lib/FOut/Logger.pm" />
       <jump line="46" column="21" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="51" column="97" filename="$FOUT_HOME$/lib/FOut/Model/Conversion.pm" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
