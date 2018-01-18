@@ -340,7 +340,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516261080875">
+      <file name="/Dummy.txt" timestamp="1516262776329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -576,12 +576,12 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1509961032420">
         <mark key="'" line="140" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" timestamp="1516261136420">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" timestamp="1516262920811">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Summarizer.pm" timestamp="1508823240047">
         <mark key="'" line="5" column="18" />
@@ -1046,7 +1046,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenXOpenRTB.pm" timestamp="1502955490334">
         <mark key="'" line="28" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/README.md" timestamp="1516261297285" />
+      <file name="$USER_HOME$/Documents/fout_logs/README.md" timestamp="1516261926006" />
       <file name="$FOUT_HOME$/lib/FOut/CLI/MakeAppsPlusIndex.pm" timestamp="1500015564941">
         <mark key="'" line="32" column="12" />
       </file>
@@ -1059,8 +1059,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516159490293">
-        <mark key="'" line="256" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516262947231">
+        <mark key="'" line="662" column="13" />
         <mark key="[" line="1027" column="0" />
         <mark key="]" line="1027" column="24" />
       </file>
@@ -1093,6 +1093,11 @@
       </file>
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Memcached/Client/Request.pm" timestamp="1509003570439">
         <mark key="'" line="116" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/l_demographic_prediction.t" timestamp="1516262902180">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="43" />
       </file>
       <file name="$FOUT_HOME$/t/fout/cli/db_checker/budget_empty_campaings.t" timestamp="1503282798281">
         <mark key="'" line="72" column="0" />
@@ -1146,11 +1151,11 @@
       <file name="$USER_HOME$/IdeaProjects/blog2/config/environments/production.rb" timestamp="1511617085579">
         <mark key="'" line="43" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1516258814799">
-        <mark key="'" line="2" column="30" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1516263024086">
+        <mark key="'" line="79" column="4" />
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="112" column="12" />
+        <mark key="." line="112" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1515740824206">
         <mark key="'" line="91" column="4" />
@@ -1603,13 +1608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
-      <jump line="253" column="52" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="234" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
-      <jump line="50" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
-      <jump line="60" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="27" column="18" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="109" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="88" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
@@ -1703,22 +1701,29 @@
       <jump line="115" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="2544" column="6" filename="$FOUT_HOME$/bid/config.yaml" />
       <jump line="0" column="0" filename="$FOUT_HOME$/bid/config.yaml" />
+      <jump line="15" column="20" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
+      <jump line="3" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
+      <jump line="14" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" />
+      <jump line="53" column="18" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/l_demographic_prediction.t" />
+      <jump line="88" column="20" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/l_demographic_prediction.t" />
+      <jump line="662" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="79" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>01</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJlZGljdF9ieV9jb250YWluZXJcPg==</text>
+        <text encoding="base64">XDxwcmVkaWN0X2J5X3NlZ21lbnRfY291bnRzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VUIGhpdmV2YXI6ZGF5ID0gMDEK</text>
+      <register name="0" type="4">
+        <text>(12,15,18,21\)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1758,9 +1763,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJlZGljdF9ieV9jb250YWluZXJcPg==</last-search>
+      <last-search encoding="base64">XDxwcmVkaWN0X2J5X3NlZ21lbnRfY291bnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJlZGljdF9ieV9jb250YWluZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVkaWN0X2J5X3NlZ21lbnRfY291bnRzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1797,6 +1802,11 @@
         <entry encoding="base64">XDxfcHJlZGljdF9saW5lX2RlbW9ncmFwaGljc1w+</entry>
         <entry encoding="base64">XDxfcHJlZGljdF9saW5lX2RlbW9ncmFwaGljc193ZWJcPg==</entry>
         <entry encoding="base64">XDxfcHJlZGljdF9ieV9jb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxkYXRlX2NvbmRpdGlvblw+</entry>
+        <entry encoding="base64">XDxiaWRfY29uZGl0aW9uXD4=</entry>
+        <entry encoding="base64">XDxiaWRfaG91clw+</entry>
+        <entry>year</entry>
+        <entry encoding="base64">XDxwcmVkaWN0X2J5X3NlZ21lbnRfY291bnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
