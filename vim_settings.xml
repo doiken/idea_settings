@@ -1086,8 +1086,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516355774195">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516357117693">
+        <mark key="'" line="91" column="57" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
@@ -1634,11 +1634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="716" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1183" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1256" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="12" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Class/Accessor/TrackDirty.pm" />
       <jump line="116" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="89" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="91" column="9" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
@@ -1734,6 +1729,11 @@
       <jump line="24" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="701" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="98" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="165" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="3" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="5" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="91" column="57" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1746,7 +1746,7 @@
         <text>is_line_spot, rfp_network_id</text>
       </register>
       <register name="/" type="4">
-        <text>ad(</text>
+        <text>host</text>
       </register>
       <register name="0" type="4">
         <text>${hivevar:network}</text>
@@ -1789,9 +1789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ad(</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>ad(</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1831,7 +1831,6 @@
         <entry encoding="base64">XDxkYXRlX2NvbmRpdGlvblw+</entry>
         <entry encoding="base64">XDxiaWRfY29uZGl0aW9uXD4=</entry>
         <entry encoding="base64">XDxiaWRfaG91clw+</entry>
-        <entry>year</entry>
         <entry encoding="base64">XDxwcmVkaWN0X2J5X3NlZ21lbnRfY291bnRzXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxoaXZlX2NtZFw+</entry>
@@ -1848,6 +1847,8 @@
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxwdXRfZGlyXD4=</entry>
         <entry>ad(</entry>
+        <entry>year</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
