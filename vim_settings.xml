@@ -620,12 +620,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" timestamp="1513837498991">
         <mark key="'" line="109" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516686627428">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516688002794">
+        <mark key="'" line="11" column="57" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/bidpriceestimate/cubic_spline_data.hql" timestamp="1516672387233">
         <mark key="'" line="62" column="35" />
@@ -1675,7 +1675,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="62" column="35" filename="$USER_HOME$/Documents/fout_logs/sql/bidpriceestimate/cubic_spline_data.hql" />
       <jump line="36" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="23" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -1756,7 +1755,6 @@
       <jump line="282" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="284" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="64" column="41" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidsPriceCalculator.pm" />
@@ -1775,22 +1773,24 @@
       <jump line="30" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="306" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="45" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="11" column="57" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEZST00KICAgICAgICBqcC5hZAo=</text>
+      <register name="0" type="4">
+        <text>concat('RFP-', CAST(rfp_network_id AS STRING)))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1799,10 +1799,10 @@
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFdIRU4gcmZwX25ldHdvcmtfaWQgaXMgTlVMTCBUSEVOICdSRUQnCg==</text>
       </register>
       <register name="s" type="4">
         <text />
@@ -1811,19 +1811,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGl2ZSDjgacgYWQg44Ot44Kw44GL44KJ5biM5pyb6JC95pyt5L6h5qC844GL44KJ5YWl5pyt5L6h5qC844KS5o6o5a6a44GZ44KL44Gf44KB44Gu44Oi44OH44Or44O744OH44O844K/44KS5L2c5oiQ44GZ44KLCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWQg44Ot44Kw44Gu5Lu25pWw44GMIEM8Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Rk91dDo6TG9nczo6QmlkUHJpY2VFc3RpbWF0aW9uIC0g5biM5pyb6JC95pyt5L6h5qC844GL44KJ5YWl5pyt5L6h5qC844KS5o6o5a6a44GZ44KL44Gf44KB44Gu44Oi44OH44Or44O744OH44O844K/5L2c5oiQCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGF1dG9fYmlkc19wcmljZSgKICAgIG5ldHdvcmsgc3RyaW5nLAogICAgaXNfYXBwbGljYXRpb24gdGlueWludCwKICAgIGdlbmRlciBzdHJpbmcsCiAgICBhZ2VfZ3JvdXBzIHN0cmluZywKICAgIGJpZHNfcHJpY2UgZG91YmxlCikgcGFydGl0aW9uZWQgYnkgKHllYXIgaW50LCBtb250aCBpbnQsIGRheSBpbnQsIGhvdXIgaW50KQo=</text>
+        <text encoding="base64">aGl2ZSDjgacgYWQg44Ot44Kw44GL44KJ5biM5pyb6JC95pyt5L6h5qC844GL44KJ5YWl5pyt5L6h5qC844KS5o6o5a6a44GZ44KL44Gf44KB44Gu44Oi44OH44Or44O744OH44O844K/44KS5L2c5oiQ44GZ44KLCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFnZV9ncm91cHMgc3RyaW5nLAo=</text>
+        <text encoding="base64">YWQg44Ot44Kw44Gu5Lu25pWw44GMIEM8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
