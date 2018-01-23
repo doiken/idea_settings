@@ -213,6 +213,9 @@
         <mark key="[" line="304" column="4" />
         <mark key="]" line="304" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" timestamp="1516697180602">
+        <mark key="'" line="332" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_helper.rb" timestamp="1511667404543">
         <mark key="'" line="2264" column="18" />
       </file>
@@ -318,7 +321,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516695364926">
+      <file name="/Dummy.txt" timestamp="1516699459483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -389,6 +392,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion/Summary.pm" timestamp="1498629923304">
         <mark key="'" line="43" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/MR_DmpSegmentContact" timestamp="1516697364278">
+        <mark key="'" line="95" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/S3/Sender.pm" timestamp="1508206568122">
         <mark key="'" line="158" column="4" />
@@ -633,6 +639,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Logger.pm" timestamp="1516256899644">
         <mark key="'" line="111" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/tools/training_segment_score.pl" timestamp="1516697474756" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1516327942284">
         <mark key="'" line="257" column="4" />
       </file>
@@ -842,7 +849,7 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1516161207941">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516086162054">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516697380653">
         <mark key="'" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl.pm" timestamp="1510639099998">
@@ -1237,6 +1244,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/cvrmfmpredict/dataset/exc_hi_cvr.hql" timestamp="1516691924780">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1516697323653">
+        <mark key="'" line="419" column="27" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/CompanionScript.pm" timestamp="1502084015128">
         <mark key="'" line="92" column="25" />
       </file>
@@ -1263,6 +1273,13 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" timestamp="1499825670291">
         <mark key="'" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1516699702652">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="83" column="24" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/Logger.pm" timestamp="1510638942853">
         <mark key="'" line="61" column="22" />
@@ -1574,17 +1591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="179" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="185" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="188" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="194" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="197" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="201" column="42" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="202" column="31" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="203" column="37" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="205" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="207" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="211" column="40" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="212" column="31" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="213" column="37" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
@@ -1674,64 +1680,75 @@
       <jump line="79" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
       <jump line="92" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
       <jump line="31" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="332" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
+      <jump line="419" column="27" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
+      <jump line="89" column="8" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/MR_DmpSegmentContact" />
+      <jump line="95" column="6" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/MR_DmpSegmentContact" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="57" column="14" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="66" column="73" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFORCBhZHMuaG91ciAgICAgICAgICAgPSBhZHNfZmFsbGJhY2suaG91cgo=</text>
+        <text encoding="base64">U0VUIGhpdmV2YXI6bmV0d29yayA9CiAgICBDQVNFCiAgICAgICAgV0hFTiBpc19saW5lX3Nwb3QgPSAxIFRIRU4gJ0xJTkUnCiAgICAgICAgV0hFTiByZnBfbmV0d29ya19pZCBpcyBOVUxMIFRIRU4gJ1JFRCcKICAgICAgICBFTFNFIGNvbmNhdCgnUkZQLScsIENBU1QocmZwX25ldHdvcmtfaWQgQVMgU1RSSU5HKSkKICAgIEVORDsKCldJVEggYWRzIEFTICgKICAgIFNFTEVDVAogICAgICAgLS0g44OH44Oi44Kw44OpKOaAp+WIpSB4IOW5tOS7oykgeCDpnaIoTCwgUkZQMSwgLi4uIFJGUG4sIFJFRChpbmZlZWQg44OR44OV44Kp44O844Oe44Oz44K544Oh44OH44Kj44KiKSkgeCAoYXBwLCB3ZWIpIHgg5pmC6ZaT5bivKGhvdXIpCiAgICAgICAke2hpdmV2YXI6bmV0d29ya30gYXMgbmV0d29yaywKICAgICAgIGlzX2FwcGxpY2F0aW9uLAogICAgICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9nZW5kZXIsIHByZWRpY3RlZF9nZW5kZXIpIGFzIGdlbmRlciwKICAgICAgIElGKGlzX2xpbmVfc3BvdCA9IDEsIGxfYWdlX2dyb3VwLCBwcmVkaWN0ZWRfYWdlX2dyb3VwKSBhcyBhZ2VfZ3JvdXAsCiAgICAgICBhdmcoYWRzZXJ2ZXJfY2hhcmdlX3ByaWNlKSBhcyBhdmdfYmlkZGVkX2NwbSwKICAgICAgIGNvdW50KCopIGltcF9udW0KICAgIEZST00KICAgICAgICBqcC5hZAogICAgV0hFUkUKICAgICAgICAke2hpdmV2YXI6Y29uZGl0aW9ufQogICAgICAgIGFuZCBhZF9pc19jaGFyZ2VkID0gJzAnCiAgICBHUk9VUCBCWQogICAgICAgICR7aGl2ZXZhcjpuZXR3b3JrfSwKICAgICAgICBJRihpc19saW5lX3Nwb3QgPSAxLCBsX2FnZV9ncm91cCwgcHJlZGljdGVkX2FnZV9ncm91cCksCiAgICAgICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9nZW5kZXIsIHByZWRpY3RlZF9nZW5kZXIpLAogICAgICAgIGlzX2FwcGxpY2F0aW9uCiksIGFkc19mYWxsYmFjayBBUyAoCiAgICAtLSBhZHPjga5pbXDmlbDjgYzjgZfjgY3jgYTlgKTku6XkuIvjga7pmpvjga9hZ2VfZ3JvdXDpmaTlpJbjgZfjgZ/jgZPjgaHjgonjga7mlbDlgKTjgpLliKnnlKgKICAgIFNFTEVDVAogICAgICAgbmV0d29yaywKICAgICAgIGlzX2FwcGxpY2F0aW9uLAogICAgICAgZ2VuZGVyLAogICAgICAgYXZnKGF2Z19iaWRkZWRfY3BtKSBhcyBhdmdfYmlkZGVkX2NwbSwKICAgICAgIHN1bShpbXBfbnVtKSBpbXBfbnVtCiAgICBGUk9NCiAgICAgICAgYWRzCiAgICBHUk9VUCBCWQogICAgICAgIG5ldHdvcmssCiAgICAgICAgZ2VuZGVyLAogICAgICAgIGlzX2FwcGxpY2F0aW9uCikKCklOU0VSVCBPVkVSV1JJVEUgVEFCTEUgYXV0b19iaWRzX3ByaWNlClBBUlRJVElPTiAoeWVhciA9ICIke2hpdmV2YXI6eWVhcn0iLCBtb250aCA9ICIke2hpdmV2YXI6bW9udGh9IiwgZGF5ID0gIiR7aGl2ZXZhcjpkYXl9IiwgaG91ciA9ICIke2hpdmV2YXI6aG91cn0iKQpTRUxFQ1QKICAgIGFkcy5uZXR3b3JrLAogICAgYWRzLmlzX2FwcGxpY2F0aW9uLAogICAgYWRzLmdlbmRlciwKICAgIGFkcy5hZ2VfZ3JvdXAsCiAgICBhZHMuaW1wX251bSwKICAgIGFkc19mYWxsYmFjay5pbXBfbnVtLAogICAgSUYoYWRzLmltcF9udW0gPj0gJHtoaXZldmFyOnJlY29yZF90aHJlc2hvbGR9LCBhZHMuYXZnX2JpZGRlZF9jcG0sIGFkc19mYWxsYmFjay5hdmdfYmlkZGVkX2NwbSkKRlJPTSBhZHMKSU5ORVIgSk9JTiBhZHNfZmFsbGJhY2sgT04KICAgICAgICBhZHMubmV0d29yayAgICAgICAgPSBhZHNfZmFsbGJhY2submV0d29yawogICAgQU5EIGFkcy5pc19hcHBsaWNhdGlvbiA9IGFkc19mYWxsYmFjay5pc19hcHBsaWNhdGlvbgogICAgQU5EIGFkcy5nZW5kZXIgICAgICAgICA9IGFkc19mYWxsYmFjay5nZW5kZXIKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>day</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRyYWN0aW9uX2FyZ3NcPg==</text>
+        <text encoding="base64">XDxjaGFyZ2VfcmF0aW9fY3BuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>${hivevar:day}</text>
+        <text>hivevar:parameters</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFORCBhZHMuaG91ciAgICAgICAgICAgPSBhZHNfZmFsbGJhY2suaG91cgo=</text>
+        <text encoding="base64">U0VUIGhpdmV2YXI6bmV0d29yayA9CiAgICBDQVNFCiAgICAgICAgV0hFTiBpc19saW5lX3Nwb3QgPSAxIFRIRU4gJ0xJTkUnCiAgICAgICAgV0hFTiByZnBfbmV0d29ya19pZCBpcyBOVUxMIFRIRU4gJ1JFRCcKICAgICAgICBFTFNFIGNvbmNhdCgnUkZQLScsIENBU1QocmZwX25ldHdvcmtfaWQgQVMgU1RSSU5HKSkKICAgIEVORDsKCldJVEggYWRzIEFTICgKICAgIFNFTEVDVAogICAgICAgLS0g44OH44Oi44Kw44OpKOaAp+WIpSB4IOW5tOS7oykgeCDpnaIoTCwgUkZQMSwgLi4uIFJGUG4sIFJFRChpbmZlZWQg44OR44OV44Kp44O844Oe44Oz44K544Oh44OH44Kj44KiKSkgeCAoYXBwLCB3ZWIpIHgg5pmC6ZaT5bivKGhvdXIpCiAgICAgICAke2hpdmV2YXI6bmV0d29ya30gYXMgbmV0d29yaywKICAgICAgIGlzX2FwcGxpY2F0aW9uLAogICAgICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9nZW5kZXIsIHByZWRpY3RlZF9nZW5kZXIpIGFzIGdlbmRlciwKICAgICAgIElGKGlzX2xpbmVfc3BvdCA9IDEsIGxfYWdlX2dyb3VwLCBwcmVkaWN0ZWRfYWdlX2dyb3VwKSBhcyBhZ2VfZ3JvdXAsCiAgICAgICBhdmcoYWRzZXJ2ZXJfY2hhcmdlX3ByaWNlKSBhcyBhdmdfYmlkZGVkX2NwbSwKICAgICAgIGNvdW50KCopIGltcF9udW0KICAgIEZST00KICAgICAgICBqcC5hZAogICAgV0hFUkUKICAgICAgICAke2hpdmV2YXI6Y29uZGl0aW9ufQogICAgICAgIGFuZCBhZF9pc19jaGFyZ2VkID0gJzAnCiAgICBHUk9VUCBCWQogICAgICAgICR7aGl2ZXZhcjpuZXR3b3JrfSwKICAgICAgICBJRihpc19saW5lX3Nwb3QgPSAxLCBsX2FnZV9ncm91cCwgcHJlZGljdGVkX2FnZV9ncm91cCksCiAgICAgICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9nZW5kZXIsIHByZWRpY3RlZF9nZW5kZXIpLAogICAgICAgIGlzX2FwcGxpY2F0aW9uCiksIGFkc19mYWxsYmFjayBBUyAoCiAgICAtLSBhZHPjga5pbXDmlbDjgYzjgZfjgY3jgYTlgKTku6XkuIvjga7pmpvjga9hZ2VfZ3JvdXDpmaTlpJbjgZfjgZ/jgZPjgaHjgonjga7mlbDlgKTjgpLliKnnlKgKICAgIFNFTEVDVAogICAgICAgbmV0d29yaywKICAgICAgIGlzX2FwcGxpY2F0aW9uLAogICAgICAgZ2VuZGVyLAogICAgICAgYXZnKGF2Z19iaWRkZWRfY3BtKSBhcyBhdmdfYmlkZGVkX2NwbSwKICAgICAgIHN1bShpbXBfbnVtKSBpbXBfbnVtCiAgICBGUk9NCiAgICAgICAgYWRzCiAgICBHUk9VUCBCWQogICAgICAgIG5ldHdvcmssCiAgICAgICAgZ2VuZGVyLAogICAgICAgIGlzX2FwcGxpY2F0aW9uCikKCklOU0VSVCBPVkVSV1JJVEUgVEFCTEUgYXV0b19iaWRzX3ByaWNlClBBUlRJVElPTiAoeWVhciA9ICIke2hpdmV2YXI6eWVhcn0iLCBtb250aCA9ICIke2hpdmV2YXI6bW9udGh9IiwgZGF5ID0gIiR7aGl2ZXZhcjpkYXl9IiwgaG91ciA9ICIke2hpdmV2YXI6aG91cn0iKQpTRUxFQ1QKICAgIGFkcy5uZXR3b3JrLAogICAgYWRzLmlzX2FwcGxpY2F0aW9uLAogICAgYWRzLmdlbmRlciwKICAgIGFkcy5hZ2VfZ3JvdXAsCiAgICBhZHMuaW1wX251bSwKICAgIGFkc19mYWxsYmFjay5pbXBfbnVtLAogICAgSUYoYWRzLmltcF9udW0gPj0gJHtoaXZldmFyOnJlY29yZF90aHJlc2hvbGR9LCBhZHMuYXZnX2JpZGRlZF9jcG0sIGFkc19mYWxsYmFjay5hdmdfYmlkZGVkX2NwbSkKRlJPTSBhZHMKSU5ORVIgSk9JTiBhZHNfZmFsbGJhY2sgT04KICAgICAgICBhZHMubmV0d29yayAgICAgICAgPSBhZHNfZmFsbGJhY2submV0d29yawogICAgQU5EIGFkcy5pc19hcHBsaWNhdGlvbiA9IGFkc19mYWxsYmFjay5pc19hcHBsaWNhdGlvbgogICAgQU5EIGFkcy5nZW5kZXIgICAgICAgICA9IGFkc19mYWxsYmFjay5nZW5kZXIKCg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkcy5ob3VyIC0tIHNob3VsZCBiZSBsYXN0IHNlbGVjdCBjb2x1bW4gZm9yIGR5bmFtaWMgcGFydGl0aW9uCg==</text>
+        <text encoding="base64">U0VUIGhpdmV2YXI6cGFyYW1ldGVycyA9CiAgICAneyAiYSI6ICInIHx8ICR7aGl2ZXZhcjphfSB8fCAnIiwgImIiOiAiJyB8fCAke2hpdmV2YXI6Yn0gfHwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBob3VyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGhvdXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBob3VyLAo=</text>
+        <text encoding="base64">ICAgIEFORCBwcmljZS5wYXJhbWV0ZXJzPSByYXRlLnBhcmFtZXRlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIGhvdXIsCg==</text>
+        <text encoding="base64">ICAgIEFORCBwcmljZS5iaWRkaW5nX29yZGVyID0gcmF0ZS5iaWRkaW5nX29yZGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG15ICR0aW1lc3RhbXAgPSAkc2VsZi0+dGltZXN0YW1wOwo=</text>
+        <text encoding="base64">ICAgIEFORCBwcmljZS5jb21zdW1wdGlvbl9yYXRlID0gcmF0ZS5jb21zdW1wdGlvbl9yYXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG15ICRjb25kaXRpb24gPSBqb2luICcgT1IgJywK</text>
+        <text encoding="base64">ICAgIEFORCBwcmljZS5jYW1wYWlnbl9pZCA9IHJhdGUuY2FtcGFpZ25faWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG15ICgkeXl5eV9uZXcsICRtbV9uZXcsICRkZF9uZXcsICRoaF9uZXcpID0gc3BsaXQgL1xzKy8sIHN0cmZ0aW1lKCIlWSAlbSAlZCAlSCIsICRzZWxmLT50aW1lc3RhbXAgKyBPTkVfREFZKTsK</text>
+        <text encoding="base64">V0lUSCBhZHMgQVMgKAogICAgU0VMRUNUCiAgICAgICAtLSDjg4fjg6LjgrDjg6ko5oCn5YilIHgg5bm05LujKSB4IOmdoihMLCBSRlAxLCAuLi4gUkZQbiwgUkVEKGluZmVlZCDjg5Hjg5Xjgqnjg7zjg57jg7Pjgrnjg6Hjg4fjgqPjgqIpKSB4IChhcHAsIHdlYikgeCDmmYLplpPluK8oaG91cikKICAgICAgICR7aGl2ZXZhcjpuZXR3b3JrfSBhcyBuZXR3b3JrLAogICAgICAgaXNfYXBwbGljYXRpb24sCiAgICAgICBJRihpc19saW5lX3Nwb3QgPSAxLCBsX2dlbmRlciwgcHJlZGljdGVkX2dlbmRlcikgYXMgZ2VuZGVyLAogICAgICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9hZ2VfZ3JvdXAsIHByZWRpY3RlZF9hZ2VfZ3JvdXApIGFzIGFnZV9ncm91cCwKICAgICAgIGF2ZyhhZHNlcnZlcl9jaGFyZ2VfcHJpY2UpIGFzIGF2Z19iaWRkZWRfY3BtLAogICAgICAgY291bnQoKikgaW1wX251bQogICAgRlJPTQogICAgICAgIGpwLmFkCiAgICBXSEVSRQogICAgICAgICR7aGl2ZXZhcjpjb25kaXRpb259CiAgICAgICAgYW5kIGFkX2lzX2NoYXJnZWQgPSAnMCcKICAgIEdST1VQIEJZCiAgICAgICAgJHtoaXZldmFyOm5ldHdvcmt9LAogICAgICAgIElGKGlzX2xpbmVfc3BvdCA9IDEsIGxfYWdlX2dyb3VwLCBwcmVkaWN0ZWRfYWdlX2dyb3VwKSwKICAgICAgICBJRihpc19saW5lX3Nwb3QgPSAxLCBsX2dlbmRlciwgcHJlZGljdGVkX2dlbmRlciksCiAgICAgICAgaXNfYXBwbGljYXRpb24KKSwgYWRzX2ZhbGxiYWNrIEFTICgKICAgIC0tIGFkc+OBrmltcOaVsOOBjOOBl+OBjeOBhOWApOS7peS4i+OBrumam+OBr2FnZV9ncm91cOmZpOWkluOBl+OBn+OBk+OBoeOCieOBruaVsOWApOOCkuWIqeeUqAogICAgU0VMRUNUCiAgICAgICBuZXR3b3JrLAogICAgICAgaXNfYXBwbGljYXRpb24sCiAgICAgICBnZW5kZXIsCiAgICAgICBhdmcoYXZnX2JpZGRlZF9jcG0pIGFzIGF2Z19iaWRkZWRfY3BtLAogICAgICAgc3VtKGltcF9udW0pIGltcF9udW0KICAgIEZST00KICAgICAgICBhZHMKICAgIEdST1VQIEJZCiAgICAgICAgbmV0d29yaywKICAgICAgICBnZW5kZXIsCiAgICAgICAgaXNfYXBwbGljYXRpb24KKQoKSU5TRVJUIE9WRVJXUklURSBUQUJMRSBhdXRvX2JpZHNfcHJpY2UKUEFSVElUSU9OICh5ZWFyID0gIiR7aGl2ZXZhcjp5ZWFyfSIsIG1vbnRoID0gIiR7aGl2ZXZhcjptb250aH0iLCBkYXkgPSAiJHtoaXZldmFyOmRheX0iLCBob3VyID0gIiR7aGl2ZXZhcjpob3VyfSIpClNFTEVDVAogICAgYWRzLm5ldHdvcmssCiAgICBhZHMuaXNfYXBwbGljYXRpb24sCiAgICBhZHMuZ2VuZGVyLAogICAgYWRzLmFnZV9ncm91cCwKICAgIGFkcy5pbXBfbnVtLAogICAgYWRzX2ZhbGxiYWNrLmltcF9udW0sCiAgICBJRihhZHMuaW1wX251bSA+PSAke2hpdmV2YXI6cmVjb3JkX3RocmVzaG9sZH0sIGFkcy5hdmdfYmlkZGVkX2NwbSwgYWRzX2ZhbGxiYWNrLmF2Z19iaWRkZWRfY3BtKQpGUk9NIGFkcwpJTk5FUiBKT0lOIGFkc19mYWxsYmFjayBPTgogICAgICAgIGFkcy5uZXR3b3JrICAgICAgICA9IGFkc19mYWxsYmFjay5uZXR3b3JrCiAgICBBTkQgYWRzLmlzX2FwcGxpY2F0aW9uID0gYWRzX2ZhbGxiYWNrLmlzX2FwcGxpY2F0aW9uCiAgICBBTkQgYWRzLmdlbmRlciAgICAgICAgID0gYWRzX2ZhbGxiYWNrLmdlbmRlcgoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRyYWN0aW9uX2FyZ3NcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFyZ2VfcmF0aW9fY3BuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRyYWN0aW9uX2FyZ3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFyZ2VfcmF0aW9fY3BuXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1769,6 +1786,8 @@
         <entry encoding="base64">XDxoaFw+</entry>
         <entry encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxleHRyYWN0aW9uX2FyZ3NcPg==</entry>
+        <entry encoding="base64">XDxteXNxbF9jb25mXD4=</entry>
+        <entry encoding="base64">XDxjaGFyZ2VfcmF0aW9fY3BuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
