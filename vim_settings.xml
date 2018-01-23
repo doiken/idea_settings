@@ -270,8 +270,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516345909583">
-        <mark key="'" line="273" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516672966106">
+        <mark key="'" line="284" column="17" />
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="40" />
         <mark key="." line="306" column="20" />
@@ -347,7 +347,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516596360213">
+      <file name="/Dummy.txt" timestamp="1516671671487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -618,14 +618,14 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" timestamp="1513837498991">
         <mark key="'" line="109" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516597943359">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="40" column="3" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516672546412">
+        <mark key="'" line="56" column="9" />
+        <mark key="[" line="54" column="66" />
+        <mark key="]" line="55" column="3" />
+        <mark key="." line="55" column="3" />
+        <mark key="^" line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/bidpriceestimate/cubic_spline_data.hql" timestamp="1516597467009">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/bidpriceestimate/cubic_spline_data.hql" timestamp="1516672387233">
         <mark key="'" line="62" column="35" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="52" />
@@ -666,9 +666,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1515981488083">
         <mark key="'" line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516596365788">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="56" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516673062012">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentAPI/Audience.pm" timestamp="1510626864940">
         <mark key="'" line="75" column="16" />
@@ -966,6 +968,11 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Request.pm" timestamp="1512444603323">
         <mark key="'" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1516327565325">
+        <mark key="'" line="152" column="65" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="31" />
+      </file>
       <file name="/Library/Perl/5.18/Test/MockObject/Extends.pm" timestamp="1511859402671">
         <mark key="'" line="73" column="21" />
       </file>
@@ -1130,6 +1137,11 @@
       </file>
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Memcached/Client/Request.pm" timestamp="1509003570439">
         <mark key="'" line="116" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/l_demographic_prediction.t" timestamp="1516262902180">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="53" column="30" />
+        <mark key="]" line="53" column="43" />
       </file>
       <file name="$FOUT_HOME$/t/fout/cli/db_checker/budget_empty_campaings.t" timestamp="1503282798281">
         <mark key="'" line="72" column="0" />
@@ -1646,81 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/l_demographic_prediction.t" />
-      <jump line="662" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="79" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/callout/views/index.tx" />
-      <jump line="64" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="144" column="29" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="147" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="149" column="47" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="152" column="65" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="257" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="211" column="21" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="230" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="229" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="6" column="4" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" />
-      <jump line="55" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="15" column="49" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" />
-      <jump line="13" column="12" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" />
-      <jump line="65" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="32" column="12" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/cpanfile" />
-      <jump line="5" column="0" filename="$FOUT_HOME$/cpanfile" />
-      <jump line="447" column="0" filename="$FOUT_HOME$/cpanfile" />
-      <jump line="32" column="4" filename="$USER_HOME$/Documents/fout_logs/t/minicluster/DFS.pm" />
-      <jump line="0" column="8" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Test/TCP.pm" />
-      <jump line="173" column="18" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Test/TCP.pm" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hdfs.t" />
-      <jump line="17" column="29" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hdfs.t" />
-      <jump line="18" column="4" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hdfs.t" />
-      <jump line="19" column="11" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hdfs.t" />
-      <jump line="44" column="17" filename="$USER_HOME$/Documents/fout_logs/t/minicluster/DFS.pm" />
-      <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/t/minicluster/DFS.pm" />
-      <jump line="9" column="4" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hdfs.t" />
-      <jump line="273" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="3" column="8" filename="$USER_HOME$/Documents/fout_logs/t/script/drop_and_create_db.pl" />
-      <jump line="10" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="63" column="16" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
-      <jump line="124" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" />
-      <jump line="490" column="14" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="166" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="259" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="125" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" />
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="138" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
-      <jump line="24" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="701" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="98" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="165" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="3" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="5" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="91" column="57" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="194" column="39" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="74" column="4" filename="$FOUT_HOME$/lib/FOut/DMP/AudienceAPI.pm" />
-      <jump line="129" column="38" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="136" column="36" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="79" column="4" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="163" column="23" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="182" column="11" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="185" column="28" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="186" column="30" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="187" column="31" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="189" column="16" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="217" column="13" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="255" column="15" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="257" column="39" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="259" column="24" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="260" column="34" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="283" column="15" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="285" column="28" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="286" column="24" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="294" column="49" filename="$FOUT_HOME$/t/fout/dmp/audience_api.t" />
-      <jump line="119" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
-      <jump line="223" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
       <jump line="3" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="5" column="143" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -1746,64 +1683,139 @@
       <jump line="36" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="23" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="35" column="6" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="56" column="9" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="180" column="1" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="4" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="6" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="12" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="15" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="22" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="24" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="30" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="33" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="39" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="42" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="49" column="19" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="51" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="57" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="60" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="66" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="69" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="76" column="19" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="78" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="86" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="88" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="95" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="98" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="105" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="108" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="114" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="116" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="118" column="53" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="124" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="125" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="127" column="53" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="133" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="136" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="144" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="146" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="147" column="32" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="155" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="156" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="158" column="41" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="167" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="169" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="176" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="179" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="185" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="188" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="194" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="197" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="201" column="42" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="202" column="31" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="203" column="37" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="205" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="207" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="211" column="40" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="212" column="31" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="213" column="37" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="214" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="217" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="224" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="226" column="43" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="234" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="236" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="243" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="246" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="253" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="256" column="65" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="263" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="264" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="266" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="267" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="272" column="41" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="280" column="22" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="282" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="284" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>age_group</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>age_group</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoaXZldmFyXD4=</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">R1JPVVAgQlkKICAgICR7aGl2ZXZhcjpuZXR3b3JrfSwKICAgIGhvdXIsCiAgICBhZ2VfZ3JvdXAsCiAgICBnZW5kZXIsCiAgICBpc19hcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGNvdW50X2FnZV9ncm91cCBpbnQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">V0hFUkUK</text>
+        <text encoding="base64">ICAgIGFnZV9ncm91cHMgc3RyaW5nLAo=</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFuZCBhZF9pc19jaGFyZ2VkID0gJzAnCg==</text>
+        <text encoding="base64">ICAgIGFkcy5hZ2VfZ3JvdXAgICAgICA9IGFkc193aXRob3V0X2FnZV9ncm91cC5hZ2VfZ3JvdXAsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR7aGl2ZXZhcjpjb25kaXRpb259Cg==</text>
+        <text encoding="base64">ICAgIGFkcy5uZXR3b3JrID0gYWRzLm5ldHdvcmsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0hFUkUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZCBhZF9pc19jaGFyZ2VkID0gJzAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9hZ2VfZ3JvdXAsIHByZWRpY3RlZF9hZ2VfZ3JvdXApIGFzIGFnZV9ncm91cCwK</text>
+        <text encoding="base64">ICAgICR7aGl2ZXZhcjpjb25kaXRpb259Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0lUSCBhZHMgQVMgKApTRUxFQ1QKICAgLS0g44OH44Oi44Kw44OpKOaAp+WIpSB4IOW5tOS7oykgeCDpnaIoTCwgUkZQMSwgLi4uIFJGUG4sIFJFRChpbmZlZWQg44OR44OV44Kp44O844Oe44Oz44K544Oh44OH44Kj44KiKSkgeCAoYXBwLCB3ZWIpIHgg5pmC6ZaT5bivKGhvdXIpCiAgICR7aGl2ZXZhcjpuZXR3b3JrfSBhcyBuZXR3b3JrLAogICBpc19hcHBsaWNhdGlvbiwKICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9nZW5kZXIsIHByZWRpY3RlZF9nZW5kZXIpIGFzIGdlbmRlciwKICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9hZ2VfZ3JvdXAsIHByZWRpY3RlZF9hZ2VfZ3JvdXApIGFzIGFnZV9ncm91cCwKICAgaG91ciwKICAgYXZnKGFkc2VydmVyX2NoYXJnZV9wcmljZSkgYXMgYXZnX2JpZGRlZF9jcG0KRlJPTQogICAganAuYWQKV0hFUkUKICAgICR7aGl2ZXZhcjpjb25kaXRpb259CiAgICBhbmQgYWRfaXNfY2hhcmdlZCA9ICcwJwogICAgR1JPVVAgQlkgJHtoaXZldmFyOm5ldHdvcmt9LCBob3VyLCBhZ2VfZ3JvdXAsIGdlbmRlciwgaXNfYXBwbGljYXRpb24sCiksIGFkc193aXRob3V0X2FnZV9ncm91cCBBUyAoCiAgICAKKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS1DUkVBVEUgVEFCTEUgYXV0b19iaWRzX3ByaWNlKAotLSAgICBuZXR3b3JrIHN0cmluZywKLS0gICAgaXNfYXBwbGljYXRpb24gdGlueWludCwKLS0gICAgZ2VuZGVyIHN0cmluZywKLS0gICAgYWdlX2dyb3VwcyBzdHJpbmcsCi0tICAgIGJpZHNfcHJpY2UgZG91YmxlCi0tKSBwYXJ0aXRpb25lZCBieSAoeWVhciBpbnQsIG1vbnRoIGludCwgZGF5IGludCwgaG91ciBpbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlY29yZHNfbnVtOwo=</text>
+        <text encoding="base64">ICAgSUYoaXNfbGluZV9zcG90ID0gMSwgbF9hZ2VfZ3JvdXAsIHByZWRpY3RlZF9hZ2VfZ3JvdXApIGFzIGFnZV9ncm91cCwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoaXZldmFyXD4=</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoaXZldmFyXD4=</last-pattern>
+      <last-pattern>int</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1870,6 +1882,7 @@
         <entry encoding="base64">XDxyZWNvcmRfdGhyZXNob2xkXD4=</entry>
         <entry encoding="base64">XDxhZF9pc19jaGFyZ2VkXD4=</entry>
         <entry encoding="base64">XDxoaXZldmFyXD4=</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
