@@ -618,12 +618,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" timestamp="1513837498991">
         <mark key="'" line="109" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516672546412">
-        <mark key="'" line="56" column="9" />
-        <mark key="[" line="54" column="66" />
-        <mark key="]" line="55" column="3" />
-        <mark key="." line="55" column="3" />
-        <mark key="^" line="55" column="3" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516674623570">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="63" column="25" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/bidpriceestimate/cubic_spline_data.hql" timestamp="1516672387233">
         <mark key="'" line="62" column="35" />
@@ -666,11 +666,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1515981488083">
         <mark key="'" line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516673062012">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="7" column="16" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516674342990">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="55" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentAPI/Audience.pm" timestamp="1510626864940">
         <mark key="'" line="75" column="16" />
@@ -1658,8 +1658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="5" column="143" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="7" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="12" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="21" column="6" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -1758,22 +1756,24 @@
       <jump line="280" column="22" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="282" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="284" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>age_group</text>
+        <text>ads_fallback</text>
       </register>
       <register name="-" type="4">
-        <text>age_group</text>
+        <text encoding="base64">IGFkc19ub19hZw==</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvdW50X2FnZV9ncm91cCBpbnQsCg==</text>
+      <register name="0" type="4">
+        <text>ads_fallback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGFnZV9ncm91cHMgc3RyaW5nLAo=</text>
