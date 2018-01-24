@@ -236,11 +236,11 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516781751922">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516787954155">
         <mark key="'" line="321" column="39" />
-        <mark key="[" line="331" column="4" />
-        <mark key="]" line="331" column="20" />
-        <mark key="." line="331" column="4" />
+        <mark key="[" line="305" column="13" />
+        <mark key="]" line="305" column="13" />
+        <mark key="." line="305" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" timestamp="1513762440546">
         <mark key="'" line="28" column="25" />
@@ -305,7 +305,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516782039644">
+      <file name="/Dummy.txt" timestamp="1516787695952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -624,11 +624,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" timestamp="1516765084313">
         <mark key="'" line="37" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516777415383">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180116_45298_auto_bids_price.hql" timestamp="1516787941095">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="46" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentAPI/Audience.pm" timestamp="1510626864940">
         <mark key="'" line="75" column="16" />
@@ -1017,8 +1017,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516686390837">
-        <mark key="'" line="30" column="10" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1516787789322">
+        <mark key="'" line="398" column="16" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
@@ -1600,7 +1600,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Memcached.pm" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="304" column="9" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="26" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/BiddingOrderCalculator.pm" />
@@ -1700,16 +1699,17 @@
       <jump line="6" column="0" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="438" column="27" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="398" column="16" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcnVuX2F1dG9fYmlkc19wcmljZV9jYWxjdWxhdG9yLnBsIC0tZnJvbSAkRlJPTV9FUE9DSCAtLWFkLWR1cmF0aW9uPTUgLS1yZWNvcmQtdGhyZXNob2xkPTEwMDEgLS1yZWdpb24ganAgLS1wb29sIHByb2R1Y3Rpb24gLS1nCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>ssh -p 2201 root@10.0.2.2 'hive --database prediction_jp -f /fout/fout_logs_mac/sql/auto_bidding/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</text>
