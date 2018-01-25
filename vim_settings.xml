@@ -262,11 +262,12 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516845850925">
-        <mark key="'" line="305" column="13" />
-        <mark key="[" line="305" column="13" />
-        <mark key="]" line="305" column="13" />
-        <mark key="." line="305" column="13" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1516850486949">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="318" column="6" />
+        <mark key="]" line="318" column="6" />
+        <mark key="." line="318" column="6" />
+        <mark key="^" line="318" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" timestamp="1513762440546">
         <mark key="'" line="28" column="25" />
@@ -360,6 +361,12 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1516785711376">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180124_45443_bidding_order.hql" timestamp="1516850498343">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/x86_64-linux/Mouse/PurePerl.pm" timestamp="1507276591377">
         <mark key="'" line="470" column="42" />
@@ -1308,8 +1315,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" timestamp="1499825670291">
         <mark key="'" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1516784977534">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1516850455208">
+        <mark key="'" line="20" column="11" />
         <mark key="[" line="51" column="25" />
         <mark key="]" line="51" column="25" />
         <mark key="^" line="8" column="86" />
@@ -1469,11 +1476,11 @@
       <file name="$FOUT_HOME$/extlib/lib/perl5/DBIx/Skinny.pm" timestamp="1511149908780">
         <mark key="'" line="472" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1516846926603">
-        <mark key="[" line="33" column="54" />
-        <mark key="]" line="33" column="54" />
-        <mark key="." line="33" column="54" />
-        <mark key="^" line="32" column="87" />
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1516850182989">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/BidAucnumUpdater.pm" timestamp="1503036175954">
         <mark key="'" line="53" column="69" />
@@ -1636,7 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="18" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="6" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="60" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1668,7 +1674,6 @@
       <jump line="9" column="145" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl11.log.jp.fout.internal/nn" />
       <jump line="36" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="4" column="25" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" />
-      <jump line="20" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="5" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="9" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -1736,16 +1741,18 @@
       <jump line="183" column="0" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/Mouse/Util/TypeConstraints.pm" />
       <jump line="11" column="56" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" />
+      <jump line="20" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="0" column="26" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
