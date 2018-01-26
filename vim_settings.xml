@@ -352,7 +352,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516866351952">
+      <file name="/Dummy.txt" timestamp="1516927380377">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -738,6 +738,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/darwin-thread-multi-2level/Encode.pm" timestamp="1512739461651">
         <mark key="'" line="639" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" timestamp="1516927521806">
+        <mark key="'" line="218" column="33" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="91" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Google/API/Client.pm" timestamp="1508222832865">
         <mark key="'" line="34" column="4" />
@@ -1684,10 +1689,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="1" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="103" column="8" filename="/Library/Perl/5.18/darwin-thread-multi-2level/Mouse/Util/TypeConstraints.pm" />
-      <jump line="128" column="8" filename="/Library/Perl/5.18/darwin-thread-multi-2level/Mouse/Util/TypeConstraints.pm" />
-      <jump line="138" column="9" filename="/Library/Perl/5.18/darwin-thread-multi-2level/Mouse/Util/TypeConstraints.pm" />
       <jump line="48" column="26" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="305" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="23" column="1" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1784,6 +1785,10 @@
       <jump line="14" column="6" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_line_video_ctr_modfm_training.hql" />
       <jump line="100" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_line_video_ctr_modfm_training.hql" />
       <jump line="68" column="16" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
+      <jump line="217" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" />
+      <jump line="7" column="70" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" />
+      <jump line="242" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" />
+      <jump line="218" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1796,7 +1801,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFpbl9maWxlX3BhdGhcPg==</text>
+        <text encoding="base64">XDxhbGxfZGF0YV9maWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aGFzIGRiID0+ICgKICAgIGlzID0+ICdybycsCiAgICBpc2EgPT4gJ0ZPdXQ6OkxvZ3M6OkRCJywKICAgIGxhenkgPT4gMSwKICAgIGRlZmF1bHQgPT4gc3ViIHsgRk91dDo6TG9nczo6REI6OmdldF9pbnN0YW5jZSgnRHNwJykgfSwKKTsK</text>
@@ -1839,9 +1844,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFpbl9maWxlX3BhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxhbGxfZGF0YV9maWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFpbl9maWxlX3BhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhbGxfZGF0YV9maWxlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1930,6 +1935,9 @@
         <entry encoding="base64">XDxtb2RlbF90eXBlXD4=</entry>
         <entry encoding="base64">XDxkdW1wX2hxbFw+</entry>
         <entry encoding="base64">XDx0cmFpbl9maWxlX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxkb3dubG9hZF9mcm9tX2hpdmVcPg==</entry>
+        <entry encoding="base64">XDxmbV9jbWRcPg==</entry>
+        <entry encoding="base64">XDxhbGxfZGF0YV9maWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vaXM=</entry>
