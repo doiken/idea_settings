@@ -359,7 +359,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516932161000">
+      <file name="/Dummy.txt" timestamp="1516938060287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -510,6 +510,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1515999197071">
         <mark key="'" line="42" column="5" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Impl/Bid.pm" timestamp="1516938627387">
+        <mark key="'" line="326" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/index/hdb/pg-l_interest_parent_id.t" timestamp="1509955591356">
         <mark key="'" line="8" column="27" />
       </file>
@@ -644,7 +647,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/NativeApp.pm" timestamp="1513837498991">
         <mark key="'" line="109" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516781675964">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1516938080035">
         <mark key="'" line="65" column="0" />
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="113" />
@@ -926,12 +929,12 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1516161207941">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1516935769008">
-        <mark key="'" line="839" column="2" />
-        <mark key="[" line="3886" column="22" />
-        <mark key="]" line="3886" column="27" />
-        <mark key="." line="3886" column="27" />
-        <mark key="^" line="3886" column="27" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1516938772583">
+        <mark key="'" line="450" column="6" />
+        <mark key="[" line="3882" column="2" />
+        <mark key="]" line="3882" column="13" />
+        <mark key="." line="3882" column="2" />
+        <mark key="^" line="3881" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1516934623717" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516865829835">
@@ -971,6 +974,7 @@
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Request.pm" timestamp="1509588821401">
         <mark key="'" line="99" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Validator/Bid.pm" timestamp="1516938656922" />
       <file name="$FOUT_HOME$/lib/FOut/API/Request.pm" timestamp="1512444603323">
         <mark key="'" line="30" column="35" />
       </file>
@@ -1708,10 +1712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_line_video_ctr_modfm_training.hql" />
-      <jump line="201" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
-      <jump line="139" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
-      <jump line="113" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
       <jump line="150" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
       <jump line="112" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
       <jump line="114" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/Macromill/EstimateUU.pm" />
@@ -1808,22 +1808,26 @@
       <jump line="28" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="99" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="839" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="364" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="59" column="0" filename="$FOUT_HOME$/lib/FOut/API/Impl/Bid.pm" />
+      <jump line="326" column="0" filename="$FOUT_HOME$/lib/FOut/API/Impl/Bid.pm" />
+      <jump line="450" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>creative_id</text>
+        <text encoding="base64">LyogVE9ETyAqLyA=</text>
       </register>
       <register name="-" type="4">
-        <text>creative_id</text>
+        <text encoding="base64">VU5TSUdORUQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>target_hour</text>
+        <text encoding="base64">LyogVE9ETyAqLyA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGFydGl0aW9uIGJ5IHJhbmdlICggdG9fZGF5cyh0aW1lX2xvY2FsKSApICgKICAgIFBBUlRJVElPTiBwMjAxNTA5IFZBTFVFUyBMRVNTIFRIQU4gKFRPX0RBWVMoJzIwMTUtMTAtMDEnKSkgRU5HSU5FPUlubm9EQiwKICAgIFBBUlRJVElPTiBwMjAxNTEwIFZBTFVFUyBMRVNTIFRIQU4gKFRPX0RBWVMoJzIwMTUtMTEtMDEnKSkgRU5HSU5FPUlubm9EQiwKICAgIFBBUlRJVElPTiBwMjAxNTExIFZBTFVFUyBMRVNTIFRIQU4gKFRPX0RBWVMoJzIwMTUtMTItMDEnKSkgRU5HSU5FPUlubm9EQiwKICAgIFBBUlRJVElPTiBwMjAxNTEyIFZBTFVFUyBMRVNTIFRIQU4gKFRPX0RBWVMoJzIwMTYtMDEtMDEnKSkgRU5HSU5FPUlubm9EQiwKICAgIFBBUlRJVElPTiBwbWF4ICAgIFZBTFVFUyBMRVNTIFRIQU4gTUFYVkFMVUUKKTsK</text>
