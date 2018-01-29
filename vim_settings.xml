@@ -297,8 +297,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1517211532881">
-        <mark key="'" line="224" column="12" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1517213437640">
+        <mark key="'" line="313" column="0" />
         <mark key="[" line="313" column="0" />
         <mark key="]" line="336" column="16" />
         <mark key="." line="330" column="0" />
@@ -375,7 +375,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517211716771">
+      <file name="/Dummy.txt" timestamp="1517213696512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -587,12 +587,8 @@
       <file name="$FOUT_HOME$/t/fout/sync/beacon/new_sync.t" timestamp="1499999686888">
         <mark key="'" line="65" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" timestamp="1517212320991">
-        <mark key="'" line="48" column="3" />
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="26" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" timestamp="1517213411405">
+        <mark key="'" line="20" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/ScopedModels.pm" timestamp="1499149871010">
         <mark key="'" line="92" column="0" />
@@ -997,12 +993,12 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1516161207941">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517202495949">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517213696007">
         <mark key="'" line="2475" column="33" />
-        <mark key="[" line="3878" column="47" />
-        <mark key="]" line="3878" column="47" />
-        <mark key="." line="3878" column="47" />
-        <mark key="^" line="3881" column="18" />
+        <mark key="[" line="3886" column="24" />
+        <mark key="]" line="3886" column="26" />
+        <mark key="." line="3886" column="26" />
+        <mark key="^" line="3886" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516865829835">
         <mark key="'" line="259" column="0" />
@@ -1790,14 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
-      <jump line="3" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" />
-      <jump line="17" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" />
-      <jump line="48" column="59" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="20" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Date.pm" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Date.pm" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Date.pm" />
       <jump line="112" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="30" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Date.pm" />
@@ -1871,7 +1859,6 @@
       <jump line="95" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="10" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
-      <jump line="20" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="43" column="12" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
@@ -1890,16 +1877,25 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="46" column="26" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="48" column="3" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
+      <jump line="313" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>え</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="-" type="4">
-        <text>え</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXR3b3JrX2lkXD4=</text>
