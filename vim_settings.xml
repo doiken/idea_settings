@@ -62,11 +62,11 @@
         <mark key="'" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" timestamp="1517306107259" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1517386095167">
-        <mark key="'" line="109" column="20" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="41" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1517386597660">
+        <mark key="'" line="88" column="20" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
@@ -933,8 +933,8 @@
         <mark key="." line="3886" column="0" />
         <mark key="^" line="3873" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1517385789239">
-        <mark key="'" line="54" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1517386913035">
+        <mark key="'" line="843" column="20" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="88" />
         <mark key="^" line="86" column="40" />
@@ -1692,8 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Network.pm" />
       <jump line="3872" column="7" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -1792,13 +1790,15 @@
       <jump line="1031" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="81" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="108" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="88" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="843" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Maybe[Num]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aGFzIGlzX2F1dG9tYXRlZCA9PiAoaXMgPT4gJ3JvJywgaXNhID0+ICdCb29sJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Maybe[Num]</text>
@@ -1810,13 +1810,13 @@
         <text>Bool</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXkgQGF1dG9fYmlkX2tleXMgPSBxdyhuZXR3b3JrX2lkIGlzX2FwcGxpY2F0aW9uIGdlbmRlciBhZ2VfZ3JvdXAgY29uc3VtcHRpb25fcmF0ZSk7Cg==</text>
+        <text encoding="base64">aGFzIGlzX2F1dG9tYXRlZCA9PiAoaXMgPT4gJ3JvJywgaXNhID0+ICdCb29sJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGFzIGFyZWEgPT4gKGlzID0+ICdybycsIGlzYSA9PiAnU3RyJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
+        <text encoding="base64">bXkgQGF1dG9fYmlkX2tleXMgPSBxdyhuZXR3b3JrX2lkIGlzX2FwcGxpY2F0aW9uIGdlbmRlciBhZ2VfZ3JvdXAgY29uc3VtcHRpb25fcmF0ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aGFzIGFyZWEgPT4gKGlzID0+ICdybycsIGlzYSA9PiAnU3RyJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
@@ -1825,22 +1825,22 @@
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGFzIGFnZV9ncm91cCA9PiAoaXMgPT4gJ3JvJywgaXNhID0+ICdTdHInLCBsYXp5X2J1aWxkID0+IDEpOwo=</text>
+        <text encoding="base64">aGFzIGFyZWEgPT4gKGlzID0+ICdybycsIGlzYSA9PiAnU3RyJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZHMucHJpY2UgICAgICAgICAgICAgIGJfcHJpY2UsCg==</text>
+        <text encoding="base64">aGFzIGFnZV9ncm91cCA9PiAoaXMgPT4gJ3JvJywgaXNhID0+ICdTdHInLCBsYXp5X2J1aWxkID0+IDEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBhdXRvX2JpZGRpbmdfb3JkZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZHMucHJpY2UgICAgICAgICAgICAgIGJfcHJpY2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBhdXRvX2JpZGRpbmdfb3JkZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIudGFyZ2V0X2hvdXIgICAgICB0YXJnZXRfaG91ciwgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuY3BuX2lkICAgICAgICAgICBjcG5faWQsICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIudGFyZ2V0X2hvdXIgICAgICB0YXJnZXRfaG91ciwgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
