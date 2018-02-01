@@ -55,12 +55,12 @@
         <mark key="'" line="23" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" timestamp="1517306107259" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1517470386499">
-        <mark key="'" line="266" column="23" />
-        <mark key="[" line="276" column="36" />
-        <mark key="]" line="276" column="36" />
-        <mark key="." line="276" column="36" />
-        <mark key="^" line="276" column="35" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1517474042795">
+        <mark key="'" line="20" column="16" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
         <mark key="'" line="896" column="34" />
@@ -862,12 +862,12 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1516161207941">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517471952374">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517473421147">
         <mark key="'" line="354" column="3" />
-        <mark key="[" line="3882" column="14" />
-        <mark key="]" line="3882" column="18" />
-        <mark key="." line="3882" column="18" />
-        <mark key="^" line="3882" column="18" />
+        <mark key="[" line="3886" column="30" />
+        <mark key="]" line="3886" column="30" />
+        <mark key="." line="3886" column="30" />
+        <mark key="^" line="3886" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516865829835">
         <mark key="'" line="259" column="0" />
@@ -1585,9 +1585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="60" column="1" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="30" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="43" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="65" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
@@ -1685,22 +1682,25 @@
       <jump line="106" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1448" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="354" column="3" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="152" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="269" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="20" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>age_group</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>age_group</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfa2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmljZSAgICAgICAgICAgICAgaW50IG5vdCBudWxsIGRlZmF1bHQgMCwgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWFpeacreWNmOS+oQo=</text>
+        <text encoding="base64">aGFzIGFnZV9ncm91cCA9PiAoaXMgPT4gJ3JvJywgaXNhID0+ICdNYXliZVtJbnRdJywgbGF6eV9idWlsZCA9PiAxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjVE9NRTog44GT44GT44Gnc2V0X2F1dG9fSU5ERVhfTkFNRV9iaWRz44G744GS44G744GSCg==</text>
