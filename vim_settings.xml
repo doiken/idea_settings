@@ -368,12 +368,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange/PMP.pm" timestamp="1512468378417">
         <mark key="'" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1517362825926">
-        <mark key="'" line="41" column="15" />
-        <mark key="[" line="58" column="109" />
-        <mark key="]" line="58" column="109" />
-        <mark key="." line="58" column="109" />
-        <mark key="^" line="58" column="108" />
+      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1517552066086">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="58" column="105" />
+        <mark key="]" line="58" column="106" />
+        <mark key="." line="58" column="106" />
+        <mark key="^" line="58" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180124_45443_bidding_order.hql" timestamp="1517481178669">
         <mark key="[" line="7" column="0" />
@@ -1717,7 +1717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1913" column="71" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="262" column="4" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup/Requirements.pm" />
       <jump line="365" column="54" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="396" column="12" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
@@ -1817,16 +1816,17 @@
       <jump line="230" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="59" column="23" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="114" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="49" column="15" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
