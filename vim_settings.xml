@@ -1116,8 +1116,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1517301325514">
-        <mark key="'" line="175" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1517552871145">
+        <mark key="'" line="342" column="18" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
@@ -1717,7 +1720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="4" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup/Requirements.pm" />
       <jump line="365" column="54" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="396" column="12" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="397" column="16" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
@@ -1817,13 +1819,14 @@
       <jump line="59" column="23" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="114" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="49" column="15" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
+      <jump line="342" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>root</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="-" type="4">
         <text>root</text>
@@ -1835,38 +1838,38 @@
         <text>b_order_union</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RlJPTSByYXRlCklOTkVSIEpPSU4gcHJpY2UgT04KICAgICAgICByYXRlLnllYXIgICAgICAgICAgID0gcHJpY2UueWVhcgogICAgQU5EIHJhdGUubW9udGggICAgICAgICAgPSBwcmljZS5tb250aAogICAgQU5EIHJhdGUuZGF5ICAgICAgICAgICAgPSBwcmljZS5kYXkKICAgIEFORCByYXRlLmhvdXIgICAgICAgICAgID0gcHJpY2UuaG91cgogICAgQU5EIHJhdGUubmV0d29ya19pZCAgICAgPSBwcmljZS5uZXR3b3JrX2lkOwo=</text>
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">RlJPTSByYXRlCklOTkVSIEpPSU4gcHJpY2UgT04KICAgICAgICByYXRlLnllYXIgICAgICAgICAgID0gcHJpY2UueWVhcgogICAgQU5EIHJhdGUubW9udGggICAgICAgICAgPSBwcmljZS5tb250aAogICAgQU5EIHJhdGUuZGF5ICAgICAgICAgICAgPSBwcmljZS5kYXkKICAgIEFORCByYXRlLmhvdXIgICAgICAgICAgID0gcHJpY2UuaG91cgogICAgQU5EIHJhdGUubmV0d29ya19pZCAgICAgPSBwcmljZS5uZXR3b3JrX2lkOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>, b_order_union AS (
 )</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">U0VMRUMK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqIEZST00gYl9vcmRlcgogICAgVU5JT04gQUxMCiAgICBzZWxlY3QgKiBGUk9NIGJfb3JkZXJfZmFsbGJhY2sK</text>
+        <text encoding="base64">U0VMRUMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIGluZGV45L2c5oiQY2FtcGFpZ24g44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44GuCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdCAqIEZST00gYl9vcmRlcgogICAgVU5JT04gQUxMCiAgICBzZWxlY3QgKiBGUk9NIGJfb3JkZXJfZmFsbGJhY2sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIGluZGV45L2c5oiQY2FtcGFpZ24g44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44GuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50IERFRkFVTFRfQ09OU1VQVElPTiA9PiBPTkVfREFZICogMzY2Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50ID0+IHt9Cg==</text>
+        <text encoding="base64">dXNlIGNvbnN0YW50IERFRkFVTFRfQ09OU1VQVElPTiA9PiBPTkVfREFZICogMzY2Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElOTkVSIEpPSU4gcHJpY2UgT04KICAgICAgICAgICAgcmF0ZS55ZWFyICAgICAgICAgICA9IHByaWNlLnllYXIKICAgICAgICBBTkQgcmF0ZS5tb250aCAgICAgICAgICA9IHByaWNlLm1vbnRoCiAgICAgICAgQU5EIHJhdGUuZGF5ICAgICAgICAgICAgPSBwcmljZS5kYXkKICAgICAgICBBTkQgcmF0ZS5ob3VyICAgICAgICAgICA9IHByaWNlLmhvdXIKICAgICAgICBBTkQgcmF0ZS5uZXR3b3JrX2lkICAgICA9IHByaWNlLm5ldHdvcmtfaWQ7Cg==</text>
+        <text encoding="base64">dXNlIGNvbnN0YW50ID0+IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
