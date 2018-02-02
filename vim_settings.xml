@@ -269,11 +269,12 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1517481174237">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1517554979696">
         <mark key="'" line="313" column="0" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="18" />
-        <mark key="^" line="341" column="10" />
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="0" />
+        <mark key="^" line="320" column="18" />
+        <mark key="." line="339" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" timestamp="1513762440546">
         <mark key="'" line="28" column="25" />
@@ -368,12 +369,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange/PMP.pm" timestamp="1512468378417">
         <mark key="'" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1517552066086">
+      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1517556955875">
         <mark key="'" line="49" column="15" />
-        <mark key="[" line="58" column="105" />
-        <mark key="]" line="58" column="106" />
-        <mark key="." line="58" column="106" />
-        <mark key="^" line="58" column="106" />
+        <mark key="[" line="58" column="57" />
+        <mark key="]" line="58" column="60" />
+        <mark key="." line="58" column="60" />
+        <mark key="^" line="58" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180124_45443_bidding_order.hql" timestamp="1517481178669">
         <mark key="[" line="7" column="0" />
@@ -711,9 +712,12 @@
       <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentAPI/Audience.pm" timestamp="1510626864940">
         <mark key="'" line="75" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" timestamp="1517307851250">
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" timestamp="1517554567495">
         <mark key="'" line="4" column="25" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="11" column="34" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Logger.pm" timestamp="1516256899644">
         <mark key="'" line="111" column="4" />
@@ -989,8 +993,8 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Request.pm" timestamp="1512444603323">
         <mark key="'" line="30" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1517306728732">
-        <mark key="'" line="15" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1517555593175">
+        <mark key="'" line="170" column="47" />
         <mark key="[" line="148" column="15" />
         <mark key="]" line="148" column="16" />
         <mark key="^" line="137" column="29" />
@@ -1116,8 +1120,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1517552871145">
-        <mark key="'" line="342" column="18" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1517554464488">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1590,6 +1593,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1517203368341">
         <mark key="'" line="142" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/IO/CaptureOutput.pm" timestamp="1517555725534">
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="7" />
+        <mark key="^" line="80" column="7" />
+        <mark key="." line="80" column="7" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker/SyncAudience.pm" timestamp="1515736356904">
         <mark key="'" line="89" column="21" />
       </file>
@@ -1720,8 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="365" column="54" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
-      <jump line="396" column="12" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="397" column="16" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="398" column="54" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" />
       <jump line="33" column="41" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup/Requirements.pm" />
@@ -1820,69 +1827,71 @@
       <jump line="114" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="49" column="15" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="342" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="168" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
+      <jump line="170" column="47" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>default</text>
+        <text encoding="base64">XDxoaXZlX2NtZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>b_order_union</text>
+        <text>func(){ beeline &quot;${@/define/hivevar}&quot;; }; func</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
+        <text encoding="base64">ZXhpdDsK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RlJPTSByYXRlCklOTkVSIEpPSU4gcHJpY2UgT04KICAgICAgICByYXRlLnllYXIgICAgICAgICAgID0gcHJpY2UueWVhcgogICAgQU5EIHJhdGUubW9udGggICAgICAgICAgPSBwcmljZS5tb250aAogICAgQU5EIHJhdGUuZGF5ICAgICAgICAgICAgPSBwcmljZS5kYXkKICAgIEFORCByYXRlLmhvdXIgICAgICAgICAgID0gcHJpY2UuaG91cgogICAgQU5EIHJhdGUubmV0d29ya19pZCAgICAgPSBwcmljZS5uZXR3b3JrX2lkOwo=</text>
+        <text encoding="base64">ICAgICAgICBkcnlydW4gICAgPT4gMSwK</text>
       </register>
-      <register name="3" type="4">
-        <text>, b_order_union AS (
-)</text>
+      <register name="3" type="2">
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUMK</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSBpZiBleGlzdHMgcmV0YXJnZXQ7CmNyZWF0ZSBleHRlcm5hbCB0YWJsZSByZXRhcmdldCgKICAgICR7aGl2ZXZhcjpyZXRhcmdldF9jb2x1bW5zfQopCiBwYXJ0aXRpb25lZCBieSAoeWVhciBpbnQsIG1vbnRoIGludCwgZGF5IGludCwgaG91ciBpbnQsIGhvc3RzIHN0cmluZykKIHJvdyBmb3JtYXQgZGVsaW1pdGVkIGZpZWxkcyB0ZXJtaW5hdGVkIGJ5ICdcdCcKIGxpbmVzIHRlcm1pbmF0ZWQgYnkgJ1xuJwogc3RvcmVkIGFzIFNFUVVFTkNFRklMRTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqIEZST00gYl9vcmRlcgogICAgVU5JT04gQUxMCiAgICBzZWxlY3QgKiBGUk9NIGJfb3JkZXJfZmFsbGJhY2sK</text>
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIGluZGV45L2c5oiQY2FtcGFpZ24g44GM5a2Y5Zyo44GX44Gq44GE5aC05ZCI44GuCg==</text>
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c291cmNlIC9mb3V0L2ZvdXRfbG9ncy9zcWwvc291cmNlLmhxbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50IERFRkFVTFRfQ09OU1VQVElPTiA9PiBPTkVfREFZICogMzY2Owo=</text>
+        <text encoding="base64">RlJPTSByYXRlCklOTkVSIEpPSU4gcHJpY2UgT04KICAgICAgICByYXRlLnllYXIgICAgICAgICAgID0gcHJpY2UueWVhcgogICAgQU5EIHJhdGUubW9udGggICAgICAgICAgPSBwcmljZS5tb250aAogICAgQU5EIHJhdGUuZGF5ICAgICAgICAgICAgPSBwcmljZS5kYXkKICAgIEFORCByYXRlLmhvdXIgICAgICAgICAgID0gcHJpY2UuaG91cgogICAgQU5EIHJhdGUubmV0d29ya19pZCAgICAgPSBwcmljZS5uZXR3b3JrX2lkOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50ID0+IHt9Cg==</text>
+      <register name="9" type="4">
+        <text>, b_order_union AS (
+)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>default</last-search>
+      <last-search encoding="base64">XDxoaXZlX2NtZFw+</last-search>
       <last-offset />
-      <last-pattern>default</last-pattern>
+      <last-pattern encoding="base64">XDxoaXZlX2NtZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1906,6 +1915,7 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxiaWRzX3ByaWNlXD4=</entry>
         <entry>default</entry>
+        <entry encoding="base64">XDxoaXZlX2NtZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
