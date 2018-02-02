@@ -943,19 +943,12 @@
       <file name="$FOUT_HOME$/dmp/config.yaml" timestamp="1516161207941">
         <mark key="'" line="11" column="6" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517479175068">
-        <mark key="'" line="3874" column="0" />
-        <mark key="[" line="3874" column="0" />
-        <mark key="]" line="3886" column="36" />
-        <mark key="." line="3880" column="21" />
-        <mark key="^" line="3880" column="48" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1517479577853">
-        <mark key="'" line="1549" column="34" />
-        <mark key="[" line="1335" column="94" />
-        <mark key="]" line="1336" column="78" />
-        <mark key="^" line="1336" column="78" />
-        <mark key="." line="1336" column="78" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1517542985681">
+        <mark key="'" line="230" column="2" />
+        <mark key="[" line="3901" column="19" />
+        <mark key="]" line="3901" column="19" />
+        <mark key="^" line="3901" column="6" />
+        <mark key="." line="3901" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1516865829835">
         <mark key="'" line="259" column="0" />
@@ -1724,7 +1717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="190" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="134" column="0" filename="$FOUT_HOME$/lib/FOut/Model/AdGroup/Requirements.pm" />
       <jump line="1913" column="71" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -1824,16 +1816,17 @@
       <jump line="68" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="107" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="230" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -1886,41 +1879,10 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbWFrZV9sb2FkX2RhdGFfcXVlcnlcPg==</entry>
-        <entry encoding="base64">XDxsb2FkX2RhdGFcPg==</entry>
-        <entry encoding="base64">XDxfcnVuX3NwYXJrXD4=</entry>
-        <entry encoding="base64">XDxfbWFrZV9jbGVhbnVwX215c3FsX3F1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxfZHVtcF9sb2FkX2RhdGFcPg==</entry>
-        <entry encoding="base64">XDwvXD4=</entry>
-        <entry encoding="base64">XDxhbGxfZGF0YV9maWxlXD4=</entry>
-        <entry encoding="base64">XDx0ZW1wZGlyXD4=</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
-        <entry encoding="base64">XDx0ZW1wZmlsZVw+</entry>
-        <entry encoding="base64">XDxsb2FkX2RhdGFfbXlzcWxcPg==</entry>
-        <entry encoding="base64">XDxfbWFrZV9sb2FkX2RhdGFfbXlzcWxfcXVlcnlcPg==</entry>
-        <entry encoding="base64">XDxfY2hhcmdlX3ByaWNlX2Zvcm1hdFw+</entry>
-        <entry encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</entry>
-        <entry encoding="base64">XDxpZF9tYXBcPg==</entry>
-        <entry encoding="base64">XDxfaGFzaF90b19oaXZlX21hcFw+</entry>
-        <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
-        <entry encoding="base64">XDxfbG9hZF9kYXRhX215c3FsXD4=</entry>
-        <entry encoding="base64">XDx9XD4=</entry>
-        <entry>bud</entry>
-        <entry encoding="base64">XDxvcmRlcl9jb2x1bW5cPg==</entry>
-        <entry>case</entry>
-        <entry encoding="base64">XDxzcWxcPg==</entry>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry encoding="base64">XDxyZWZfc2xvdFw+</entry>
-        <entry>status</entry>
-        <entry encoding="base64">XDxkZXNlcmlhbGl6ZVw+</entry>
-        <entry encoding="base64">XDxhZGdyb3VwX3JlcXVpcmVtZW50c1w+</entry>
-        <entry encoding="base64">XDxyZXF1aXJlbWVudHNcPg==</entry>
-        <entry>delete</entry>
         <entry encoding="base64">XDxza2lubnlcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxiaWRpZF9kYW9cPg==</entry>
@@ -1943,7 +1905,6 @@
         <entry>default</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4vaXM=</entry>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
         <entry>put =range(11,15)</entry>
         <entry>put a</entry>
