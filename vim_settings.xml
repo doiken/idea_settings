@@ -310,7 +310,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517798635599">
+      <file name="/Dummy.txt" timestamp="1517807530834">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1300,12 +1300,12 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" timestamp="1499825670291">
         <mark key="'" line="19" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1517803341134">
-        <mark key="'" line="5" column="66" />
-        <mark key="[" line="79" column="13" />
-        <mark key="]" line="79" column="18" />
-        <mark key="^" line="79" column="12" />
-        <mark key="." line="79" column="13" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1517807941503">
+        <mark key="'" line="50" column="13" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="8" column="88" />
+        <mark key="^" line="8" column="88" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/Logger.pm" timestamp="1510638942853">
         <mark key="'" line="61" column="22" />
@@ -1628,15 +1628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1448" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="152" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="269" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="20" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="1114" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="349" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/CPCBillingSplitRunSummary.scala" />
-      <jump line="3" column="22" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/CPCBillingSplitRunSummary.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/streaming/AudienceMappingCount.scala" />
       <jump line="17" column="7" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/MacromillDemographicDataMaster.scala" />
       <jump line="3879" column="1" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="369" column="90" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -1661,8 +1652,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="32" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="50" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="68" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="107" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="230" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="59" column="23" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
@@ -1721,62 +1710,73 @@
       <jump line="56" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="66" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="9" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="49" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="67" column="47" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="5" column="66" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="82" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="26" column="3" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="44" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="45" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="48" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="53" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="68" column="41" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="8" column="84" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="17" column="57" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="23" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="49" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="67" column="47" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="82" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="5" column="66" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="33" column="47" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="50" column="13" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>price</text>
+        <text>rate.consumption_rate</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC0tIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1wdGlvbl9yYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>price</text>
+        <text>rate.consumption_rate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdF9jb25zdW1wdGlvbl9yYXRlID0+IG1vZGVscygnY29uZicpLT57Y29uc3VtcHRpb25fcmF0ZX17ZGVmYXVsdH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgbmV0d29ya19pZCwKICAgICAgICAgICAgaXNfYXBwbGljYXRpb24sCiAgICAgICAgICAgIGdlbmRlciwKICAgICAgICAgICAgYWdlX2dyb3VwLAogICAgICAgICAgICBiaWRzX3ByaWNlLAogICAgICAgICAgICAke2hpdmV2YXI6ZGVmYXVsdF9jb25zdW1wdGlvbl9yYXRlfSBBUyBjb25zdW1wdGlvbl9yYXRlLAogICAgICAgICAgICB5ZWFyLAogICAgICAgICAgICBtb250aCwKICAgICAgICAgICAgZGF5LAogICAgICAgICAgICBob3VyCiAgICAgICAgRlJPTSBwcmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAke2hpdmV2YXI6ZGVmYXVsdF9jb25zdW1wdGlvbl9yYXRlfSBBUyBjb25zdW1wdGlvbl9yYXRlLAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0d29ya19pZCwKICAgICAgICAgICAgaXNfYXBwbGljYXRpb24sCiAgICAgICAgICAgIGdlbmRlciwKICAgICAgICAgICAgYWdlX2dyb3VwLAogICAgICAgICAgICBpbXBfbnVtLAogICAgICAgICAgICBpbXBfbnVtX2ZhbGxiYWNrLAogICAgICAgICAgICBiaWRzX3ByaWNlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlIERhdGE6OkR1bXBlcjsKICAgICAgICAgICAgcHJpbnQgRHVtcGVyICRzZWxmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdF9jb25zdW1wdGlvbl9yYXRlID0+IG1vZGVscygnY29uZicpLT57Y29uc3VtcHRpb25fcmF0ZX17ZGVmYXVsdH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwogICAgICAgIHByaW50IER1bXBlciAkQDsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkbG9nID0gbW9kZWxzKCdsb2dnZXInKS0+dG9fc3RyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBEdW1wZXIgJEA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1807,7 +1807,6 @@
         <entry encoding="base64">XDxrZXlfd29yZF9iaWRzXD4=</entry>
         <entry encoding="base64">XDxrZXlfbWV0aG9kXD4=</entry>
         <entry encoding="base64">XDxnZXRfa2V5XD4=</entry>
-        <entry encoding="base64">XDxwcmljZVw+</entry>
         <entry>gender</entry>
         <entry>age</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
@@ -1825,6 +1824,7 @@
         <entry encoding="base64">XDxkb3dubG9hZF9mcm9tX2hpdmVcPg==</entry>
         <entry encoding="base64">XDxzdWJ0eXBlXD4=</entry>
         <entry encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</entry>
+        <entry encoding="base64">XDxwcmljZVw+</entry>
         <entry encoding="base64">XDxjb25zdW1wdGlvbl9yYXRlXD4=</entry>
       </history-search>
       <history-cmd>
