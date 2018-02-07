@@ -787,10 +787,6 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1508892571536">
         <mark key="'" line="1823" column="11" />
       </file>
-      <file name="$FOUT_HOME$/sql/initdb.sh" timestamp="1517811096964">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="31" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" timestamp="1516777803931">
         <mark key="'" line="87" column="4" />
       </file>
@@ -1130,6 +1126,9 @@
       </file>
       <file name="$FOUT_HOME$/t/fout/cli/db_checker/budget_empty_campaings.t" timestamp="1503282798281">
         <mark key="'" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" timestamp="1517991645468">
+        <mark key="'" line="0" column="8" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/Class/Monadic.pm" timestamp="1512977961227">
         <mark key="'" line="27" column="4" />
@@ -1683,8 +1682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="46" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="53" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="68" column="41" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="17" column="57" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
@@ -1783,6 +1780,8 @@
       <jump line="8" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="58" column="105" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="889" column="7" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
