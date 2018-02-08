@@ -58,7 +58,9 @@
       <file name="$FOUT_HOME$/conti/plack/conti.psgi" timestamp="1516840842142">
         <mark key="'" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" timestamp="1518006506419" />
+      <file name="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" timestamp="1518068446935">
+        <mark key="'" line="59" column="45" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1518001971526">
         <mark key="'" line="194" column="16" />
         <mark key="[" line="21" column="4" />
@@ -195,10 +197,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/Defs.pm" timestamp="1511318390023">
         <mark key="'" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1518007229883">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="25" />
-        <mark key="." line="34" column="25" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1518068821291">
+        <mark key="[" line="35" column="138" />
+        <mark key="]" line="35" column="138" />
+        <mark key="." line="35" column="138" />
         <mark key="^" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/App.pm" timestamp="1512371225283">
@@ -344,7 +346,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518007088156">
+      <file name="/Dummy.txt" timestamp="1518068827862">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -368,12 +370,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange/PMP.pm" timestamp="1512468378417">
         <mark key="'" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1518003792791">
+      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1518067835972">
         <mark key="'" line="58" column="105" />
-        <mark key="[" line="58" column="116" />
-        <mark key="]" line="58" column="119" />
-        <mark key="." line="58" column="119" />
-        <mark key="^" line="58" column="119" />
+        <mark key="[" line="58" column="177" />
+        <mark key="]" line="58" column="177" />
+        <mark key="." line="58" column="177" />
+        <mark key="^" line="58" column="191" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180124_45443_bidding_order.hql" timestamp="1518005223619">
         <mark key="[" line="7" column="18" />
@@ -444,6 +446,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/ParamsBase.pm" timestamp="1516174748166">
         <mark key="'" line="242" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/circle.yml" timestamp="1518069227846" />
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" timestamp="1513581863211">
         <mark key="'" line="114" column="4" />
       </file>
@@ -619,8 +622,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SparkSubmit.pm" timestamp="1517565427203">
         <mark key="'" line="57" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1518003917489">
-        <mark key="'" line="106" column="51" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1518068873848">
+        <mark key="'" line="125" column="0" />
         <mark key="[" line="106" column="48" />
         <mark key="]" line="106" column="57" />
         <mark key="." line="106" column="57" />
@@ -1544,6 +1547,7 @@
       <file name="$FOUT_HOME$/extlib/lib/perl5/DBIx/Skinny.pm" timestamp="1511149908780">
         <mark key="'" line="472" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1518067785232" />
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/BidAucnumUpdater.pm" timestamp="1503036175954">
         <mark key="'" line="53" column="69" />
       </file>
@@ -1695,9 +1699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="31" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
-      <jump line="195" column="31" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
-      <jump line="22" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
       <jump line="81" column="12" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
       <jump line="82" column="20" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
       <jump line="88" column="32" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" />
@@ -1795,16 +1796,19 @@
       <jump line="33" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="8" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="59" column="45" filename="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FROM_EPOCH=$(date -d '2018-01-12 13' &quot;+%s&quot;); perl /fout/fout_logs/bin/run_bidding_order_calculator.pl --from ${FROM_EPOCH}</text>
+        <text encoding="base64">LS1yZWNvcmQtdGhyZXNob2xkPTEwMDAg</text>
       </register>
       <register name="-" type="4">
-        <text>FROM_EPOCH=$(date -d '2018-01-12 13' &quot;+%s&quot;); perl /fout/fout_logs/bin/run_bidding_order_calculator.pl --from ${FROM_EPOCH}</text>
+        <text encoding="base64">LS1yZWNvcmQtdGhyZXNob2xkPTEwMDAg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdW1wX2hxbFw+</text>
@@ -1813,37 +1817,37 @@
         <text>run_bidding_order_calculator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkcnlydW4gICAgPT4gMSwK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbIzQ1NDQzXSBpbXBsZW1lbnQgYmlkZGluZ19vcmRlciBjYWxjdWxhdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBbIzQ1NDQzXSBpbXBsZW1lbnQgYmlkZGluZ19vcmRlciBjYWxjdWxhdG9yCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBbIzQ1NDQzXSBpbXBsZW1lbnQgYmlkZGluZ19vcmRlciBjYWxjdWxhdG9yCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDU6IDAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBbIzQ1NDQzXSBpbXBsZW1lbnQgYmlkZGluZ19vcmRlciBjYWxjdWxhdG9yCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDU6IDAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcnlydW4gICAgPT4gMSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
