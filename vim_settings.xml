@@ -541,7 +541,7 @@
       <file name="$USER_HOME$/Documents/mtburn_go/rtb/builder.go" timestamp="1513654979370">
         <mark key="'" line="7" column="33" />
       </file>
-      <file name="/Bid.pm" timestamp="1518176716741">
+      <file name="/Bid.pm" timestamp="1518178309437">
         <mark key="'" line="780" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1517384828253">
@@ -1004,14 +1004,14 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1518156551630">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1518178544889">
         <mark key="'" line="216" column="8" />
         <mark key="[" line="3894" column="0" />
         <mark key="]" line="3894" column="0" />
         <mark key="." line="3894" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1518177140702">
-        <mark key="'" line="2323" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1518178172172">
+        <mark key="'" line="1875" column="4" />
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="37" />
         <mark key="." line="64" column="37" />
@@ -1861,7 +1861,6 @@
       <jump line="1599" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="84" column="19" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_line.t" />
       <jump line="299" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="1875" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="41" column="31" filename="$FOUT_HOME$/t/fout/bid/decision/response_log.t" />
       <jump line="154" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="39" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -1890,6 +1889,7 @@
       <jump line="2199" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2294" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2323" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1875" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1902,7 +1902,7 @@
         <text>is_application</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</text>
+        <text encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogYWx0ZXJuYXRlX2F1ZGllbmNl5a++5b+c5qSc6KiOCg==</text>
@@ -1945,9 +1945,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2060,6 +2060,7 @@
         <entry encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tfaXNfYXNlXD4=</entry>
         <entry encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
