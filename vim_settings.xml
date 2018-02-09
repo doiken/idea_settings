@@ -541,7 +541,7 @@
       <file name="$USER_HOME$/Documents/mtburn_go/rtb/builder.go" timestamp="1513654979370">
         <mark key="'" line="7" column="33" />
       </file>
-      <file name="/Bid.pm" timestamp="1518169983796">
+      <file name="/Bid.pm" timestamp="1518176716741">
         <mark key="'" line="780" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1517384828253">
@@ -1010,8 +1010,8 @@
         <mark key="]" line="3894" column="0" />
         <mark key="." line="3894" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1518174752247">
-        <mark key="'" line="2199" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1518177140702">
+        <mark key="'" line="2323" column="4" />
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="37" />
         <mark key="." line="64" column="37" />
@@ -1790,7 +1790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1636" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1496" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1492" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="87" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1878,7 +1877,6 @@
       <jump line="112" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2332" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="790" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2323" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="260" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1093" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1338" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -1890,6 +1888,8 @@
       <jump line="1375" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="292" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="2199" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2294" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2323" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1902,7 +1902,7 @@
         <text>is_application</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tfaXNfYXNlXD4=</text>
+        <text encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgVE9ETzogYWx0ZXJuYXRlX2F1ZGllbmNl5a++5b+c5qSc6KiOCg==</text>
@@ -1945,9 +1945,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tfaXNfYXNlXD4=</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tfaXNfYXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2057,9 +2057,9 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxzcWxcPg==</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
-        <entry encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</entry>
         <entry encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tfaXNfYXNlXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
