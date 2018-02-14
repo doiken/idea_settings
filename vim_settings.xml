@@ -27,6 +27,12 @@
       <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1498634093523">
         <mark key="'" line="174" column="11" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/ad/request/medibasp/charge_price.t" timestamp="1518600151880">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Class/Accessor.pm" timestamp="1501114338152">
         <mark key="'" line="15" column="4" />
       </file>
@@ -68,11 +74,11 @@
         <mark key="'" line="59" column="45" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1518597374349">
-        <mark key="'" line="239" column="23" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="162" column="33" />
+        <mark key="'" line="207" column="23" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="130" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
         <mark key="'" line="896" column="34" />
@@ -177,12 +183,6 @@
         <mark key="]" line="0" column="19" />
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Worker.pm" timestamp="1518508984552">
-        <mark key="'" line="33" column="16" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="29" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="/System/Library/Perl/5.18/Carp.pm" timestamp="1507791893944">
         <mark key="'" line="45" column="2" />
@@ -447,6 +447,7 @@
       <file name="$FOUT_HOME$/bid/log/scanner/reader/reader.psgi" timestamp="1511839976368">
         <mark key="'" line="7" column="4" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1518600388429" />
       <file name="$USER_HOME$/IdeaProjects/hackerbase/app/models/admin.rb" timestamp="1511677097333">
         <mark key="'" line="15" column="11" />
       </file>
@@ -628,6 +629,12 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/db/hiveserver2.t" timestamp="1516865366249">
         <mark key="'" line="5" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/ad/request/appvador/charge_price.t" timestamp="1518600398633">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/perl/xs/Mouse-v2.4.5/lib/Mouse/Meta/Attribute.pm" timestamp="1508123925734">
         <mark key="'" line="72" column="4" />
@@ -823,6 +830,7 @@
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Google/API/Client.pm" timestamp="1508222832865">
         <mark key="'" line="34" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request/OpenXOpenRTB.pm" timestamp="1518600788135" />
       <file name="$FOUT_HOME$/t/fout/ad/delivery/publish_companion_script.t" timestamp="1502162286796">
         <mark key="'" line="16" column="0" />
       </file>
@@ -918,8 +926,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/OpenX.pm" timestamp="1511319325630">
         <mark key="'" line="81" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1518002049449">
-        <mark key="'" line="13" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1518599638856">
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="$FOUT_HOME$/click/plack/click.psgi" timestamp="1501568245349">
         <mark key="'" line="24" column="1" />
@@ -1208,12 +1216,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1509353311654">
         <mark key="'" line="35" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1518165748023">
-        <mark key="'" line="290" column="8" />
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1499915571473">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1345,6 +1347,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AudienceIDMap/KVS.pm" timestamp="1512020380528">
         <mark key="'" line="0" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request/MedibaSP.pm" timestamp="1518600167419">
+        <mark key="'" line="18" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/ssp_medibasp.t" timestamp="1512524797602">
         <mark key="'" line="115" column="41" />
@@ -1818,14 +1823,11 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1518172803007">
         <mark key="'" line="503" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1518155235956">
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1518599948672">
         <mark key="'" line="301" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="116" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="124" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="133" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="141" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="150" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
@@ -1923,22 +1925,25 @@
       <jump line="53" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="55" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="58" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
+      <jump line="48" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" />
+      <jump line="19" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" />
+      <jump line="18" column="8" filename="$FOUT_HOME$/lib/FOut/AD/Request/MedibaSP.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>20000000</text>
+        <text>J0Nl3ub0g0Q</text>
       </register>
       <register name="-" type="4">
-        <text>20000000</text>
+        <text>J0Nl3ub0g0Q</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRcPg==</text>
+        <text encoding="base64">XDxjcnlwdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBnOiAgICAgICAgICAgIDIwMDAwMDAwCg==</text>
+        <text encoding="base64">aXMgJHJlcS0+Y2hhcmdlX3ByaWNlKHsgcHJjID0+ICdKME5sM3ViMGcwUScgfSksIDIwMDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1965,22 +1970,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMg5YWo6YOo44K744OD44OI44GZ44KL44GobWVtb3J544GM6Laz44KK44Gq44GP44Gq44KLCg==</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMg44OH44Oi44Kw44Op44Gu56iu6aGe44GMNjDjg5Hjgr/jg7zjg7MK</text>
+        <text encoding="base64">ICAgICMg5YWo6YOo44K744OD44OI44GZ44KL44GobWVtb3J544GM6Laz44KK44Gq44GP44Gq44KLCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRcPg==</last-search>
+      <last-search encoding="base64">XDxjcnlwdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcnlwdFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2016,6 +2021,7 @@
         <entry encoding="base64">XDxoZGJfcHV0XD4=</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
+        <entry encoding="base64">XDxjcnlwdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
