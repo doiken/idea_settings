@@ -348,7 +348,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518660649770">
+      <file name="/Dummy.txt" timestamp="1518666773698">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -825,6 +825,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/API/Impl/Ad.pm" timestamp="1512445329294">
         <mark key="'" line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/test/github-pullrequests.coffee" timestamp="1518666750374">
+        <mark key="'" line="47" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/OpenX.pm" timestamp="1511319325630">
         <mark key="'" line="81" column="4" />
@@ -1549,13 +1552,16 @@
       <file name="$FOUT_HOME$/t/script/purge_rabbitmq_messages.pl" timestamp="1502264409948">
         <mark key="'" line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/github-pullrequests.coffee" timestamp="1518666870038">
+        <mark key="'" line="18" column="4" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/Meta/Module.pm" timestamp="1507768432811">
         <mark key="'" line="21" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Click/Status.pm" timestamp="1501751879902">
         <mark key="'" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1516331796194">
+      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1518666824645">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
@@ -1692,9 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1469" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="1483" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="334" column="37" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" />
       <jump line="2853" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" />
       <jump line="177" column="37" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" />
@@ -1792,6 +1795,9 @@
       <jump line="26" column="1" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="88" column="0" filename="$FOUT_HOME$/sql/grants.sql" />
       <jump line="1902" column="8" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/fout_hubot/test/github-pullrequests.coffee" />
+      <jump line="19" column="32" filename="$USER_HOME$/Documents/fout_hubot/scripts/github-pullrequests.coffee" />
+      <jump line="18" column="4" filename="$USER_HOME$/Documents/fout_hubot/scripts/github-pullrequests.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1804,7 +1810,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxpZ25vcmVkX3VzZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmltYXJ5IGtleSAoY3BuX2lkLCB0YXJnZXRfaG91ciwgbmV0d29ya19pZCwgYWdlX2dyb3VwLCBnZW5kZXIsIGlzX2FwcGxpY2F0aW9uKQo=</text>
@@ -1847,9 +1853,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxpZ25vcmVkX3VzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxpZ25vcmVkX3VzZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1888,6 +1894,7 @@
         <entry encoding="base64">XDxjcnlwdFw+</entry>
         <entry encoding="base64">XDxzaXRlX29yX2FwcF9pZFw+</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxpZ25vcmVkX3VzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
