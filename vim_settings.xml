@@ -697,6 +697,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Logger.pm" timestamp="1516256899644">
         <mark key="'" line="111" column="4" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" timestamp="1518679136888">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1518167065896">
         <mark key="'" line="39" column="4" />
       </file>
@@ -1737,7 +1743,6 @@
       <jump line="632" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" />
       <jump line="509" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" />
       <jump line="64" column="11" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
-      <jump line="26" column="31" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
       <jump line="49" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
       <jump line="25" column="18" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
       <jump line="55" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
@@ -1818,22 +1823,23 @@
       <jump line="115" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="498" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="457" column="25" filename="$FOUT_HOME$/vendor/perl5/tokyocabinet-perl-1.34/TokyoCabinet.xs" />
+      <jump line="26" column="13" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>グ</text>
+        <text>$hdb_put</text>
       </register>
       <register name="-" type="4">
-        <text>グ</text>
+        <text>$hdb_put</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXR3b3JrX2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>fetch_network_id</text>
+        <text>$hdb_put_async</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICgkc2VsZi0+cmF3X3JmcF9uZXR3b3JrX2lkICYmCiAgICAgICAgISBncmVwIHsgJHNlbGYtPnJhd19yZnBfbmV0d29ya19pZCA9PSAkXyB9IEB7IG1vZGVscygnYmlkX2NvbmYnKS0+e3JmcF9ub3Rfc3BlY2lmaWVkX2Rpc3RyaWJ1dGlvbn0gLy8gW10gfSkKICAgICAgICA/ICRzZWxmLT5yYXdfcmZwX25ldHdvcmtfaWQKICAgICAgICA6IHVuZGVmCg==</text>
