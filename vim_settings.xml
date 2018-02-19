@@ -466,12 +466,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/ParamsBase.pm" timestamp="1516174748166">
         <mark key="'" line="242" column="6" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/context/network.t" timestamp="1519024760688">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-        <mark key="." line="11" column="20" />
+      <file name="$FOUT_HOME$/t/fout/bid/context/network.t" timestamp="1519027043747">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="12" column="102" />
+        <mark key="]" line="12" column="102" />
+        <mark key="^" line="12" column="102" />
+        <mark key="." line="12" column="102" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" timestamp="1513581863211">
         <mark key="'" line="114" column="4" />
@@ -654,13 +654,6 @@
         <mark key="]" line="66" column="33" />
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1518753346164">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="119" column="18" />
       </file>
       <file name="/System/Library/Perl/Extras/5.18/namespace/autoclean.pm" timestamp="1500879374258">
         <mark key="'" line="1" column="0" />
@@ -847,12 +840,12 @@
       <file name="$USER_HOME$/Documents/mtburn/README.md" timestamp="1512099896201">
         <mark key="'" line="216" column="16" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/pg_network_index.t" timestamp="1519025210241">
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/pg_network_index.t" timestamp="1519026548347">
         <mark key="'" line="25" column="8" />
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="12" />
+        <mark key="[" line="40" column="18" />
+        <mark key="]" line="40" column="29" />
         <mark key="^" line="27" column="12" />
-        <mark key="." line="27" column="12" />
+        <mark key="." line="40" column="18" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/POE/Test/Loops/z_rt39872_sigchld_stop.pm" timestamp="1517817928810">
         <mark key="'" line="6" column="0" />
@@ -1026,12 +1019,12 @@
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Request.pm" timestamp="1509588821401">
         <mark key="'" line="99" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519025033409">
-        <mark key="'" line="21" column="11" />
-        <mark key="[" line="30" column="43" />
-        <mark key="]" line="30" column="43" />
-        <mark key="^" line="30" column="43" />
-        <mark key="." line="30" column="43" />
+      <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519026494882">
+        <mark key="'" line="22" column="11" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/API/Request.pm" timestamp="1512444603323">
         <mark key="'" line="30" column="35" />
@@ -1042,17 +1035,17 @@
       <file name="/file.dummy" timestamp="1518768238576">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1519025286356">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1519026541824">
         <mark key="'" line="222" column="7" />
         <mark key="[" line="228" column="19" />
-        <mark key="]" line="228" column="22" />
-        <mark key="^" line="228" column="22" />
-        <mark key="." line="228" column="22" />
+        <mark key="]" line="228" column="29" />
+        <mark key="^" line="222" column="4" />
+        <mark key="." line="222" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/Abstract.pm" timestamp="1500004339340">
         <mark key="'" line="29" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" timestamp="1519024604459">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" timestamp="1519026552862">
         <mark key="'" line="87" column="4" />
         <mark key="[" line="18" column="24" />
         <mark key="]" line="18" column="40" />
@@ -1787,7 +1780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="42" column="0" filename="$FOUT_HOME$/lib/FOut/Model/Conversion.pm" />
       <jump line="118" column="11" filename="$FOUT_HOME$/lib/FOut/Conv/Register.pm" />
       <jump line="123" column="10" filename="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Touch.pm" />
@@ -1887,64 +1879,65 @@
       <jump line="591" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/D2C.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="19" column="37" filename="$FOUT_HOME$/t/fout/bid/context/network.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>network_index</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>network_index</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzc3BfcmVxdWVzdF9pZFw+</text>
+        <text encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>network_id</text>
+        <text>$pg_index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkID0+ICcwMDAwMDEnLCBwYXJlbnRfaWQgPT4gJzAwMCcsIH0sCiAgICAgICAgeyBpZCA9PiAnMDAxMDAxJywgcGFyZW50X2lkID0+ICcwMDEnLCB9LAogICAgICAgIHsgaWQgPT4gJzAwMTAwMicsIHBhcmVudF9pZCA9PiAnMDAxJywgfSwKICAgICAgICB7IGlkID0+ICcwMDIwMDEnLCBwYXJlbnRfaWQgPT4gJzAwMicsIH0sCiAgICAgICAgeyBpZCA9PiAnMDAyMDAyJywgcGFyZW50X2lkID0+ICcwMDInLCB9LAo=</text>
+        <text encoding="base64">IyMgZHVtbWllcyBwcm9wZXJ0aWVzIGZvciByZXF1aXJlbWVudHMKI215ICVkdW1teV9wcm9wZXJ0aWVzID0gKAojICAgIHBhcmVudCA9PiBGT3V0OjpCaWQ6OkNvbnRleHQtPm5ldygpLAojICAgIGRlYWxfY29kZSA9PiAnQUItQWdlbmN5MS0wMDAxJywKIyAgICBzc3BfZmxvb3JfcHJpY2VfbWFqb3IgPT4gMi41CiMpOwojCiNzdWJ0ZXN0ICdzZXQvZ2V0IHByb3BlcnRpZXMgZm9yIHN3aXRjaCBjb250ZXh0JyA9PiBzdWIgewojICAgIG15ICR0ZXh0X3V4ID0gZG8gewojICAgICAgICBteSAkdXggPSBUZXh0OjpVeC0+bmV3OwojICAgICAgICAkdXgtPmJ1aWxkKFsyMDAwLCAyMDAxXSk7CiMKIyAgICAgICAgJHV4OwojICAgIH07CiMgICAgbXkgJGRlYWwgPSBGT3V0OjpCaWQ6OkNvbnRleHQ6OkRlYWwtPm5ldygKIyAgICAgICAgd2hpdGVfYWR2ZXJ0aXNlciA9PiAnMiwxJywKIyAgICAgICAgd2hpdGVfYWR2ZXJ0aXNlcl90cmllID0+ICR0ZXh0X3V4LAojICAgICAgICB3aGl0ZV9kb21haW4gPT4gJ3d3dy5mb28uY29tLHd3dy5iYXIuY29tJywKIyAgICAgICAgYmxhY2tfc2VjdG9yID0+ICczODAxLDM4MDInLAojICAgICAgICAlZHVtbXlfcHJvcGVydGllcwojICAgICk7CiMKIyAgICBpcyAkZGVhbC0+d2hpdGVfYWR2ZXJ0aXNlciwgJzIsMScsICdTb3J0ZWQgYnkgQXNjZW5kaW5nJzsKIyAgICBpcyAkZGVhbC0+d2hpdGVfYWR2ZXJ0aXNlcl90cmllLCAkdGV4dF91eDsKIyAgICBpcyAkZGVhbC0+d2hpdGVfZG9tYWluLCAnd3d3LmZvby5jb20sd3d3LmJhci5jb20nOwojICAgIGlzICRkZWFsLT5ibGFja19zZWN0b3IsICczODAxLDM4MDInOwojfTsK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkID0+IDIsIG5hbWUgPT4gJ0xJTkUnIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7IGlkID0+ICcwMDAwMDEnLCBwYXJlbnRfaWQgPT4gJzAwMCcsIH0sCiAgICAgICAgeyBpZCA9PiAnMDAxMDAxJywgcGFyZW50X2lkID0+ICcwMDEnLCB9LAogICAgICAgIHsgaWQgPT4gJzAwMTAwMicsIHBhcmVudF9pZCA9PiAnMDAxJywgfSwKICAgICAgICB7IGlkID0+ICcwMDIwMDEnLCBwYXJlbnRfaWQgPT4gJzAwMicsIH0sCiAgICAgICAgeyBpZCA9PiAnMDAyMDAyJywgcGFyZW50X2lkID0+ICcwMDInLCB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkID0+IDEsIG5hbWUgPT4gJ1JFRCcgfSwK</text>
+        <text encoding="base64">ICAgICAgICB7IGlkID0+IDIsIG5hbWUgPT4gJ0xJTkUnIH0sCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7IGlkID0+IDIsIG5hbWUgPT4gJ0xJTkUnIH0sCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB7IGlkID0+IDEsIG5hbWUgPT4gJ1JFRCcgfSwK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7IGlkID0+IDIsIG5hbWUgPT4gJ0xJTkUnIH0sCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2soJ0ZPdXQ6OkJpZDo6SW5kZXg6OkhEQjo6UEcnLCAlZGVmYXVsdHMsIEBfKTsK</text>
+        <text encoding="base64">ICAgICAgICB7IGlkID0+IDEsIG5hbWUgPT4gJ1JFRCcgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG15ICRjb250ZXh0ID0gbW9ja19jb250ZXh0KHJhd19yZnBfbmV0d29ya19pZCA9PiAwKTsK</text>
+        <text encoding="base64">ICAgIG1vY2soJ0ZPdXQ6OkJpZDo6SW5kZXg6OkhEQjo6UEcnLCAlZGVmYXVsdHMsIEBfKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG15ICRjb250ZXh0ID0gbW9ja19jb250ZXh0KGlzX2xpbmVfc3BvdCA9PiAxKTsK</text>
+        <text encoding="base64">ICAgIG15ICRjb250ZXh0ID0gbW9ja19jb250ZXh0KHJhd19yZnBfbmV0d29ya19pZCA9PiAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG15ICVkZWZhdWx0cyA9IChpc19saW5lX3Nwb3QgPT4gMCwgcmF3X3JmcF9uZXR3b3JrX2lkID0+IHVuZGVmKTsK</text>
+        <text encoding="base64">ICAgIG15ICRjb250ZXh0ID0gbW9ja19jb250ZXh0KGlzX2xpbmVfc3BvdCA9PiAxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzc3BfcmVxdWVzdF9pZFw+</last-search>
+      <last-search encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzc3BfcmVxdWVzdF9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1967,7 +1960,6 @@
         <entry encoding="base64">XDxsX2ludGVyZXN0X3BhcmVudHNfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxfZmV0Y2hfZGVhbFw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</entry>
         <entry encoding="base64">XDxERUxFVEVcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9yZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxfbWFrZV9jb21tYW5kXD4=</entry>
@@ -1989,6 +1981,7 @@
         <entry encoding="base64">XDxydW5fYmF0Y2hcPg==</entry>
         <entry encoding="base64">XDxmaXh0dXJlXD4=</entry>
         <entry encoding="base64">XDxzc3BfcmVxdWVzdF9pZFw+</entry>
+        <entry encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
