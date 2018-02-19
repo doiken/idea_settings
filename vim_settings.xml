@@ -60,12 +60,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" timestamp="1518068446935">
         <mark key="'" line="59" column="45" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1519018858880">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1519020213099">
         <mark key="'" line="81" column="25" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="50" />
-        <mark key="." line="82" column="20" />
-        <mark key="^" line="78" column="0" />
+        <mark key="[" line="107" column="32" />
+        <mark key="]" line="107" column="42" />
+        <mark key="." line="107" column="32" />
+        <mark key="^" line="107" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/vendor/bundle/ruby/2.3.0/gems/actionview-5.1.4/lib/action_view/helpers/form_tag_helper.rb" timestamp="1511624801810">
         <mark key="'" line="896" column="34" />
@@ -349,7 +349,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518768265402">
+      <file name="/Dummy.txt" timestamp="1519020130448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -957,9 +957,16 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519019095473" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519019011409">
-        <mark key="'" line="1137" column="73" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519020774891">
+        <mark key="[" line="409" column="2" />
+        <mark key="]" line="409" column="11" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519020954867">
+        <mark key="'" line="1804" column="51" />
+        <mark key="[" line="1337" column="36" />
+        <mark key="]" line="1337" column="48" />
+        <mark key="^" line="1337" column="49" />
+        <mark key="." line="1337" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1518660903567">
         <mark key="'" line="30" column="31" />
@@ -1727,7 +1734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="40" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="69" column="18" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="88" column="0" filename="$FOUT_HOME$/sql/grants.sql" />
@@ -1827,22 +1833,23 @@
       <jump line="1132" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1136" column="57" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1137" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1802" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15ICRpc19saW5lID0gJGstPntpc19saW5lfSAvLyAkc2VsZi0+aXNfbGluZTsK</text>
+      <register name="&quot;" type="4">
+        <text>an_network_id</text>
       </register>
       <register name="-" type="4">
-        <text>is_line_spot</text>
+        <text>rfp_network_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnZlcnRlZEluZGV4XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG15ICRpc19saW5lID0gJGstPntpc19saW5lfSAvLyAkc2VsZi0+aXNfbGluZTsK</text>
+      <register name="0" type="4">
+        <text>an_network_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFtbcXcoZGVtb19wcmVkaWN0aW9uKV0gPT4gJ2lzX2xpbmVfc3BvdCddLAo=</text>
