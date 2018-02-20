@@ -607,7 +607,7 @@
       <file name="$USER_HOME$/Documents/mtburn_go/rtb/builder.go" timestamp="1513654979370">
         <mark key="'" line="7" column="33" />
       </file>
-      <file name="/Bid.pm" timestamp="1518178309437">
+      <file name="/Bid.pm" timestamp="1519106163740">
         <mark key="'" line="780" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1518598982284">
@@ -1086,12 +1086,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519042310600">
-        <mark key="'" line="1727" column="7" />
-        <mark key="[" line="1846" column="52" />
-        <mark key="]" line="1846" column="52" />
-        <mark key="." line="1846" column="52" />
-        <mark key="^" line="1846" column="52" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519106185007">
+        <mark key="'" line="1803" column="34" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="1803" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1518660903567">
         <mark key="'" line="30" column="31" />
@@ -1979,11 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$FOUT_HOME$/t/fout/bid/data/bid_ids.t" />
-      <jump line="46" column="13" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-bidding_order_using_ctr.t" />
-      <jump line="122" column="4" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-bidding_order_using_ctr.t" />
-      <jump line="418" column="21" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
-      <jump line="108" column="22" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
       <jump line="41" column="18" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
       <jump line="78" column="55" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
       <jump line="79" column="61" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
@@ -2079,55 +2074,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/fout_logs/config_local.yaml" />
       <jump line="59" column="10" filename="$USER_HOME$/Documents/fout_logs/t/utils/MakeHelper.pm" />
+      <jump line="69" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="820" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1802" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1803" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aWQgPT4gMSwgY3JlYXRpdmVfaWQgPT4gMTAwMSwgc2NvcmUgPT4gMTA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q29udGV4dDo6TmV0d29yayBxdyhORVRXT1JLX0lEX1JFRCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWQgPT4gMSwgY3JlYXRpdmVfaWQgPT4gMTAwMSwgc2NvcmUgPT4gMTA=</text>
+        <text>NETWORK_ID_RED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcnVuX2JpZF9pbmRleFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGYtPmNyZWF0ZV9hZCgKICAgICAgICAgICAgICAgICdhZDEnLCB7IGlkID0+IDEsIGNyZWF0aXZlX2lkID0+IDEwMDEsIHNjb3JlID0+IDEwIH0sICRhZGcKICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q291bnRyeU1hcHBlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0d29ya19pZCA9PiAwLAo=</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q29udGV4dDo6TmV0d29yayBxdyhORVRXT1JLX0lEX1JFRCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKGFuNSA9PiB7IG5ldHdvcmtfaWQgPT4gMSwgfSwgJGFkZ19tdWx0aSksCg==</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q29udGV4dDo6TmV0d29yayBxdyhORVRXT1JLX0lEX1JFRCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIGNwbl9pZCA9PiAxMCwKICAgICAgICAgICAgICAgIGRldmljZSA9PiAyLAogICAgICAgICAgICAgICAgaXNyZWdpb25lZCA9PiAwLAogICAgICAgICAgICAgICAgcmZwX25ldHdvcmtfaWQgPT4gdW5kZWYsICMg5oyH5a6a6YWN5L+h44Gq44GXCiAgICAgICAgICAgICAgICBzdGF0dXMgPT4gMSwKICAgICAgICAgICAgICAgIGlzX2RlbGV0ZWQgPT4gMCwKICAgICAgICAgICAgICAgIGlzX2FyY2hpdmVkID0+IDAsCg==</text>
+        <text encoding="base64">dXNlIEZPdXQ6Ok1vZGVsOjpCaWQ7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkYW4gPSAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKCdhbicgPT4gewogICAgICAgICAgICBuZXR3b3JrX2lkID0+IAogICAgICAgIH0sICRhZGcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0d29ya19pZCA9PiAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQgPT4gJGlkLCBjcmVhdGl2ZV9pZCA9PiAkY3JlYXRpdmUtPntkYXRhfXtpZH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKGFuNSA9PiB7IG5ldHdvcmtfaWQgPT4gMSwgfSwgJGFkZ19tdWx0aSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkYWQgPSAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKCJhbiRpZCIgPT4gewogICAgICAgICAgICBpZCA9PiAkaWQsIGNyZWF0aXZlX2lkID0+ICRjcmVhdGl2ZS0+e2RhdGF9e2lkfSwKICAgICAgICB9LCAkYWRnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIGNwbl9pZCA9PiAxMCwKICAgICAgICAgICAgICAgIGRldmljZSA9PiAyLAogICAgICAgICAgICAgICAgaXNyZWdpb25lZCA9PiAwLAogICAgICAgICAgICAgICAgcmZwX25ldHdvcmtfaWQgPT4gdW5kZWYsICMg5oyH5a6a6YWN5L+h44Gq44GXCiAgICAgICAgICAgICAgICBzdGF0dXMgPT4gMSwKICAgICAgICAgICAgICAgIGlzX2RlbGV0ZWQgPT4gMCwKICAgICAgICAgICAgICAgIGlzX2FyY2hpdmVkID0+IDAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGFkID0gJGYtPmNyZWF0ZV9hZGdycF9uZXR3b3JrcygiYW4kaWQiID0+IHsKICAgICAgICAgICAgICAgIGlkID0+ICRpZCwgY3JlYXRpdmVfaWQgPT4gJGNyZWF0aXZlLT57ZGF0YX17aWR9LAogICAgICAgICAgICB9LCAkYWRnKTsK</text>
+        <text encoding="base64">ICAgICAgICBteSAkYW4gPSAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKCdhbicgPT4gewogICAgICAgICAgICBuZXR3b3JrX2lkID0+IAogICAgICAgIH0sICRhZGcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmZwX25ldHdvcmtfaWQgPT4gdW5kZWYsIG5ldHdvcmtfaWQgPT4gMiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQgPT4gJGlkLCBjcmVhdGl2ZV9pZCA9PiAkY3JlYXRpdmUtPntkYXRhfXtpZH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuID0+IHsgbmV0d29ya19pZCA9PiAxIH0K</text>
+        <text encoding="base64">ICAgICAgICBteSAkYWQgPSAkZi0+Y3JlYXRlX2FkZ3JwX25ldHdvcmtzKCJhbiRpZCIgPT4gewogICAgICAgICAgICBpZCA9PiAkaWQsIGNyZWF0aXZlX2lkID0+ICRjcmVhdGl2ZS0+e2RhdGF9e2lkfSwKICAgICAgICB9LCAkYWRnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
