@@ -226,11 +226,6 @@
       <file name="$USER_HOME$/Documents/mtburn/lib/MTBurn/Ad/App.pm" timestamp="1512371225283">
         <mark key="'" line="22" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Util.pm" timestamp="1519038718143">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="19" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/KVS/MemcachedProtocol.pm" timestamp="1510710018489">
         <mark key="'" line="68" column="15" />
       </file>
@@ -383,7 +378,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1503368323531">
         <mark key="'" line="21" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519193440085">
+      <file name="/Dummy.txt" timestamp="1519196482807">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -551,6 +546,9 @@
       <file name="$USER_HOME$/Documents/mtburn_go/rtb/builder.go" timestamp="1513654979370">
         <mark key="'" line="7" column="33" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob.pm" timestamp="1519195802608">
+        <mark key="'" line="35" column="26" />
+      </file>
       <file name="/Bid.pm" timestamp="1519106163740">
         <mark key="'" line="780" column="12" />
       </file>
@@ -579,12 +577,6 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/local/lib/perl5/Log/Any/Proxy.pm" timestamp="1513624706187">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1519120594408">
-        <mark key="'" line="61" column="11" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/apps_plus/index/companion_script.t" timestamp="1500527519267">
         <mark key="'" line="167" column="20" />
       </file>
@@ -612,6 +604,7 @@
       <file name="$FOUT_HOME$/t/fout/sync/beacon/new_sync.t" timestamp="1519043144128">
         <mark key="'" line="46" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob/SegmentUpload.pm" timestamp="1519195822887" />
       <file name="$FOUT_HOME$/lib/FOut/ScopedModels.pm" timestamp="1499149871010">
         <mark key="'" line="92" column="0" />
       </file>
@@ -674,12 +667,6 @@
       </file>
       <file name="/System/Library/Perl/Extras/5.18/namespace/autoclean.pm" timestamp="1500879374258">
         <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1519122965523">
-        <mark key="'" line="1183" column="25" />
-        <mark key="[" line="41" column="31" />
-        <mark key="]" line="41" column="42" />
-        <mark key="." line="41" column="42" />
       </file>
       <file name="$FOUT_HOME$/extlib/lib/perl5/YAML.pm" timestamp="1507863561301">
         <mark key="'" line="0" column="0" />
@@ -783,12 +770,6 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/Google/API/Client.pm" timestamp="1508222832865">
         <mark key="'" line="34" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Network/Util.pm" timestamp="1519119909211">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-for-asia.t" timestamp="1519048333637">
         <mark key="[" line="168" column="0" />
@@ -1001,7 +982,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519191400292">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519196348940">
         <mark key="'" line="1470" column="18" />
         <mark key="[" line="408" column="2" />
         <mark key="]" line="408" column="9" />
@@ -1285,11 +1266,6 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Test/TCP.pm" timestamp="1516338222202">
         <mark key="'" line="173" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/Role/Cached.pm" timestamp="1519038747909">
-        <mark key="'" line="35" column="28" />
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="48" column="35" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos6_perl-5.24.1/lib/perl5/x86_64-linux/Mouse/Meta/Class.pm" timestamp="1508114163618">
         <mark key="'" line="237" column="13" />
@@ -1618,16 +1594,17 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/PMP.pm" timestamp="1519179347285">
         <mark key="'" line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/Utils.pm" timestamp="1519108496367">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Memcached.pm" timestamp="1516700889876">
         <mark key="'" line="69" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Request.pm" timestamp="1502328708760">
         <mark key="'" line="0" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" timestamp="1519196461811">
+        <mark key="'" line="106" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" timestamp="1519195755386">
+        <mark key="'" line="90" column="27" />
       </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/adgroup/set_bulk.t" timestamp="1508492608839">
         <mark key="'" line="19" column="4" />
@@ -1826,15 +1803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/fout_logs/t/Utils.pm" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="63" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" />
-      <jump line="98" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="9" column="20" filename="$FOUT_HOME$/lib/FOut/Network/Util.pm" />
-      <jump line="26" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="603" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
-      <jump line="646" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="96" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="47" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
@@ -1926,6 +1894,15 @@
       <jump line="26" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack.pm" />
       <jump line="19" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="42" column="9" filename="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" />
+      <jump line="90" column="27" filename="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" />
+      <jump line="47" column="8" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob.pm" />
+      <jump line="35" column="26" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob.pm" />
+      <jump line="98" column="4" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
+      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
+      <jump line="39" column="34" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
+      <jump line="61" column="20" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
+      <jump line="106" column="0" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1938,7 +1915,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RfbnVtXD4=</text>
+        <text encoding="base64">XDxfZW5xdWV1ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>core_split</text>
@@ -1981,9 +1958,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RfbnVtXD4=</last-search>
+      <last-search encoding="base64">XDxfZW5xdWV1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RfbnVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZW5xdWV1ZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2036,6 +2013,8 @@
         <entry encoding="base64">XDxfY3JlYXRlX3NodWZmbGVfaXRlclw+</entry>
         <entry encoding="base64">XDxzZWxlY3Rfb25lX2JpZFw+</entry>
         <entry encoding="base64">XDxzZWxlY3RfbnVtXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxfZW5xdWV1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
