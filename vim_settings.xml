@@ -119,10 +119,6 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Sns/CLI.pm" timestamp="1512889928416">
         <mark key="'" line="181" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/alarm.t" timestamp="1519024096825">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="12" />
-      </file>
       <file name="$FOUT_HOME$/tools/item_master_sqoop_importer.pl" timestamp="1501138111603">
         <mark key="'" line="6" column="31" />
       </file>
@@ -132,8 +128,8 @@
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Test/Warn.pm" timestamp="1503281768728">
         <mark key="'" line="271" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1515750548553">
-        <mark key="'" line="32" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1519178000390">
+        <mark key="'" line="3" column="15" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Scanner/Reader.pm" timestamp="1511840044237">
         <mark key="'" line="123" column="19" />
@@ -1185,8 +1181,8 @@
       <file name="/Library/Perl/5.18/Test/MockObject/Extends.pm" timestamp="1511859402671">
         <mark key="'" line="73" column="21" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1519121279073">
-        <mark key="'" line="0" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1519178105462">
+        <mark key="'" line="228" column="19" />
         <mark key="[" line="228" column="19" />
         <mark key="]" line="228" column="31" />
       </file>
@@ -1630,10 +1626,6 @@
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/SqoopImporter.pm" timestamp="1501138152010">
         <mark key="'" line="65" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DealTrigger.pm" timestamp="1519110794840">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="26" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="34" />
@@ -1789,8 +1781,8 @@
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-search/lib/tasks/dummy_data.rake" timestamp="1511809479152">
         <mark key="'" line="2" column="10" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1517394724212">
-        <mark key="'" line="241" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1519177992204">
+        <mark key="'" line="164" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/emergency-call.coffee" timestamp="1507866200336">
         <mark key="'" line="88" column="19" />
@@ -2048,10 +2040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-segments.t" />
-      <jump line="39" column="25" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-segments.t" />
-      <jump line="90" column="11" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" />
-      <jump line="39" column="11" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" />
       <jump line="161" column="48" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" />
       <jump line="46" column="0" filename="$FOUT_HOME$/t/fout/sync/beacon/new_sync.t" />
       <jump line="15" column="20" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-scoring-rate.t" />
@@ -2148,6 +2136,10 @@
       <jump line="677" column="33" filename="$FOUT_HOME$/t/fout/bid/adserver/rfp.t" />
       <jump line="943" column="68" filename="$FOUT_HOME$/t/fout/bid/adserver/rfp.t" />
       <jump line="27" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="35" column="45" filename="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" />
+      <jump line="164" column="20" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="3" column="15" filename="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" />
+      <jump line="228" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
