@@ -1632,8 +1632,8 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" timestamp="1519110931981">
-        <mark key="'" line="44" column="99" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" timestamp="1519178948000">
+        <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1519111649248">
         <mark key="[" line="1" column="40" />
@@ -1799,8 +1799,8 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Impl/AdGroup.pm" timestamp="1517382022031">
         <mark key="'" line="200" column="22" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/PMP.pm" timestamp="1512467836938">
-        <mark key="'" line="74" column="11" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/PMP.pm" timestamp="1519178959464">
+        <mark key="'" line="21" column="0" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Memcached.pm" timestamp="1516700889876">
         <mark key="'" line="69" column="4" />
@@ -2040,8 +2040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="48" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" />
-      <jump line="46" column="0" filename="$FOUT_HOME$/t/fout/sync/beacon/new_sync.t" />
       <jump line="15" column="20" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-scoring-rate.t" />
       <jump line="23" column="16" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-scoring-rate.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Fixture/DBIxSkinny.pm" />
@@ -2140,6 +2138,8 @@
       <jump line="164" column="20" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
       <jump line="3" column="15" filename="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" />
       <jump line="228" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" />
+      <jump line="38" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" />
+      <jump line="21" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/PMP.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
