@@ -35,6 +35,11 @@
       <file name="$FOUT_HOME$/t/fout/bid/data/bid_ids.t" timestamp="1519210112646">
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" timestamp="1519207737222">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="74" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -196,6 +201,11 @@
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1502776572562">
         <mark key="'" line="26" column="50" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack.pm" timestamp="1519194112367">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="127" column="25" />
+        <mark key="]" line="127" column="62" />
+      </file>
       <file name="$FOUT_HOME$/templates/ad/banner.xt" timestamp="1513760133427">
         <mark key="'" line="0" column="0" />
       </file>
@@ -337,6 +347,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PostalCodeGroup.pm" timestamp="1519206844720" />
       <file name="$FOUT_HOME$/extlibs/centos6/lib/perl5/Apache/LogFormat/Compiler.pm" timestamp="1501744338599">
         <mark key="'" line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1519193166744">
+        <mark key="'" line="321" column="4" />
+        <mark key="[" line="315" column="13" />
+        <mark key="]" line="315" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CreateNoIframeAD.pm" timestamp="1513762440546">
         <mark key="'" line="28" column="25" />
@@ -863,6 +878,11 @@
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid.t" timestamp="1518679136888">
         <mark key="'" line="0" column="13" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1519203188827">
+        <mark key="'" line="880" column="16" />
+        <mark key="[" line="861" column="37" />
+        <mark key="]" line="861" column="53" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Request/OpenXUSWest.pm" timestamp="1508132999731">
         <mark key="'" line="92" column="0" />
       </file>
@@ -926,6 +946,11 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Click/DataFromAD/MemdBid.pm" timestamp="1501746957869">
         <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/RewardVideo.pm" timestamp="1519206859327">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="42" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/Budget.pm" timestamp="1502931685471">
         <mark key="'" line="162" column="28" />
@@ -1143,6 +1168,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519277177680">
+        <mark key="'" line="386" column="13" />
+        <mark key="[" line="408" column="2" />
+        <mark key="]" line="408" column="9" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519209638543">
         <mark key="^" line="10" column="28" />
@@ -2112,9 +2142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="42" column="9" filename="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" />
-      <jump line="90" column="27" filename="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" />
       <jump line="35" column="26" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
       <jump line="39" column="34" filename="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" />
@@ -2212,6 +2239,9 @@
       <jump line="70" column="74" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
       <jump line="69" column="22" filename="$FOUT_HOME$/lib/FOut/AD/Dat.pm" />
       <jump line="1350" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="229" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="394" column="3" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="386" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2224,7 +2254,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>rfp</text>
+        <text encoding="base64">XDxuZXR3b3Jrc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ1JGUF9ORVRXT1JLX0lEJyAgICAgICAgPT4gJHNlbGYtPmNvbnRleHQtPnJhd19yZnBfbmV0d29ya19pZCwK</text>
@@ -2267,12 +2297,12 @@
       </register>
     </registers>
     <search>
-      <last-search>rfp</last-search>
+      <last-search encoding="base64">XDxuZXR3b3Jrc1w+</last-search>
       <last-offset />
-      <last-pattern>rfp</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3Jrc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2338,6 +2368,7 @@
         <entry>network</entry>
         <entry encoding="base64">XDxsb2dpY19sb2dnZXJcPg==</entry>
         <entry>rfp</entry>
+        <entry encoding="base64">XDxuZXR3b3Jrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
