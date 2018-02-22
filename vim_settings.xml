@@ -92,8 +92,12 @@
         <mark key="^" line="139" column="34" />
         <mark key="." line="142" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519287193876">
-        <mark key="'" line="116" column="18" />
+      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519288383366">
+        <mark key="'" line="134" column="13" />
+        <mark key="[" line="124" column="90" />
+        <mark key="]" line="124" column="102" />
+        <mark key="^" line="124" column="102" />
+        <mark key="." line="124" column="102" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-deprecated_bid_types.t" timestamp="1519044368241">
         <mark key="[" line="40" column="61" />
@@ -691,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="834" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="828" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="829" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1621" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -791,6 +794,7 @@
       <jump line="248" column="18" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="34" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="116" column="18" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
+      <jump line="134" column="13" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -803,7 +807,7 @@
         <text>1920x1080</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2x1bW5zXD4=</text>
+        <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CQ==</text>
@@ -846,9 +850,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2x1bW5zXD4=</last-search>
+      <last-search encoding="base64">XDxqc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2x1bW5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -885,6 +889,7 @@
         <entry encoding="base64">XDxVc2VyRGF0YVw+</entry>
         <entry encoding="base64">XDxzcG90X3Njb3JlXD4=</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxqc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
