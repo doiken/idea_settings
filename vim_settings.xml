@@ -92,12 +92,12 @@
         <mark key="^" line="139" column="34" />
         <mark key="." line="142" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519288383366">
+      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519289377878">
         <mark key="'" line="134" column="13" />
-        <mark key="[" line="124" column="90" />
-        <mark key="]" line="124" column="102" />
-        <mark key="^" line="124" column="102" />
-        <mark key="." line="124" column="102" />
+        <mark key="[" line="921" column="15" />
+        <mark key="]" line="921" column="26" />
+        <mark key="^" line="921" column="14" />
+        <mark key="." line="921" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-deprecated_bid_types.t" timestamp="1519044368241">
         <mark key="[" line="40" column="61" />
@@ -400,8 +400,8 @@
         <mark key="." line="39" column="75" />
         <mark key="^" line="39" column="76" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1519287176137">
-        <mark key="'" line="34" column="7" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1519289289252">
+        <mark key="'" line="97" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/response_log.t" timestamp="1519048610196">
         <mark key="'" line="41" column="31" />
@@ -534,6 +534,12 @@
         <mark key="]" line="72" column="30" />
         <mark key="." line="72" column="30" />
         <mark key="^" line="72" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1519289479823">
+        <mark key="[" line="1076" column="0" />
+        <mark key="]" line="1076" column="4" />
+        <mark key="." line="1076" column="4" />
+        <mark key="^" line="92" column="38" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" timestamp="1519047793779">
         <mark key="'" line="52" column="27" />
@@ -695,9 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="828" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="829" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1621" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="851" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="856" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="857" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -795,22 +798,27 @@
       <jump line="34" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="116" column="18" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="134" column="13" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
+      <jump line="257" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="258" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="97" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>,
+        network_id int</text>
       </register>
       <register name="-" type="4">
-        <text>1920x1080</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uXD4=</text>
+        <text encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>,
+        network_id int</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICRyZXEtPmVudi0+e0hUVFBfTkVUV09SS19JRH0gPSAkYmlkX2RhdGEtPntuZXR3b3JrX2lkfSAvLyAnLSc7Cg==</text>
@@ -850,9 +858,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29uXD4=</last-search>
+      <last-search encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -890,6 +898,7 @@
         <entry encoding="base64">XDxzcG90X3Njb3JlXD4=</entry>
         <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry encoding="base64">XDxyZXNwb25zZV9sb2dnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
