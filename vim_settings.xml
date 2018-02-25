@@ -183,8 +183,10 @@
         <mark key="." line="976" column="27" />
         <mark key="^" line="976" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DealTrigger.pm" timestamp="1519534376944">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DealTrigger.pm" timestamp="1519535473783">
         <mark key="'" line="16" column="31" />
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="56" column="17" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
@@ -206,7 +208,7 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="99" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" timestamp="1519534245191">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" timestamp="1519535271476">
         <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1519111649248">
@@ -600,7 +602,7 @@
         <mark key="^" line="235" column="59" />
         <mark key="." line="235" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519534353588">
+      <file name="/Dummy.txt" timestamp="1519535449091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -786,7 +788,7 @@
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>$has_method</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -795,7 +797,7 @@
         <text encoding="base64">XDxfZ2V0X2ltb2JpbGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>agn_network_id</text>
+        <text>$has_method</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICRyZXEtPmVudi0+e0hUVFBfTkVUV09SS19JRH0gPSAkYmlkX2RhdGEtPntuZXR3b3JrX2lkfSAvLyAnLSc7Cg==</text>
