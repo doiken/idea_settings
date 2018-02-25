@@ -183,7 +183,7 @@
         <mark key="." line="976" column="27" />
         <mark key="^" line="976" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DealTrigger.pm" timestamp="1519348489456">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DealTrigger.pm" timestamp="1519534376944">
         <mark key="'" line="16" column="31" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
@@ -205,6 +205,9 @@
         <mark key="]" line="99" column="60" />
         <mark key="^" line="88" column="56" />
         <mark key="." line="99" column="60" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" timestamp="1519534245191">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1519111649248">
         <mark key="[" line="1" column="40" />
@@ -597,7 +600,7 @@
         <mark key="^" line="235" column="59" />
         <mark key="." line="235" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519354558692">
+      <file name="/Dummy.txt" timestamp="1519534353588">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -677,7 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" />
       <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" />
       <jump line="2209" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="30" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -777,6 +779,7 @@
       <jump line="571" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
       <jump line="171" column="4" filename="$FOUT_HOME$/lib/FOut/Model/CreativeReview.pm" />
       <jump line="53" column="31" filename="$FOUT_HOME$/lib/FOut/Model/CreativeReview.pm" />
+      <jump line="15" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/PMP.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
