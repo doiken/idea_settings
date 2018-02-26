@@ -1,5 +1,5 @@
 <templateSet group="Perl5">
-  <template name="dump" value="use Data::Dumper;&#10;print Dumper $DUMP_VAR$;$END$" description="dump variables" toReformat="true" toShortenFQNames="true">
+  <template name="dump" value="use Data::Dumper;&#10;warn Dumper $DUMP_VAR$;$END$" description="dump variables" toReformat="true" toShortenFQNames="true">
     <variable name="DUMP_VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PERL5" value="true" />
