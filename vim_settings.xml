@@ -195,8 +195,8 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519731120713">
         <mark key="'" line="172" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519733512088">
-        <mark key="'" line="1640" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1519734229097">
+        <mark key="'" line="2281" column="29" />
         <mark key="^" line="516" column="15" />
         <mark key="." line="516" column="15" />
       </file>
@@ -1029,7 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$FOUT_HOME$/t/fout/bid/decision/app-google_mraid.t" />
       <jump line="235" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" />
       <jump line="40" column="11" filename="$FOUT_HOME$/t/fout/bid/adserver/caprofitx.t" />
       <jump line="76" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/caprofitx.t" />
@@ -1129,6 +1128,7 @@
       <jump line="172" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="433" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1640" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2281" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1141,7 +1141,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</text>
+        <text>is</text>
       </register>
       <register name="0" type="4">
         <text>rn.id</text>
@@ -1184,9 +1184,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1306,6 +1306,7 @@
         <entry>status</entry>
         <entry encoding="base64">XDxzc3BfcmV2aWV3X2lzX29rXD4=</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
