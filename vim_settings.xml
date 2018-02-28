@@ -295,8 +295,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" timestamp="1519540376354">
+      <file name="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" timestamp="1519805673221">
         <mark key="'" line="135" column="16" />
+        <mark key="[" line="146" column="28" />
+        <mark key="]" line="146" column="28" />
+        <mark key="." line="146" column="28" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_word-max_lookup.t" timestamp="1519722390080">
         <mark key="[" line="18" column="9" />
@@ -304,7 +307,7 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1519615416603">
+      <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1519805501557">
         <mark key="'" line="43" column="35" />
         <mark key="[" line="43" column="29" />
         <mark key="]" line="43" column="39" />
@@ -478,8 +481,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Model/Ad.pm" timestamp="1519347390849">
         <mark key="'" line="213" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519804137738">
-        <mark key="'" line="124" column="93" />
+      <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1519805196190">
+        <mark key="'" line="1329" column="20" />
         <mark key="[" line="1444" column="42" />
         <mark key="]" line="1444" column="42" />
         <mark key="." line="1444" column="42" />
@@ -867,7 +870,6 @@
       <jump line="1421" column="14" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="1395" column="9" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="921" column="16" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="1329" column="24" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="1334" column="20" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="1755" column="44" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="1768" column="9" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
@@ -883,19 +885,20 @@
       <jump line="55" column="13" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="265" column="8" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="124" column="93" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
+      <jump line="1329" column="20" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, $network_id</text>
+        <text encoding="base64">IGlmIGRlZmluZWQgJHJlc3VsdDs=</text>
       </register>
       <register name="-" type="4">
-        <text>, $network_id</text>
+        <text encoding="base64">IGlmIGRlZmluZWQgJHJlc3VsdDs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXR3b3JrX2lkXD4=</text>
+        <text encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CQ==</text>
@@ -939,9 +942,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-search>
+      <last-search encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1050,7 +1053,6 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxzZXRfaW5kZXhfZm9yX3JmcF90ZXN0XD4=</entry>
         <entry encoding="base64">XDxkb21haW5cPg==</entry>
-        <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
         <entry encoding="base64">XDxkYW9cPg==</entry>
         <entry>status</entry>
@@ -1072,6 +1074,7 @@
         <entry>network_id</entry>
         <entry>network</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
+        <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
