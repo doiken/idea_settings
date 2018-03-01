@@ -140,11 +140,12 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="88" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1519896645637">
+      <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1519899135370">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="276" column="32" />
-        <mark key="]" line="276" column="32" />
-        <mark key="." line="276" column="32" />
+        <mark key="[" line="119" column="34" />
+        <mark key="]" line="119" column="34" />
+        <mark key="." line="119" column="34" />
+        <mark key="^" line="119" column="34" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1519646608962">
         <mark key="'" line="41" column="38" />
@@ -280,8 +281,8 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" timestamp="1519897094967">
-        <mark key="'" line="136" column="16" />
+      <file name="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" timestamp="1519899774591">
+        <mark key="'" line="32" column="26" />
         <mark key="[" line="67" column="56" />
         <mark key="]" line="68" column="34" />
         <mark key="." line="68" column="34" />
@@ -399,8 +400,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AppNexus/PMP.pm" timestamp="1519644251970">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1519897033213">
-        <mark key="'" line="630" column="32" />
+      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1519899045228">
+        <mark key="'" line="368" column="0" />
         <mark key="[" line="412" column="46" />
         <mark key="]" line="412" column="55" />
         <mark key="." line="412" column="55" />
@@ -413,7 +414,7 @@
         <mark key="^" line="234" column="59" />
         <mark key="." line="234" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519897790553">
+      <file name="/Dummy.txt" timestamp="1519899803847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -607,7 +608,7 @@
         <mark key="'" line="119" column="42" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Mouse/Util.pm" timestamp="1519645035217" />
-      <file name="$FOUT_HOME$/lib/FOut/Conv/Contact.pm" timestamp="1519896607278">
+      <file name="$FOUT_HOME$/lib/FOut/Conv/Contact.pm" timestamp="1519899270398">
         <mark key="'" line="60" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/nodes.pp" timestamp="1519646372230" />
@@ -698,10 +699,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/BidAucnumUpdater.pm" timestamp="1519813933777">
         <mark key="'" line="29" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Contact.pm" timestamp="1519896968948">
+      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Contact.pm" timestamp="1519899205657">
         <mark key="'" line="24" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1519896991529">
+      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1519899161316">
         <mark key="'" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1518666824645">
@@ -819,11 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
-      <jump line="13" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" />
-      <jump line="128" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" />
-      <jump line="82" column="6" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" />
-      <jump line="40" column="4" filename="$FOUT_HOME$/t/fout/bid/bid_to_ad.t" />
       <jump line="162" column="20" filename="$FOUT_HOME$/t/fout/bid/decision/bid_to_ad.t" />
       <jump line="1752" column="0" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="1747" column="9" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
@@ -916,9 +912,14 @@
       <jump line="74" column="13" filename="$FOUT_HOME$/lib/FOut/DynamicAds/Delivery.pm" />
       <jump line="77" column="18" filename="$FOUT_HOME$/lib/FOut/DynamicAds/Delivery.pm" />
       <jump line="37" column="17" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
+      <jump line="51" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="416" column="0" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
+      <jump line="368" column="0" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
+      <jump line="103" column="20" filename="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" />
       <jump line="9" column="17" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
       <jump line="24" column="12" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Contact.pm" />
-      <jump line="51" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="94" column="48" filename="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" />
+      <jump line="32" column="26" filename="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
