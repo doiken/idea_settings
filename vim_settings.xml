@@ -163,6 +163,9 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1519871371959">
+        <mark key="'" line="328" column="8" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
         <mark key="]" line="109" column="44" />
@@ -723,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1596" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="172" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="433" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1640" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2281" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -823,6 +824,8 @@
       <jump line="817" column="20" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="920" column="16" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
       <jump line="896" column="31" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
+      <jump line="178" column="19" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="328" column="8" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -835,7 +838,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</text>
+        <text>start</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CQ==</text>
@@ -878,9 +881,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,6 +1017,7 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
         <entry encoding="base64">XDxiaWxsaW5nX3R5cGVcPg==</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
