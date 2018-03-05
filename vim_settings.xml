@@ -163,17 +163,19 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520228652647">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520235074586">
         <mark key="'" line="3935" column="9" />
-        <mark key="[" line="3923" column="0" />
-        <mark key="]" line="3930" column="42" />
+        <mark key="[" line="3923" column="2" />
+        <mark key="]" line="3923" column="11" />
         <mark key="^" line="3934" column="31" />
         <mark key="." line="3934" column="31" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520228941163">
-        <mark key="[" line="1359" column="0" />
-        <mark key="]" line="1359" column="0" />
-        <mark key="." line="1359" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520236867655">
+        <mark key="'" line="1306" column="4" />
+        <mark key="[" line="1536" column="0" />
+        <mark key="]" line="1539" column="67" />
+        <mark key="^" line="1380" column="129" />
+        <mark key="." line="1536" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -783,16 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="67" filename="$FOUT_HOME$/t/fout/uniqueid/user_data/logger.t" />
-      <jump line="49" column="19" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
-      <jump line="35" column="29" filename="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Logger.pm" />
-      <jump line="1113" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="53" column="12" filename="$FOUT_HOME$/lib/FOut/AdMute/Register.pm" />
-      <jump line="43" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" />
-      <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" />
-      <jump line="492" column="27" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
-      <jump line="495" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
-      <jump line="496" column="28" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
       <jump line="503" column="9" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
       <jump line="505" column="13" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
       <jump line="506" column="28" filename="$FOUT_HOME$/lib/FOut/DMP/Register.pm" />
@@ -883,64 +875,74 @@
       <jump line="2645" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="105" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3935" column="9" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1619" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2245" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1430" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1305" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1260" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1292" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1289" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2270" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1286" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1306" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBib19iaWRkaW5nX29yZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBMRUZUIEpPSU4gYmlkZGluZ19vcmRlciBPTiBjcG5zLmlkID0gYmlkZGluZ19vcmRlci5jcG5faWQKICAgICAgICAgICAgICAgQU5EIGNwbnMuaXNfYXV0b21hdGVkID0gMQogICAgICAgICAgICAgICBBTkQgYWRncnBfbmV0d29ya3MubmV0d29ya19pZCA9IGJpZGRpbmdfb3JkZXIubmV0d29ya19pZAogICAgICAgICAgICAgICBBTkQgYmlkZGluZ19vcmRlci50YXJnZXRfaG91ciA9ICR7XCRzZWxmLT5ub3ctPmhvdXJ9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>spot_timed_logs</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRfaG91clw+</text>
+        <text encoding="base64">XDxiaWRfc3FsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuZXR3b3JrX2lkICAgICAgIElOVCBVTlNJR05FRCBOT1QgTlVMTCwKICBpc19hcHBsaWNhdGlvbiAgIFRJTllJTlQgVU5TSUdORUQgTk9UIE5VTEwsCiAgZ2VuZGVyICAgICAgICAgICBUSU5ZSU5UIFVOU0lHTkVELCAgICAgICAgICAgLS0gbmV0d29yaz1MSU5FKG51bGwsIDE655S35oCnLCAyOuWls+aApykg44Gd44KM5Lul5aSWKG51bGwsIDA655S35oCnLCAxOuWls+aApykKICBhZ2VfZ3JvdXAgICAgICAgIElOVCBVTlNJR05FRCwgICAgICAgICAgICAgICAtLSBsX2FnZV9ncm91cCBPUiBwcmVkaWN0ZWRfYWdlX2dyb3VwCiAgY3BuX2lkICAgICAgICAgICBJTlQgVU5TSUdORUQsICAgICAgICAgICAgICAgLS0gY3Bucy5pZChudWxs44Gv5ZCE44OH44Oi44Kw44Op44Gr57SQ44Gl44GPZGVmYXVsdOWApOODrOOCs+ODvOODieOBqOOBquOCiykKICBiaWRzX3ByaWNlICAgICAgIElOVCBOT1QgTlVMTCwgICAgICAgICAgICAgICAtLSDlhaXmnK3ljZjkvqEKICBjb25zdW1wdGlvbl9yYXRlIEZMT0FUIFVOU0lHTkVEIE5PVCBOVUxMLCAgICAtLSDmtojljJbnjocKICBiaWRkaW5nX29yZGVyICAgIEZMT0FUIFVOU0lHTkVEIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBMRUZUIEpPSU4gYmlkZGluZ19vcmRlciBPTiBjcG5zLmlkID0gYmlkZGluZ19vcmRlci5jcG5faWQKICAgICAgICAgICAgICAgQU5EIGNwbnMuaXNfYXV0b21hdGVkID0gMQogICAgICAgICAgICAgICBBTkQgYWRncnBfbmV0d29ya3MubmV0d29ya19pZCA9IGJpZGRpbmdfb3JkZXIubmV0d29ya19pZAogICAgICAgICAgICAgICBBTkQgYmlkZGluZ19vcmRlci50YXJnZXRfaG91ciA9ICR7XCRzZWxmLT5ub3ctPmhvdXJ9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBib19iaWRkaW5nX29yZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICB1bnNoaWZ0IEBwcmlvcml0aWVzLCAnYmlkZGluZ19vcmRlci5iaWRkaW5nX29yZGVyJzsK</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBib19iaWRkaW5nX29yZGVyLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IAogICAgICAgIHJldHVybiBqb2luICIgIiA9PiAiQ0FTRSIsICg=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgc3BvdF90aW1lZF9sb2dfcHJpY2VzIEFERCBJTkRFWCB0aW1lX2xvY2FsKHRpbWVfbG9jYWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBib19iaWRkaW5nX29yZGVyLAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBLRVkgYGlkeF9iYXRjaF9kYXRlX3Rhc2tfbmFtZWAgKGBiYXRjaF9kYXRlYCxgdGFza19uYW1lYCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGJpZGRpbmdfb3JkZXIuYmlkZGluZ19vcmRlciAgICBib19iaWRkaW5nX29yZGVyLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSAoYHVzZXJfaWRgLGBtYXBwaW5nX3R5cGVgLGBmaWxlX25hbWVgLGBiYXRjaF9kYXRlYCksCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgc3BvdF90aW1lZF9sb2dfcHJpY2VzIEFERCBJTkRFWCB0aW1lX2xvY2FsKHRpbWVfbG9jYWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQU5EIGJpZGRpbmdfb3JkZXIuCg==</text>
+        <text encoding="base64">ICBLRVkgYGlkeF9iYXRjaF9kYXRlX3Rhc2tfbmFtZWAgKGBiYXRjaF9kYXRlYCxgdGFza19uYW1lYCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQU5EIGNwbnMuaXNfYXV0b21hdGVkID0gMQo=</text>
+        <text encoding="base64">ICBQUklNQVJZIEtFWSAoYHVzZXJfaWRgLGBtYXBwaW5nX3R5cGVgLGBmaWxlX25hbWVgLGBiYXRjaF9kYXRlYCksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQU5EIGJpZGRpbmdfb3JkZXIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpa2UgJGxvZywgcXJ7Im5ldHdvcmtfaWQiOjF9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQU5EIGNwbnMuaXNfYXV0b21hdGVkID0gMQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRfaG91clw+</last-search>
+      <last-search encoding="base64">XDxiaWRfc3FsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRfaG91clw+</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRfc3FsXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -969,6 +971,15 @@
         <entry encoding="base64">XDxzdGFydHVwX3NodXRkb3duX21ldGhvZHNcPg==</entry>
         <entry encoding="base64">XDxTSFVURE9XTlw+</entry>
         <entry encoding="base64">XDx0YXJnZXRfaG91clw+</entry>
+        <entry encoding="base64">XDxiaWRfaW52ZXJ0ZWRfaW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxjcF9pc19hdXRvbWF0ZWRcPg==</entry>
+        <entry encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</entry>
+        <entry encoding="base64">XDxvcmRlcl9jb2x1bW5cPg==</entry>
+        <entry encoding="base64">XDxfb3JkZXJfY29sdW1uX2J5X3VzZXJcPg==</entry>
+        <entry encoding="base64">XDxfb3JkZXJfY29sdW1uX3VzZXJfY3VycmVuY3lcPg==</entry>
+        <entry encoding="base64">XDxfY29udmVydGVkX3ByaWNlXD4=</entry>
+        <entry encoding="base64">XDxfb3JkZXJfY29sdW1uXD4=</entry>
+        <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
@@ -989,8 +1000,8 @@
         <entry encoding="base64">JzwsJz5ub3JtYWw=</entry>
         <entry>sp</entry>
         <entry>E</entry>
-        <entry>vs</entry>
         <entry>w</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
