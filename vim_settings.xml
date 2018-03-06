@@ -368,7 +368,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1520318472024">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1520320630713">
         <mark key="'" line="959" column="34" />
         <mark key="[" line="464" column="4" />
         <mark key="]" line="464" column="18" />
@@ -405,7 +405,7 @@
         <mark key="^" line="234" column="59" />
         <mark key="." line="234" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520318818114">
+      <file name="/Dummy.txt" timestamp="1520320348566">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -451,8 +451,8 @@
         <mark key="^" line="37" column="18" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1519896414786">
-        <mark key="'" line="1113" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1520320671292">
+        <mark key="'" line="751" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/gmosspsp.t" timestamp="1519720296607">
         <mark key="'" line="110" column="40" />
@@ -488,8 +488,8 @@
         <mark key="'" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1520241669384" />
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1520318831569">
-        <mark key="'" line="53" column="32" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1520320457497">
+        <mark key="'" line="997" column="36" />
         <mark key="[" line="107" column="45" />
         <mark key="]" line="107" column="54" />
         <mark key="." line="107" column="54" />
@@ -563,6 +563,12 @@
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1520320690285">
+        <mark key="'" line="227" column="27" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Delivery.pm" timestamp="1519896766957">
         <mark key="'" line="77" column="18" />
@@ -780,34 +786,11 @@
       <file name="$FOUT_HOME$/t/fout/bid/data/ctr_fm_prediction.t" timestamp="1519980195967">
         <mark key="'" line="337" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1519796696041">
-        <mark key="'" line="86" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1520320544451">
+        <mark key="'" line="541" column="21" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="4" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
-      <jump line="58" column="4" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
-      <jump line="61" column="4" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
-      <jump line="64" column="4" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
-      <jump line="178" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="181" column="37" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="41" column="6" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="179" column="41" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="399" column="53" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="712" column="22" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="714" column="173" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="722" column="27" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="726" column="93" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="864" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="880" column="39" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="918" column="79" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1058" column="348" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1146" column="67" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1202" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1203" column="25" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1204" column="25" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1206" column="42" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
-      <jump line="1226" column="102" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
       <jump line="1505" column="61" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
       <jump line="1551" column="108" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
       <jump line="1560" column="90" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" />
@@ -885,6 +868,29 @@
       <jump line="959" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="173" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="53" column="32" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="862" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="904" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="911" column="57" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1369" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1376" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="844" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1113" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1115" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1143" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1231" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1164" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1328" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1396" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1401" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="549" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="790" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="316" column="20" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="964" column="8" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="1057" column="8" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="997" column="36" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="541" column="21" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
+      <jump line="1366" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="751" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -897,7 +903,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5kZXJcPg==</text>
+        <text encoding="base64">XDxfc2V0X3RvX2dldGRhdGFfb25fYmFzaXNfb2ZfYmlkX2F1ZGllbmNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>demo_prediction</text>
@@ -940,9 +946,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5kZXJcPg==</last-search>
+      <last-search encoding="base64">XDxfc2V0X3RvX2dldGRhdGFfb25fYmFzaXNfb2ZfYmlkX2F1ZGllbmNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfc2V0X3RvX2dldGRhdGFfb25fYmFzaXNfb2ZfYmlkX2F1ZGllbmNlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -988,6 +994,11 @@
         <entry encoding="base64">XDxpc19hdXRvbWF0ZWRcPg==</entry>
         <entry encoding="base64">XDxfYXV0b19iaWRzX3ByZWZpeFw+</entry>
         <entry encoding="base64">XDxnZW5kZXJcPg==</entry>
+        <entry>gender</entry>
+        <entry encoding="base64">XDxzZXRfdG9fZ2V0ZGF0YVw+</entry>
+        <entry>device</entry>
+        <entry>audience</entry>
+        <entry encoding="base64">XDxfc2V0X3RvX2dldGRhdGFfb25fYmFzaXNfb2ZfYmlkX2F1ZGllbmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
