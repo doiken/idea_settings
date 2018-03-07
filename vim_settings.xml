@@ -51,6 +51,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1520409503172">
         <mark key="'" line="145" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1520420240093">
+        <mark key="'" line="149" column="17" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-freq.t" timestamp="1519717343117">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="40" column="14" />
@@ -99,11 +102,6 @@
       </file>
       <file name="$FOUT_HOME$/t/fout/budget/updater/current_budget.t" timestamp="1519980674374">
         <mark key="'" line="46" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1520413682347">
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="33" />
-        <mark key="." line="90" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1519279689751">
         <mark key="'" line="72" column="8" />
@@ -210,8 +208,8 @@
         <mark key="^" line="162" column="38" />
         <mark key="." line="144" column="30" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520418864925">
-        <mark key="'" line="275" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520420280260">
+        <mark key="'" line="2241" column="18" />
         <mark key="[" line="1878" column="55" />
         <mark key="k" line="1286" column="127" />
         <mark key="]" line="1877" column="56" />
@@ -647,8 +645,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1592" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1295" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-scoring_budget.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
       <jump line="242" column="29" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
@@ -747,6 +743,8 @@
       <jump line="53" column="34" filename="$FOUT_HOME$/lib/FOut/Model/CreativeReview.pm" />
       <jump line="93" column="51" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/IMobile.pm" />
       <jump line="419" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
+      <jump line="149" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="2241" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
