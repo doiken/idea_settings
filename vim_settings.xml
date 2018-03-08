@@ -116,12 +116,19 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520503821100">
-        <mark key="'" line="1684" column="4" />
-        <mark key="[" line="1131" column="21" />
-        <mark key="]" line="1131" column="36" />
-        <mark key="^" line="1131" column="20" />
-        <mark key="." line="1131" column="20" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520505813835">
+        <mark key="'" line="762" column="21" />
+        <mark key="[" line="783" column="2" />
+        <mark key="]" line="783" column="33" />
+        <mark key="." line="784" column="23" />
+        <mark key="^" line="784" column="23" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520506465346">
+        <mark key="'" line="1322" column="8" />
+        <mark key="[" line="1542" column="56" />
+        <mark key="]" line="1542" column="55" />
+        <mark key="^" line="1542" column="55" />
+        <mark key="." line="1542" column="55" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -484,6 +491,7 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
+      <file name="/Bid.pm" timestamp="1520506065457" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1520491061843">
         <mark key="'" line="298" column="8" />
         <mark key="[" line="100" column="31" />
@@ -713,12 +721,6 @@
       <file name="$FOUT_HOME$/t/fout/bid/data/prediction/extractor.t" timestamp="1520481675756" />
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
-      <jump line="129" column="0" filename="$FOUT_HOME$/t/fout/adevent/vast_track/app/main.t" />
-      <jump line="391" column="14" filename="$FOUT_HOME$/t/fout/adevent/vast_track/app/main.t" />
-      <jump line="773" column="29" filename="$FOUT_HOME$/t/fout/adevent/vast_track/app/main.t" />
-      <jump line="7" column="20" filename="$FOUT_HOME$/t/fout/adevent/vast_track/app/main.t" />
-      <jump line="94" column="63" filename="$FOUT_HOME$/lib/FOut/Conv/Register.pm" />
       <jump line="263" column="5" filename="$FOUT_HOME$/t/fout/ad/delivery/publish.t" />
       <jump line="187" column="0" filename="$FOUT_HOME$/t/fout/ad/delivery/publish.t" />
       <jump line="82" column="35" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
@@ -770,12 +772,10 @@
       <jump line="159" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" />
       <jump line="163" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" />
       <jump line="180" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" />
-      <jump line="1321" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1305" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1308" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1276" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2318" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1299" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1924" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1951" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1921" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -813,64 +813,72 @@
       <jump line="1453" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1900" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1684" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="762" column="21" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1321" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1299" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1454" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1393" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1392" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1348" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1322" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$target_networks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEuMCkgYmlkZGluZ19vcmRlcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHNlbGYtPl9pc19hbGxvd2VkX25ldHdvcmsoXCVjb2xzX2hhc2gsICR0YXJnZXRfbmV0d29ya3Mp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</text>
+        <text encoding="base64">XDxhdXRvX2JpZGRpbmdfb3JkZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$target_networks</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmKGNwbnMuaXNfYXV0b21hdGVkID0gMSwgKCRhdXRvX2JpZGRpbmdfb3JkZXIpLCAoJG9yZGVyX2NvbHVtbikpIGRlYWxfcHJpb3JpdHksCiAgICAgICAgICBpZihjcG5zLmlzX2F1dG9tYXRlZCA9IDEsICgkYXV0b19iaWRkaW5nX29yZGVyKSwgKCRvcmRlcl9jb2x1bW4pICogaWYoYWRncnBfbmV0d29ya3MubmV0d29ya19pZCA9ICR7XE5FVFdPUktfSURfTElORX0gYW5kIGNwbnMuYmlsbGluZ190eXBlID0gMSBhbmQgY3Bucy5pc19hdXRvbWF0ZWQgPSAwLCBpZm51bGwoYXNzdW1lZF9wY3Rycy5jdHIsIDAuNSksIDEuMCkpIGJpZGRpbmdfb3JkZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEuMCkgYmlkZGluZ19vcmRlcgo=</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE1vdXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAoJG9yZGVyX2NvbHVtbikgKiBpZihhZGdycF9uZXR3b3Jrcy5uZXR3b3JrX2lkID0gJHtcTkVUV09SS19JRF9MSU5FfSBhbmQgY3Bucy5iaWxsaW5nX3R5cGUgPSAxIGFuZCBjcG5zLmlzX2F1dG9tYXRlZCA9IDAsIGlmbnVsbChhc3N1bWVkX3BjdHJzLmN0ciwgMC41KSwgMS4wKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIG5hbWVzcGFjZTo6YXV0b2NsZWFuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICgkb3JkZXJfY29sdW1uKQogICAgICAgICAgICogaWYoY3Bucy5iaWxsaW5nX3R5cGUgPSAxLAogICAgICAgICAgICAgICAgaWZudWxsKGFzc3VtZWRfcGN0cnMuY3RyLAogICAgICAgICAgICAgICAgICAgICAgIChjYXNlIHdoZW4gYWRncnBfbmV0d29ya3MubmV0d29ya19pZCA9ICR7XE5FVFdPUktfSURfTElORX0gdGhlbiAkbGluZV9kZWZhdWx0X2N0cgogICAgICAgICAgICAgICAgICAgICAgIHdoZW4gcmZwX25ldHdvcmtzLmlkID0gMiB0aGVuICRyZnAyX2RlZmF1bHRfY3RyCiAgICAgICAgICAgICAgICAgICAgICAgd2hlbiByZnBfbmV0d29ya3MuaWQgPSAzIHRoZW4gJHJmcDNfZGVmYXVsdF9jdHIKICAgICAgICAgICAgICAgICAgICAgICB3aGVuIHJmcF9uZXR3b3Jrcy5pZCA9IDQgdGhlbiAkcmZwNF9kZWZhdWx0X2N0cgogICAgICAgICAgICAgICAgICAgICAgIHdoZW4gYWRncnBfbmV0d29ya3MubmV0d29ya19pZCA9ICR7XE5FVFdPUktfSURfUkVEfSB0aGVuICRyZWRfZGVmYXVsdF9jdHIKICAgICAgICAgICAgICAgICAgICAgICBFTFNFICRkZWZhdWx0X2N0ciBFTkQpKSwK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aGFzIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICgkb3JkZXJfY29sdW1uKSAgICAgICAgIGRlYWxfcHJpb3JpdHksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF1dG9fYmlkZGluZ19vcmRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE1vdXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICgkb3JkZXJfY29sdW1uKSAqIGlmKGFkZ3JwX25ldHdvcmtzLm5ldHdvcmtfaWQgPSAke1xORVRXT1JLX0lEX0xJTkV9IGFuZCBjcG5zLmJpbGxpbmdfdHlwZSA9IDEgYW5kIGNwbnMuaXNfYXV0b21hdGVkID0gMCwgaWZudWxsKGFzc3VtZWRfcGN0cnMuY3RyLCAwLjUpLCAxLjApIGJpZGRpbmdfb3JkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgQ2FycDo6Y3JvYWsgIlNwZWNpZnkgaXNfYXBwbGljYXRpb24sIGdlbmRlciwgYWdlX2dyb3VwIG9yIGNvbnRleHQgcGFyYW1ldGVyIiB1bmxlc3MgJHNlbGYtPmNvbnRleHQ7CiAgICAgICAgJHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9uOwogICAgICAgIG15ICRhdWRpZW5jZSA9ICRzZWxmLT5jb250ZXh0LT5laXRoZXJfYXVkaWVuY2U7CiAgICAgICAgbXkgJGlzX2FwcGxpY2F0aW9uID0gJHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9uOwogICAgICAgICMgZWl0aGVyLCBkZW1vX3ByZWRpY3Rpb27jga7lj4Lnhafjga8gIzM1NjgzIOOBruS7leanmOOBq+a6luaLoChmaWx0ZXJpbmfjgajjga7mlbTlkIjmgKfjga7jgZ/jgoEpCiAgICAgICAgbXkgJGdlbmRlciA9IGRvIHsKICAgICAgICAgICAgJHNlbGYtPmlzX2xpbmUKICAgICAgICAgICAgICAgID8gJGF1ZGllbmNlLT5sX2dlbmRlciAvLyAnLScKICAgICAgICAgICAgICAgIDogJHNlbGYtPmNvbnRleHQtPmRlbW9fcHJlZGljdGlvbi0+Z2VuZGVyIC8vICctJzsKICAgICAgICB9OwogICAgICAgIG15ICRhZ2VfZ3JvdXAgPSBkbyB7CiAgICAgICAgICAgICRzZWxmLT5pc19saW5lCiAgICAgICAgICAgICAgICA/ICRhdWRpZW5jZS0+bF9hZ2VfZ3JvdXAgLy8gJy0nCiAgICAgICAgICAgICAgICA6ICRzZWxmLT5jb250ZXh0LT5kZW1vX3ByZWRpY3Rpb24tPmFnZV9ncm91cCAvLyAnLSc7CiAgICAgICAgfTsKICAgICAgICByZXR1cm4gIkFVVE8ke2lzX2FwcGxpY2F0aW9ufSR7Z2VuZGVyfSR7YWdlX2dyb3VwfTo6IjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICgkb3JkZXJfY29sdW1uKSAgICAgICAgIGRlYWxfcHJpb3JpdHksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkgewogICAgICAgIG15ICRpc19hcHBsaWNhdGlvbiA9ICRrLT57aXNfYXBwbGljYXRpb259OwogICAgICAgIG15ICRnZW5kZXIgPSAkay0+e2dlbmRlcn0gLy8gJy0nOwogICAgICAgIG15ICRhZ2VfZ3JvdXAgPSAkay0+e2FnZV9ncm91cH0gLy8gJy0nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmluZWQgJGstPntpc19hcHBsaWNhdGlvbn0gJiYgZXhpc3RzICRrLT57Z2VuZGVyfSAmJiBleGlzdHMgJGstPnthZ2VfZ3JvdXB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRvX2JpZGRpbmdfb3JkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvX2JpZGRpbmdfb3JkZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -918,13 +926,14 @@
         <entry encoding="base64">XDxfYXV0b19iaWRzX3ByZWZpeFw+</entry>
         <entry encoding="base64">XDxJTkRFWF9TRVRUSU5HXD4=</entry>
         <entry encoding="base64">XDxfb3JkZXJfY29sdW1uX3VzZXJfY3VycmVuY3lcPg==</entry>
-        <entry encoding="base64">XDxfb3JkZXJfY29sdW1uXD4=</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
         <entry encoding="base64">XDxzcWxcPg==</entry>
         <entry encoding="base64">XDxzdGhcPg==</entry>
         <entry encoding="base64">XDxiaWRfc3FsXzQ0MTMzXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
+        <entry encoding="base64">XDxfb3JkZXJfY29sdW1uXD4=</entry>
+        <entry encoding="base64">XDxhdXRvX2JpZGRpbmdfb3JkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
