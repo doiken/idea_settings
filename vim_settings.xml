@@ -27,16 +27,8 @@
         <mark key="." line="221" column="42" />
         <mark key="^" line="221" column="42" />
       </file>
-      <file name="$FOUT_HOME$/sql/migrate/20160329_6632_dsp.sql" timestamp="1520403246543">
-        <mark key="[" line="0" column="65" />
-        <mark key="]" line="0" column="75" />
-      </file>
       <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1520321110919">
         <mark key="'" line="2777" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" timestamp="1520563574303">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="65" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
@@ -96,10 +88,6 @@
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/bid_to_ad.t" timestamp="1519796830719">
         <mark key="'" line="40" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/sql/migrate/20131024_7030_dsp.sql" timestamp="1520400543875">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="112" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" timestamp="1519981222486">
         <mark key="'" line="26" column="13" />
@@ -336,7 +324,7 @@
         <mark key="." line="784" column="23" />
         <mark key="^" line="784" column="23" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520835196760">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520835864616">
         <mark key="'" line="2286" column="18" />
         <mark key="[" line="558" column="66" />
         <mark key="]" line="558" column="66" />
@@ -717,6 +705,7 @@
         <mark key="." line="116" column="34" />
         <mark key="^" line="116" column="34" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1520836075771" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DateTime.pm" timestamp="1519541039112">
         <mark key="'" line="0" column="0" />
       </file>
@@ -797,8 +786,8 @@
         <mark key="^" line="266" column="51" />
         <mark key="." line="161" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1520568002759">
-        <mark key="'" line="214" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1520836102163">
+        <mark key="'" line="283" column="17" />
         <mark key="[" line="251" column="20" />
         <mark key="]" line="251" column="30" />
         <mark key="^" line="392" column="27" />
@@ -835,7 +824,7 @@
       <file name="/System/Library/Perl/5.18/darwin-thread-multi-2level/Storable.pm" timestamp="1520587709418">
         <mark key="'" line="336" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520589061432">
+      <file name="/Dummy.txt" timestamp="1520836076135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -925,7 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1891" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1936" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="4" column="1" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="1790" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1025,6 +1013,7 @@
       <jump line="128" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="417" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils/PP.pm" />
       <jump line="2286" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="283" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
