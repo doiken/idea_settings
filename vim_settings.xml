@@ -3,27 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/app-hike_dpa_39528.t" timestamp="1519722060383">
-        <mark key="'" line="91" column="12" />
-        <mark key="[" line="98" column="68" />
-        <mark key="]" line="98" column="68" />
-        <mark key="^" line="98" column="68" />
-        <mark key="." line="98" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/streaming/etl_click.t" timestamp="1519813221626">
-        <mark key="'" line="33" column="297" />
-        <mark key="[" line="33" column="297" />
-        <mark key="]" line="33" column="296" />
-        <mark key="." line="33" column="296" />
-        <mark key="^" line="33" column="296" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/data/bid_ids.t" timestamp="1519721964837">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="221" column="42" />
-        <mark key="]" line="221" column="42" />
-        <mark key="." line="221" column="42" />
-        <mark key="^" line="221" column="42" />
-      </file>
       <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1520849197407">
         <mark key="'" line="2628" column="15" />
         <mark key="[" line="2626" column="0" />
@@ -35,11 +14,14 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1520847929571">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="27" />
-        <mark key="." line="67" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/DMP/App.pm" timestamp="1519644169381">
+        <mark key="'" line="102" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/caprofitx.t" timestamp="1519717441385">
+        <mark key="'" line="583" column="29" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" timestamp="1520322744211">
+        <mark key="'" line="155" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1520846080028">
         <mark key="'" line="129" column="16" />
@@ -48,12 +30,30 @@
         <mark key="." line="104" column="13" />
         <mark key="^" line="104" column="13" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1519721649313">
-        <mark key="'" line="1129" column="0" />
-        <mark key="[" line="719" column="110" />
-        <mark key="]" line="719" column="111" />
-        <mark key="." line="719" column="111" />
-        <mark key="^" line="719" column="110" />
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/throttle-cpm.t" timestamp="1519980208090">
+        <mark key="'" line="85" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/ProfitRate.pm" timestamp="1519206927341">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Logger.pm" timestamp="1519896303272">
+        <mark key="'" line="35" column="29" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1519783959841">
+        <mark key="'" line="120" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/sql/migrate/20150309_18674_dsp.sql" timestamp="1520946514956">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="105" />
+      </file>
+      <file name="$FOUT_HOME$/sql/migrate/20180305_45568_dsp.sql" timestamp="1520946570443">
+        <mark key="[" line="2" column="58" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="58" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1520838532724">
+        <mark key="'" line="191" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1520928883299">
         <mark key="[" line="148" column="0" />
@@ -71,18 +71,17 @@
         <mark key="[" line="47" column="14" />
         <mark key="]" line="47" column="21" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/bid_to_ad.t" timestamp="1519796842137">
-        <mark key="'" line="162" column="20" />
-        <mark key="[" line="137" column="20" />
-        <mark key="]" line="137" column="20" />
-        <mark key="^" line="142" column="32" />
-        <mark key="." line="137" column="20" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CVNumMaximizationUpdater.pm" timestamp="1519347190214">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" timestamp="1519538362199">
+        <mark key="'" line="59" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Review/Sender/Hike.pm" timestamp="1520562803408">
+        <mark key="'" line="147" column="37" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-deprecated_bid_types.t" timestamp="1519044368241">
         <mark key="[" line="40" column="61" />
@@ -94,11 +93,23 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="39" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/budget/updater/current_budget.t" timestamp="1519980674374">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/RfpNetwork.pm" timestamp="1520837401517">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="37" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/TraverseHash.pm" timestamp="1520943886389">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/connect_account.sh" timestamp="1512826972294">
         <mark key="[" line="1" column="0" />
@@ -106,15 +117,15 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" timestamp="1520933630537">
-        <mark key="'" line="55" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" timestamp="1520946860307">
+        <mark key="'" line="95" column="31" />
+        <mark key="[" line="96" column="35" />
+        <mark key="]" line="97" column="38" />
+        <mark key="^" line="97" column="38" />
+        <mark key="." line="97" column="38" />
       </file>
-      <file name="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" timestamp="1519723032264">
-        <mark key="'" line="982" column="0" />
-        <mark key="[" line="477" column="22" />
-        <mark key="]" line="477" column="22" />
-        <mark key="." line="477" column="22" />
-        <mark key="^" line="473" column="37" />
+      <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1519178000390">
+        <mark key="'" line="3" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_deal.t" timestamp="1519103514482">
         <mark key="[" line="88" column="59" />
@@ -122,12 +133,8 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="88" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1520412736825">
-        <mark key="'" line="94" column="63" />
-        <mark key="[" line="119" column="34" />
-        <mark key="]" line="119" column="34" />
-        <mark key="." line="119" column="34" />
-        <mark key="^" line="119" column="34" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1519646608962">
+        <mark key="'" line="41" column="38" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/UUID/Tiny.pm" timestamp="1512980764288">
         <mark key="[" line="0" column="19" />
@@ -135,23 +142,26 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" timestamp="1519796767225">
+        <mark key="'" line="82" column="6" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/prepare_mraid.pl" timestamp="1519717180481">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520928049321">
-        <mark key="'" line="665" column="2" />
-        <mark key="[" line="143" column="2" />
-        <mark key="]" line="143" column="15" />
-        <mark key="." line="784" column="23" />
-        <mark key="^" line="784" column="23" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520946612930">
+        <mark key="'" line="360" column="2" />
+        <mark key="[" line="3930" column="19" />
+        <mark key="]" line="3930" column="19" />
+        <mark key="." line="3930" column="24" />
+        <mark key="^" line="3929" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520929165423">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520945103842">
         <mark key="'" line="48" column="4" />
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="92" />
+        <mark key="[" line="2269" column="14" />
+        <mark key="]" line="2269" column="42" />
         <mark key="^" line="1703" column="23" />
         <mark key="." line="1170" column="0" />
       </file>
@@ -177,6 +187,9 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Plack/Middleware/AccessLog.pm" timestamp="1520410691262">
+        <mark key="'" line="12" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/basic-smartphone.t" timestamp="1520854703122">
         <mark key="'" line="208" column="18" />
         <mark key="[" line="176" column="20" />
@@ -196,11 +209,17 @@
         <mark key="." line="100" column="36" />
         <mark key="^" line="100" column="36" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack.pm" timestamp="1520938659247">
+        <mark key="'" line="10" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/perl/cpanfile" timestamp="1512883067321">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/ad/publish/publish_ad-vast.t" timestamp="1519795182833">
+        <mark key="'" line="128" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519026494882">
         <mark key="[" line="12" column="12" />
@@ -208,11 +227,17 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="12" column="12" />
       </file>
+      <file name="$FOUT_HOME$/tools/adlog_parser.pl" timestamp="1519616357492">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/SparkApp.scala" timestamp="1518765795876">
         <mark key="[" line="8" column="73" />
         <mark key="]" line="8" column="73" />
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-cpc-scheduled.t" timestamp="1519787225928">
+        <mark key="'" line="41" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1519812198425">
         <mark key="[" line="38" column="0" />
@@ -220,19 +245,18 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" timestamp="1520931141432">
-        <mark key="'" line="109" column="45" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="^" line="143" column="51" />
-        <mark key="." line="173" column="0" />
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" timestamp="1520946971276">
+        <mark key="'" line="169" column="4" />
+        <mark key="[" line="181" column="23" />
+        <mark key="]" line="181" column="25" />
+        <mark key="." line="181" column="25" />
+        <mark key="^" line="181" column="25" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/match/match_retarget.t" timestamp="1519720449134">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="29" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="46" column="19" />
+      <file name="$FOUT_HOME$/lib/FOut/API/Validator/RfpCreativeScreeningStatus.pm" timestamp="1519893904733">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/db/nn" timestamp="1520417681817">
+        <mark key="'" line="51" column="3" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-ase.t" timestamp="1519717275077">
         <mark key="[" line="40" column="5" />
@@ -252,32 +276,14 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/conv/register/custom_log.t" timestamp="1520412709298">
-        <mark key="'" line="130" column="29" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="31" />
-        <mark key="." line="129" column="30" />
-        <mark key="^" line="152" column="38" />
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1520947651938">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="86" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1520933465921">
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/ad/publish/publish_ad-track-event.t" timestamp="1519797020064">
-        <mark key="'" line="21" column="17" />
-        <mark key="[" line="29" column="108" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Model/AppLastClickInfo.pm" timestamp="1519899774591">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="67" column="56" />
-        <mark key="]" line="68" column="34" />
-        <mark key="." line="68" column="34" />
-        <mark key="^" line="68" column="34" />
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils.pm" timestamp="1520944680619">
+        <mark key="'" line="609" column="7" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
@@ -291,12 +297,8 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1519805501557">
-        <mark key="'" line="43" column="35" />
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="39" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="43" column="39" />
+      <file name="$FOUT_HOME$/lib/FOut/Model/CreativeReview.pm" timestamp="1520418038690">
+        <mark key="'" line="53" column="34" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/Network.pm" timestamp="1519119513033">
         <mark key="[" line="4" column="20" />
@@ -304,12 +306,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/adevent/vast_track/app/main.t" timestamp="1520413949840">
-        <mark key="'" line="780" column="9" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="0" />
-        <mark key="^" line="782" column="43" />
-        <mark key="." line="178" column="0" />
+      <file name="$FOUT_HOME$/t/lib/Mock/AdIndex.pm" timestamp="1519969810754">
+        <mark key="'" line="37" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1520573309962">
+        <mark key="'" line="49" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_dmp_segment_target.t" timestamp="1519717570153">
         <mark key="[" line="52" column="9" />
@@ -317,12 +318,21 @@
         <mark key="^" line="51" column="18" />
         <mark key="." line="52" column="18" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/IMobile.pm" timestamp="1520418102884">
+        <mark key="'" line="93" column="51" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Model/DmpOfflineRule.pm" timestamp="1519197143446">
+        <mark key="'" line="7" column="28" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" timestamp="1520928143340">
         <mark key="'" line="168" column="48" />
         <mark key="[" line="23" column="9" />
         <mark key="]" line="31" column="8" />
         <mark key="^" line="77" column="22" />
         <mark key="." line="77" column="22" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/AdMute/Register.pm" timestamp="1519896434723">
+        <mark key="'" line="53" column="12" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-googlevideo.t" timestamp="1519723076386">
         <mark key="[" line="36" column="5" />
@@ -336,12 +346,8 @@
         <mark key="^" line="139" column="33" />
         <mark key="." line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1520840170462">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="494" column="29" />
+      <file name="$FOUT_HOME$/lib/FOut/Amazon/S3.pm" timestamp="1519643055578">
+        <mark key="'" line="53" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1520926968958">
         <mark key="'" line="26" column="44" />
@@ -353,11 +359,8 @@
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="19" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/keywords.t" timestamp="1520906253910">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="135" column="32" />
-        <mark key="." line="132" column="20" />
+      <file name="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" timestamp="1519201684547">
+        <mark key="'" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/load_app_l_interest_v2_ctr_model.hql" timestamp="1513072690257">
         <mark key="[" line="5" column="107" />
@@ -371,48 +374,16 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1520564239292">
-        <mark key="'" line="1192" column="21" />
-        <mark key="[" line="485" column="4" />
-        <mark key="]" line="485" column="15" />
-        <mark key="." line="549" column="0" />
-        <mark key="^" line="753" column="22" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-line_video.t" timestamp="1519551370312">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="121" column="17" />
-        <mark key="." line="121" column="18" />
-        <mark key="^" line="121" column="16" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-deny_mraid.t" timestamp="1519717293308">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="41" column="14" />
         <mark key="^" line="41" column="14" />
         <mark key="." line="41" column="14" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1520415161234">
-        <mark key="'" line="399" column="55" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="130" column="71" />
-        <mark key="." line="412" column="55" />
-        <mark key="^" line="412" column="55" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AppNexus/PMP.pm" timestamp="1519644251970">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/ad/delivery/publish.t" timestamp="1520492796185">
-        <mark key="'" line="264" column="30" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="4" />
-        <mark key="^" line="266" column="51" />
-        <mark key="." line="161" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" timestamp="1519717696580">
-        <mark key="'" line="234" column="45" />
-        <mark key="[" line="234" column="20" />
-        <mark key="]" line="234" column="20" />
-        <mark key="^" line="234" column="59" />
-        <mark key="." line="234" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1520933222717">
+      <file name="/Dummy.txt" timestamp="1520946801193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -424,12 +395,8 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Touch.pm" timestamp="1520411351363">
-        <mark key="'" line="190" column="19" />
-        <mark key="[" line="155" column="4" />
-        <mark key="]" line="155" column="13" />
-        <mark key="^" line="156" column="12" />
-        <mark key="." line="156" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1520321807479">
+        <mark key="'" line="442" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180124_45443_bidding_order.hql" timestamp="1518492355242">
         <mark key="[" line="14" column="0" />
@@ -437,11 +404,17 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-google_mraid.t" timestamp="1519717171782">
+        <mark key="'" line="68" column="8" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/lib/Model/Base.pm" timestamp="1512911746592">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="34" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/ad/request/charge_price-us.t" timestamp="1519980108841">
+        <mark key="'" line="31" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_broad_of_region_ldemogra.t" timestamp="1519720700579">
         <mark key="[" line="41" column="9" />
@@ -452,14 +425,26 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1520846098208">
         <mark key="'" line="182" column="51" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/gmosspsp.t" timestamp="1519720296607">
+        <mark key="'" line="110" column="40" />
+      </file>
       <file name="$FOUT_HOME$/t/lib/t/Utils/Fixture/DSP.pm" timestamp="1520932989279">
         <mark key="'" line="173" column="18" />
         <mark key="[" line="176" column="4" />
         <mark key="]" line="176" column="22" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Model/AdGroup/LineAttribute/LAgeGroup.pm" timestamp="1520929191559">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="19" />
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/HTML/Element.pm" timestamp="1520941103028">
+        <mark key="'" line="1447" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Model/AdGroup/LineAttribute/LAgeGroup.pm" timestamp="1520939012041">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="32" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/review_partitioned.t" timestamp="1519962898775">
+        <mark key="'" line="2" column="11" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/UpdateNativeAppInfo.pm" timestamp="1519282963237">
+        <mark key="'" line="44" column="46" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs/AutoBid.pm" timestamp="1520844481148">
         <mark key="'" line="48" column="1" />
@@ -468,11 +453,29 @@
         <mark key="." line="27" column="50" />
         <mark key="^" line="22" column="47" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/bid_to_ad.t" timestamp="1519796830719">
+        <mark key="'" line="40" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" timestamp="1519981222486">
+        <mark key="'" line="26" column="13" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1520409503172">
+        <mark key="'" line="145" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/Infeed.pm" timestamp="1520478917097">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/ev/plack/ev_psgi.t" timestamp="1519636317238">
+        <mark key="'" line="121" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-appid.t" timestamp="1519716943364">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="22" column="14" />
         <mark key="^" line="22" column="14" />
         <mark key="." line="22" column="14" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Model/Ad.pm" timestamp="1519347390849">
+        <mark key="'" line="213" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/click/redirect/app.t" timestamp="1520415173797">
         <mark key="[" line="455" column="18" />
@@ -480,12 +483,18 @@
         <mark key="." line="455" column="17" />
         <mark key="^" line="455" column="17" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Model/Creative.pm" timestamp="1519640107773">
+        <mark key="'" line="18" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" timestamp="1520919965257">
         <mark key="'" line="357" column="0" />
         <mark key="[" line="236" column="20" />
         <mark key="]" line="239" column="31" />
         <mark key="^" line="236" column="20" />
         <mark key="." line="254" column="20" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1519279689751">
+        <mark key="'" line="72" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/logic_log.t" timestamp="1519725549148">
         <mark key="[" line="17" column="9" />
@@ -511,22 +520,14 @@
         <mark key="." line="209" column="24" />
         <mark key="^" line="209" column="24" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/uniqueid/user_data.t" timestamp="1520402454858">
-        <mark key="'" line="74" column="29" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="31" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="242" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1519725104986">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="44" column="9" />
-        <mark key="." line="43" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Collector/BidAucnum.pm" timestamp="1519813901921">
+        <mark key="'" line="92" column="23" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/BidCandidates.pm" timestamp="1520847598850">
         <mark key="'" line="93" column="33" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/RabbitMQ/APIJob.pm" timestamp="1519200086847">
+        <mark key="'" line="87" column="19" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
@@ -538,18 +539,23 @@
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="67" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1520491061843">
-        <mark key="'" line="298" column="8" />
-        <mark key="[" line="100" column="31" />
-        <mark key="]" line="100" column="45" />
-        <mark key="." line="100" column="45" />
-        <mark key="^" line="100" column="45" />
+      <file name="$FOUT_HOME$/lib/FOut/Model/RfpCreativeScreening.pm" timestamp="1519640213122">
+        <mark key="'" line="58" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/extraction/general/TestFeatureDependencyResolver.scala" timestamp="1519280608439">
+        <mark key="'" line="34" column="66" />
+      </file>
+      <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1519980915279">
+        <mark key="'" line="64" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1519111649248">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="40" />
         <mark key="^" line="1" column="27" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/DynamicAds/Delivery.pm" timestamp="1519896766957">
+        <mark key="'" line="77" column="18" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/DMP/IndexData.pm" timestamp="1520933231293">
         <mark key="[" line="29" column="17" />
@@ -567,19 +573,17 @@
         <mark key="." line="34" column="460" />
         <mark key="^" line="34" column="460" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/app.t" timestamp="1519722369238">
-        <mark key="'" line="118" column="78" />
-        <mark key="[" line="67" column="5" />
-        <mark key="]" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-        <mark key="^" line="62" column="45" />
+      <file name="$FOUT_HOME$/lib/FOut/Model/Conversion.pm" timestamp="1519894824558">
+        <mark key="'" line="103" column="12" />
       </file>
-      <file name="$FOUT_HOME$/sql/migrate/20180307_46172_dsp.sql" timestamp="1520403248249">
-        <mark key="'" line="0" column="106" />
-        <mark key="[" line="0" column="118" />
-        <mark key="]" line="0" column="129" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="118" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" timestamp="1519644323933">
+        <mark key="'" line="151" column="16" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/Request.pm" timestamp="1520411558761">
+        <mark key="'" line="119" column="42" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" timestamp="1520944695737">
+        <mark key="'" line="73" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid/BiddingOrderBuilder.pm" timestamp="1520500537799">
         <mark key="[" line="7" column="67" />
@@ -599,12 +603,8 @@
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/rfp.t" timestamp="1519725491392">
-        <mark key="'" line="811" column="47" />
-        <mark key="[" line="484" column="13" />
-        <mark key="]" line="484" column="22" />
-        <mark key="^" line="484" column="22" />
-        <mark key="." line="484" column="22" />
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Mouse/Role.pm" timestamp="1519645018534">
+        <mark key="'" line="12" column="16" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_retarget_multi.t" timestamp="1519721280851">
         <mark key="[" line="64" column="19" />
@@ -630,12 +630,26 @@
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-scoring_budget.t" timestamp="1520335476368">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="39" column="44" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="44" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1519204200678">
+        <mark key="'" line="87" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1520418162164">
+        <mark key="'" line="419" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Impl/Dmp/SegmentUpload.pm" timestamp="1519643276162">
+        <mark key="'" line="79" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker/AsyncApiResults.pm" timestamp="1519199711599">
+        <mark key="'" line="60" column="20" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils/PP.pm" timestamp="1520835266608">
+        <mark key="'" line="417" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/DBIx/Sunny.pm" timestamp="1519633779080">
+        <mark key="'" line="93" column="21" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" timestamp="1519625773203">
+        <mark key="'" line="178" column="50" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-segments.t" timestamp="1519787164866">
         <mark key="[" line="39" column="39" />
@@ -643,12 +657,20 @@
         <mark key="." line="39" column="48" />
         <mark key="^" line="39" column="70" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1520854129740">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="27" />
-        <mark key="." line="71" column="27" />
-        <mark key="^" line="71" column="27" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1520399176354">
+        <mark key="'" line="24" column="37" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/api/impl/adgroup/adgroup_get_limit.t" timestamp="1519980160759">
+        <mark key="'" line="247" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/BidAucnumUpdater.pm" timestamp="1519813933777">
+        <mark key="'" line="29" column="16" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Contact.pm" timestamp="1519899205657">
+        <mark key="'" line="24" column="12" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1519899161316">
+        <mark key="'" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1518666824645">
         <mark key="[" line="19" column="20" />
@@ -662,12 +684,11 @@
         <mark key="." line="72" column="30" />
         <mark key="^" line="72" column="30" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" timestamp="1519717858144">
-        <mark key="'" line="113" column="49" />
-        <mark key="[" line="116" column="27" />
-        <mark key="]" line="116" column="34" />
-        <mark key="." line="116" column="34" />
-        <mark key="^" line="116" column="34" />
+      <file name="$FOUT_HOME$/t/fout/dmp/register/segment_notification.t" timestamp="1519627005524">
+        <mark key="'" line="136" column="35" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DateTime.pm" timestamp="1519541039112">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/bid.t" timestamp="1520853960378">
         <mark key="[" line="34" column="23" />
@@ -693,13 +714,6 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1520413880439">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="221" column="57" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1520840200513">
         <mark key="'" line="827" column="4" />
         <mark key="[" line="251" column="20" />
@@ -719,18 +733,26 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="58" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID.pm" timestamp="1519875825056">
+        <mark key="'" line="27" column="35" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/DMP/SegmentIndex/Generator.pm" timestamp="1519203699976">
+        <mark key="'" line="80" column="22" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/InfeedDynamicAds.pm" timestamp="1520479343883">
+        <mark key="'" line="180" column="13" />
+      </file>
+      <file name="/System/Library/Perl/5.18/darwin-thread-multi-2level/Storable.pm" timestamp="1520587709418">
+        <mark key="'" line="336" column="8" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" timestamp="1519048772777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1519613299349">
-        <mark key="'" line="182" column="4" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="12" />
-        <mark key="^" line="318" column="1" />
-        <mark key="." line="318" column="2" />
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/ClassNameBuilder.pm" timestamp="1520500504982">
+        <mark key="'" line="29" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/functional/bid_ad_click.t" timestamp="1519722685190">
         <mark key="[" line="49" column="5" />
@@ -744,75 +766,17 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="13" column="12" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Manager.pm" timestamp="1520417047560">
+        <mark key="'" line="20" column="1" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/data/ctr_fm_prediction.t" timestamp="1519980195967">
+        <mark key="'" line="337" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1520320544451">
+        <mark key="'" line="541" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2278" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2267" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="48" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs/AutoBid.pm" />
-      <jump line="59" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="2266" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1153" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2271" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1367" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="60" column="3" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="2279" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="27" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="49" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="22" column="0" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="396" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="125" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="272" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="93" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Match/BidCandidates.pm" />
-      <jump line="31" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="59" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="223" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="235" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="67" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="2275" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="161" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="36" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="2628" column="15" filename="$FOUT_HOME$/bid/config.yaml" />
-      <jump line="57" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="58" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="75" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="86" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="121" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="149" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="78" column="70" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1898" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1262" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1664" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1665" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1666" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="62" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="34" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="68" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="2382" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="192" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
-      <jump line="227" column="19" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
-      <jump line="37" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
-      <jump line="207" column="18" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic-smartphone.t" />
-      <jump line="53" column="0" filename="$FOUT_HOME$/t/fout/bid/data/adgroup.t" />
-      <jump line="122" column="24" filename="$FOUT_HOME$/t/fout/bid/rtbindex/keywords.t" />
-      <jump line="142" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="148" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="147" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="2284" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1889" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1541" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1521" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1520" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1469" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1391" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1381" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1330" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1888" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1968" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1876" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2211" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1591" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="228" column="20" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
       <jump line="357" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
       <jump line="1382" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="216" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -846,13 +810,80 @@
       <jump line="173" column="18" filename="$FOUT_HOME$/t/lib/t/Utils/Fixture/DSP.pm" />
       <jump line="4" column="21" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="68" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="94" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="91" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="10" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="85" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="92" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="83" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="21" column="85" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="69" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="13" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="49" column="59" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="50" column="95" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="51" column="97" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="10" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Data/MessagePack.pm" />
+      <jump line="75" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="88" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="59" column="21" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="14" column="28" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="65" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="93" column="99" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="72" column="17" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="81" column="41" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="5" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="29" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="33" column="47" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="94" column="16" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="78" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="67" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="6" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="74" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="6" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="18" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="86" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="31" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="18" column="77" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="1447" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/HTML/Element.pm" />
+      <jump line="80" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="89" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="24" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="79" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="7" column="16" filename="$FOUT_HOME$/lib/FOut/TraverseHash.pm" />
+      <jump line="9" column="8" filename="$FOUT_HOME$/lib/FOut/TraverseHash.pm" />
+      <jump line="10" column="12" filename="$FOUT_HOME$/lib/FOut/TraverseHash.pm" />
+      <jump line="11" column="21" filename="$FOUT_HOME$/lib/FOut/TraverseHash.pm" />
+      <jump line="30" column="3" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="7" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="57" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="21" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
+      <jump line="603" column="7" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
+      <jump line="609" column="7" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/MoreUtils.pm" />
+      <jump line="73" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" />
+      <jump line="145" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="128" column="4" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="16" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="175" column="10" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="6" column="4" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="162" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="64" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="9" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="190" column="19" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="79" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="98" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="360" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="181" column="12" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="95" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
+      <jump line="169" column="4" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="89" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>wlx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15ICgkYmlkZGluZ19vcmRlcnMpID0gQF87CiAgICBteSBAbGlzdCA9ICgpOwogICAgZm9yIG15ICRpc19hcHBsaWNhdGlvbiAoQGlzX2FwcGxpY2F0aW9ucykgewogICAgICAgIGZvciBteSAkZ2VuZGVyIChAZ2VuZGVycykgewogICAgICAgICAgICBmb3IgbXkgJGFnZV9ncm91cCAoQGFnZV9ncm91cHMpIHsKICAgICAgICAgICAgICAgIHB1c2ggQGxpc3QsICRiaWRkaW5nX29yZGVycy0+eyRpc19hcHBsaWNhdGlvbn17JGdlbmRlcn17JGFnZV9ncm91cH07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gXEBsaXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>AGE_GROUPS</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1477,55 +1508,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbHNcPg==</text>
+        <text encoding="base64">XDxiX3Njb3JlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG15ICgkYmlkZGluZ19vcmRlcnMpID0gQF87CiAgICBteSBAbGlzdCA9ICgpOwogICAgZm9yIG15ICRpc19hcHBsaWNhdGlvbiAoQGlzX2FwcGxpY2F0aW9ucykgewogICAgICAgIGZvciBteSAkZ2VuZGVyIChAZ2VuZGVycykgewogICAgICAgICAgICBmb3IgbXkgJGFnZV9ncm91cCAoQGFnZV9ncm91cHMpIHsKICAgICAgICAgICAgICAgIHB1c2ggQGxpc3QsICRiaWRkaW5nX29yZGVycy0+eyRpc19hcHBsaWNhdGlvbn17JGdlbmRlcn17JGFnZV9ncm91cH07CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CiAgICByZXR1cm4gXEBsaXN0Owo=</text>
+      <register name="0" type="4">
+        <text>AGE_GROUPS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50IHsKICAgIAp9Owo=</text>
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyIFwlYmlkZGluZ19vcmRlcnM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RGF0YTo6TWVzc2FnZVBhY2stPm5ldygpLT4K</text>
+        <text encoding="base64">ICAgIGJfc2NvcmUK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGF1dG9fYmlkZGluZ19vcmRlcnMtPnskaXN9Cg==</text>
+        <text encoding="base64">ICAgIGJfc2NvcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yICRpcwo=</text>
+        <text encoding="base64">ICBNT0RJRlkgQ09MVU1OIGBmb3JtYXRgIEVOVU0oJ2NzdicsICd0c3YnLCAncHN2JykgTk9UIE5VTEwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVuZ3RoIGBgCg==</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIG9rICdGT3V0OjpCaWQ6OkFkU2VydmVyOjpBZEdlbmVyYXRpb24nOwoKbXkgJGpwX2lwID0gJzExMS4xMDcuNTAuMCc7CgpzdWIgcmVxdWVzdF9mb3JfYWRnZW5lcmF0aW9uX3Rlc3QgewogICAgbXkgJHJlcSA9IHJlcXVlc3RfZm9yX3Rlc3Q7CiAgICBteSAlcGFyYW1zID0gQF87CgogICAgIyBpcOOCkuaXpeacrOOBq+WkieabtAogICAgJHJlcS0+e2RldmljZX17aXB9ID0gJGpwX2lwOwoKICAgICRyZXEtPntkZXZpY2V9e3VhfSA9ICRwYXJhbXN7dXNlcl9hZ2VudH0gaWYgJHBhcmFtc3t1c2VyX2FnZW50fTsKCiAgICAjIEFkIEdlbmVyYXRpb27jga7jg4njgq3jg6Xjg6Hjg7Pjg4jjgrXjg7Pjg5fjg6vjgojjgorlvJXnlKgKICAgICRyZXEtPntpbXB9WzBde25hdGl2ZX17cmVxdWVzdH0gPSAnewogICAgICAgICJuYXRpdmUiOnsKICAgICAgICAgICAgInZlciI6IjEuMC4wLjIiLAogICAgICAgICAgICAibGF5b3V0IjozLAogICAgICAgICAgICAicGxjbXRjbnQiOjEsCiAgICAgICAgICAgICJhc3NldHMiOlsKICAgICAgICAgICAgICAgIHsiaWQiOjEsInRpdGxlIjp7ImxlbiI6MzB9fSwKICAgICAgICAgICAgICAgIHsiaWQiOjIsImltZyI6eyJ0eXBlIjoxLCJ3Ijo2NCwiaCI6NjQsIm1pbWVzIjpbImltYWdlL2pwZWciXX19LAogICAgICAgICAgICAgICAgeyJpZCI6MywiZGF0YSI6eyJ0eXBlIjoxLCJsZW4iOjEwfX0sCiAgICAgICAgICAgICAgICB7ImlkIjo0LCJkYXRhIjp7InR5cGUiOjIsImxlbiI6MTB9fSwKICAgICAgICAgICAgICAgIHsiaWQiOjUsImRhdGEiOnsidHlwZSI6MTIsImxlbiI6MTB9fSwKICAgICAgICAgICAgICAgIHsiaWQiOjcsInJlcXVpcmVkIjonLigkcGFyYW1ze3ZpZGVvX3JlcXVpcmVkfSA/IDEgOiAwKS4nLCJ2aWRlbyI6eyJtaW5kdXJhdGlvbiI6NSwibWF4ZHVyYXRpb24iOjMwLCJwcm90b2NvbHMiOlsyLDNdLCJtaW1lcyI6WyJ2aWRlby9tcDQiXX19CiAgICAgICAgICAgIF0KICAgICAgICB9CiAgICB9JzsKCiAgICAkcmVxOwp9CgpzdWIganNvbl90b19hZHNlcnZlciB7CiAgICBteSAoJGpzb24pID0gQF87CiAgICBteSAkZW52ID0gKFBPU1QgJy8/eGlkPWFkZ2VuZXJhdGlvbicsIENvbnRlbnQgPT4gSlNPTjo6ZW5jb2RlX2pzb24gJGpzb24pLT50b19wc2dpOwogICAgcmV0dXJuIEZPdXQ6OkJpZDo6QWRTZXJ2ZXI6OkFkR2VuZXJhdGlvbi0+bmV3KGVudiA9PiAkZW52KTsKfQoKc3ViIF9zZXRfaW5mZWVkX2Fzc2V0cyB7CiAgICBiaWRfaW5kZXhfZml4dHVyZSBhZ3NwID0+IHN1YiB7CiAgICAgICAgbXkgKCRoZGIpID0gQF87CiAgICAgICAgbXkgJGRhbyA9IEZPdXQ6OkJpZDo6RGF0YTo6SW5mZWVkQXNzZXRzLT5uZXcoaGRiID0+ICRoZGIpOwogICAgICAgICRkYW8tPnNldCggNTUwMSA9PiB7CiAgICAgICAgICAgIHRpdGxlICAgICAgID0+ICdBZCBHZW5lcmF0aW9uJywKICAgICAgICAgICAgY29udGVudCAgICAgPT4gJ0NvbnRlbnQnLAogICAgICAgICAgICBwcmluY2lwYWwgICA9PiAnU2NhbGVvdXQgLkluYycsCiAgICAgICAgICAgIGRpc3BsYXlfdXJsID0+ICdkZWNrcy5qcCcsCiAgICAgICAgICAgIHVzZXJfYWN0aW9uID0+ICdJTlNUQUxMJywKICAgICAgICAgICAgaW1hZ2VzICAgICAgPT4gewogICAgICAgICAgICAgICAgbWFpbiA9PiB7CiAgICAgICAgICAgICAgICAgICAgc2l6ZSA9PiAnNjR4NjQnLAogICAgICAgICAgICAgICAgICAgIHVybCAgPT4gJ2h0dHA6Ly93d3cuc2NhbGVvdXQuanAvd3AtY29udGVudC90aGVtZXMvc2NhbGVvdXQvaW1hZ2VzL3NhbXBsZS5qcGVnJywKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0sCiAgICAgICAgfSk7CiAgICB9Owp9CgpzdWJ0ZXN0ICdQcm9wZXJ0aWVzJyA9PiBzdWIgewogICAgbXkgJHJlcSA9IHJlcXVlc3RfZm9yX2FkZ2VuZXJhdGlvbl90ZXN0OwoKICAgIG15ICRhZHNlcnZlciA9IGpzb25fdG9fYWRzZXJ2ZXIoJHJlcSk7CiAgICBpcyAkYWRzZXJ2ZXItPmdldF9kZXZpY2VfaWZhKCksICIwM0RDQjU4RC0yRTRDLTQ0ODctODlERC1FQzQzOTdFODA0REEiLCAnUmV0dXJuIElmYSBGcm9tIGRldmljZS5pZmEnOwogICAgaXMgJGFkc2VydmVyLT5jb250ZXh0LT5hcHBsaWNhdGlvbl9uYW1lLCAnJywgIk5PVCB0byBVc2UgYXBwbGljYXRpb25fbmFtZSBvZiBCaWQgUmVxdWVzdC4gKCMyMjQyMCkiOwogICAgaXNhX29rICRhZHNlcnZlci0+cGFyYW1zLCAnRk91dDo6QmlkOjpBZFNlcnZlcjo6QWRHZW5lcmF0aW9uOjpQYXJhbXMnLCAnUGFyYW1zIEFyZSBJbXBsZW1lbnRlZC4nOwogICAgaXMgJGFkc2VydmVyLT5wYXJhbXMtPnNpemUsICdJTkZFRUQnLCAnV2hlbiBJbmZlZWQsIEFsbCBTaXplIE92ZXJyaWRkZW4uJzsKICAgIG9rICRhZHNlcnZlci0+Y29udGV4dC0+aXNfc21hcnRwaG9uZTsKICAgIG9rICEgJGFkc2VydmVyLT5jb250ZXh0LT5oaXJlc19iYW5uZXI7CiAgICBvayAkYWRzZXJ2ZXItPmNvbnRleHQtPmlzX2luZmVlZDsKICAgIGxpa2UgJGFkc2VydmVyLT5jb250ZXh0LT5hZHNlcnZlcl9zcG90X2lkLCBxcihfSU5GRUVEXyk7CiAgICBpc2Ffb2sgJGFkc2VydmVyLT5wbXAsICdGT3V0OjpCaWQ6OkFkU2VydmVyOjpBZEdlbmVyYXRpb246OlBNUCc7CiAgICBvayAhJGFkc2VydmVyLT5wbXAtPmlzX211bHRpcGxlX2RlYWxzOwoKICAgICMgY29uZmlybSBmb3IgIzM4ODkxCiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19zdGFydF90aW1pbmc7CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19taW5fZHVyYXRpb247CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19tYXhfZHVyYXRpb247CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19za2lwcGFibGU7CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19za2lwcGFibGVfbWF4X2R1cmF0aW9uOwogICAgb2sgISRhZHNlcnZlci0+Y29udGV4dC0+aXNfdmlkZW87CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19mb3JtYXRzOwogICAgb2sgISRhZHNlcnZlci0+Y29udGV4dC0+dmlkZW9feW91dHViZV9hdmFpbGFibGU7CiAgICBvayAhJGFkc2VydmVyLT5jb250ZXh0LT52aWRlb19wbGF5YmFja21ldGhvZDsKICAgIG9rICEkYWRzZXJ2ZXItPmNvbnRleHQtPnZpZGVvX2ludmVudG9yeV90eXBlOwogICAgb2sgISRhZHNlcnZlci0+Y29udGV4dC0+dmlkZW9faXNfZ2FtZTsKfTsKCnN1YnRlc3QgJ0ZPdXQ6OkJpZDo6QWRTZXJ2ZXI6OkFkR2VuZXJhdGlvbjo6aW5pdF9hcHBsaWNhdGlvbl9pZCcgPT4gc3ViIHsKICAgIHsKICAgICAgICBteSAkcmVxID0gcmVxdWVzdF9mb3JfYWRnZW5lcmF0aW9uX3Rlc3Q7CgogICAgICAgIGRlbGV0ZSAkcmVxLT57c2l0ZX07CiAgICAgICAgJHJlcS0+e2RldmljZX0tPnt1YX0gPSBNb2NrOjpSZXF1ZXN0LT51YV9pb3M3X3NhZmFyaTsKICAgICAgICAkcmVxLT57YXBwfXtzdG9yZXVybH0gPSAnaHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC95c3RyZWFtLXlvdXR1YmUtZWRpdGlvbi9pZDM4NDM4MzQyNT9tdD04JzsKCiAgICAgICAgbXkgJGFkc2VydmVyID0ganNvbl90b19hZHNlcnZlcigkcmVxKTsKICAgICAgICBpcyAkYWRzZXJ2ZXItPmNvbnRleHQtPmFwcGxpY2F0aW9uX2lkLCAnMzg0MzgzNDI1JywgJ1doZW4gaU9TLCBHZXQgQXBwbGljYXRpb24gSWQgRnJvbSBhcHAuc3RvcmV1cmwnOwogICAgfTsKCiAgICB7CiAgICAgICAgbXkgJHJlcSA9IHJlcXVlc3RfZm9yX2FkZ2VuZXJhdGlvbl90ZXN0OwoKICAgICAgICBkZWxldGUgJHJlcS0+e3NpdGV9OwogICAgICAgICRyZXEtPntkZXZpY2V9LT57dWF9ID0gTW9jazo6UmVxdWVzdC0+dWFfYW5kcm9pZF9tb2JpbGVfc2FmYXJpOwogICAgICAgICRyZXEtPnthcHB9e2J1bmRsZX0gPSAnY29tLmxpZmVjb20ueW91dHViZXN0cmVhbSc7CgogICAgICAgIG15ICRhZHNlcnZlciA9IGpzb25fdG9fYWRzZXJ2ZXIoJHJlcSk7CiAgICAgICAgaXMgJGFkc2VydmVyLT5jb250ZXh0LT5hcHBsaWNhdGlvbl9pZCwgJ2NvbS5saWZlY29tLnlvdXR1YmVzdHJlYW0nLCAnV2hlbiBBbmRyb2lkLCBHZXQgQXBwbGljYXRpb24gSWQgRnJvbSBhcHAuYnVuZGxlJzsKICAgIH07Cn07CgpzdWJ0ZXN0ICdBZCBHZW5lcmF0aW9uIEluZmVlZCcgPT4gc3ViIHsKICAgIF9zZXRfaW5mZWVkX2Fzc2V0czsKCiAgICBteSAkYWRzZXJ2ZXIgPSBqc29uX3RvX2Fkc2VydmVyKHJlcXVlc3RfZm9yX2FkZ2VuZXJhdGlvbl90ZXN0KTsKICAgICRhZHNlcnZlci0+c2V0X3Jlc3BvbnNlKFtiaWRfcmVzcG9uc2VfZm9yX3Rlc3RdKTsKICAgIGVxX29yX2RpZmYgJGFkc2VydmVyLT5jb250ZXh0LT5pbmZlZWRfcmVxdWlyZW1lbnRzLCB7CiAgICAgICAgdGl0bGUgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMzAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICBpbWFnZXMgPT4gewogICAgICAgICAgICBtYWluID0+IHsgc2l6ZSA9PiAnNjR4NjQnIH0KICAgICAgICB9LAogICAgICAgIGNvbnRlbnQgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICBwcmluY2lwYWwgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICB1c2VyX2FjdGlvbiA9PiB7CiAgICAgICAgICAgIGxlbmd0aCA9PiAxMCwKICAgICAgICAgICAgcmVxdWlyZWQgPT4gdW5kZWYKICAgICAgICB9CiAgICB9OwoKICAgIGlzICRhZHNlcnZlci0+cmVzLT5zdGF0dXMsIDIwMCwgJ1JlcXVlc3QgU3VjY2Vzcy4nOwogICAgbXkgKCRjb250ZW50X3R5cGUsICRjb250ZW50X3R5cGVfZW5jb2RpbmcpID0gJGFkc2VydmVyLT5yZXMtPmNvbnRlbnRfdHlwZTsKICAgIGlzICRjb250ZW50X3R5cGUsICdhcHBsaWNhdGlvbi9qc29uJywgJ0VuZm9yY2UgYXBwbGljYXRpb24vanNvbi4nOwogICAgaXMgJGNvbnRlbnRfdHlwZV9lbmNvZGluZywgJ2NoYXJzZXQ9dXRmLTgnLCAnRW5mb3JjZSBjaGFyc2V0PXV0Zi04Lic7CgogICAgbXkgJGJpZCA9IEpTT046OmRlY29kZV9qc29uKCRhZHNlcnZlci0+cmVzLT5jb250ZW50KS0+e3NlYXRiaWR9WzBde2JpZH1bMF07CgogICAgc3VidGVzdCAnRk91dDo6QmlkOjpBZFNlcnZlcjo6QWRHZW5lcmF0aW9uOjpfbWFrZV9iaWRfYmFzZScgPT4gc3ViIHsKICAgICAgICBpcyAkYmlkLT57aWR9LCAxOwogICAgICAgIGlzICRiaWQtPntpbXBpZH0sIDE7CiAgICAgICAgaXMgJGJpZC0+e3ByaWNlfSwgMTAzMTsKICAgICAgICBpcyAkYmlkLT57YWRpZH0sICdiaWRfYXVjdGlvbl9pZF90ZXN0JzsKICAgICAgICBpc19kZWVwbHkgJGJpZC0+e2Fkb21haW59LCBbImRlY2tzLmpwIl07CiAgICAgICAgaXMgJGJpZC0+e2NpZH0sIDU7CiAgICAgICAgaXMgJGJpZC0+e2NyaWR9LCAxOwogICAgICAgIGlzX2RlZXBseSAkYmlkLT57YXR0cn0sIFtdOwogICAgICAgIGlzICRiaWQtPntleHR9e2F0eXBlfSwgRk91dDo6QmlkOjpBZFNlcnZlcjo6QWRHZW5lcmF0aW9uOjpBVFlQRV9OQVRJVkU7CiAgICAgICAgb2sgISRiaWQtPntidW5kbGV9OwogICAgICAgIGlzICRiaWQtPntleHR9e2xwfSwgJ2h0dHA6Ly9kZWNrcy5qcC8nOwogICAgICAgIGlzX2RlZXBseSAkYmlkLT57Y2F0fSwgWydJQUIzJ107CiAgICAgICAgaXMgJGJpZC0+e2l1cmx9LCAnaHR0cDovL3d3dy5zY2FsZW91dC5qcC93cC1jb250ZW50L3RoZW1lcy9zY2FsZW91dC9pbWFnZXMvc2FtcGxlLmpwZWcnOwogICAgfTsKCiAgICBzdWJ0ZXN0ICdGT3V0OjpCaWQ6OkFkU2VydmVyOjpBZEdlbmVyYXRpb246OmFkbV9uYXRpdmUnID0+IHN1YiB7CiAgICAgICAgb2sgbXkgJG5hdGl2ZSA9IEpTT046OmRlY29kZV9qc29uKCRiaWQtPnthZG19KS0+e25hdGl2ZX0sICdTZXQgTmF0aXZlIE9iamVjdC4nOwogICAgICAgIGlzX2RlZXBseSAkbmF0aXZlLT57aW1wdHJhY2tlcnN9LAogICAgICAgICAgICBbImh0dHA6Ly9kc3AuZm91dC5qcC8xMDAvYWQ/YmlkX2lkPWJpZF9hdWN0aW9uX2lkX3Rlc3QmZz0xMDAwJnByYz1cJHtTU1BfV0lOTklOR19QUklDRX0mcmQ9XCR7U1NQX1JFRElSRUNUX0VOQ1VSTH0mbT1iZWFjb24iXSwKICAgICAgICAgICAgJ1NldCBudXJsIFdpdGggV2lubmluZyBQcmljZSB3aXRoIEJlYWNvbiBNb2RlLic7CgogICAgICAgIGxpa2UgJG5hdGl2ZS0+e2xpbmt9e3VybH0sIHFyKF5cUWh0dHA6Ly9kc3AuZm91dC5qcC8xMDAvY2xpY2s/Zj1ub19pZnJhbWUmYmlkX2lkPWJpZF9hdWN0aW9uX2lkX3Rlc3QmZz0xMDAwJnM9MzIweDUwJmU9XEVcZCskKSwKICAgICAgICAgICAgJ1NldCBGTyBSZCBVcmwnOwoKICAgIH0KfTsKCnN1YnRlc3QgJ0FkIEdlbmVyYXRpb24gRHluYW1pYyBJbmZlZWQnID0+IHN1YiB7CiAgICBteSAkYXVkaWVuY2VfaWQgPSAnSUQ4eFV0T0pTZW8xY0NYNlVqckN0OTlSMC1FJzsKICAgIEZPdXQ6OkF1ZGllbmNlSURNYXAtPnNldCgnYWRnZW5lcmF0aW9uJywgJzFpYVhydDBwdUtLT2R2cnUnLCAkYXVkaWVuY2VfaWQpOwoKICAgIG15ICRhZHNlcnZlciA9IGpzb25fdG9fYWRzZXJ2ZXIocmVxdWVzdF9mb3JfYWRnZW5lcmF0aW9uX3Rlc3QpOwoKICAgIG15ICRjbGlja191cmwgPSAnaHR0cDovL3d3dy5hdGhvbWUuY28uanAvc210L2tyXzAxL2R0bF8xMDUxMzQwOTE1P2lkPXNwX2ZvdXQwMDAwMDAwMSZhZHBjbnQ9NDREXzNCeXZPJzsKICAgICRhZHNlcnZlci0+Y29udGV4dC0+c3Rhc2gtPntkeW5hbWljX2l0ZW1fYXNzZXRzfXsxMDExfXskYXVkaWVuY2VfaWR9ID0gewogICAgICAgIHRpdGxlICAgICAgID0+ICfjgqLjg4njgrjjgqfjg43jg6zjg7zjgrfjg6fjg7MnLAogICAgICAgIGNvbnRlbnQgICAgID0+ICfjgrPjg7Pjg4bjg7Pjg4gnLAogICAgICAgIHByaW5jaXBhbCAgID0+ICdTY2FsZW91dCAuSW5jJywKICAgICAgICBkaXNwbGF5X3VybCA9PiAnZGVja3MuanAnLAogICAgICAgIHVzZXJfYWN0aW9uID0+ICdJTlNUQUxMJywKICAgICAgICBpbWFnZXMgICAgICA9PiB7CiAgICAgICAgICAgIG1haW4gPT4gewogICAgICAgICAgICAgICAgc2l6ZSA9PiAnNjR4NjQnLAogICAgICAgICAgICAgICAgdXJsICA9PiAnaHR0cDovL3d3dy5zY2FsZW91dC5qcC93cC1jb250ZW50L3RoZW1lcy9zY2FsZW91dC9pbWFnZXMvc2FtcGxlLmpwZWcnLAogICAgICAgICAgICB9LAogICAgICAgIH0sCiAgICAgICAgY2xpY2tfdXJsID0+ICRjbGlja191cmwKICAgIH07CgogICAgbXkgJGJpZF9yZXNwb25zZSA9IGJpZF9yZXNwb25zZV9mb3JfdGVzdCh0eXBlID0+IDksIGF1ZGllbmNlX2lkID0+ICRhdWRpZW5jZV9pZCk7CiAgICAkYWRzZXJ2ZXItPnNldF9yZXNwb25zZShbJGJpZF9yZXNwb25zZV0pOwogICAgaXMgJGFkc2VydmVyLT5yZXMtPnN0YXR1cywgMjAwLCAnUmVxdWVzdCBTdWNjZXNzLic7CiAgICBteSAoJGNvbnRlbnRfdHlwZSwgJGNvbnRlbnRfdHlwZV9lbmNvZGluZykgPSAkYWRzZXJ2ZXItPnJlcy0+Y29udGVudF90eXBlOwogICAgaXMgJGNvbnRlbnRfdHlwZSwgJ2FwcGxpY2F0aW9uL2pzb24nLCAnRW5mb3JjZSBhcHBsaWNhdGlvbi9qc29uLic7CiAgICBpcyAkY29udGVudF90eXBlX2VuY29kaW5nLCAnY2hhcnNldD11dGYtOCcsICdFbmZvcmNlIGNoYXJzZXQ9dXRmLTguJzsKICAgIGVxX29yX2RpZmYgJGFkc2VydmVyLT5jb250ZXh0LT5pbmZlZWRfcmVxdWlyZW1lbnRzLCB7CiAgICAgICAgdGl0bGUgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMzAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICBpbWFnZXMgPT4gewogICAgICAgICAgICBtYWluID0+IHsgc2l6ZSA9PiAnNjR4NjQnIH0KICAgICAgICB9LAogICAgICAgIGNvbnRlbnQgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICBwcmluY2lwYWwgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICB1c2VyX2FjdGlvbiA9PiB7CiAgICAgICAgICAgIGxlbmd0aCA9PiAxMCwKICAgICAgICAgICAgcmVxdWlyZWQgPT4gdW5kZWYKICAgICAgICB9CiAgICB9OwoKICAgIG15ICRiaWQgPSBKU09OOjpkZWNvZGVfanNvbigkYWRzZXJ2ZXItPnJlcy0+Y29udGVudCktPntzZWF0YmlkfVswXXtiaWR9WzBdOwogICAgc3VidGVzdCAnRk91dDo6QmlkOjpBZFNlcnZlcjo6QWRHZW5lcmF0aW9uOjpfbWFrZV9iaWRfYmFzZScgPT4gc3ViIHsKICAgICAgICBpcyAkYmlkLT57aWR9LCAxOwogICAgICAgIGlzICRiaWQtPntpbXBpZH0sIDE7CiAgICAgICAgaXMgJGJpZC0+e3ByaWNlfSwgMTAzMTsKICAgICAgICBpcyAkYmlkLT57YWRpZH0sICdiaWRfYXVjdGlvbl9pZF90ZXN0JzsKICAgICAgICBpc19kZWVwbHkgJGJpZC0+e2Fkb21haW59LCBbImRlY2tzLmpwIl07CiAgICAgICAgaXMgJGJpZC0+e2NpZH0sIDU7CiAgICAgICAgaXMgJGJpZC0+e2NyaWR9LCAxOwogICAgICAgIGlzX2RlZXBseSAkYmlkLT57YXR0cn0sIFtdOwogICAgICAgIGlzICRiaWQtPntleHR9e2F0eXBlfSwgRk91dDo6QmlkOjpBZFNlcnZlcjo6QWRHZW5lcmF0aW9uOjpBVFlQRV9OQVRJVkU7CiAgICAgICAgaXMgJGJpZC0+e2l1cmx9LCAnaHR0cDovL3d3dy5zY2FsZW91dC5qcC93cC1jb250ZW50L3RoZW1lcy9zY2FsZW91dC9pbWFnZXMvc2FtcGxlLmpwZWcnOwogICAgfTsKCiAgICBzdWJ0ZXN0ICdGT3V0OjpCaWQ6OkFkU2VydmVyOjpBZEdlbmVyYXRpb246OmFkbV9uYXRpdmUnID0+IHN1YiB7CiAgICAgICAgb2sgbXkgJG5hdGl2ZSA9IEpTT046OlhTLT5uZXctPnV0ZjgoMCktPmRlY29kZSgkYmlkLT57YWRtfSktPntuYXRpdmV9LCAnU2V0IE5hdGl2ZSBPYmplY3QuJzsKCiAgICAgICAgaXNfZGVlcGx5ICRuYXRpdmUtPntpbXB0cmFja2Vyc30sCiAgICAgICAgICAgIFsiaHR0cDovL2RzcC5mb3V0LmpwLzEwMC9hZD9iaWRfaWQ9YmlkX2F1Y3Rpb25faWRfdGVzdCZnPTEwMDAmcHJjPVwke1NTUF9XSU5OSU5HX1BSSUNFfSZyZD1cJHtTU1BfUkVESVJFQ1RfRU5DVVJMfSZtPWJlYWNvbiJdLAogICAgICAgICAgICAnU2V0IG51cmwgV2l0aCBXaW5uaW5nIFByaWNlIHdpdGggQmVhY29uIE1vZGUuJzsKICAgICAgICBsaWtlICRuYXRpdmUtPntsaW5rfXt1cmx9LCBxcidodHRwOi8vZHNwLmZvdXQuanAvMTAwL2NsaWNrXD9mPW5vX2lmcmFtZSZiaWRfaWQ9YmlkX2F1Y3Rpb25faWRfdGVzdCZnPTEwMDAmcz0zMjB4NTAmZT1cZHsxMH0mYXBwZW5kX3JkPWh0dHAlM0ElMkYlMkZ3d3cuYXRob21lLmNvLmpwJTJGc210JTJGa3JfMDElMkZkdGxfMTA1MTM0MDkxNSUzRmlkJTNEc3BfZm91dDAwMDAwMDAxJTI2YWRwY250JTNENDREXzNCeXZPJzsKICAgICAgICBteSAoJHJkX3NlcnZlcl91cmwsICRscF91cmwpID0gc3BsaXQgIiZhcHBlbmRfcmQ9IiwgJG5hdGl2ZS0+e2xpbmt9e3VybH07CiAgICAgICAgbGlrZSAkcmRfc2VydmVyX3VybCwKICAgICAgICAgICAgcXIoXlxRaHR0cDovL2RzcC5mb3V0LmpwLzEwMC9jbGljaz9mPW5vX2lmcmFtZSZiaWRfaWQ9YmlkX2F1Y3Rpb25faWRfdGVzdCZnPTEwMDAmcz0zMjB4NTAmZT1cRVxkKyQpLAogICAgICAgICAgICAnU2V0IEZPIFJkIFVybCc7CgogICAgICAgIG15ICRlc2NhcGVkX2NsaWNrX3VybCA9IHVyaV9lc2NhcGUoJGNsaWNrX3VybCk7CiAgICAgICAgaXMgJGxwX3VybCwgJGVzY2FwZWRfY2xpY2tfdXJsLCAnU2V0IFNTUCBVcmwgJiBMUCBVUkwuJzsKCiAgICAgICAgaXMgJG5hdGl2ZS0+e2Fzc2V0c31bMF17dGl0bGV9e3RleHR9LCAn44Ki44OJ44K444Kn44ON44Os44O844K344On44OzJywgJ0Rpc2FibGUgdXRmLTggRmxhZyBpbiBUaXRsZS4nOwogICAgICAgIGlzICRuYXRpdmUtPnthc3NldHN9WzNde2RhdGF9e3ZhbHVlfSwgJ+OCs+ODs+ODhuODs+ODiCcsICdEaXNhYmxlIHV0Zi04IEZsYWcgaW4gRGF0YS4nOwogICAgfQp9OwoKc3VidGVzdCAnV2hlbiBEeW5hbWljIEluZmVlZCBOT1QgUmVnaXN0ZXJkJyA9PiBzdWIgewogICAgbXkgJGF1ZGllbmNlX2lkID0gJ0lEOHhVdE9KU2VvMWNDWDZVanJDdDk5UjAtRSc7CiAgICBGT3V0OjpBdWRpZW5jZUlETWFwLT5zZXQoJ2FkZ2VuZXJhdGlvbicsICcxaWFYcnQwcHVLS09kdnJ1JywgJGF1ZGllbmNlX2lkKTsKCiAgICBteSAkYWRzZXJ2ZXIgPSBqc29uX3RvX2Fkc2VydmVyKHJlcXVlc3RfZm9yX2FkZ2VuZXJhdGlvbl90ZXN0KTsKCiAgICBteSAkYmlkX3Jlc3BvbnNlID0gYmlkX3Jlc3BvbnNlX2Zvcl90ZXN0KHR5cGUgPT4gOSwgYXVkaWVuY2VfaWQgPT4gJGF1ZGllbmNlX2lkKTsKICAgIGRpZXNfb2sgeyAkYWRzZXJ2ZXItPnNldF9yZXNwb25zZShbJGJpZF9yZXNwb25zZV0pOyB9ICdEaWVzIEJ5IEFzc2V0IEFic2VuY2UuJzsKICAgIGxpa2UgJEAsIHFyKER5bmFtaWMgaW5mZWVkIGFzc2V0cyBub3QgZm91bmQhKTsKfTsKCnN1YnRlc3QgJ1doZW4gTk8gSW1hZ2UgU2l6ZSBHaXZlbi4nID0+IHN1YnsKICAgIG15ICRyZXEgPSByZXF1ZXN0X2Zvcl9hZGdlbmVyYXRpb25fdGVzdDsKICAgICRyZXEtPntpbXB9WzBde25hdGl2ZX17cmVxdWVzdH0gPSAneyJuYXRpdmUiOnsidmVyIjoiMS4wLjAuMiIsImxheW91dCI6MywicGxjbXRjbnQiOjEsImFzc2V0cyI6W3siaWQiOjEsInRpdGxlIjp7ImxlbiI6MzB9fSx7ImlkIjoyLCJpbWciOnsidHlwZSI6MSwibWltZXMiOlsiaW1hZ2UvanBlZyJdfX0seyJpZCI6MywiZGF0YSI6eyJ0eXBlIjoxLCJsZW4iOjEwfX0seyJpZCI6NCwiZGF0YSI6eyJ0eXBlIjoyLCJsZW4iOjEwfX0seyJpZCI6NSwiZGF0YSI6eyJ0eXBlIjoxMiwibGVuIjoxMH19XX19JzsKICAgIG15ICRhZHNlcnZlciA9IGpzb25fdG9fYWRzZXJ2ZXIoJHJlcSk7CgogICAgZXFfb3JfZGlmZiAkYWRzZXJ2ZXItPmNvbnRleHQtPmluZmVlZF9yZXF1aXJlbWVudHMsIHsKICAgICAgICB0aXRsZSA9PiB7CiAgICAgICAgICAgIGxlbmd0aCA9PiAzMCwKICAgICAgICAgICAgcmVxdWlyZWQgPT4gdW5kZWYKICAgICAgICB9LAogICAgICAgIGNvbnRlbnQgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICBwcmluY2lwYWwgPT4gewogICAgICAgICAgICBsZW5ndGggPT4gMTAsCiAgICAgICAgICAgIHJlcXVpcmVkID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICB1c2VyX2FjdGlvbiA9PiB7CiAgICAgICAgICAgIGxlbmd0aCA9PiAxMCwKICAgICAgICAgICAgcmVxdWlyZWQgPT4gdW5kZWYKICAgICAgICB9CiAgICB9OwogICAgb2sgJGFkc2VydmVyLT5wYXJhbXMtPm5hdGl2ZV9yZXF1ZXN0LCAnbmF0aXZlX3JlcXVlc3QgTXVzdCBCZSBUcnVlLic7CiAgICBvayAkYWRzZXJ2ZXItPmNvbnRleHQtPm5vX2JpZF9tb2RlLCAnTm8gQmlkIE1vZGUgRW5hYmxlZC4nOwogICAgb2sgJGFkc2VydmVyLT5jb250ZXh0LT5pc19pbmZlZWQ7CiAgICBsaWtlICRhZHNlcnZlci0+Y29udGV4dC0+YWRzZXJ2ZXJfc3BvdF9pZCwgcXIoX0lORkVFRF8pOwp9OwoKc3VidGVzdCAnV2hlbiBtYWluIGltYWdlIHJlcXVpcmVtZW50IGhhcyBub25lIHNpemUgKCMzNjA2NSknID0+IHN1YnsKICAgIF9zZXRfaW5mZWVkX2Fzc2V0czsKICAgIG15ICRyZXEgPSByZXF1ZXN0X2Zvcl90ZXN0OwogICAgJHJlcS0+e2ltcH1bMF17bmF0aXZlfXtyZXF1ZXN0fSA9ICd7Im5hdGl2ZSI6eyJ2ZXIiOiIxLjAuMC4yIiwibGF5b3V0IjozLCJwbGNtdGNudCI6MSwiYXNzZXRzIjpbeyJpZCI6MSwidGl0bGUiOnsibGVuIjozMH19LHsiaWQiOjIsImltZyI6eyJ0eXBlIjoxLCJ3Ijo2NCwiaCI6NjQsIm1pbWVzIjpbImltYWdlL2pwZWciXX19LHsiaWQiOjMsImRhdGEiOnsidHlwZSI6MSwibGVuIjoxMH19LHsiaWQiOjQsImRhdGEiOnsidHlwZSI6MiwibGVuIjoxMH19LHsiaWQiOjUsImRhdGEiOnsidHlwZSI6MTIsImxlbiI6MTB9fSx7ImlkIjo2LCJyZXF1aXJlZCI6MCwiaW1nIjp7InR5cGUiOjN9fV19fSc7CiAgICBteSAkYWRzZXJ2ZXIgPSBqc29uX3RvX2Fkc2VydmVyKCRyZXEpOwogICAgJGFkc2VydmVyLT5zZXRfcmVzcG9uc2UoW2JpZF9yZXNwb25zZV9mb3JfdGVzdF0pOwogICAgb2sgbXkgJGJpZCA9IEpTT046OmRlY29kZV9qc29uKCRhZHNlcnZlci0+cmVzLT5jb250ZW50KS0+e3NlYXRiaWR9WzBde2JpZH1bMF07CiAgICBvayBteSAkYWRtID0gSlNPTjo6ZGVjb2RlX2pzb24gJGJpZC0+e2FkbX07CiAgICBpcyAkYmlkLT57aXVybH0sICdodHRwOi8vd3d3LnNjYWxlb3V0LmpwL3dwLWNvbnRlbnQvdGhlbWVzL3NjYWxlb3V0L2ltYWdlcy9zYW1wbGUuanBlZyc7CiAgICBvayBteSAkYXNzZXRzID0gJGFkbS0+e25hdGl2ZX17YXNzZXRzfTsKICAgIG9rIHNjYWxhciBAJGFzc2V0cyA+IDA7CiAgICBvayAoZ3JlcCB7ICRfLT57aWR9ID09IDIgfSBAJGFzc2V0cyksICJsb2dvIGltZyBpcyBvayI7CiAgICBvayAhIChncmVwIHsgJF8tPntpZH0gPT0gNiB9IEAkYXNzZXRzKSwgIm1haW4gaW1nIG5lZWQgYmUgZ29uZSI7CiAgICBvayAhIChncmVwIHsgbXkgJGltZyA9ICRfLT57aW1nfTsgJGltZyAmJiBleGlzdHMgJGltZy0+e3d9ICYmICRpbWctPnt3fSA9PSAwOyB9IEAkYXNzZXRzKSwgJ25lZWQgbm8gemVybyBzaXplIGltZyc7Cn07CgpzdWJ0ZXN0ICdkZWNpc2lvbiB0ZXN0JyA9PiBzdWIgewogICAgc2V0X2Fnc3BfaW5kZXg7CiAgICBfc2V0X2luZmVlZF9hc3NldHM7CiAgICBzZXRfZm9yX2ludGVncmF0ZV90ZXN0KHEod3d3LnRlc3QuY29tKSwgJzEyMDB4NjI3Jyk7CgogICAgbXkgJGFkc2VydmVyID0ganNvbl90b19hZHNlcnZlcihyZXF1ZXN0X2Zvcl9hZGdlbmVyYXRpb25fdGVzdCk7CiAgICBvayAhICRhZHNlcnZlci0+aGFzX2Vycm9yOwoKICAgIG9rICRhZHNlcnZlci0+Y29udGV4dC0+aXNfaW5mZWVkLCAiaXNfaW5mZWVkIjsKICAgIG9rICRhZHNlcnZlci0+Y29udGV4dC0+YWRzZXJ2ZXJfc3BvdF9pZDsKICAgIGlzICRhZHNlcnZlci0+Z2V0X2RldmljZV9pZmEoKSwgIjAzRENCNThELTJFNEMtNDQ4Ny04OURELUVDNDM5N0U4MDREQSIsICdnZXQgSURGQSBmcm9tIGRldmljZS5pZmEnOwogICAgaXMgJGFkc2VydmVyLT5jb250ZXh0LT5hcHBsaWNhdGlvbl9uYW1lLCAnJywgJ05PVCB0byBVc2UgYXBwbGljYXRpb25fbmFtZSBvZiBCaWQgUmVxdWVzdCAoIzIyNDIwKSc7CiAgICBpcyAkYWRzZXJ2ZXItPnBhcmFtcy0+c2l6ZSwgJ0lORkVFRCcsICdwYXJhbXMuc2l6ZSA9IElORkVFRCc7CiAgICBvayAkYWRzZXJ2ZXItPmNvbnRleHQtPmlzX3NtYXJ0cGhvbmUsICdjb250ZXh0LmlzX3NtYXJ0cGhvbmUnOwoKICAgIG15ICRyZXMgPSBGT3V0OjpCaWQ6OkRlY2lzaW9uLT5uZXcoYWRzZXJ2ZXIgPT4gJGFkc2VydmVyKS0+cnVuOwogICAgaXMgJHJlcy0+WzBdLCAyMDAsICdhZHNlcnZlcl9zdGF0dXM6MjAwJzsKfTsKCgpzdWJ0ZXN0ICdyZXF1aXJlZCB2aWRlbyBhc3NldCByZXR1cm4gbm9fYmlkX21vZGU9MScgPT4gc3ViIHsKICAgIG15ICRhZHNlcnZlciA9IGpzb25fdG9fYWRzZXJ2ZXIocmVxdWVzdF9mb3JfYWRnZW5lcmF0aW9uX3Rlc3QodmlkZW9fcmVxdWlyZWQgPT4gMSkpOwogICAgb2sgISAkYWRzZXJ2ZXItPmhhc19lcnJvcjsKICAgIG9rICRhZHNlcnZlci0+Y29udGV4dC0+bm9fYmlkX21vZGU7CgogICAgZXFfb3JfZGlmZiAkYWRzZXJ2ZXItPmNvbnRleHQtPmluZmVlZF9yZXF1aXJlbWVudHMsIHsKICAgICAgICAndXNlcl9hY3Rpb24nID0+IHsKICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMTAsCiAgICAgICAgICAgICdyZXF1aXJlZCcgPT4gdW5kZWYKICAgICAgICB9LAogICAgICAgICdpbWFnZXMnID0+IHsKICAgICAgICAgICAgJ21haW4nID0+IHsnc2l6ZScgPT4gJzY0eDY0J30KICAgICAgICB9LAogICAgICAgICdwcmluY2lwYWwnID0+IHsKICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMTAsCiAgICAgICAgICAgICdyZXF1aXJlZCcgPT4gdW5kZWYKICAgICAgICB9LAogICAgICAgICdjb250ZW50JyA9PiB7CiAgICAgICAgICAgICdsZW5ndGgnID0+IDEwLAogICAgICAgICAgICAncmVxdWlyZWQnID0+IHVuZGVmCiAgICAgICAgfSwKICAgICAgICAndGl0bGUnID0+IHsKICAgICAgICAgICAgJ2xlbmd0aCcgPT4gMzAsCiAgICAgICAgICAgICdyZXF1aXJlZCcgPT4gdW5kZWYKICAgICAgICB9CiAgICB9Owp9OwoKc3VidGVzdCAndGVzdCBpc19zbWFydHBob25lIGV2ZW4gZnJvbSBhIHBjIHVzZXJfYWdlbnQnID0+IHN1YiB7CiAgICBteSAkaWUxMF91YSA9ICdNb3ppbGxhLzUuMCAoY29tcGF0aWJsZTsgTVNJRSAxMC4wOyBXaW5kb3dzIE5UIDYuMjsgVHJpZGVudC82LjApJzsKICAgIG15ICRyZXEgPSByZXF1ZXN0X2Zvcl9hZGdlbmVyYXRpb25fdGVzdCB1c2VyX2FnZW50ID0+ICRpZTEwX3VhOwogICAgbXkgJGFkc2VydmVyID0ganNvbl90b19hZHNlcnZlcigkcmVxKTsKICAgIGlzICRhZHNlcnZlci0+Y29udGV4dC0+dXNlcl9hZ2VudCwgJGllMTBfdWE7CiAgICBvayAkYWRzZXJ2ZXItPmNvbnRleHQtPmlzX3NtYXJ0cGhvbmU7Cn07CgpzdWJ0ZXN0ICdyZXNwb25zZSBoYXMgYnVuZGxlIHdoZW4gYWQgaXMgYW5kcm9pZCBhcHAnID0+IHN1YiB7CiAgICBfc2V0X2luZmVlZF9hc3NldHM7CgogICAgbXkgJGJpZF9yZXNwb25zZSA9IGRvIHsKICAgICAgICBteSAkciA9IGJpZF9yZXNwb25zZV9mb3JfdGVzdCgpOwogICAgICAgICRyLT5hZC0+e3Jldmlld19sYW5kaW5nX3VybH0gPSAnaHR0cHM6Ly9wbGF5Lmdvb2dsZS5jb20vc3RvcmUvYXBwcy9kZXRhaWxzP2lkPXNwYWNlLmFtaWdvJmhsPWphJzsKICAgICAgICAkci0+YWQtPntwbGF0Zm9ybV90eXBlfSA9ICdhbmRyb2lkJzsKICAgICAgICAkcjsKICAgIH07CiAgICBteSAkYWRzZXJ2ZXIgPSBqc29uX3RvX2Fkc2VydmVyKHJlcXVlc3RfZm9yX2FkZ2VuZXJhdGlvbl90ZXN0KTsKICAgICRhZHNlcnZlci0+c2V0X3Jlc3BvbnNlKFskYmlkX3Jlc3BvbnNlXSk7CgogICAgbXkgJGJpZCA9IEpTT046OmRlY29kZV9qc29uKCRhZHNlcnZlci0+cmVzLT5jb250ZW50KS0+e3NlYXRiaWR9WzBde2JpZH1bMF07CiAgICBpcyAkYmlkLT57YnVuZGxlfSwgJ3NwYWNlLmFtaWdvJzsKfTsKCmRvbmVfdGVzdGluZzsK</text>
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyICRsaXN0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIHQ6OlV0aWxzOwoKdXNlIFRlc3Q6OkRpZmZlcmVuY2VzOwp1c2UgVGVzdDo6TW9yZTsKdXNlIFRlc3Q6OkV4Y2VwdGlvbjsKCnVzZSBIVFRQOjpNZXNzYWdlOjpQU0dJIHF3KHJlcV90b19wc2dpKTsKdXNlIEhUVFA6OlJlcXVlc3Q6OkNvbW1vbiBxdyhQT1NUKTsKdXNlIEpTT04gKCk7CnVzZSBKU09OOjpYUyAoKTsKCnVzZSBGT3V0OjpBdWRpZW5jZUlETWFwOwp1c2UgRk91dDo6TW9kZWxzIHF3KG1vZGVscyk7Cgp1c2UgTW9jazo6QWRzZXJ2ZXI6Ok9wZW5SVEIySW5mZWVkIHF3KHJlcXVlc3RfZm9yX3Rlc3QgYmlkX3Jlc3BvbnNlX2Zvcl90ZXN0IHNldF9mb3JfaW50ZWdyYXRlX3Rlc3Qgc2V0X2Fnc3BfaW5kZXgpOwp1c2UgTW9jazo6QmlkOjpJbmRleERhdGEgcXcoYmlkX2luZGV4X2ZpeHR1cmUpOwp1c2UgTW9jazo6UmVxdWVzdDsKdXNlIFVSSTo6RXNjYXBlOjpYUyBxdy91cmlfZXNjYXBlLzsKdXNlIEZPdXQ6OkJpZDo6RGVjaXNpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgd2FybiBEdW1wZXIgJGxpc3RfazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2FybiBEdW1wZXIgJGxpc3RfajsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbHNcPg==</last-search>
+      <last-search encoding="base64">XDxiX3Njb3JlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiX3Njb3JlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfbWFwX2dlbmRlcl9jb2RlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1577,6 +1608,16 @@
         <entry encoding="base64">XDxiaWRkaW5nX29yZGVyX3RtcGxcPg==</entry>
         <entry encoding="base64">XDxBVkFJTEFCTEVfTF9BR0VfR1JPVVBcPg==</entry>
         <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
+        <entry encoding="base64">XDxhdXRvX2JpZGRpbmdfb3JkZXJzXD4=</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
+        <entry encoding="base64">XDx0cmF2ZXJzZV9oYXNoXD4=</entry>
+        <entry encoding="base64">XDxyb290X25vZGVcPg==</entry>
+        <entry encoding="base64">XDxzdGFja1w+</entry>
+        <entry encoding="base64">XDxwYXRoX3N0YWNrXD4=</entry>
+        <entry encoding="base64">XDxpbmRleGVzXD4=</entry>
+        <entry>sco</entry>
+        <entry encoding="base64">XDxiX3Njb3BlXD4=</entry>
+        <entry encoding="base64">XDxiX3Njb3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
