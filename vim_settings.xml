@@ -517,7 +517,7 @@
         <mark key="^" line="234" column="59" />
         <mark key="." line="234" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521008356728">
+      <file name="/Dummy.txt" timestamp="1521009791583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -584,6 +584,7 @@
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/review_partitioned.t" timestamp="1519962898775">
         <mark key="'" line="2" column="11" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1521009830393" />
       <file name="$FOUT_HOME$/lib/FOut/CLI/UpdateNativeAppInfo.pm" timestamp="1519282963237">
         <mark key="'" line="44" column="46" />
       </file>
@@ -601,10 +602,10 @@
         <mark key="'" line="26" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1521008443906">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+        <mark key="'" line="166" column="4" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="1" />
+        <mark key="." line="159" column="1" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/Infeed.pm" timestamp="1520478917097">
         <mark key="'" line="0" column="0" />
@@ -973,6 +974,9 @@
         <mark key="^" line="318" column="1" />
         <mark key="." line="318" column="2" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/SSMapping.pm" timestamp="1521009791167">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ClassNameBuilder.pm" timestamp="1520500504982">
         <mark key="'" line="29" column="8" />
       </file>
@@ -999,7 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$FOUT_HOME$/t/lib/t/Utils/Fixture/DSP.pm" />
       <jump line="26" column="44" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" />
       <jump line="157" column="5" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="48" column="26" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
@@ -1099,6 +1102,7 @@
       <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Conv/Register.pm" />
       <jump line="560" column="32" filename="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/SSMapping.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
