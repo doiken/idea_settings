@@ -89,6 +89,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1520838532724">
         <mark key="'" line="191" column="27" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1521011466985" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-freq.t" timestamp="1519717343117">
         <mark key="[" line="40" column="5" />
         <mark key="]" line="40" column="14" />
@@ -208,8 +209,8 @@
         <mark key="]" line="359" column="19" />
         <mark key="." line="359" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1520945103842">
-        <mark key="'" line="48" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1521011481811">
+        <mark key="'" line="1896" column="8" />
         <mark key="[" line="2269" column="14" />
         <mark key="]" line="2269" column="42" />
         <mark key="^" line="1703" column="23" />
@@ -1003,7 +1004,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="44" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" />
       <jump line="157" column="5" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="48" column="26" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="49" column="26" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
@@ -1103,6 +1103,7 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Conv/Register.pm" />
       <jump line="560" column="32" filename="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/SSMapping.pm" />
+      <jump line="1896" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1737,7 +1738,7 @@
         <text>401</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aXRob3V0X3dhcm5zXD4=</text>
+        <text encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN1YnRlc3QgJ29ubHkgbGFzdCBwYXJ0JyA9PiBzdWIgewogICAgICAgIG15ICRhdXRvX2JpZGRpbmdfb3JkZXJzID0gewogICAgICAgICAgICAxID0+IHsgMiA9PiB7IDQwMSA9PiAxMi4zIH19CiAgICAgICAgfTsKICAgICAgICBsb2NhbCAkb3JpZy0+e2F1dG9fYmlkZGluZ19vcmRlcnN9ID0gJGF1dG9fYmlkZGluZ19vcmRlcnM7CiAgICAgICAgb2sgbXkgJHNlcmlhbGl6ZWQgPSAkZGFvLT5zZXJpYWxpemUoJG9yaWcpOwogICAgICAgIG9rIG15ICRkZXNlcmlhbGl6ZWQgPSAkZGFvLT5kZXNlcmlhbGl6ZSgkc2VyaWFsaXplZCk7CiAgICAgICAgaXNfZGVlcGx5ICRkZXNlcmlhbGl6ZWQtPnthdXRvX2JpZGRpbmdfb3JkZXJzfSwgJGF1dG9fYmlkZGluZ19vcmRlcnM7CiAgICB9Owo=</text>
@@ -1780,9 +1781,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aXRob3V0X3dhcm5zXD4=</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aXRob3V0X3dhcm5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1847,6 +1848,7 @@
         <entry encoding="base64">XDxub2RlXD4=</entry>
         <entry encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</entry>
         <entry encoding="base64">XDx3aXRob3V0X3dhcm5zXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
