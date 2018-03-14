@@ -159,6 +159,9 @@
         <mark key="^" line="112" column="13" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" timestamp="1521008352659">
+        <mark key="'" line="560" column="32" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1519178000390">
         <mark key="'" line="3" column="15" />
       </file>
@@ -200,7 +203,7 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1520946612930">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1521007824259">
         <mark key="[" line="359" column="19" />
         <mark key="]" line="359" column="19" />
         <mark key="." line="359" column="24" />
@@ -514,7 +517,7 @@
         <mark key="^" line="234" column="59" />
         <mark key="." line="234" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520946801193">
+      <file name="/Dummy.txt" timestamp="1521008356728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -597,11 +600,11 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Class.pm" timestamp="1519981222486">
         <mark key="'" line="26" column="13" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1521006321556">
+      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1521008443906">
         <mark key="'" line="18" column="4" />
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/Infeed.pm" timestamp="1520478917097">
         <mark key="'" line="0" column="0" />
@@ -996,7 +999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="665" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="43" column="0" filename="$FOUT_HOME$/t/lib/t/Utils/Fixture/DSP.pm" />
       <jump line="26" column="44" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" />
       <jump line="157" column="5" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
@@ -1096,6 +1098,7 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Conv/Register.pm" />
+      <jump line="560" column="32" filename="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
