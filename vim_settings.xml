@@ -58,12 +58,12 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1521191112502">
-        <mark key="'" line="229" column="19" />
-        <mark key="[" line="266" column="81" />
-        <mark key="]" line="266" column="95" />
-        <mark key="." line="266" column="81" />
-        <mark key="^" line="229" column="117" />
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1521193087685">
+        <mark key="'" line="228" column="19" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="228" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Runner.pm" timestamp="1521185306834">
         <mark key="[" line="11" column="0" />
@@ -195,6 +195,9 @@
         <mark key="^" line="129" column="27" />
         <mark key="." line="129" column="87" />
       </file>
+      <file name="/file.dummy" timestamp="1521192959411">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" timestamp="1521169187814">
         <mark key="'" line="22" column="4" />
       </file>
@@ -240,6 +243,7 @@
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/AdGroup.pm" timestamp="1521178553757" />
+      <file name="$USER_HOME$/Documents/fout_ukigumo/test_fout.pl" timestamp="1521193237750" />
       <file name="$FOUT_HOME$/t/fout/bid/match/match_dmp_segment_target.t" timestamp="1519717570153">
         <mark key="[" line="52" column="9" />
         <mark key="]" line="51" column="18" />
@@ -309,7 +313,7 @@
         <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" timestamp="1521014418687" />
-      <file name="/Dummy.txt" timestamp="1521189778115">
+      <file name="/Dummy.txt" timestamp="1521193238798">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -394,11 +398,11 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" timestamp="1521189340969">
-        <mark key="'" line="240" column="36" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" timestamp="1521193191731">
+        <mark key="'" line="159" column="12" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="21" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/bidding_by_cross_device_mapping.t" timestamp="1519717783248">
@@ -627,7 +631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1123" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" />
       <jump line="549" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -727,6 +730,7 @@
       <jump line="278" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="229" column="19" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
       <jump line="48" column="22" filename="$FOUT_HOME$/t/utils/MakeHelper.pm" />
+      <jump line="159" column="12" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -738,7 +742,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, $ukigumo_url</text>
+        <text>0</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1363,7 +1367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, $ukigumo_url</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc2VuZF9zbGFja1w+</text>
@@ -1372,37 +1376,37 @@
         <text>$addition_message</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15ICRtZXNzYWdlID0gPDwiRU5EX01TRyI7CiRlbW90aWNvbiAkdGVzdF9yZXN1bHQgWyRuYW1lXSAkZGlzcF9icmFuY2ggKCRkaXNwX3JldmlzaW9uKSBieSAkYXV0aG9yCiR1a2lndW1vX3VybApFTkRfTVNHCg==</text>
+        <text encoding="base64">dXNlIFRpbWU6OkxpbWl0IHF3LzYwMC87Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAobXkgJGRpc3BfYnJhbmNoID0gJGJyYW5jaCkgPX4gc3teW14vXSsvfXt9OwogICAgICAgIG15ICRkaXNwX3JldmlzaW9uID0gc3Vic3RyICRyZXZpc2lvbiwgMCwgMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJEApIHsKICAgICAgICAgICAgJHNlbGYtPl9zZW5kX3NsYWNrKCRyZXBvLCAkcmV2aXNpb24sIFsnJ10sICRkaXNwX3JldmlzaW9uLCAkZGlzcF9icmFuY2gsICcqKnJ1bl9wcm92ZSBhYm9ydGVkIHVuZXhwZWN0ZWRseSoqJyk7CiAgICAgICAgICAgIG5leHQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAobXkgJGRpc3BfYnJhbmNoID0gJGJyYW5jaCkgPX4gc3teW14vXSsvfXt9OwogICAgICAgIG15ICRkaXNwX3JldmlzaW9uID0gc3Vic3RyICRyZXZpc2lvbiwgMCwgMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICctdScsICR1c2VybmFtZSwgJy1lJywgJGljb25fZW1vamksICctQycsICRjb2xvciwgJG1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBteSAkZXJyX291dHB1dCA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzdGVtKCcvZm91dC9mb3V0L3Rvb2xzL25vdGlmeS1zbGFjaycsICctLWNoYW5uZWwnLCAkY2hhbm5lbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNlbGYtPl9zZW5kX3NsYWNrKCRyZXBvLCAkcmV2aXNpb24sIFsnJ10sICRkaXNwX3JldmlzaW9uLCAkZGlzcF9icmFuY2gsICcqKnJ1bl9wcm92ZSBhYm9ydGVkIHVuZXhwZWN0ZWRseSoqJyk7CiAgICAgICAgbXkgKCRhbGwsICRmYWlscykgPSBwYXJzZV9yZXN1bHRzICRyZXN1bHRzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNlbGYtPl9zZW5kX3NsYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIG15ICRhdXRob3IgPSAkcmVwby0+Z2V0X2F1dGhvcigkcmV2aXNpb24pOwogICAgICAgICAgICBteSAkdGVzdF9yZXN1bHQgPSBAJGZhaWxzID8gJ0ZBSUxFRCcgOiAnU1VDQ0VTUyc7CiAgICAgICAgICAgIG15ICRjb2xvciAgICAgICA9IEAkZmFpbHMgPyAnZGFuZ2VyJyA6ICdnb29kJzsKICAgICAgICAgICAgbXkgJGVtb3RpY29uICAgID0gQCRmYWlscyA/ICc6ZmFpbGVkOjp1a2lndW1vZmFpbDonIDogJzpzdWNjZXNzZnVsOjp1a2lndW1vOic7CiAgICAgICAgICAgIG15ICRpY29uX2Vtb2ppICA9IEAkZmFpbHMgPyAnOnVraWd1bW9mYWlsOicgOiAnOnVraWd1bW86JzsKICAgICAgICAgICAgbXkgJHVzZXJuYW1lICAgID0gQCRmYWlscyA/ICdVa2lndW1vZmFpbCcgOiAnVWtpZ3Vtbyc7CiAgICAgICAgICAgIG15ICRuYW1lID0gJHNlbGYtPm5hbWU7CiAgICAgICAgICAgIG15ICRtZXNzYWdlID0gPDwiRU5EX01TRyI7CiRlbW90aWNvbiAkdGVzdF9yZXN1bHQgWyRuYW1lXSAkZGlzcF9icmFuY2ggKCRkaXNwX3JldmlzaW9uKSBieSAkYXV0aG9yCiR1a2lndW1vX3VybApFTkRfTVNHCiAgICAgICAgICAgIG15ICRjaGFubmVsID0gY29uZmlnLT57c2xhY2tfY2hhbm5lbH0gLy8gJyN1a2lndW1vJzsKICAgICAgICAgICAgaWYgKCRzZWxmLT5uYW1lIGVxICdmb3V0JyAmJiAkZGlzcF9icmFuY2ggZXEgJ21hc3RlcicpIHsKICAgICAgICAgICAgICAgICRjaGFubmVsID0gJyM1MG1zX29yX2RpZSc7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgc3lzdGVtKCcvZm91dC9mb3V0L3Rvb2xzL25vdGlmeS1zbGFjaycsICctLWNoYW5uZWwnLCAkY2hhbm5lbCwKICAgICAgICAgICAgICAgICAgICctdScsICR1c2VybmFtZSwgJy1lJywgJGljb25fZW1vamksICctQycsICRjb2xvciwgJG1lc3NhZ2UpCiAgICAgICAgICAgICAgICAgICAgYW5kIHdhcm4gJCE7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG15ICRkaXNwX3JldmlzaW9uID0gc3Vic3RyICRyZXZpc2lvbiwgMCwgMTA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJEApIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGF1dGhvciA9ICRyZXBvLT5nZXRfYXV0aG9yKCRyZXZpc2lvbik7CiAgICAgICAgICAgIG15ICR0ZXN0X3Jlc3VsdCA9IEAkZmFpbHMgPyAnRkFJTEVEJyA6ICdTVUNDRVNTJzsKICAgICAgICAgICAgbXkgJGNvbG9yICAgICAgID0gQCRmYWlscyA/ICdkYW5nZXInIDogJ2dvb2QnOwogICAgICAgICAgICBteSAkZW1vdGljb24gICAgPSBAJGZhaWxzID8gJzpmYWlsZWQ6OnVraWd1bW9mYWlsOicgOiAnOnN1Y2Nlc3NmdWw6OnVraWd1bW86JzsKICAgICAgICAgICAgbXkgJGljb25fZW1vamkgID0gQCRmYWlscyA/ICc6dWtpZ3Vtb2ZhaWw6JyA6ICc6dWtpZ3VtbzonOwogICAgICAgICAgICBteSAkdXNlcm5hbWUgICAgPSBAJGZhaWxzID8gJ1VraWd1bW9mYWlsJyA6ICdVa2lndW1vJzsKICAgICAgICAgICAgbXkgJG5hbWUgPSAkc2VsZi0+bmFtZTsKICAgICAgICAgICAgbXkgJG1lc3NhZ2UgPSA8PCJFTkRfTVNHIjsKJGVtb3RpY29uICR0ZXN0X3Jlc3VsdCBbJG5hbWVdICRkaXNwX2JyYW5jaCAoJGRpc3BfcmV2aXNpb24pIGJ5ICRhdXRob3IKJHVraWd1bW9fdXJsCkVORF9NU0cKICAgICAgICAgICAgbXkgJGNoYW5uZWwgPSBjb25maWctPntzbGFja19jaGFubmVsfSAvLyAnI3VraWd1bW8nOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
