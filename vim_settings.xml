@@ -24,11 +24,6 @@
         <mark key="." line="221" column="42" />
         <mark key="^" line="221" column="42" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1520849197407">
-        <mark key="'" line="2628" column="15" />
-        <mark key="[" line="2626" column="0" />
-        <mark key="]" line="2626" column="18" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -103,16 +98,6 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/RfpNetwork.pm" timestamp="1521025845250">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="69" column="3" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/TraverseHash.pm" timestamp="1520993329042">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="21" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/hackerbase-job-user-script/scripts/connect_account.sh" timestamp="1512826972294">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -163,11 +148,6 @@
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="18" />
         <mark key="." line="20" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1521022116607">
-        <mark key="'" line="405" column="30" />
-        <mark key="[" line="3931" column="0" />
-        <mark key="]" line="3933" column="43" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -247,6 +227,9 @@
         <mark key="]" line="46" column="29" />
         <mark key="^" line="38" column="22" />
         <mark key="." line="46" column="19" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" timestamp="1521169187814">
+        <mark key="'" line="22" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-ase.t" timestamp="1519717275077">
         <mark key="[" line="40" column="5" />
@@ -356,11 +339,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="494" column="29" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-adveri-filter-viewability-map.t" timestamp="1520926968958">
-        <mark key="'" line="26" column="44" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="17" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1521095067361">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="71" column="15" />
@@ -468,11 +446,6 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1521097377393" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1520846098208">
         <mark key="'" line="182" column="51" />
-      </file>
-      <file name="$FOUT_HOME$/t/lib/t/Utils/Fixture/DSP.pm" timestamp="1520932989279">
-        <mark key="'" line="173" column="18" />
-        <mark key="[" line="176" column="4" />
-        <mark key="]" line="176" column="22" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1521009830393" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" timestamp="1521100969971">
@@ -720,8 +693,8 @@
         <mark key="." line="222" column="0" />
         <mark key="^" line="221" column="57" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1521113350635">
-        <mark key="'" line="237" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1521169318059">
+        <mark key="'" line="39" column="14" />
         <mark key="[" line="240" column="49" />
         <mark key="]" line="240" column="53" />
         <mark key="." line="240" column="53" />
@@ -769,10 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1917" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1604" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1105" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="294" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1881" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1949" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1597" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -869,6 +838,10 @@
       <jump line="144" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="221" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="237" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="240" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" />
+      <jump line="22" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/PG.pm" />
+      <jump line="39" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
