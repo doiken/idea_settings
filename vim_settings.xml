@@ -54,8 +54,8 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1521185257130">
-        <mark key="'" line="214" column="44" />
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1521187657561">
+        <mark key="'" line="14" column="4" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -307,7 +307,7 @@
         <mark key="." line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" timestamp="1521014418687" />
-      <file name="/Dummy.txt" timestamp="1521185409142">
+      <file name="/Dummy.txt" timestamp="1521187135232">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -392,12 +392,12 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" timestamp="1521185375908">
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" timestamp="1521187737412">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/bidding_by_cross_device_mapping.t" timestamp="1519717783248">
         <mark key="[" line="33" column="9" />
@@ -429,6 +429,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="44" column="9" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/Net/OpenSSH.pm" timestamp="1521187912988">
+        <mark key="'" line="2556" column="42" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/BidCandidates.pm" timestamp="1520847598850">
         <mark key="'" line="93" column="33" />
@@ -536,7 +539,7 @@
         <mark key="^" line="71" column="27" />
       </file>
       <file name="$FOUT_HOME$/t/proverc" timestamp="1521179204388" />
-      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1518666824645">
+      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1521187497623">
         <mark key="[" line="19" column="20" />
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
@@ -612,9 +615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1339" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1380" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1389" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1409" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1439" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1451" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -712,6 +712,9 @@
       <jump line="25" column="11" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/Time/Limit.pm" />
       <jump line="17" column="20" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" />
+      <jump line="2412" column="0" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/Net/OpenSSH.pm" />
+      <jump line="2556" column="42" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/Net/OpenSSH.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -722,8 +725,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNsZWVwIDEwMDAwOwo=</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1348,25 +1351,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5fcGFyYWxsZWxcPg==</text>
+        <text>timeout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG15IEByZXN1bHQgPSBldmFsIHsgJGNvZGUtPigpIH07CgogICAgY2hkaXIgJG9yaWdfZGlyIG9yIGRpZSAkITsKICAgIGRpZSAkQCBpZiAkQDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUgJEAgaWYgJEA7Cg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEwMDAwOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGRpciAkb3JpZ19kaXIgb3IgZGllICQhOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUgJEAgaWYgJEA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGRpciAkb3JpZ19kaXIgb3IgZGllICQhOwo=</text>
       </register>
       <register name="s" type="4">
         <text />
@@ -1375,28 +1378,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDEwMDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRmb3V0X211bHRpLT5ydW47Cg==</text>
+        <text encoding="base64">ICAgIHNsZWVwIDEwMDAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRmb3V0X211bHRpLT5ydW47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGxhbiBza2lwX2FsbCA9PiAnU2tpcCBlbnZpcm9ubWVudC1kZXBlbmRlbnQgdGVzdCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxhbiBza2lwX2FsbCA9PiAnU2tpcCBlbnZpcm9ubWVudC1kZXBlbmRlbnQgdGVzdCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5fcGFyYWxsZWxcPg==</last-search>
+      <last-search>timeout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5fcGFyYWxsZWxcPg==</last-pattern>
+      <last-pattern>timeout</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1491,6 +1494,8 @@
         <entry encoding="base64">XDxtYWtlXD4=</entry>
         <entry encoding="base64">XDx1a2lndW1vX3VybFw+</entry>
         <entry encoding="base64">XDxydW5fcGFyYWxsZWxcPg==</entry>
+        <entry encoding="base64">XDxwYXJzZV9yZXN1bHRzXD4=</entry>
+        <entry>timeout</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
