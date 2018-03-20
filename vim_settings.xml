@@ -152,10 +152,13 @@
         <mark key="^" line="3938" column="14" />
         <mark key="." line="3939" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1521456526324">
-        <mark key="'" line="2333" column="22" />
-        <mark key="[" line="1444" column="6" />
-        <mark key="n" line="1683" column="1" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1521518182754">
+        <mark key="'" line="1677" column="4" />
+        <mark key="[" line="1677" column="4" />
+        <mark key="]" line="1677" column="27" />
+        <mark key="n" line="1685" column="1" />
+        <mark key="^" line="1659" column="51" />
+        <mark key="." line="1677" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -900,7 +903,6 @@
       <jump line="1659" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="159" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="160" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="1677" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1130" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1685" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="185" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -945,6 +947,7 @@
       <jump line="239" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1951" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="180" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="1677" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -955,8 +958,8 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_convert_tobbidids_keys</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1581,13 +1584,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>_convert_tobbidids_keys</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc1w+</text>
+        <text encoding="base64">XDxfc2FuaXRpemVfYmlkaWRzX2tleXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JGF1dG9fYmlkX3BhcmFtcy0+ew==</text>
+        <text>_convert_to_bidids_keys</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1596,40 +1599,40 @@
         <text>f$xj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpc19hdXRvbWF0ZWQgPT4gJGlzX2F1dG9tYXRlZCAvLyAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1vZGVscygibG9nZ2VyIiktPndhcm4oCiAgICAgICAgICAgICAgICAgICAgIkZhaWxlZCBjYWxjIHdpdGggJGVuZGF0ZSBvZiAkY29scy0+e2NwX2lkfSIKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpc19hdXRvbWF0ZWQgPT4gJGlzX2F1dG9tYXRlZCAvLyAwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSAka2V5cy0+eyRhdXRvX2tleX07Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ViIF9jcmVhdGVfYXV0b19iaWRfcGFyYW1zX2Zyb21fY29udGV4dCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlICRrZXlzLT57JGF1dG9fa2V5fSBpZiA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxldGUgJGtleXMtPnskYXV0b19rZXl9IGlmIDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFERCBJTkRFWCBjcG5faWQgKGNwbl9pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbWF0Y2hlZCA9ICRzZWxmLT4kb3JnX21ldGhvZCgKICAgICAgICAgICAgQF8sIDAsIDEKICAgICAgICApIHx8ICRtYXRjaGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBpc19hdXRvbWF0ZWQgPT4gJGlzX2F1dG9tYXRlZCAvLyAwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYmlkZGluZ19vcmRlciBBREQgSU5ERVggKHRhcmdldF9ob3VyLCBjcG5faWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpc19hdXRvbWF0ZWQgPT4gJGlzX2F1dG9tYXRlZCAvLyAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc1w+</last-search>
+      <last-search encoding="base64">XDxfc2FuaXRpemVfYmlkaWRzX2tleXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfc2FuaXRpemVfYmlkaWRzX2tleXNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1744,7 +1747,6 @@
         <entry encoding="base64">XDxfaGFzaF92YWx1ZV9yZWZcPg==</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmZvXD4=</entry>
         <entry encoding="base64">XDxfcHV0X29uZV9pbnRvX2ludmVydGVkSW5kZXhcPg==</entry>
-        <entry encoding="base64">XDxfc2FuaXRpemVfYmlkaWRzX2tleXNcPg==</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
         <entry encoding="base64">XDxyYXRlXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0ZWRfY29kZVw+</entry>
@@ -1755,6 +1757,7 @@
         <entry encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc19mcm9tX2NvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc1w+</entry>
+        <entry encoding="base64">XDxfc2FuaXRpemVfYmlkaWRzX2tleXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
