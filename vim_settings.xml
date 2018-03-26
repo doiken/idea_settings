@@ -162,11 +162,15 @@
         <mark key="^" line="162" column="38" />
         <mark key="." line="144" column="30" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522044479958">
-        <mark key="'" line="3952" column="20" />
-        <mark key="^" line="3938" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522057965118">
+        <mark key="'" line="573" column="13" />
+        <mark key="[" line="1402" column="0" />
+        <mark key="]" line="1402" column="0" />
+        <mark key="n" line="1685" column="1" />
+        <mark key="^" line="1399" column="15" />
+        <mark key="." line="1402" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522043279256">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522059046108">
         <mark key="'" line="39" column="7" />
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
@@ -240,7 +244,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1522033502599" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1522058642824">
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="55" />
+        <mark key="^" line="38" column="50" />
+        <mark key="." line="38" column="55" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger.t" timestamp="1519271806710">
         <mark key="[" line="195" column="34" />
         <mark key="]" line="195" column="43" />
@@ -489,7 +498,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/BucketXX.pm" timestamp="1522040991991">
         <mark key="'" line="79" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522053918953">
+      <file name="/Dummy.txt" timestamp="1522058187730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -577,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="62" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
       <jump line="73" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" />
       <jump line="2299" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -677,6 +685,7 @@
       <jump line="301" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
       <jump line="117" column="4" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" />
+      <jump line="573" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -689,7 +698,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>s -1days</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1335,10 +1344,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s -1days</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0XD4=</text>
+        <text encoding="base64">XDxtYXBfYWRpZF9zZWdtZW50X2lkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3YXJuIER1bXBlciAkcGFydDsK</text>
@@ -1381,9 +1390,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0XD4=</last-search>
+      <last-search encoding="base64">XDxtYXBfYWRpZF9zZWdtZW50X2lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBfYWRpZF9zZWdtZW50X2lkXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1427,6 +1436,7 @@
         <entry encoding="base64">XDxfdGFyZ2V0X3BhcnRpdGlvblw+</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25cPg==</entry>
         <entry encoding="base64">XDxwYXJ0XD4=</entry>
+        <entry encoding="base64">XDxtYXBfYWRpZF9zZWdtZW50X2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
