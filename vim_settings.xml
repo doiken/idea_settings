@@ -250,11 +250,11 @@
         <mark key="^" line="162" column="38" />
         <mark key="." line="144" column="30" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522132898986">
-        <mark key="'" line="3952" column="20" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522136297484">
+        <mark key="'" line="188" column="97" />
         <mark key="^" line="3938" column="14" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522133862451">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522135984405">
         <mark key="'" line="1335" column="4" />
         <mark key="[" line="166" column="45" />
         <mark key="]" line="166" column="45" />
@@ -489,6 +489,7 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/API/Impl/SpotSummaryReport.pm" timestamp="1522136005926" />
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-segments.t" timestamp="1519787164866">
         <mark key="[" line="39" column="39" />
         <mark key="]" line="39" column="70" />
@@ -657,7 +658,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/BucketXX.pm" timestamp="1522040991991">
         <mark key="'" line="79" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522128952517">
+      <file name="/Dummy.txt" timestamp="1522135993559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -759,7 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="987" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="985" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1818" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="119" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/Infeed.pm" />
@@ -859,6 +859,7 @@
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="1134" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1335" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="188" column="97" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
