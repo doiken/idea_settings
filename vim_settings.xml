@@ -42,6 +42,9 @@
         <mark key="]" line="143" column="0" />
         <mark key="." line="143" column="0" />
       </file>
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1522115674593">
+        <mark key="'" line="620" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1522073956625">
         <mark key="'" line="313" column="0" />
         <mark key="[" line="154" column="16" />
@@ -635,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" />
-      <jump line="573" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="559" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="590" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="487" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -735,6 +736,8 @@
       <jump line="159" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="548" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="143" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
+      <jump line="1454" column="6" filename="$FOUT_HOME$/config.yaml" />
+      <jump line="620" column="0" filename="$FOUT_HOME$/config.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1396,7 +1399,7 @@
         <text encoding="base64">JHNlbGYtPnNpemUtPnskY29sc19oYXNoe2FnX2lkfX17JGNvbHNfaGFzaHthZ25fbmV0d29ya19pZH0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</text>
+        <text>appva</text>
       </register>
       <register name="0" type="4">
         <text>@ad_size</text>
@@ -1439,9 +1442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</last-search>
+      <last-search>appva</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</last-pattern>
+      <last-pattern>appva</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1523,6 +1526,7 @@
         <entry encoding="base64">XDxfaGRiX2tleV9kZXByZWNhdGVkXD4=</entry>
         <entry encoding="base64">XDxfcHJlcGVuZF9jb21tb25fa2V5c1w+</entry>
         <entry encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</entry>
+        <entry>appva</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
