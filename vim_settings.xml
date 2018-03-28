@@ -606,8 +606,8 @@
         <mark key="." line="209" column="24" />
         <mark key="^" line="209" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/ScreeningFilter.pm" timestamp="1522209279307">
-        <mark key="'" line="8" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/ScreeningFilter.pm" timestamp="1522217090767">
+        <mark key="'" line="12" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/adserver_report/async_get.t" timestamp="1521112533451">
         <mark key="[" line="0" column="0" />
@@ -628,7 +628,7 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1522215193939">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1522217035273">
         <mark key="'" line="31" column="20" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/API/Impl/Bid.pm" timestamp="1521178234147">
@@ -718,8 +718,8 @@
         <mark key="[" line="51" column="43" />
         <mark key="." line="51" column="45" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1522215166493">
-        <mark key="'" line="29" column="40" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1522217037636">
+        <mark key="'" line="43" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1522051834825">
         <mark key="'" line="87" column="12" />
@@ -840,8 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="16" filename="$FOUT_HOME$/t/fout/bid/decision/app-hike_dpa_39528.t" />
-      <jump line="64" column="19" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-city.t" />
       <jump line="24" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-city.t" />
       <jump line="42" column="17" filename="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" />
       <jump line="130" column="9" filename="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" />
@@ -940,6 +938,8 @@
       <jump line="31" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
       <jump line="1829" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1927" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="43" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
+      <jump line="12" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Role/ScreeningFilter.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
