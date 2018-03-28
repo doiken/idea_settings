@@ -164,13 +164,13 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522234201128">
-        <mark key="'" line="718" column="9" />
-        <mark key="[" line="1181" column="126" />
-        <mark key="]" line="1181" column="130" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522235245634">
+        <mark key="'" line="1052" column="33" />
+        <mark key="[" line="1482" column="4" />
+        <mark key="]" line="1482" column="8" />
         <mark key="n" line="1705" column="1" />
-        <mark key="." line="1181" column="130" />
-        <mark key="^" line="1181" column="130" />
+        <mark key="." line="1482" column="8" />
+        <mark key="^" line="1482" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -592,6 +592,11 @@
         <mark key="^" line="216" column="36" />
         <mark key="." line="227" column="36" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" timestamp="1522235254030">
+        <mark key="'" line="315" column="12" />
+        <mark key="[" line="139" column="33" />
+        <mark key="." line="139" column="35" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/memd_bid-no_bid.t" timestamp="1522202765170">
         <mark key="[" line="34" column="23" />
         <mark key="." line="34" column="25" />
@@ -903,9 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="571" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="567" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="401" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="164" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="511" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1003,6 +1005,9 @@
       <jump line="24" column="5" filename="$FOUT_HOME$/t/fout/bid/match/filterings-adomain.t" />
       <jump line="26" column="21" filename="$FOUT_HOME$/t/fout/bid/match/filterings-adomain.t" />
       <jump line="718" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1052" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
+      <jump line="315" column="12" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1014,8 +1019,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiQURHUlBfQURJRFM6OjIyNzEyOjoyOjpJTkZFRUQiID0+IGFkX2Jsb2NrKAogICAgICAgICAgICByZXZpZXdfbGFuZGluZ191cmwgPT4gJ2h0dHA6Ly9teS1ncmVhdC1wcm9kdWN0LmpwLycsCiAgICAgICAgICAgIGNyZWF0aXZlX2lkID0+IDI5OTAxLAogICAgICAgICAgICB0eXBlID0+IDgsCiAgICAgICAgICAgIGlzX21haW5fdmlkZW8gPT4gMSwKICAgICAgICAgICAgY3BfaWQgPT4gMjk2MjIsCiAgICAgICAgICAgIGFkZ3JwX2lkID0+IDIyNzEyLAogICAgICAgICAgICBpZCA9PiA9PiAxMzI0MywKICAgICAgICApLAo=</text>
+      <register name="&quot;" type="4">
+        <text>warn</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1661,7 +1666,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250ZXh0XD4=</text>
