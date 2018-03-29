@@ -352,12 +352,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="494" column="29" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1522232102577">
-        <mark key="'" line="39" column="36" />
-        <mark key="[" line="267" column="52" />
-        <mark key="]" line="226" column="59" />
-        <mark key="^" line="226" column="59" />
-        <mark key="." line="267" column="64" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1522295654356">
+        <mark key="'" line="84" column="25" />
+        <mark key="[" line="269" column="19" />
+        <mark key="]" line="269" column="20" />
+        <mark key="^" line="269" column="20" />
+        <mark key="." line="269" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/load_app_l_interest_v2_ctr_model.hql" timestamp="1513072690257">
         <mark key="[" line="5" column="107" />
@@ -411,7 +411,7 @@
         <mark key="^" line="62" column="49" />
         <mark key="." line="62" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522292878833">
+      <file name="/Dummy.txt" timestamp="1522295651800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -804,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="29" filename="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" />
       <jump line="295" column="16" filename="$FOUT_HOME$/t/fout/bid/adserver/adstir_infeed.t" />
       <jump line="36" column="63" filename="$FOUT_HOME$/t/fout/bid/match/filtered_ads.t" />
       <jump line="290" column="54" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtbmob.t" />
@@ -904,6 +903,7 @@
       <jump line="3289" column="31" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="1366" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1237" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="84" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -916,7 +916,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>と</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1562,13 +1562,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>と</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcG5fcGVyZm9ybWFuY2VfaW5kaWNhdG9yc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiQURHUlBfQURJRFM6OjIyNzEyOjoyOjpJTkZFRUQiID0+IGFkX2Jsb2NrKAogICAgICAgICAgICByZXZpZXdfbGFuZGluZ191cmwgPT4gJ2h0dHA6Ly9teS1ncmVhdC1wcm9kdWN0LmpwLycsCiAgICAgICAgICAgIGNyZWF0aXZlX2lkID0+IDI5OTAxLAogICAgICAgICAgICB0eXBlID0+IDgsCiAgICAgICAgICAgIGlzX21haW5fdmlkZW8gPT4gMSwKICAgICAgICAgICAgY3BfaWQgPT4gMjk2MjIsCiAgICAgICAgICAgIGFkZ3JwX2lkID0+IDIyNzEyLAogICAgICAgICAgICBpZCA9PiA9PiAxMzI0MywKICAgICAgICApLAo=</text>
+      <register name="0" type="4">
+        <text>, $network_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNhbGxlcgo=</text>
