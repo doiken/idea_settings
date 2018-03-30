@@ -16,6 +16,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1522393763117" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -309,8 +310,8 @@
         <mark key="]" line="402" column="24" />
         <mark key="^" line="3938" column="14" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522321918192">
-        <mark key="'" line="501" column="5" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522393711863">
+        <mark key="'" line="812" column="42" />
         <mark key="[" line="501" column="5" />
         <mark key="]" line="502" column="6" />
         <mark key="n" line="1703" column="1" />
@@ -456,7 +457,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$FOUT_HOME$/bid/plack/run" timestamp="1522393088989" />
+      <file name="$FOUT_HOME$/bid/plack/run" timestamp="1522393700982" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-ase.t" timestamp="1522229838312">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="23" />
@@ -740,7 +741,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522322492753">
+      <file name="/Dummy.txt" timestamp="1522393767345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -859,7 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="1696" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1844" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1487" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -959,6 +959,7 @@
       <jump line="1952" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="211" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="208" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="812" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
