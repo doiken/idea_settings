@@ -57,11 +57,6 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1522653300871">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="46" />
-      </file>
       <file name="$FOUT_HOME$/t/lib/Mock/Bid/IndexData.pm" timestamp="1522230309340">
         <mark key="'" line="69" column="23" />
         <mark key="[" line="48" column="34" />
@@ -598,6 +593,7 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="18" column="63" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Currency/RateMap/Index.pm" timestamp="1522744390043" />
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" timestamp="1522121244144">
         <mark key="'" line="168" column="48" />
         <mark key="[" line="23" column="11" />
@@ -755,6 +751,9 @@
         <mark key="." line="131" column="34" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1522740444492" />
+      <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1522743840666">
+        <mark key="'" line="79" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/context/45353_l_gender.t" timestamp="1516177763362">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -852,7 +851,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="370" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="570" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="718" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="866" column="14" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
@@ -952,6 +950,7 @@
       <jump line="1830" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="72" column="9" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="79" column="4" filename="$FOUT_HOME$/lib/FOut/Currency.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
