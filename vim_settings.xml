@@ -307,6 +307,14 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522728002040">
+        <mark key="'" line="277" column="4" />
+        <mark key="[" line="501" column="5" />
+        <mark key="]" line="502" column="6" />
+        <mark key="n" line="1703" column="1" />
+        <mark key="." line="502" column="6" />
+        <mark key="^" line="502" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522137473704">
         <mark key="'" line="39" column="7" />
         <mark key="[" line="65" column="0" />
@@ -716,7 +724,7 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522718896778">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522727288035">
         <mark key="'" line="1780" column="64" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
@@ -853,11 +861,10 @@
         <mark key="." line="333" column="53" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522663872039">
-        <mark key="'" line="513" column="4" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="^" line="207" column="38" />
-        <mark key="." line="223" column="0" />
+        <mark key="'" line="498" column="4" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
         <mark key="[" line="471" column="17" />
@@ -868,8 +875,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="496" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="497" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="491" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="218" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="28" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
@@ -968,6 +973,8 @@
       <jump line="83" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
       <jump line="53" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
       <jump line="1780" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="499" column="65" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="277" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1629,7 +1636,7 @@
         <text>AudienceIterator</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbmV4dF9hdWRpZW5jZXNcPg==</text>
+        <text encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</text>
       </register>
       <register name="0" type="4">
         <text>joim</text>
@@ -1672,9 +1679,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbmV4dF9hdWRpZW5jZXNcPg==</last-search>
+      <last-search encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbmV4dF9hdWRpZW5jZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1686,12 +1693,10 @@
         <entry encoding="base64">XDxfZmlsbF9pc19tYWluX3ZpZGVvXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2J1eWVyX2NyZWF0aXZlX2lkc19mb3JfZ29vZ2xlXD4=</entry>
         <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZGdycFw+</entry>
-        <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</entry>
         <entry encoding="base64">XDxkYXRhX2F1dG9fYmlkXD4=</entry>
         <entry encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</entry>
         <entry encoding="base64">XDxkYW9cPg==</entry>
         <entry encoding="base64">XDxhbGxvd2VkX25ldHdvcmtzX2J5X2FkXD4=</entry>
-        <entry encoding="base64">XDxhZFw+</entry>
         <entry encoding="base64">XDxfZHVwbGljYXRlX2Fkc19ieV9hbGxvd2VkX3Vuc3BlY2lmaWVkX2Fkc1w+</entry>
         <entry encoding="base64">XDxiaWRzXD4=</entry>
         <entry encoding="base64">XDxkYW9fYmlkaWRzXD4=</entry>
@@ -1717,6 +1722,8 @@
         <entry encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</entry>
         <entry encoding="base64">XDxjYW5fc2VnbWVudF90YXJnZXRcPg==</entry>
         <entry encoding="base64">XDxfbmV4dF9hdWRpZW5jZXNcPg==</entry>
+        <entry encoding="base64">XDxhZFw+</entry>
+        <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
