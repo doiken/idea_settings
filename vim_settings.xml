@@ -293,7 +293,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$FOUT_HOME$/bid/plack/run" timestamp="1522393700982" />
+      <file name="$FOUT_HOME$/bid/plack/run" timestamp="1522826281698" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-ase.t" timestamp="1522229838312">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="23" />
@@ -475,7 +475,7 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522822616449">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522825680103">
         <mark key="'" line="968" column="31" />
         <mark key="[" line="299" column="57" />
         <mark key="]" line="287" column="4" />
@@ -577,8 +577,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522822498617">
-        <mark key="'" line="718" column="15" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522825775828">
+        <mark key="'" line="760" column="13" />
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
@@ -592,8 +592,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
-      <jump line="640" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" />
       <jump line="81" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" />
       <jump line="167" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" />
       <jump line="1693" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -692,6 +690,8 @@
       <jump line="288" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="968" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="259" column="48" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
+      <jump line="747" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="760" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1353,7 +1353,7 @@
         <text encoding="base64">Y2kudXNlX3R5cGUgPSAnbWFpbl92aWRlbycgYW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJpbmdzXD4=</text>
+        <text encoding="base64">XDxtYXRjaGVkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>adgrp_requirements</text>
@@ -1396,9 +1396,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJpbmdzXD4=</last-search>
+      <last-search encoding="base64">XDxtYXRjaGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJpbmdzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRjaGVkXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1466,6 +1466,7 @@
         <entry>img.id</entry>
         <entry>deal</entry>
         <entry encoding="base64">XDxmaWx0ZXJpbmdzXD4=</entry>
+        <entry encoding="base64">XDxtYXRjaGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
