@@ -566,6 +566,7 @@
         <mark key="." line="43" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1522747511482" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BudgetWatcher.pm" timestamp="1522810681124" />
       <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1521095026022">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="71" column="4" />
@@ -632,8 +633,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1522218415492">
         <mark key="'" line="218" column="29" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1522307291199">
-        <mark key="'" line="272" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1522811019111">
+        <mark key="'" line="10" column="15" />
         <mark key="[" line="93" column="19" />
         <mark key="]" line="93" column="20" />
         <mark key="^" line="93" column="20" />
@@ -705,8 +706,8 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522749177749">
-        <mark key="'" line="1193" column="15" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522810851240">
+        <mark key="'" line="288" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
         <mark key="[" line="25" column="36" />
@@ -734,7 +735,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522808880259">
+      <file name="/Dummy.txt" timestamp="1522810681289">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -845,12 +846,6 @@
         <mark key="^" line="333" column="69" />
         <mark key="." line="333" column="53" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522663872039">
-        <mark key="'" line="498" column="4" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
         <mark key="[" line="471" column="17" />
         <mark key="]" line="471" column="17" />
@@ -860,10 +855,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="105" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
-      <jump line="595" column="16" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
-      <jump line="596" column="16" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
-      <jump line="750" column="52" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="31" column="4" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="234" column="16" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="235" column="16" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
@@ -960,6 +951,10 @@
       <jump line="141" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="95" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="189" column="2" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
+      <jump line="288" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="57" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="42" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="10" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1621,7 +1616,7 @@
         <text>repeat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGRiX2tleV9kZXByZWNhdGVkXD4=</text>
+        <text encoding="base64">XDxCdWRnZXRXYXRjaGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$result</text>
@@ -1664,9 +1659,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaGRiX2tleV9kZXByZWNhdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxCdWRnZXRXYXRjaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGRiX2tleV9kZXByZWNhdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCdWRnZXRXYXRjaGVyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1697,7 +1692,6 @@
         <entry encoding="base64">XDxfbG9va3VwX2JpZF9pbl9lYWNoX2luZGV4XD4=</entry>
         <entry encoding="base64">XDxfcGFyc2VfZG1wX3NlZ21lbnRcPg==</entry>
         <entry encoding="base64">XDxfcGFyc2VfZG1wX3NlZ21lbnRfYmxvY2tcPg==</entry>
-        <entry encoding="base64">XDxmaWx0ZXJpbmdzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxiaWRfaWRzXD4=</entry>
         <entry encoding="base64">XDxDVFJGTVByZWRpY3Rpb25cPg==</entry>
@@ -1720,6 +1714,8 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2ZpbGVfYnlfc2Z0cFw+</entry>
         <entry encoding="base64">XDxfaGRiX2tleV9kZXByZWNhdGVkXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJpbmdzXD4=</entry>
+        <entry encoding="base64">XDxCdWRnZXRXYXRjaGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
