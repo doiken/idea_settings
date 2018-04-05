@@ -338,12 +338,11 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1522834857495">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="21" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="22" />
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1522836874862">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
@@ -606,8 +605,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="95" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
-      <jump line="83" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
       <jump line="53" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
       <jump line="1780" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="499" column="65" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -706,6 +703,8 @@
       <jump line="11" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="174" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="181" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="6" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="29" column="12" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,8 +716,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>\@args2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1364,58 +1363,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\@args2</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>hour</text>
+        <text encoding="base64">XDxtb2RlbHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$args</text>
+        <text>@args2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aShbJ25rZXkyJywgMTBdLCBbJ3NrZXkzJywgJ3RleHQnLCA1XSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bXkgJGFyZ192YWx1ZXMgPSBbbWFwIHsgJF8gfSBAJGFyZ3NdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aSgkYXJncywgJGFyZ192YWx1ZXMpOwo=</text>
+        <text encoding="base64">dXNlIERhdGE6OkR1bXBlcjsKd2FybiBEdW1wZXIgc2V0KCRhcmdzKTsKd2FybiBEdW1wZXIgc2V0X211bHRpKFxAYXJnczIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ViIHRpbWUoJikgewogICAgbXkgKCRjYikKCn0K</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGltZWl0Cg==</text>
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyICRhcmdzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aShbJ25rZXkyJywgMTBdLCBbJ3NrZXkzJywgJ3RleHQnLCA1XSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bXkgJGFyZ3MgPSBbKDEgLi4gNSldOwo=</text>
+        <text encoding="base64">bXkgJGFyZ192YWx1ZXMgPSBbbWFwIHsgJF8gfSBAJGFyZ3NdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEJlbmNobWFyayBxdyg6YWxsKTsKY21wdGhlc2UoMV8wMDBfMDAwLCB7CiAgICBnZXQgICAgICAgPT4gc3ViIHtnZXQoKX0sCiAgICBnZXRfbXVsdGkgPT4gc3ViIHtnZXRfbXVsdGkoKX0sCn0pOwo=</text>
+        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aSgkYXJncywgJGFyZ192YWx1ZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEJlbmNobWFyayBxdyg6YWxsKTsKc3ViIGJ5X21hcCB7CiAgICBteSAoJGFycmF5KSA9IEBfOwogICAgW21hcCB7IDEgfSBAJGFycmF5XTsKfQpzdWIgYnlfcmVwZWF0IHsKICAgIG15ICgkYXJyYXkpID0gQF87CiAgICBbKDEpIHggc2NhbGFyIEAkYXJyYXldOwp9CgpzdWIgYnlfcHVzaCB7CiAgICBteSAoJGFycmF5KSA9IEBfOwogICAgbXkgJHJlc3VsdDsKICAgIHB1c2ggQCRyZXN1bHQsIDEgZm9yIEAkYXJyYXk7CiAgICAkcmVzdWx0Owp9CgpteSAkYXJyYXkgPSBbKDEgLi4gMjApXTsKY21wdGhlc2UoMV8wMDBfMDAwLCB7CiAgICBieV9tYXAgPT4gc3ViIHtieV9tYXAoJGFycmF5KX0sCiAgICBieV9yZXBlYXQgPT4gc3ViIHtieV9yZXBlYXQoJGFycmF5KX0sCiAgICBieV9wdXNoID0+IHN1YiB7YnlfcHVzaCgkYXJyYXkpfSwKfSk7CgpfX0VORF9fCgpieV9wdXNoICAgIDUyOTEwMS9zICAgICAgICAtLSAgICAgICAtOCUgICAgICAtNjUlCmJ5X21hcCAgICAgNTc0NzEzL3MgICAgICAgIDklICAgICAgICAtLSAgICAgIC02MiUKYnlfcmVwZWF0IDE1MTUxNTIvcyAgICAgIDE4NiUgICAgICAxNjQlICAgICAgICAtLQo=</text>
+        <text encoding="base64">c3ViIHRpbWUoJikgewogICAgbXkgKCRjYikKCn0K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search>hour</last-search>
+      <last-search encoding="base64">XDxtb2RlbHNcPg==</last-search>
       <last-offset />
-      <last-pattern>hour</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RlbHNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1482,6 +1481,8 @@
         <entry encoding="base64">XDxmaWx0ZXJpbmdzXD4=</entry>
         <entry encoding="base64">XDxtYXRjaGVkXD4=</entry>
         <entry>hour</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
