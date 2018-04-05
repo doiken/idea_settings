@@ -51,9 +51,9 @@
         <mark key="." line="44" column="23" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1522917377880">
-        <mark key="'" line="501" column="17" />
-        <mark key="[" line="119" column="10" />
-        <mark key="]" line="119" column="13" />
+        <mark key="'" line="507" column="17" />
+        <mark key="[" line="125" column="10" />
+        <mark key="]" line="125" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CVNumMaximizationUpdater.pm" timestamp="1519347190214">
         <mark key="[" line="11" column="20" />
@@ -164,6 +164,12 @@
       <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1522917176811">
         <mark key="'" line="237" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1522919663841">
+        <mark key="'" line="447" column="37" />
+        <mark key="[" line="232" column="53" />
+        <mark key="]" line="232" column="66" />
+        <mark key="^" line="205" column="5" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/UUID/Tiny.pm" timestamp="1512980764288">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
@@ -190,10 +196,6 @@
       </file>
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522897863048">
         <mark key="'" line="174" column="2" />
-        <mark key="[" line="311" column="83" />
-        <mark key="]" line="314" column="0" />
-        <mark key="^" line="314" column="0" />
-        <mark key="." line="314" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522908219633">
         <mark key="'" line="269" column="4" />
@@ -443,7 +445,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1522912150468">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1522919619866">
         <mark key="'" line="1192" column="21" />
         <mark key="[" line="485" column="4" />
         <mark key="]" line="485" column="15" />
@@ -486,13 +488,6 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1522914648597">
-        <mark key="'" line="727" column="19" />
-        <mark key="[" line="750" column="34" />
-        <mark key="]" line="750" column="3" />
-        <mark key="." line="750" column="3" />
-        <mark key="^" line="750" column="3" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
         <mark key="[" line="25" column="36" />
         <mark key="]" line="22" column="14" />
@@ -512,7 +507,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522912694846">
+      <file name="/Dummy.txt" timestamp="1522919621381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -588,11 +583,12 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522912431624">
-        <mark key="'" line="710" column="4" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1522919670155">
+        <mark key="'" line="724" column="4" />
+        <mark key="[" line="216" column="28" />
+        <mark key="]" line="216" column="42" />
+        <mark key="^" line="221" column="6" />
+        <mark key="." line="216" column="28" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
         <mark key="[" line="471" column="17" />
@@ -715,7 +711,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>is_line_spot</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1361,46 +1357,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>is_line_spot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdXRvbG9hZGVyX3J1bGVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>@args2</text>
+        <text>rfp_network_id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7ICRzZWxmLT5fbWFpbl9pbXBsIH0gY2F0Y2ggeyBkaWUgJF8gfSBmaW5hbGx5IHsgc3RvcF9hbGFybSB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydF9hbGFybV9tc2VjKCRzZWxmLT5jb250ZXh0LT50aW1lX2xpbWl0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIERhdGE6OkR1bXBlcjsKd2FybiBEdW1wZXIgc2V0KCRhcmdzKTsKd2FybiBEdW1wZXIgc2V0X211bHRpKFxAYXJnczIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyICRhcmdzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aShbJ25rZXkyJywgMTBdLCBbJ3NrZXkzJywgJ3RleHQnLCA1XSk7Cg==</text>
+        <text encoding="base64">dXNlIERhdGE6OkR1bXBlcjsKd2FybiBEdW1wZXIgc2V0KCRhcmdzKTsKd2FybiBEdW1wZXIgc2V0X211bHRpKFxAYXJnczIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bXkgJGFyZ192YWx1ZXMgPSBbbWFwIHsgJF8gfSBAJGFyZ3NdOwo=</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aSgkYXJncywgJGFyZ192YWx1ZXMpOwo=</text>
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyICRhcmdzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3ViIHRpbWUoJikgewogICAgbXkgKCRjYikKCn0K</text>
+        <text encoding="base64">JG1lbWQtPnNldF9tdWx0aShbJ25rZXkyJywgMTBdLCBbJ3NrZXkzJywgJ3RleHQnLCA1XSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
