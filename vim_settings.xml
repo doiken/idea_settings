@@ -87,7 +87,7 @@
       <file name="$FOUT_HOME$/config.yaml" timestamp="1522115674593">
         <mark key="'" line="620" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1522979862044">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1523007620120">
         <mark key="'" line="273" column="0" />
         <mark key="[" line="154" column="16" />
         <mark key="]" line="154" column="96" />
@@ -317,8 +317,8 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522992327456">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522998520265">
-        <mark key="'" line="551" column="33" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523008355276">
+        <mark key="'" line="492" column="4" />
         <mark key="[" line="559" column="0" />
         <mark key="]" line="559" column="0" />
         <mark key="n" line="1700" column="1" />
@@ -890,7 +890,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="3761" column="29" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3752" column="61" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3751" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3748" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -990,6 +989,7 @@
       <jump line="299" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="69" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="447" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="492" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1651,7 +1651,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b19nZXRkYXRhXD4=</text>
+        <text>score</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAxLAo=</text>
@@ -1694,9 +1694,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b19nZXRkYXRhXD4=</last-search>
+      <last-search>score</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b19nZXRkYXRhXD4=</last-pattern>
+      <last-pattern>score</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1787,6 +1787,7 @@
         <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZGdycFw+</entry>
         <entry encoding="base64">XDxyZWZhZGRyXD4=</entry>
         <entry encoding="base64">XDx0b19nZXRkYXRhXD4=</entry>
+        <entry>score</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
