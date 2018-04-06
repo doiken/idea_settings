@@ -59,8 +59,8 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1522894377496">
-        <mark key="'" line="22" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1522985027074">
+        <mark key="'" line="158" column="11" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="^" line="119" column="0" />
@@ -316,8 +316,8 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1522897863048">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522984568587">
-        <mark key="'" line="1643" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1522985169945">
+        <mark key="'" line="644" column="13" />
         <mark key="n" line="1700" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522740392204">
@@ -889,9 +889,6 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pod" timestamp="1522659081584" />
     </filemarks>
     <jumps>
-      <jump line="538" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="531" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="697" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="717" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="718" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="0" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -989,6 +986,9 @@
       <jump line="582" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1644" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1643" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="644" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
+      <jump line="158" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1650,7 +1650,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</text>
+        <text encoding="base64">XDxzZXRfZGVwcmVjYXRlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAxLAo=</text>
@@ -1693,9 +1693,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRfZGVwcmVjYXRlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRfZGVwcmVjYXRlZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1783,6 +1783,8 @@
         <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</entry>
         <entry encoding="base64">XDxjb2xzXD4=</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
+        <entry encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVcPg==</entry>
+        <entry encoding="base64">XDxzZXRfZGVwcmVjYXRlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
