@@ -313,8 +313,8 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523010548225">
-        <mark key="'" line="492" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523245214771">
+        <mark key="'" line="718" column="8" />
         <mark key="[" line="559" column="0" />
         <mark key="]" line="559" column="0" />
         <mark key="n" line="1700" column="1" />
@@ -873,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3752" column="61" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3751" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3748" column="13" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="1310" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -973,6 +972,7 @@
       <jump line="69" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="447" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="492" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="718" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1634,7 +1634,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>score</text>
+        <text encoding="base64">XDxkYW9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAxLAo=</text>
@@ -1677,13 +1677,13 @@
       </register>
     </registers>
     <search>
-      <last-search>score</last-search>
+      <last-search encoding="base64">XDxkYW9cPg==</last-search>
       <last-offset />
-      <last-pattern>score</last-pattern>
+      <last-pattern encoding="base64">XDxkYW9cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1707,6 +1707,7 @@
         <entry encoding="base64">XDxyZWZhZGRyXD4=</entry>
         <entry encoding="base64">XDx0b19nZXRkYXRhXD4=</entry>
         <entry>score</entry>
+        <entry encoding="base64">XDxkYW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
