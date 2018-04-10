@@ -320,9 +320,12 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523338975273">
-        <mark key="'" line="1487" column="4" />
-        <mark key="n" line="1700" column="1" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523340270134">
+        <mark key="'" line="1880" column="60" />
+        <mark key="[" line="1239" column="86" />
+        <mark key="]" line="1239" column="31" />
+        <mark key="." line="1239" column="86" />
+        <mark key="^" line="1239" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522740392204">
         <mark key="'" line="8" column="12" />
@@ -888,8 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="603" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="606" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="607" column="74" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="624" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -988,6 +989,8 @@
       <jump line="1898" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="163" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="1487" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1818" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1880" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -999,8 +1002,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15IEB0YXJnZXRfbmV0d29ya3MgICAgICAgICA9ICRzZWxmLT5fdGFyZ2V0X25ldHdvcmtzKCRjb2xzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1646,55 +1649,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjEyJw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</text>
+        <text encoding="base64">XDxrZXlzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0KCRhcmdzKTsKc2V0X211bHRpKFxAYXJnczIpOwo=</text>
+      <register name="0" type="4">
+        <text>'network_id', 'rfp_network_id'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15IEB0YXJnZXRfbmV0d29ya3MgICAgICAgICA9ICRzZWxmLT5fdGFyZ2V0X25ldHdvcmtzKCRjb2xzKTsK</text>
+        <text encoding="base64">ICAgICAgICBteSAkZm9vIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjE0Jwo=</text>
+        <text encoding="base64">ICAgIG15IEB0YXJnZXRfbmV0d29ya3MgICAgICAgICA9ICRzZWxmLT5fdGFyZ2V0X25ldHdvcmtzKCRjb2xzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjEzJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjE0Jwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjEzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2V0X211bHRpKFxAYXJnczIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2V0KCRhcmdzKTsK</text>
+        <text encoding="base64">c2V0X211bHRpKFxAYXJnczIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y21wdGhlc2UoMTBfMDAwLCB7CiAgICBzZXQgICAgICAgPT4gc3ViIHtzZXQoJGFyZ3MpfSwKICAgIHNldF9tdWx0aSA9PiBzdWIge3NldF9tdWx0aShcQGFyZ3MyKX0sCn0pOwo=</text>
+        <text encoding="base64">c2V0KCRhcmdzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2NtcHRoZXNlKDEwXzAwMCwgewojICAgIHNldCAgICAgICA9PiBzdWIge3NldCgkYXJncyl9LAojICAgIHNldF9tdWx0aSA9PiBzdWIge3NldF9tdWx0aShcQGFyZ3MyKX0sCiN9KTsK</text>
+        <text encoding="base64">Y21wdGhlc2UoMTBfMDAwLCB7CiAgICBzZXQgICAgICAgPT4gc3ViIHtzZXQoJGFyZ3MpfSwKICAgIHNldF9tdWx0aSA9PiBzdWIge3NldF9tdWx0aShcQGFyZ3MyKX0sCn0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y21wdGhlc2UoMTBfMDAwLCB7CiAgICBzZXQgICAgICAgPT4gc3ViIHtzZXQoJGFyZ3MpfSwKICAgIHNldF9tdWx0aSA9PiBzdWIge3NldF9tdWx0aShcQGFyZ3MyKX0sCn0pOwo=</text>
+        <text encoding="base64">I2NtcHRoZXNlKDEwXzAwMCwgewojICAgIHNldCAgICAgICA9PiBzdWIge3NldCgkYXJncyl9LAojICAgIHNldF9tdWx0aSA9PiBzdWIge3NldF9tdWx0aShcQGFyZ3MyKX0sCiN9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxrZXlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1724,7 +1727,6 @@
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</entry>
         <entry>uid</entry>
-        <entry encoding="base64">XDxfdGFyZ2V0X25ldHdvcmtzXD4=</entry>
         <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
         <entry encoding="base64">XDxjb2xzXD4=</entry>
         <entry encoding="base64">XDxhZF9zaXplXD4=</entry>
@@ -1732,6 +1734,8 @@
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfUlRHXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
+        <entry encoding="base64">XDxfdGFyZ2V0X25ldHdvcmtzXD4=</entry>
+        <entry encoding="base64">XDxrZXlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
