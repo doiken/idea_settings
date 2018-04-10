@@ -59,12 +59,6 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1523253303775">
-        <mark key="'" line="137" column="1" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/lib/Mock/Bid/IndexData.pm" timestamp="1522230309340">
         <mark key="'" line="69" column="23" />
         <mark key="[" line="48" column="34" />
@@ -85,8 +79,8 @@
       <file name="$FOUT_HOME$/config.yaml" timestamp="1523324866491">
         <mark key="'" line="868" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1523007620120">
-        <mark key="'" line="273" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1523338107800">
+        <mark key="'" line="163" column="46" />
         <mark key="[" line="154" column="16" />
         <mark key="]" line="154" column="96" />
         <mark key="." line="154" column="16" />
@@ -326,6 +320,13 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523338148302">
+        <mark key="'" line="1487" column="4" />
+        <mark key="[" line="559" column="0" />
+        <mark key="]" line="559" column="0" />
+        <mark key="n" line="1700" column="1" />
+        <mark key="." line="559" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1522740392204">
         <mark key="'" line="8" column="12" />
         <mark key="[" line="23" column="0" />
@@ -502,7 +503,6 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1523334176276" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -891,16 +891,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2346" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1818" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1835" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1903" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1545" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="159" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="417" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="757" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1758" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="489" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="598" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="603" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="606" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -991,6 +981,16 @@
       <jump line="1" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
       <jump line="3105" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
       <jump line="2725" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
+      <jump line="1760" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1776" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1488" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1845" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1796" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1844" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1498" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1898" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="163" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
+      <jump line="1487" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1652,7 +1652,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLSBhZGRyZXNzOiAnbG9jYWxob3N0OjExMjEyJw==</text>
       </register>
       <register name="/" type="4">
-        <text>uid</text>
+        <text encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0KCRhcmdzKTsKc2V0X211bHRpKFxAYXJnczIpOwo=</text>
@@ -1695,9 +1695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uid</last-search>
+      <last-search encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern>uid</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1715,7 +1715,6 @@
         <entry encoding="base64">XDxfYnVpbGRfX2FsbG93ZWRfcmZwX25ldHdvcmtzX2J5X2FkZ3JwXD4=</entry>
         <entry encoding="base64">XDxzc3BfcmV2aWV3X2lzX29rXD4=</entry>
         <entry encoding="base64">XDxfYWxsb3dlZF9uZXR3b3Jrc19ieV9hZFw+</entry>
-        <entry encoding="base64">XDxjb2xzXD4=</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
         <entry encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVcPg==</entry>
         <entry encoding="base64">XDxzZXRfZGVwcmVjYXRlZFw+</entry>
@@ -1728,6 +1727,14 @@
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</entry>
         <entry>uid</entry>
+        <entry encoding="base64">XDxfdGFyZ2V0X25ldHdvcmtzXD4=</entry>
+        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
+        <entry encoding="base64">XDxjb2xzXD4=</entry>
+        <entry encoding="base64">XDxhZF9zaXplXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRfbmV0d29ya3NcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfUlRHXD4=</entry>
+        <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
