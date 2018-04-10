@@ -147,6 +147,9 @@
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1523328105834">
+        <mark key="'" line="21" column="17" />
+      </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="13" />
@@ -283,7 +286,7 @@
       <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1523265786133">
         <mark key="'" line="63" column="58" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1523006075923">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1523328028705">
         <mark key="'" line="447" column="37" />
         <mark key="[" line="232" column="53" />
         <mark key="]" line="232" column="66" />
@@ -547,6 +550,9 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Request.pm" timestamp="1523327816709">
+        <mark key="'" line="74" column="1" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/build_bid_data-warn.t" timestamp="1522229953521">
         <mark key="[" line="25" column="42" />
@@ -882,14 +888,11 @@
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1523327860449">
+        <mark key="'" line="500" column="44" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="174" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="181" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="6" column="4" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="29" column="12" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="161" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="0" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="504" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="57" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
@@ -984,6 +987,12 @@
       <jump line="63" column="58" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="868" column="19" filename="$FOUT_HOME$/config.yaml" />
       <jump line="1274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="496" column="17" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
+      <jump line="500" column="44" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
+      <jump line="74" column="1" filename="$FOUT_HOME$/lib/FOut/Request.pm" />
+      <jump line="1021" column="52" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="185" column="23" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="21" column="17" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1645,7 +1654,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</text>
+        <text>uid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0KCRhcmdzKTsKc2V0X211bHRpKFxAYXJnczIpOwo=</text>
@@ -1688,9 +1697,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</last-search>
+      <last-search>uid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</last-pattern>
+      <last-pattern>uid</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1720,6 +1729,7 @@
         <entry encoding="base64">XDxkYW9cPg==</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</entry>
+        <entry>uid</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
