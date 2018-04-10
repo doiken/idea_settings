@@ -147,8 +147,12 @@
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1523328105834">
-        <mark key="'" line="21" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1523330722679">
+        <mark key="'" line="1026" column="36" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
       </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
@@ -262,8 +266,8 @@
         <mark key="." line="43" column="34" />
         <mark key="^" line="43" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1522217035273">
-        <mark key="'" line="31" column="20" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1523330938095">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1522657240304">
         <mark key="'" line="10" column="25" />
@@ -750,8 +754,8 @@
         <mark key="^" line="22" column="14" />
         <mark key="." line="25" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" timestamp="1522140461779">
-        <mark key="'" line="27" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" timestamp="1523331191461">
+        <mark key="'" line="113" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/uniqueid/user_data/touch.t" timestamp="1519895234396">
         <mark key="[" line="58" column="0" />
@@ -772,7 +776,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523324267169">
+      <file name="/Dummy.txt" timestamp="1523331609866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -850,6 +854,9 @@
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hitokuse.pm" timestamp="1523331597693">
+        <mark key="'" line="108" column="25" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-reward_video.t" timestamp="1522144593823">
         <mark key="[" line="42" column="46" />
         <mark key="]" line="42" column="47" />
@@ -893,11 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
-      <jump line="504" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="57" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
-      <jump line="22" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
-      <jump line="94" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
       <jump line="876" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="2162" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="2284" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -993,6 +995,11 @@
       <jump line="1021" column="52" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="185" column="23" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="21" column="17" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="1026" column="36" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
+      <jump line="53" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
+      <jump line="113" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
+      <jump line="108" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hitokuse.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
