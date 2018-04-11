@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-hike_dpa_39528.t" timestamp="1522144409886">
+        <mark key="'" line="96" column="16" />
+        <mark key="[" line="134" column="32" />
+        <mark key="]" line="134" column="34" />
+        <mark key="^" line="134" column="34" />
+        <mark key="." line="134" column="34" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/get_ads_by_adgroup.t" timestamp="1522230090089">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="19" column="23" />
@@ -18,14 +25,65 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" timestamp="1523005478523">
         <mark key="'" line="44" column="10" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1523437689902">
+        <mark key="'" line="68" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1520846080028">
+        <mark key="'" line="129" column="16" />
+        <mark key="[" line="104" column="4" />
+        <mark key="]" line="104" column="13" />
+        <mark key="." line="104" column="13" />
+        <mark key="^" line="104" column="13" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1522230708236">
+        <mark key="'" line="909" column="22" />
+        <mark key="[" line="888" column="40" />
+        <mark key="]" line="888" column="40" />
+        <mark key="." line="888" column="40" />
+        <mark key="^" line="888" column="40" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-city.t" timestamp="1522123280869">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="64" column="37" />
+        <mark key="]" line="64" column="40" />
+        <mark key="^" line="64" column="40" />
+        <mark key="." line="64" column="40" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs/AutoBid.pm" timestamp="1520844481148">
+        <mark key="'" line="48" column="1" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="58" />
+        <mark key="." line="27" column="50" />
+        <mark key="^" line="22" column="47" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/hitokuse.t" timestamp="1522145436134">
         <mark key="[" line="66" column="40" />
         <mark key="]" line="66" column="42" />
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1523435894759">
+        <mark key="'" line="158" column="4" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/lib/Mock/Bid/IndexData.pm" timestamp="1522230309340">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="63" />
+        <mark key="." line="48" column="34" />
+        <mark key="^" line="48" column="33" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1522811935264">
         <mark key="'" line="237" column="12" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/filterings-adomain.t" timestamp="1522232187818">
+        <mark key="'" line="26" column="21" />
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$FOUT_HOME$/config.yaml" timestamp="1523324866491">
         <mark key="'" line="868" column="19" />
@@ -43,6 +101,20 @@
         <mark key="^" line="40" column="14" />
         <mark key="." line="44" column="23" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1523324244623">
+        <mark key="'" line="507" column="17" />
+        <mark key="[" line="134" column="36" />
+        <mark key="]" line="133" column="36" />
+        <mark key="." line="134" column="36" />
+        <mark key="^" line="133" column="36" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-appid.t" timestamp="1522225881595">
+        <mark key="'" line="81" column="38" />
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="24" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="24" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CVNumMaximizationUpdater.pm" timestamp="1519347190214">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -58,8 +130,22 @@
         <mark key="." line="455" column="17" />
         <mark key="^" line="455" column="17" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/googleadexchange_sp.t" timestamp="1522145386915">
+        <mark key="'" line="227" column="36" />
+        <mark key="[" line="227" column="34" />
+        <mark key="]" line="216" column="36" />
+        <mark key="^" line="216" column="36" />
+        <mark key="." line="227" column="36" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" timestamp="1523336090238">
         <mark key="'" line="2725" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/Base.pm" timestamp="1521196212396">
+        <mark key="'" line="228" column="19" />
+        <mark key="[" line="228" column="12" />
+        <mark key="]" line="228" column="13" />
+        <mark key="." line="226" column="0" />
+        <mark key="^" line="228" column="117" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-deprecated_bid_types.t" timestamp="1519044368241">
         <mark key="[" line="40" column="61" />
@@ -80,6 +166,20 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/logic_log.t" timestamp="1522229082225">
+        <mark key="'" line="75" column="10" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="44" column="29" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_ukigumo/lib/FOutTester/Project/FOutMulti.pm" timestamp="1521195251238">
+        <mark key="'" line="159" column="12" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="21" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/infeed_filterred_ads.t" timestamp="1522228960478">
         <mark key="[" line="96" column="24" />
         <mark key="]" line="65" column="26" />
@@ -98,11 +198,32 @@
         <mark key="^" line="32" column="18" />
         <mark key="." line="57" column="34" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-kaulisp.t" timestamp="1522144732259">
+        <mark key="'" line="166" column="45" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="67" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/fout/lib/FOut/Bid/Context/Deal.pm" timestamp="1512826857194">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-openrtbmob.t" timestamp="1522231727329">
+        <mark key="'" line="79" column="54" />
+        <mark key="[" line="138" column="12" />
+        <mark key="]" line="140" column="23" />
+        <mark key="^" line="140" column="23" />
+        <mark key="." line="140" column="23" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Bid.pm" timestamp="1521095408333">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/click/request/request_directly_from_bid.t" timestamp="1519278225386">
         <mark key="[" line="209" column="24" />
@@ -119,11 +240,25 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1522215100667">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="44" column="9" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appnexus.t" timestamp="1522145308367">
         <mark key="[" line="74" column="40" />
         <mark key="]" line="74" column="42" />
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
+      </file>
+      <file name="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" timestamp="1522231240869">
+        <mark key="'" line="126" column="13" />
+        <mark key="[" line="565" column="8" />
+        <mark key="]" line="565" column="8" />
+        <mark key="." line="565" column="8" />
+        <mark key="^" line="468" column="70" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-mapping.t" timestamp="1522227900631">
         <mark key="[" line="72" column="25" />
@@ -162,12 +297,6 @@
         <mark key="'" line="63" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1523426968679" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1523328028705">
-        <mark key="'" line="447" column="37" />
-        <mark key="[" line="232" column="53" />
-        <mark key="]" line="232" column="66" />
-        <mark key="^" line="205" column="5" />
-      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/UUID/Tiny.pm" timestamp="1512980764288">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
@@ -195,13 +324,6 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523352225826">
-        <mark key="'" line="470" column="8" />
-        <mark key="[" line="1242" column="0" />
-        <mark key="]" line="1242" column="0" />
-        <mark key="^" line="1248" column="30" />
-        <mark key="." line="1242" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1523427876393">
         <mark key="'" line="68" column="18" />
         <mark key="[" line="23" column="0" />
@@ -214,6 +336,13 @@
         <mark key="]" line="109" column="44" />
         <mark key="." line="109" column="44" />
         <mark key="^" line="109" column="44" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-force_broad.t" timestamp="1522202349788">
+        <mark key="'" line="37" column="45" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="33" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.pm" timestamp="1513064283945">
         <mark key="[" line="0" column="7" />
@@ -238,6 +367,13 @@
         <mark key="]" line="49" column="38" />
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/data/ad.t" timestamp="1522653379984">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="138" column="39" />
+        <mark key="]" line="138" column="42" />
+        <mark key="." line="138" column="42" />
+        <mark key="^" line="138" column="42" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Vendor/Hike/BidResponseUtil.pm" timestamp="1523262685406" />
       <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1522140874314">
@@ -267,6 +403,20 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/match_is_automated.t" timestamp="1522230039280">
+        <mark key="'" line="122" column="92" />
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="26" />
+        <mark key="." line="54" column="26" />
+        <mark key="^" line="54" column="28" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-cpc-scheduled.t" timestamp="1522123079795">
+        <mark key="'" line="55" column="9" />
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="44" />
+        <mark key="^" line="55" column="34" />
+        <mark key="." line="55" column="43" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid/BiddingOrderBuilder.pm" timestamp="1520500537799">
         <mark key="[" line="7" column="67" />
         <mark key="]" line="8" column="0" />
@@ -278,6 +428,20 @@
         <mark key="]" line="195" column="43" />
         <mark key="." line="195" column="43" />
         <mark key="^" line="195" column="43" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/match_word_region.t" timestamp="1522202866587">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="45" column="70" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="36" column="27" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" timestamp="1522224952077">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="73" column="27" />
+        <mark key="]" line="73" column="28" />
+        <mark key="." line="73" column="28" />
+        <mark key="^" line="73" column="15" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Util.pm" timestamp="1522832265409">
         <mark key="'" line="113" column="0" />
@@ -342,6 +506,20 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" timestamp="1522718394929">
+        <mark key="'" line="212" column="8" />
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" timestamp="1522054280867">
+        <mark key="'" line="194" column="0" />
+        <mark key="[" line="172" column="81" />
+        <mark key="]" line="141" column="85" />
+        <mark key="." line="172" column="85" />
+        <mark key="^" line="141" column="85" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1522217990915">
         <mark key="'" line="162" column="19" />
       </file>
@@ -372,6 +550,20 @@
         <mark key="^" line="25" column="44" />
         <mark key="." line="25" column="44" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/hike.t" timestamp="1522229212868">
+        <mark key="'" line="1016" column="0" />
+        <mark key="[" line="1008" column="64" />
+        <mark key="]" line="1008" column="64" />
+        <mark key="." line="1008" column="64" />
+        <mark key="^" line="1008" column="64" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/filtered_ads.t" timestamp="1522227841756">
+        <mark key="'" line="36" column="63" />
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" timestamp="1522823831544">
         <mark key="'" line="259" column="48" />
       </file>
@@ -387,11 +579,32 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1523264658098">
         <mark key="'" line="126" column="10" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ssl_support.t" timestamp="1522144607409">
+        <mark key="'" line="45" column="55" />
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="34" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="34" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1521095026022">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="18" />
+        <mark key="." line="71" column="27" />
+        <mark key="^" line="71" column="27" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_dmp_segment_target.t" timestamp="1522202809745">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="51" column="18" />
         <mark key="^" line="51" column="18" />
         <mark key="." line="57" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB/HiveServer2.pm" timestamp="1522050445203">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="69" column="40" />
+        <mark key="." line="69" column="40" />
+        <mark key="^" line="69" column="40" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/ssp_genieesp.t" timestamp="1522202029816">
         <mark key="[" line="54" column="47" />
@@ -401,6 +614,13 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1522054297110">
         <mark key="'" line="67" column="26" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" timestamp="1522980432571">
+        <mark key="'" line="214" column="9" />
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="39" column="8" />
+        <mark key="^" line="77" column="22" />
+        <mark key="." line="77" column="22" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-googlevideo.t" timestamp="1522227874715">
         <mark key="[" line="40" column="21" />
@@ -417,8 +637,22 @@
         <mark key="^" line="139" column="33" />
         <mark key="." line="139" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1521689239117">
+        <mark key="'" line="944" column="19" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="494" column="29" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1522218415492">
         <mark key="'" line="218" column="29" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1523437558501">
+        <mark key="'" line="94" column="21" />
+        <mark key="[" line="93" column="19" />
+        <mark key="]" line="93" column="20" />
+        <mark key="^" line="93" column="20" />
+        <mark key="." line="93" column="20" />
       </file>
       <file name="$FOUT_HOME$/config_local.yaml" timestamp="1523334163454">
         <mark key="[" line="87" column="0" />
@@ -450,6 +684,13 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Object/Container.pm" timestamp="1522917156705">
         <mark key="'" line="9" column="48" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-line_video.t" timestamp="1522144578899">
+        <mark key="'" line="103" column="5" />
+        <mark key="[" line="121" column="17" />
+        <mark key="]" line="121" column="17" />
+        <mark key="^" line="121" column="17" />
+        <mark key="." line="121" column="17" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Redirect.pm" timestamp="1523351660586">
         <mark key="'" line="60" column="3" />
         <mark key="[" line="73" column="0" />
@@ -475,6 +716,13 @@
         <mark key="^" line="67" column="22" />
         <mark key="." line="86" column="27" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-google_deal.t" timestamp="1522202285493">
+        <mark key="'" line="64" column="9" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1512719856576">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="28" />
@@ -487,7 +735,7 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1523325140421">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1523437888330">
         <mark key="'" line="747" column="13" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
@@ -505,17 +753,31 @@
         <mark key="^" line="31" column="26" />
         <mark key="." line="58" column="4" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" timestamp="1522144399533">
+        <mark key="'" line="230" column="13" />
+        <mark key="[" line="62" column="47" />
+        <mark key="]" line="62" column="49" />
+        <mark key="^" line="62" column="49" />
+        <mark key="." line="62" column="49" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Hash/MultiValue.pm" timestamp="1523004159434">
         <mark key="'" line="179" column="15" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523351661104">
+      <file name="/Dummy.txt" timestamp="1523437489641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/match_auto.t" timestamp="1521705357420">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/log/scanner/worker/bid_extractor.t" timestamp="1519048772777">
         <mark key="[" line="0" column="0" />
@@ -538,6 +800,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="60" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/hive.t" timestamp="1522045709531">
+        <mark key="'" line="262" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network-48200.t" timestamp="1523351012461">
         <mark key="'" line="24" column="52" />
         <mark key="[" line="224" column="39" />
@@ -553,13 +822,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1522718600134">
         <mark key="'" line="53" column="28" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" timestamp="1523352090232">
-        <mark key="'" line="923" column="0" />
-        <mark key="[" line="906" column="21" />
-        <mark key="]" line="906" column="28" />
-        <mark key="." line="906" column="28" />
-        <mark key="^" line="906" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1522032902905">
         <mark key="'" line="49" column="7" />
@@ -582,6 +844,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="7" column="18" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/match/Compat.pm" timestamp="1521710261206">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hitokuse.pm" timestamp="1523331597693">
         <mark key="'" line="108" column="25" />
       </file>
@@ -603,7 +872,14 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1523322649820">
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/adstir_infeed.t" timestamp="1522227065510">
+        <mark key="'" line="295" column="16" />
+        <mark key="[" line="333" column="53" />
+        <mark key="]" line="333" column="53" />
+        <mark key="^" line="333" column="69" />
+        <mark key="." line="333" column="53" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1523437501524">
         <mark key="'" line="1274" column="4" />
         <mark key="[" line="216" column="28" />
         <mark key="]" line="216" column="42" />
@@ -621,17 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="840" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="761" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="747" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="137" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
-      <jump line="44" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="126" column="10" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" />
-      <jump line="63" column="58" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
-      <jump line="868" column="19" filename="$FOUT_HOME$/config.yaml" />
-      <jump line="1274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="496" column="17" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
-      <jump line="500" column="44" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
       <jump line="74" column="1" filename="$FOUT_HOME$/lib/FOut/Request.pm" />
       <jump line="1021" column="52" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="185" column="23" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
@@ -721,6 +986,17 @@
       <jump line="923" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="20" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="68" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="1250" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="158" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
+      <jump line="1886" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1881" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="69" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
+      <jump line="1849" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1912" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1550" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1406" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="94" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="68" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -732,8 +1008,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlIERhdGE6OkR1bXBlcjsKICAgICAgICAgICAgd2FybiBEdW1wZXIgJGNvbHM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>の</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1379,13 +1655,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RHVtcGVyIA==</text>
+        <text>の</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text encoding="base64">XDxiaWRfc3FsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>@ad_size</text>
+        <text>FOut::Bid::Data::Ad</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXNlIERhdGE6OkR1bXBlcjsKICAgICAgICAgICAgd2FybiBEdW1wZXIgJGNvbHM7Cg==</text>
@@ -1425,12 +1701,12 @@
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search encoding="base64">XDxiaWRfc3FsXD4=</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRfc3FsXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1474,10 +1750,6 @@
         <entry encoding="base64">XDxfZHVwbGljYXRlX2JpZFw+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxfZHVwbGljYXRlX2JpZHNfYnlfYWxsb3dlZF91bnNwZWNpZmllZF9hZHNcPg==</entry>
-        <entry encoding="base64">XDxfcHV0X29uZV9pbnRvX2ludmVydGVkSW5kZXhcPg==</entry>
-        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
-        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
-        <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
         <entry>hdb</entry>
         <entry encoding="base64">XDxoaWtlX3Jldmlld3NcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2Jyb2FkX29mX3JlZ2lvbl9iaWRzX3BhcmFtc1w+</entry>
@@ -1485,6 +1757,11 @@
         <entry>98</entry>
         <entry>99</entry>
         <entry>status</entry>
+        <entry encoding="base64">XDxfcHV0X29uZV9pbnRvX2ludmVydGVkSW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
+        <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
+        <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
