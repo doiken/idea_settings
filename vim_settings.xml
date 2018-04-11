@@ -62,8 +62,8 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1523435894759">
-        <mark key="'" line="158" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1523445113460">
+        <mark key="'" line="121" column="25" />
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
@@ -324,8 +324,8 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523441355913">
-        <mark key="'" line="1472" column="80" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523445603346">
+        <mark key="'" line="2379" column="15" />
         <mark key="[" line="570" column="95" />
         <mark key="]" line="570" column="95" />
         <mark key="." line="570" column="95" />
@@ -902,13 +902,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1026" column="36" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" />
-      <jump line="53" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="113" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/MedibaSP.pm" />
-      <jump line="108" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hitokuse.pm" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
-      <jump line="3105" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
       <jump line="2725" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/AnyEvent.pm" />
       <jump line="1760" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1776" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1002,6 +995,13 @@
       <jump line="1472" column="80" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="785" column="39" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="834" column="24" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="1315" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="604" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1064" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="121" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
+      <jump line="2378" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2379" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1663,7 +1663,7 @@
         <text encoding="base64">LS0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkc3BfY2hhcmdlX3ByaWNlXD4=</text>
+        <text encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>FOut::Bid::Data::Ad</text>
@@ -1706,9 +1706,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkc3BfY2hhcmdlX3ByaWNlXD4=</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkc3BfY2hhcmdlX3ByaWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1738,7 +1738,6 @@
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3RvX21lbWRfYmlkXD4=</entry>
         <entry>uid</entry>
-        <entry encoding="base64">XDxjb2xzXD4=</entry>
         <entry encoding="base64">XDxhZF9zaXplXD4=</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfUlRHXD4=</entry>
         <entry encoding="base64">XDxfdGFyZ2V0X25ldHdvcmtzXD4=</entry>
@@ -1769,6 +1768,11 @@
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
         <entry>rfp</entry>
         <entry encoding="base64">XDxkc3BfY2hhcmdlX3ByaWNlXD4=</entry>
+        <entry encoding="base64">XDxhZHNfYnlfc29tZV9jcl9sZFw+</entry>
+        <entry encoding="base64">XDxtYWtlX2J1eWVyX2NyZWF0aXZlX2lkc19mb3JfZ29vZ2xlXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDxjb2xzXD4=</entry>
+        <entry encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
