@@ -25,7 +25,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" timestamp="1523005478523">
         <mark key="'" line="44" column="10" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1523437689902">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1523439212063">
         <mark key="'" line="68" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1520846080028">
@@ -88,7 +88,7 @@
       <file name="$FOUT_HOME$/config.yaml" timestamp="1523324866491">
         <mark key="'" line="868" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1523351211767">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" timestamp="1523441215436">
         <mark key="'" line="163" column="46" />
         <mark key="[" line="154" column="16" />
         <mark key="]" line="154" column="96" />
@@ -324,7 +324,13 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523242724868">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523439022897" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523441355913">
+        <mark key="'" line="1472" column="80" />
+        <mark key="[" line="570" column="95" />
+        <mark key="]" line="570" column="95" />
+        <mark key="." line="570" column="95" />
+        <mark key="^" line="570" column="138" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1523427876393">
         <mark key="'" line="68" column="18" />
         <mark key="[" line="23" column="0" />
@@ -495,6 +501,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1523440374872" />
       <file name="$FOUT_HOME$/lib/FOut/Network/Constants.pm" timestamp="1519206116587">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="31" />
@@ -655,6 +662,7 @@
         <mark key="^" line="93" column="20" />
         <mark key="." line="93" column="20" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1523440670689" />
       <file name="$FOUT_HOME$/config_local.yaml" timestamp="1523334163454">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -736,8 +744,8 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1523438303046">
-        <mark key="'" line="747" column="13" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1523440257008">
+        <mark key="'" line="1297" column="39" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
         <mark key="[" line="25" column="36" />
@@ -767,7 +775,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523437489641">
+      <file name="/Dummy.txt" timestamp="1523440645317">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -880,7 +888,7 @@
         <mark key="^" line="333" column="69" />
         <mark key="." line="333" column="53" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1523437501524">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1523440733947">
         <mark key="'" line="1274" column="4" />
         <mark key="[" line="216" column="28" />
         <mark key="]" line="216" column="42" />
@@ -898,8 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="1" filename="$FOUT_HOME$/lib/FOut/Request.pm" />
-      <jump line="1021" column="52" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="185" column="23" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="21" column="17" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="1026" column="36" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
@@ -998,6 +1004,8 @@
       <jump line="1406" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="94" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
       <jump line="68" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
+      <jump line="1297" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1472" column="80" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1010,7 +1018,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>の</text>
+        <text encoding="base64">LS0g</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1656,10 +1664,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>の</text>
+        <text encoding="base64">LS0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRfc3FsXD4=</text>
+        <text>rfp</text>
       </register>
       <register name="0" type="4">
         <text>FOut::Bid::Data::Ad</text>
@@ -1702,9 +1710,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRfc3FsXD4=</last-search>
+      <last-search>rfp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRfc3FsXD4=</last-pattern>
+      <last-pattern>rfp</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1763,6 +1771,7 @@
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
+        <entry>rfp</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
