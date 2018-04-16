@@ -303,7 +303,7 @@
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523519709367">
         <mark key="'" line="174" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523524079088">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523850840905">
         <mark key="'" line="792" column="13" />
         <mark key="[" line="755" column="14" />
         <mark key="]" line="755" column="17" />
@@ -502,6 +502,12 @@
         <mark key="." line="172" column="85" />
         <mark key="^" line="141" column="85" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1523850624787">
+        <mark key="[" line="598" column="21" />
+        <mark key="]" line="598" column="15" />
+        <mark key="." line="598" column="15" />
+        <mark key="^" line="598" column="15" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_word-max_lookup.t" timestamp="1522202858265">
         <mark key="[" line="26" column="26" />
         <mark key="]" line="16" column="18" />
@@ -539,6 +545,13 @@
         <mark key="]" line="46" column="30" />
         <mark key="^" line="46" column="30" />
         <mark key="." line="46" column="30" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" timestamp="1523850879435">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-segments.t" timestamp="1519787164866">
         <mark key="[" line="39" column="39" />
@@ -710,7 +723,7 @@
         <mark key="^" line="62" column="49" />
         <mark key="." line="62" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523521246018">
+      <file name="/Dummy.txt" timestamp="1523850575242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -832,13 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2225" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2231" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2226" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1245" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1543" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1545" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1523" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1238" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1521" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1190" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -932,6 +938,13 @@
       <jump line="791" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1295" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="28" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
+      <jump line="35" column="55" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
+      <jump line="317" column="76" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
+      <jump line="601" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" />
+      <jump line="8" column="17" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
+      <jump line="25" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
+      <jump line="320" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
+      <jump line="178" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp-not-specified-distribution.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -943,8 +956,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>aaaa</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1596,40 +1609,40 @@
         <text encoding="base64">XDxhbGxvd2VkX3JmcF9uZXR3b3Jrc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>#48200</text>
+        <text>$rfp_not_specified_distributions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICM0ODIwMDogeyRiIDw9PiAkYX3jgafjgr3jg7zjg4jjgZnjgovjgZPjgajjgafjgIFJROOBjDHjgafjgYLjgotSZWTjga7luoPlkYrkuIDopqfjgpLlhKrlhYjjgafjgY3jgosK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJFROOBruW6g+WRiuS4gOimp+OBjOS4iuabuOOBi+OCjOOCi+OBn+OCgUY6OkI6OkQ6OkFkIGRvdWJsZSB3cml0ZeaZguOBruS4gOaZgueahOOBquWvvuW/nCAjNDgyMDAK</text>
+        <text encoding="base64">c3VidGVzdCAnd2FybjogcmZwX25ldHdvcmtfaWQ9NSwgYWRzX3JmcF9uZXR3b3JrX2lkPTUobm90IGNvcnJlY3QpJyA9PiBzdWIgewogICAgY29uc3RydWN0X2ZpeHR1cmUoCiAgICAgICAgZGIgPT4gbW9kZWxzKCdkc3BfZGJfbWFzdGVyJyksCiAgICAgICAgZml4dHVyZSA9PiBbewogICAgICAgICAgICB0YWJsZSA9PiAndXNlcnMnLAogICAgICAgICAgICBuYW1lID0+ICd1c2VyMScsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgaWQgPT4gMSwKICAgICAgICAgICAgICAgIHN0YXR1cyA9PiAxLAogICAgICAgICAgICAgICAgaXNfZGVsZXRlZCA9PiAwLAogICAgICAgICAgICAgICAgYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCA9PiAyMTAwLAogICAgICAgICAgICB9LAogICAgICAgIH0sIHsKICAgICAgICAgICAgdGFibGUgPT4gJ3JmcF9uZXR3b3JrcycsCiAgICAgICAgICAgIG5hbWUgPT4gJ3JmcF9uZXR3b3JrcycsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgaWQgPT4gNSwKICAgICAgICAgICAgICAgIG5hbWUgPT4gJ3BvZXRzJywKICAgICAgICAgICAgICAgIG5ldHdvcmtfaWQgPT4gNiwKICAgICAgICAgICAgICAgIGFsbG93ZWRfdW5zcGVjaWZpZWRfYWRzID0+IDEsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwgewogICAgICAgICAgICB0YWJsZSA9PiAncmZwX25ldHdvcmtzX3VzZXJzX21hcCcsCiAgICAgICAgICAgIG5hbWUgPT4gJ3JmcF9uZXR3b3Jrc191c2Vyc19tYXBfbmcnLAogICAgICAgICAgICBkYXRhID0+IHsKICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIHJmcF9uZXR3b3JrX2lkID0+IDUsCiAgICAgICAgICAgICAgICBpc19lbmFibGVkID0+IDEsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwgewogICAgICAgICAgICB0YWJsZSA9PiAncmZwX2NyZWF0aXZlX3NjcmVlbmluZ3MnLAogICAgICAgICAgICBuYW1lID0+ICdyZnBfY3JlYXRpdmVfc2NyZWVuaW5nc19uZycsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgY3JlYXRpdmVfaWQgPT4gMTAwMDAwLAogICAgICAgICAgICAgICAgcmZwX25ldHdvcmtfaWQgPT4gNSwKICAgICAgICAgICAgICAgIHN0YXR1cyA9PiAnYWNjZXB0ZWQnLAogICAgICAgICAgICB9LAogICAgICAgIH0sIHsKICAgICAgICAgICAgdGFibGUgPT4gJ2NwbnMnLAogICAgICAgICAgICBuYW1lID0+ICdjcG4xJywKICAgICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICAgICBpZCA9PiAxMCwKICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIGJpbGxpbmdfdHlwZSA9PiAwLCAjIDA6Q1BN6Kqy6YeRKOODh+ODleOCqeODq+ODiCksIDE6Q1BD6Kqy6YeRCiAgICAgICAgICAgICAgICBkYWlseV9zdGF0dXMgPT4gMCwKICAgICAgICAgICAgICAgIG1vbnRobHlfc3RhdHVzID0+IDAsCiAgICAgICAgICAgICAgICBzdGF0dXMgPT4gMSwKICAgICAgICAgICAgICAgIGlzX2RlbGV0ZWQgPT4gMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LCB7CiAgICAgICAgICAgIHRhYmxlID0+ICdhZGdycHMnLAogICAgICAgICAgICBuYW1lID0+ICdhZGdycDJfbmcnLAogICAgICAgICAgICBkYXRhID0+IHsKICAgICAgICAgICAgICAgIGlkID0+IDEwMSwKICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIGNwbl9pZCA9PiAxMCwKICAgICAgICAgICAgICAgIGRldmljZSA9PiAyLAogICAgICAgICAgICAgICAgaXNyZWdpb25lZCA9PiAwLAogICAgICAgICAgICAgICAgcmZwX25ldHdvcmtfaWQgPT4gNSwgIyDmjIflrprphY3kv6HihpIgcG9ldHPjgafjga/nhKHjgYTjga7jgafkuI3mraPjg4fjg7zjgr8KICAgICAgICAgICAgICAgIHN0YXR1cyA9PiAxLAogICAgICAgICAgICAgICAgaXNfZGVsZXRlZCA9PiAwLAogICAgICAgICAgICAgICAgaXNfYXJjaGl2ZWQgPT4gMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LCB7CiAgICAgICAgICAgIHRhYmxlID0+ICdhZGdycF9uZXR3b3JrcycsCiAgICAgICAgICAgIG5hbWUgPT4gJ2FkZ3JwX25ldHdvcmtzMScsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgYWRncnBfaWQgPT4gMTAxLAogICAgICAgICAgICAgICAgbmV0d29ya19pZCA9PiA2LAogICAgICAgICAgICB9LAogICAgICAgIH0sIHsKICAgICAgICAgICAgdGFibGUgPT4gJ2JpZHMnLAogICAgICAgICAgICBuYW1lID0+ICdiaWQyX25nJywKICAgICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICAgICBpZCA9PiAxMDAxLAogICAgICAgICAgICAgICAgdXNlcl9pZCA9PiAxLAogICAgICAgICAgICAgICAgYWRncnBfaWQgPT4gMTAxLAogICAgICAgICAgICAgICAgdHlwZSA9PiA1LCAgIyA1OuODluODreODvOODiQogICAgICAgICAgICAgICAgcHJpY2UgPT4gMTAwLjAwLAogICAgICAgICAgICAgICAgc3RhdHVzID0+IDEsCiAgICAgICAgICAgICAgICBpc19kZWxldGVkID0+IDAsCiAgICAgICAgICAgICAgICBpc19hcmNoaXZlZCA9PiAwLAogICAgICAgICAgICB9LAogICAgICAgIH0sIHsKICAgICAgICAgICAgdGFibGUgPT4gJ2FkcycsCiAgICAgICAgICAgIG5hbWUgPT4gJ2FkMicsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgaWQgPT4gMTAwMDEsCiAgICAgICAgICAgICAgICB1c2VyX2lkID0+IDEsCiAgICAgICAgICAgICAgICBhZGdycF9pZCA9PiAxMDEsCiAgICAgICAgICAgICAgICBjcmVhdGl2ZV9pZCA9PiAxMDAwMDAsCiAgICAgICAgICAgICAgICBzdGF0dXMgPT4gMSwKICAgICAgICAgICAgICAgIGlzX2RlbGV0ZWQgPT4gMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LCB7CiAgICAgICAgICAgIHRhYmxlID0+ICdjcmVhdGl2ZXMnLAogICAgICAgICAgICBuYW1lID0+ICdjcmVhdGl2ZTEnLAogICAgICAgICAgICBkYXRhID0+IHsKICAgICAgICAgICAgICAgIGlkID0+IDEwMDAwMCwKICAgICAgICAgICAgICAgIHVzZXJfaWQgPT4gMSwKICAgICAgICAgICAgICAgIHR5cGUgPT4gOCwKICAgICAgICAgICAgICAgIHNpemUgPT4gJ0lORkVFRCcsCiAgICAgICAgICAgICAgICBzY3JlZW5pbmcgPT4gMSwKICAgICAgICAgICAgICAgIGlzX2RlbGV0ZWQgPT4gMCwKICAgICAgICAgICAgfSwKICAgICAgICB9LCB7CiAgICAgICAgICAgIHRhYmxlID0+ICdjcmVhdGl2ZV9pbmZlZWRfYXNzZXRzJywKICAgICAgICAgICAgbmFtZSA9PiAnaW5mZWVkIGFzc2V0cyBmb3IgaW5mZWVkX3NwJywKICAgICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICAgICBjcmVhdGl2ZV9pZCA9PiAxMDAwMDAsCiAgICAgICAgICAgICAgICB0aXRsZSA9PiAnRGFpbXlvdSBEZWNrIERhdGFiYXNlJywKICAgICAgICAgICAgICAgIGNvbnRlbnQgPT4gJ+OBk+OBruODmuODvOOCuOOBr+ODgOOCpOODn+ODp+OCpiDvvIggQGRhaW15MHUg77yJ44GMIOOCueOCv+ODs+OBruODh+ODg+OCreOCkue1hOOCgOWPguiAg+OBq+S9nOOBo+OBn+OCguOBruOBp+OBmeOAgicsCiAgICAgICAgICAgICAgICBwcmluY2lwYWwgPT4gJ0BkYWlteTB1JywKICAgICAgICAgICAgICAgIGRpc3BsYXlfdXJsID0+ICdkZWNrcy5qcCcsCiAgICAgICAgICAgIH0sCiAgICAgICAgfSwgewogICAgICAgICAgICB0YWJsZSA9PiAnY3JlYXRpdmVfaW5mZWVkX2Fzc2V0X2ltYWdlcycsCiAgICAgICAgICAgIG5hbWUgPT4gJ2xvZ28gaW1hZ2UgZm9yIGluZmVlZF9zcCcsCiAgICAgICAgICAgIGRhdGEgPT4gewogICAgICAgICAgICAgICAgaWQgPT4gMTEwMDAxLAogICAgICAgICAgICAgICAgY3JlYXRpdmVfaWQgPT4gMTAwMDAwLAogICAgICAgICAgICAgICAgdXNlX3R5cGUgPT4gJ2xvZ28nLAogICAgICAgICAgICAgICAgc2l6ZSA9PiAnMTgweDE4MCcsCiAgICAgICAgICAgICAgICBwYXRoID0+ICcvaW5mZWVkL2NiNC9jYjQyOTQ1ZGFlNmQ2OWNkMTBhODIxZWE5NDY5NjUwZGVmYzljMzNhJywKICAgICAgICAgICAgfSwKICAgICAgICB9LCB7CiAgICAgICAgICAgIHRhYmxlID0+ICdjcmVhdGl2ZV9pbmZlZWRfYXNzZXRfaW1hZ2VzJywKICAgICAgICAgICAgbmFtZSA9PiAnbWFpbiBpbWFnZSBmb3IgaW5mZWVkX3NwJywKICAgICAgICAgICAgZGF0YSA9PiB7CiAgICAgICAgICAgICAgICBpZCA9PiAxMTAwMDIsCiAgICAgICAgICAgICAgICBjcmVhdGl2ZV9pZCA9PiAxMDAwMDAsCiAgICAgICAgICAgICAgICB1c2VfdHlwZSA9PiAnbWFpbicsCiAgICAgICAgICAgICAgICBzaXplID0+ICcxMjAweDYyOCcsCiAgICAgICAgICAgICAgICBwYXRoID0+ICcvaW5mZWVkLzMwYi8zMGI1OTk3YjdkMTAzNzJmMjQxNzY5OTFlNTFlY2YwNTM1YmUxZmUyJywKICAgICAgICAgICAgfSwKICAgICAgICB9XSwKICAgICk7CiAgICBfcnVuX2JpZF9pbmRleDsKICAgIG15ICRsb2cgPSBtb2RlbHMoJ2xvZ2dlcicpLT50b19zdHI7CiAgICBsaWtlICRsb2csIHFyL1xbd2FyblxdIHJmcF9uZXR3b3JrX2lkXDo1IFwocmZwX25vdF9zcGVjaWZpZWRfZGlzdHJpYnV0aW9uXCkgaW4gYWRncnBzXDoxMDEuLzsKfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjICM0ODIwMDogeyRiIDw9PiAkYX3jgafjgr3jg7zjg4jjgZnjgovjgZPjgajjgafjgIFJROOBjDHjgafjgYLjgotSZWTjga7luoPlkYrkuIDopqfjgpLlhKrlhYjjgafjgY3jgosK</text>
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyIDsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJFROOBruW6g+WRiuS4gOimp+OBjOS4iuabuOOBi+OCjOOCi+WVj+mhjOOBuOOBruS4gOaZgueahOOBquWvvuW/nCAjNDgyMDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxzKCdsb2dnZXInKS0+d2FybigicmZwX25ldHdvcmtfaWQ6JHJvdy0+e3JmcF9uZXR3b3JrX2lkfSAocmZwX25vdF9zcGVjaWZpZWRfZGlzdHJpYnV0aW9uKSBpbiByZnBfY3JlYXRpdmVfc2NyZWVuaW5ncyIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAg5penQURHUlBfQURT44Gr44GmYWxsb3dlZF91bnNwZWNpZmllZF9hZHPjgavjgojjgaPjgabopIfoo73jgZXjgozjgZ9qbXR544Gu5bqD5ZGK5LiA6Kan44GnCg==</text>
+        <text encoding="base64">ICAgICAgICAjICM0ODIwMDogeyRiIDw9PiAkYX3jgafjgr3jg7zjg4jjgZnjgovjgZPjgajjgafjgIFJROOBjDHjgafjgYLjgotSZWTjga7luoPlkYrkuIDopqfjgpLlhKrlhYjjgafjgY3jgosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFhYWDogeyRiIDw9PiAkYX3jgafjgr3jg7zjg4jjgZnjgovjgZPjgajjgafjgIFJROOBjDHjgafjgYLjgotSZWTjga7luoPlkYrkuIDopqfjgpLlhKrlhYjjgafjgY3jgosK</text>
+        <text encoding="base64">ICAgICAgICAjIFJFROOBruW6g+WRiuS4gOimp+OBjOS4iuabuOOBi+OCjOOCi+OBn+OCgUY6OkI6OkQ6OkFkIGRvdWJsZSB3cml0ZeaZguOBruS4gOaZgueahOOBquWvvuW/nCAjNDgyMDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG15ICRhbGxvd2VkX3JmcF9uZXR3b3Jrc19ieV9hZGdycCA9ICt7fTsK</text>
+        <text encoding="base64">ICAgICAgICAjICM0ODIwMDogeyRiIDw9PiAkYX3jgafjgr3jg7zjg4jjgZnjgovjgZPjgajjgafjgIFJROOBjDHjgafjgYLjgotSZWTjga7luoPlkYrkuIDopqfjgpLlhKrlhYjjgafjgY3jgosK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFsbG93ZWRfcmZwX25ldHdvcmtzX2J5X2FkZ3JwLT57JGFkZ3JwX2lkfS0+eyRyZnBfbmV0d29ya19pZH0gPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAjIFJFROOBruW6g+WRiuS4gOimp+OBjOS4iuabuOOBi+OCjOOCi+WVj+mhjOOBuOOBruS4gOaZgueahOOBquWvvuW/nCAjNDgyMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGFsbG93ZWRfcmZwX25ldHdvcmtzX2J5X2FkZ3JwLT57JGFkZ3JwX2lkfSAvLz0gKyB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAjICAgICAg5penQURHUlBfQURT44Gr44GmYWxsb3dlZF91bnNwZWNpZmllZF9hZHPjgavjgojjgaPjgabopIfoo73jgZXjgozjgZ9qbXR544Gu5bqD5ZGK5LiA6Kan44GnCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
