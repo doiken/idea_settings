@@ -24,10 +24,10 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1523942233624">
         <mark key="'" line="28" column="25" />
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
-        <mark key="^" line="46" column="13" />
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1520846080028">
         <mark key="'" line="129" column="16" />
@@ -35,12 +35,6 @@
         <mark key="]" line="104" column="13" />
         <mark key="." line="104" column="13" />
         <mark key="^" line="104" column="13" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/mopubjp.t" timestamp="1523858056948">
-        <mark key="'" line="882" column="0" />
-        <mark key="[" line="402" column="62" />
-        <mark key="]" line="402" column="62" />
-        <mark key="." line="402" column="62" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/filterings-adomain.t" timestamp="1522232187818">
         <mark key="'" line="26" column="21" />
@@ -248,6 +242,11 @@
         <mark key="." line="73" column="28" />
         <mark key="^" line="73" column="15" />
       </file>
+      <file name="$FOUT_HOME$/t/lib/Mock/Adserver/RewardVideo.pm" timestamp="1523857947746">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="83" column="45" />
@@ -354,7 +353,7 @@
         <mark key="." line="54" column="49" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-rfp_network_id.t" timestamp="1523946528138">
-        <mark key="'" line="207" column="9" />
+        <mark key="'" line="214" column="9" />
         <mark key="[" line="181" column="0" />
         <mark key="]" line="181" column="0" />
         <mark key="^" line="77" column="22" />
@@ -436,10 +435,9 @@
         <mark key="'" line="113" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-cpv.t" timestamp="1523947164007">
-        <mark key="'" line="200" column="15" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-google_infeed_dynamic_ads.t" timestamp="1522144399533">
         <mark key="'" line="230" column="13" />
@@ -448,7 +446,7 @@
         <mark key="^" line="62" column="49" />
         <mark key="." line="62" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523942254272">
+      <file name="/Dummy.txt" timestamp="1523953305578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -743,12 +741,6 @@
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" timestamp="1523857760320">
-        <mark key="'" line="358" column="0" />
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1523850624787">
         <mark key="[" line="598" column="21" />
         <mark key="]" line="598" column="15" />
@@ -859,12 +851,12 @@
         <mark key="^" line="131" column="34" />
         <mark key="." line="131" column="34" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network-48200.t" timestamp="1523351012461">
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network-48200.t" timestamp="1523953416322">
         <mark key="'" line="24" column="52" />
-        <mark key="[" line="224" column="39" />
-        <mark key="]" line="224" column="39" />
-        <mark key="^" line="224" column="35" />
-        <mark key="." line="224" column="39" />
+        <mark key="[" line="218" column="85" />
+        <mark key="]" line="218" column="85" />
+        <mark key="." line="218" column="85" />
+        <mark key="^" line="218" column="85" />
       </file>
       <file name="$FOUT_HOME$/t/functional/bid_ad_click.t" timestamp="1522202920206">
         <mark key="[" line="52" column="21" />
@@ -1009,8 +1001,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlzICRkYXRhLT57YWdfaXNsaW5lfSwgMTsK</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1656,46 +1648,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
       </register>
-      <register name="0" type="4">
-        <text>__unused12</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlzIHNjYWxhciBAe0ZPdXQ6OkJpZDo6RGF0YTo6QWQtPm5ldyhoZGIgPT4gJGJpZC0+aGRiKS0+Z2V0KDEwMCwgMSwgJ0lORkVFRCcpfSwgMjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzICRkYXRhLT57YWdfaXNsaW5lfSwgMTsK</text>
+        <text encoding="base64">ICAgICRzZXJpYWxpemVkID0gJGJpZC0+aGRiLT5nZXQoc3ByaW50ZigiQURHUlBfQURJRFM6OiVkOjolZDo6JXMiLCAxMDAsIDk4LCAnSU5GRUVEJykpOwogICAgRk91dDo6QmlkOjpEYXRhOjpBZC0+bmV3KGhkYiA9PiAkYmlkLT5oZGIpLT5kZXNlcmlhbGl6ZSgkc2VyaWFsaXplZCk7CiAgICBpcyBzY2FsYXIgQHtGT3V0OjpCaWQ6OkRhdGE6OkFkLT5uZXcoaGRiID0+ICRiaWQtPmhkYiktPmRlc2VyaWFsaXplKCRzZXJpYWxpemVkKX0sIDE7CgogICAgIyBkZXByZWNhdGVkIGtleSBoYXMgMiBhZHMgZnJvbSBSRUQKICAgIGlzIHNjYWxhciBAe0ZPdXQ6OkJpZDo6RGF0YTo6QWQtPm5ldyhoZGIgPT4gJGJpZC0+aGRiKS0+Z2V0KDEwMCwgMSwgJ0lORkVFRCcpfSwgMjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzICRkYXRhLT57YWdfaXNsaW5lfSwgMDsK</text>
+        <text encoding="base64">ICAgIG15ICRzZXJpYWxpemVkID0gJGJpZC0+aGRiLT5nZXQoc3ByaW50ZigiQURHUlBfQURJRFM6OiVkOjolZDo6JXMiLCAxMDAsIDEsICdJTkZFRUQnKSk7CiAgICBGT3V0OjpCaWQ6OkRhdGE6OkFkLT5uZXcoaGRiID0+ICRiaWQtPmhkYiktPmRlc2VyaWFsaXplKCRzZXJpYWxpemVkKTsKICAgIGlzIHNjYWxhciBAe0ZPdXQ6OkJpZDo6RGF0YTo6QWQtPm5ldyhoZGIgPT4gJGJpZC0+aGRiKS0+ZGVzZXJpYWxpemUoJHNlcmlhbGl6ZWQpfSwgMjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB7CiAgICAgICAgIyBDaGVjayBhZGdycHMKICAgICAgICBteSAkYWRnX2RhbyA9IEZPdXQ6OkJpZDo6RGF0YTo6QWRHcm91cC0+bmV3OwogICAgICAgIG15ICRhZGcgPSAkYWRnX2Rhby0+ZGVzZXJpYWxpemUoJGhkYi0+Z2V0KCdJTkZPX0FER1JQOkFER1JQX0lEOjEwMCcpKTsKICAgICAgICBpcyAkYWRnLT57YWdfcmZwX25ldHdvcmtfaWR9LCAyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlzIHNjYWxhciBAe0ZPdXQ6OkJpZDo6RGF0YTo6QWQtPm5ldyhoZGIgPT4gJGJpZC0+aGRiKS0+Z2V0KDEwMCwgMSwgJ0lORkVFRCcpfSwgMjsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdhZ19pc2xpbmUnID0+ICcwJywK</text>
+        <text encoding="base64">CiAgICAjIGRlcHJlY2F0ZWQga2V5IGhhcyAyIGFkcyBmcm9tIFJFRAogICAgaXMgc2NhbGFyIEB7Rk91dDo6QmlkOjpEYXRhOjpBZC0+bmV3KGhkYiA9PiAkYmlkLT5oZGIpLT5nZXQoMTAwLCAnSU5GRUVEJyl9LCAyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdhZ19pc2xpbmUnID0+ICcwJywK</text>
+        <text encoding="base64">ICAgIGlzICRkYXRhLT57YWdfaXNsaW5lfSwgMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdhZ19kYWlseV9mcmVxX2NhcCcgPT4gJzEwJywK</text>
+        <text encoding="base64">ICAgIGlzICRkYXRhLT57YWdfaXNsaW5lfSwgMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdhZ19yZnBfbmV0d29ya19pZCcgPT4gJycsCg==</text>
+        <text encoding="base64">CiAgICB7CiAgICAgICAgIyBDaGVjayBhZGdycHMKICAgICAgICBteSAkYWRnX2RhbyA9IEZPdXQ6OkJpZDo6RGF0YTo6QWRHcm91cC0+bmV3OwogICAgICAgIG15ICRhZGcgPSAkYWRnX2Rhby0+ZGVzZXJpYWxpemUoJGhkYi0+Z2V0KCdJTkZPX0FER1JQOkFER1JQX0lEOjEwMCcpKTsKICAgICAgICBpcyAkYWRnLT57YWdfcmZwX25ldHdvcmtfaWR9LCAyOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFnX3JmcF9uZXR3b3JrX2lkICAgICAgID0+IDIsCg==</text>
+        <text encoding="base64">ICAgICdhZ19pc2xpbmUnID0+ICcwJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFnX2lzbGluZSAgICAgICAgICAgICAgID0+ICcwJywK</text>
+        <text encoding="base64">ICAgICdhZ19pc2xpbmUnID0+ICcwJywK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
