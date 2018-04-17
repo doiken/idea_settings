@@ -154,7 +154,7 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523956562888">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523957400867">
         <mark key="'" line="437" column="151" />
         <mark key="[" line="191" column="73" />
         <mark key="]" line="191" column="75" />
@@ -564,6 +564,9 @@
         <mark key="^" line="64" column="40" />
         <mark key="." line="64" column="40" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" timestamp="1523957566938">
+        <mark key="'" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/DBIx/Sunny.pm" timestamp="1523867206390" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs/AutoBid.pm" timestamp="1520844481148">
         <mark key="'" line="48" column="1" />
@@ -801,7 +804,7 @@
         <mark key="." line="598" column="15" />
         <mark key="^" line="598" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1523956633897">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1523957105843">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -956,13 +959,12 @@
         <mark key="^" line="333" column="69" />
         <mark key="." line="333" column="53" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1523867657480" />
+      <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1523957336518" />
       <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1523327860449">
         <mark key="'" line="500" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="1250" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="158" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="1886" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1062,6 +1064,7 @@
       <jump line="209" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="437" column="151" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="102" column="11" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
+      <jump line="27" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
