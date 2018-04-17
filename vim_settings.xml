@@ -151,8 +151,8 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523946361130">
-        <mark key="'" line="174" column="2" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1523951653408">
+        <mark key="'" line="209" column="0" />
         <mark key="[" line="191" column="73" />
         <mark key="]" line="191" column="75" />
         <mark key="." line="191" column="75" />
@@ -898,8 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1013" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
-      <jump line="932" column="17" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="923" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-unspecified-rfp_network.t" />
       <jump line="20" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="68" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
@@ -998,6 +996,8 @@
       <jump line="126" column="21" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic-smartphone.t" />
       <jump line="1054" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="337" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="212" column="8" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="209" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1659,7 +1659,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>isline</text>
+        <text>device</text>
       </register>
       <register name="0" type="4">
         <text>__unused12</text>
@@ -1702,9 +1702,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isline</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>isline</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1785,6 +1785,8 @@
         <entry encoding="base64">XDxtYXRjaF9zdWJcPg==</entry>
         <entry encoding="base64">XDxjb2xsZWN0X2FzZV9iaWRpZHNcPg==</entry>
         <entry>isline</entry>
+        <entry>sp</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
