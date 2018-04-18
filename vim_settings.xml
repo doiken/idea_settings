@@ -307,8 +307,8 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1523933920447">
-        <mark key="'" line="61" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1524040961925">
+        <mark key="'" line="96" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Network/Constants.pm" timestamp="1519206116587">
         <mark key="[" line="0" column="21" />
@@ -501,7 +501,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524035608801">
+      <file name="/Dummy.txt" timestamp="1524041024595">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -569,8 +569,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1524032197014">
-        <mark key="'" line="337" column="28" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1524041420673">
+        <mark key="'" line="1467" column="13" />
         <mark key="[" line="425" column="33" />
         <mark key="]" line="425" column="45" />
         <mark key="^" line="425" column="74" />
@@ -1007,8 +1007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="0" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
-      <jump line="358" column="0" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
       <jump line="159" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic-smartphone.t" />
       <jump line="458" column="5" filename="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" />
       <jump line="863" column="0" filename="$FOUT_HOME$/t/lib/Mock/Adserver/OpenRTB2Infeed.pm" />
@@ -1107,6 +1105,8 @@
       <jump line="438" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="19" column="36" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="26" column="10" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
+      <jump line="96" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="1467" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
