@@ -22,8 +22,8 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1523942233624">
-        <mark key="'" line="28" column="25" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1524016770685">
+        <mark key="'" line="30" column="11" />
         <mark key="[" line="45" column="13" />
         <mark key="]" line="45" column="13" />
         <mark key="." line="45" column="13" />
@@ -161,8 +161,12 @@
         <mark key="." line="191" column="75" />
         <mark key="^" line="191" column="75" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1523937712916">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1524016331201">
         <mark key="'" line="2323" column="4" />
+        <mark key="[" line="2164" column="23" />
+        <mark key="]" line="2164" column="22" />
+        <mark key="." line="2164" column="22" />
+        <mark key="^" line="2164" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1523867180446">
         <mark key="'" line="266" column="0" />
@@ -966,7 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" />
       <jump line="1886" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1881" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="69" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
@@ -1066,6 +1069,7 @@
       <jump line="102" column="11" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="27" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="30" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1078,7 +1082,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>INFO_ADGRP</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1724,7 +1728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>INFO_ADGRP</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
