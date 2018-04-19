@@ -16,8 +16,8 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" timestamp="1524126030572">
-        <mark key="'" line="51" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" timestamp="1524127339183">
+        <mark key="'" line="52" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
@@ -28,6 +28,9 @@
       <file name="/Match.pm" timestamp="1524031456497" />
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1524034323682">
         <mark key="'" line="0" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" timestamp="1524127508737">
+        <mark key="'" line="107" column="26" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1524022425432">
         <mark key="'" line="75" column="14" />
@@ -149,6 +152,7 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="80" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" timestamp="1524127776128" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/UUID/Tiny.pm" timestamp="1512980764288">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="0" />
@@ -356,6 +360,9 @@
         <mark key="^" line="46" column="30" />
         <mark key="." line="46" column="30" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" timestamp="1524127415432">
+        <mark key="'" line="63" column="19" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1523264658098">
         <mark key="'" line="126" column="10" />
       </file>
@@ -385,6 +392,7 @@
         <mark key="^" line="77" column="22" />
         <mark key="." line="181" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1524127545049" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-googlevideo.t" timestamp="1522227874715">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="23" />
@@ -428,14 +436,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1524033624582">
-        <mark key="a" line="242" column="24" />
-        <mark key="'" line="624" column="4" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="240" column="1" />
-        <mark key="." line="549" column="0" />
-        <mark key="^" line="753" column="22" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/BidPriceEstimation.pm" timestamp="1522051018670">
         <mark key="'" line="147" column="8" />
@@ -489,7 +489,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524045675674">
+      <file name="/Dummy.txt" timestamp="1524127373618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -770,6 +770,9 @@
         <mark key="." line="7" column="460" />
         <mark key="^" line="7" column="460" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" timestamp="1524128202684">
+        <mark key="'" line="129" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/ad.t" timestamp="1522653379984">
         <mark key="'" line="82" column="4" />
         <mark key="[" line="138" column="39" />
@@ -995,14 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="0" filename="$FOUT_HOME$/t/fout/bid/rtbindex/basic-smartphone.t" />
-      <jump line="201" column="15" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-cpv.t" />
-      <jump line="4549" column="13" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="102" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="2194" column="0" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/DB/Dsp.pm" />
-      <jump line="32" column="32" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
-      <jump line="233" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="266" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="42" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1095,6 +1090,14 @@
       <jump line="2337" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="638" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" />
+      <jump line="52" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" />
+      <jump line="80" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
+      <jump line="63" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
+      <jump line="107" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
+      <jump line="79" column="8" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
+      <jump line="129" column="4" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1756,7 +1759,7 @@
         <text encoding="base64">LT57JGF1ZGllbmNlLT5pZH0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</text>
+        <text encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21wdGhlc2UoMV8wMDBfMDAwLCB7Cg==</text>
@@ -1799,9 +1802,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</last-search>
+      <last-search encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1898,6 +1901,9 @@
         <entry encoding="base64">XDx7XD4=</entry>
         <entry encoding="base64">XDxfZmlsbF9pc19tYWluX3ZpZGVvXD4=</entry>
         <entry encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</entry>
+        <entry encoding="base64">XDxtb2RlbF9pZFw+</entry>
+        <entry encoding="base64">XDxleHRyYWN0aW9uX2FyZ3NcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
