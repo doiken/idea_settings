@@ -314,6 +314,7 @@
         <mark key="^" line="24" column="12" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$FOUT_HOME$/sql/grants-local.sql" timestamp="1524468455180" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/load_app_l_interest_v2_ctr_model.hql" timestamp="1513072690257">
         <mark key="[" line="5" column="107" />
         <mark key="]" line="5" column="19" />
@@ -357,7 +358,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524466239806">
+      <file name="/Dummy.txt" timestamp="1524468414693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -444,8 +445,12 @@
         <mark key="." line="66" column="42" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/DB/Mixin.pm" timestamp="1523867159225" />
-      <file name="$FOUT_HOME$/config.yaml" timestamp="1524465686127">
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1524468462772">
         <mark key="'" line="1500" column="20" />
+        <mark key="[" line="615" column="22" />
+        <mark key="]" line="615" column="0" />
+        <mark key="." line="615" column="0" />
+        <mark key="^" line="615" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" timestamp="1523867121843">
         <mark key="'" line="2194" column="0" />
@@ -542,8 +547,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" timestamp="1522658721747">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1523265786133">
-        <mark key="'" line="63" column="58" />
+      <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1524468433117">
+        <mark key="'" line="85" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1523426968679" />
       <file name="$FOUT_HOME$/t/fout/conv/register/cross_device_custom_log.t" timestamp="1520402370945">
@@ -745,10 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="16" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
-      <jump line="6" column="21" filename="$FOUT_HOME$/lib/FOut/UniqueID/AudienceProxy.pm" />
-      <jump line="718" column="0" filename="$FOUT_HOME$/lib/FOut/UniqueID/AudienceProxy.pm" />
-      <jump line="480" column="0" filename="$FOUT_HOME$/lib/FOut/UniqueID/AudienceProxy.pm" />
       <jump line="186" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="182" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
@@ -845,6 +846,10 @@
       <jump line="18" column="23" filename="$FOUT_HOME$/t/lib/Test/FOut/mysqld.pm" />
       <jump line="23" column="8" filename="$FOUT_HOME$/t/lib/Test/FOut/mysqld.pm" />
       <jump line="81" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/mysqld.pm" />
+      <jump line="80" column="8" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
+      <jump line="83" column="44" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
+      <jump line="84" column="13" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
+      <jump line="85" column="34" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -856,8 +861,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNsZWVwIDYwOwo=</text>
+      <register name="&quot;" type="4">
+        <text>p_filter_ads</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1503,10 +1508,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>p_filter_ads</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYmhcPg==</text>
+        <text encoding="base64">XDxkc25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21wdGhlc2UoMV8wMDBfMDAwLCB7Cg==</text>
@@ -1549,9 +1554,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYmhcPg==</last-search>
+      <last-search encoding="base64">XDxkc25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYmhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkc25cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1665,6 +1670,8 @@
         <entry encoding="base64">XDxhYm5vcm1hbENWUkZpbHRlclw+</entry>
         <entry encoding="base64">XDxteXNxbGRcPg==</entry>
         <entry encoding="base64">XDxkYmhcPg==</entry>
+        <entry encoding="base64">XDxjb25mXD4=</entry>
+        <entry encoding="base64">XDxkc25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
