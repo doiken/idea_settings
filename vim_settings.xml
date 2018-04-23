@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Alarm.pm" timestamp="1524463628817" />
       <file name="$FOUT_HOME$/t/fout/bid/match/get_ads_by_adgroup.t" timestamp="1522230090089">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="19" column="23" />
@@ -395,8 +396,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1524041420673">
-        <mark key="'" line="1467" column="13" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1524463612786">
+        <mark key="'" line="1039" column="53" />
         <mark key="[" line="425" column="33" />
         <mark key="]" line="425" column="45" />
         <mark key="^" line="425" column="74" />
@@ -728,7 +729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="11" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="27" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="30" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
@@ -828,6 +828,7 @@
       <jump line="101" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="256" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="88" column="12" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
+      <jump line="1039" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
