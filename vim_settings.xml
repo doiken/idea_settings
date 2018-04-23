@@ -670,6 +670,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1522054297110">
         <mark key="'" line="67" column="26" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1524474261362">
+        <mark key="'" line="37" column="8" />
+        <mark key="^" line="205" column="28" />
+        <mark key="." line="205" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cvr_image.yml" timestamp="1524190587253" />
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Redirect.pm" timestamp="1523351660586">
         <mark key="'" line="60" column="3" />
@@ -750,7 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
       <jump line="624" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="34" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
@@ -850,6 +854,7 @@
       <jump line="84" column="13" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="85" column="34" filename="$FOUT_HOME$/t/lib/t/Utils.pm" />
       <jump line="3424" column="49" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="37" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1511,7 +1516,7 @@
         <text>p_filter_ads</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkc25cPg==</text>
+        <text encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21wdGhlc2UoMV8wMDBfMDAwLCB7Cg==</text>
@@ -1554,9 +1559,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkc25cPg==</last-search>
+      <last-search encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkc25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1672,6 +1677,7 @@
         <entry encoding="base64">XDxkYmhcPg==</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxkc25cPg==</entry>
+        <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
