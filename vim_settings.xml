@@ -10,6 +10,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1524552276997" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" timestamp="1524131894355">
         <mark key="'" line="9" column="19" />
       </file>
@@ -236,12 +237,6 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1523859888658">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1524040961925">
         <mark key="'" line="96" column="4" />
       </file>
@@ -316,6 +311,13 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1522218415492">
         <mark key="'" line="218" column="29" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1524551984930">
+        <mark key="'" line="94" column="21" />
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="87" column="40" />
+        <mark key="^" line="93" column="20" />
+        <mark key="." line="87" column="40" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Test/FOut/mysqld.pm" timestamp="1524531982030">
         <mark key="'" line="21" column="8" />
@@ -496,18 +498,6 @@
         <mark key="^" line="26" column="26" />
         <mark key="." line="26" column="26" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/basic.t" timestamp="1523946497898">
-        <mark key="[" line="201" column="21" />
-        <mark key="]" line="201" column="21" />
-        <mark key="." line="201" column="21" />
-        <mark key="^" line="201" column="14" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/AudienceProxy.pm" timestamp="1524038699104">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/infeed_filterred_ads.t" timestamp="1522228960478">
         <mark key="[" line="96" column="24" />
         <mark key="]" line="65" column="26" />
@@ -623,12 +613,6 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1522140874314">
         <mark key="'" line="59" column="18" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/hoge.t" timestamp="1524478231618">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="8" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" timestamp="1524183897360">
         <mark key="'" line="63" column="9" />
       </file>
@@ -668,12 +652,6 @@
         <mark key="]" line="114" column="29" />
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1523850624787">
-        <mark key="[" line="598" column="21" />
-        <mark key="]" line="598" column="15" />
-        <mark key="." line="598" column="15" />
-        <mark key="^" line="598" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1523957105843">
         <mark key="'" line="42" column="12" />
@@ -731,12 +709,6 @@
         <mark key="'" line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cvr_image.yml" timestamp="1524190587253" />
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" timestamp="1523857674716">
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Redirect.pm" timestamp="1523351660586">
         <mark key="'" line="60" column="3" />
         <mark key="[" line="73" column="0" />
@@ -921,8 +893,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1568,7 +1540,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MSA8IDEw</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib2R5XD4=</text>
