@@ -24,14 +24,17 @@
         <mark key="." line="2" column="6" />
       </file>
       <file name="/Match.pm" timestamp="1524711032712" />
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" timestamp="1525156404005">
-        <mark key="'" line="158" column="13" />
+      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" timestamp="1525164651297">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1524730651037">
         <mark key="'" line="227" column="13" />
       </file>
       <file name="$FOUT_HOME$/t/lib/t/API.pm" timestamp="1524474919821">
         <mark key="'" line="1201" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" timestamp="1525162409082">
+        <mark key="'" line="80" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" timestamp="1524127508737">
         <mark key="'" line="107" column="26" />
@@ -483,8 +486,12 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1525157640004">
-        <mark key="'" line="147" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1525165205625">
+        <mark key="'" line="127" column="11" />
+        <mark key="[" line="141" column="14" />
+        <mark key="]" line="141" column="14" />
+        <mark key="." line="141" column="14" />
+        <mark key="^" line="141" column="14" />
       </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/dmp/segment_block.t" timestamp="1524035536596">
         <mark key="'" line="64" column="4" />
@@ -880,7 +887,7 @@
         <mark key="^" line="71" column="139" />
         <mark key="." line="71" column="139" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1522718600134">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1525162372139">
         <mark key="'" line="53" column="28" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRMFMPrediction.pm" timestamp="1525139639199">
@@ -911,25 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1240" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1233" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="2355" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="925" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="936" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="46" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="926" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="51" column="8" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="49" column="8" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="50" column="8" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="85" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="86" column="47" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="14" column="9" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="16" column="29" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="30" column="20" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="255" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
-      <jump line="16" column="8" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker/RFP.pm" />
-      <jump line="19" column="47" filename="$FOUT_HOME$/lib/FOut/Infeed/VideoChecker.pm" />
-      <jump line="993" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="566" column="32" filename="/Bid.pm" />
       <jump line="515" column="11" filename="/Bid.pm" />
       <jump line="562" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -967,7 +955,6 @@
       <jump line="436" column="28" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
       <jump line="437" column="5" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
       <jump line="515" column="4" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
-      <jump line="79" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="204" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="66" column="18" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="80" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
@@ -1008,9 +995,29 @@
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="158" column="13" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="111" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
-      <jump line="82" column="5" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="137" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="147" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="79" column="21" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="80" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
+      <jump line="39" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="82" column="5" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="91" column="9" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="136" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="94" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="105" column="40" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="106" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="109" column="27" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="112" column="21" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="97" column="31" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="88" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="120" column="19" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="115" column="21" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="111" column="12" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="98" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="127" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="41" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="173" column="13" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="3" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1022,8 +1029,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAkYmlkLT57YmlkX2RhdGF9e2NwX3BlcmZvcm1hbmNlX2luZGljYXRvcn0gZXEgJyc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1669,10 +1676,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxudW1fb2ZfZmVhdHNcPg==</text>
+        <text encoding="base64">XDxyb3dzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>($responsed_image_asset_size_str, $requested_image_size_str, $type)</text>
@@ -1715,9 +1722,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxudW1fb2ZfZmVhdHNcPg==</last-search>
+      <last-search encoding="base64">XDxyb3dzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxudW1fb2ZfZmVhdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb3dzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1886,8 +1893,14 @@
         <entry encoding="base64">XDxjbGlja19kYXRhXD4=</entry>
         <entry encoding="base64">XDxkc3BfY2hhcmdlX3ByaWNlXD4=</entry>
         <entry encoding="base64">XDxzZXRfdG9fZ2V0ZGF0YVw+</entry>
-        <entry encoding="base64">XDxzZWdtZW50X2NvdW50c1w+</entry>
         <entry encoding="base64">XDxudW1fb2ZfZmVhdHNcPg==</entry>
+        <entry encoding="base64">XDxfcHJlZGljdF9saW5lX2RlbW9ncmFwaGljc19hcHBcPg==</entry>
+        <entry encoding="base64">XDxfY29sbGVjdF9zZWdtZW50X2lkc1w+</entry>
+        <entry encoding="base64">XDxzZWdtZW50X2NvdW50c1w+</entry>
+        <entry encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</entry>
+        <entry encoding="base64">XDxmZWF0c19tYXBcPg==</entry>
+        <entry encoding="base64">XDxmZWF0c19ieV9jbHNcPg==</entry>
+        <entry encoding="base64">XDxyb3dzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
