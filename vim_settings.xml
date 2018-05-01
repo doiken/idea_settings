@@ -24,8 +24,8 @@
         <mark key="." line="2" column="6" />
       </file>
       <file name="/Match.pm" timestamp="1524711032712" />
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" timestamp="1525164651297">
-        <mark key="'" line="3" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" timestamp="1525167517780">
+        <mark key="'" line="12" column="36" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1524730651037">
         <mark key="'" line="227" column="13" />
@@ -434,7 +434,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525159923060">
+      <file name="/Dummy.txt" timestamp="1525166425114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -806,6 +806,9 @@
         <mark key="^" line="69" column="27" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" timestamp="1525165697156">
+        <mark key="'" line="28" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1522054297110">
         <mark key="'" line="67" column="26" />
       </file>
@@ -918,17 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="566" column="32" filename="/Bid.pm" />
-      <jump line="515" column="11" filename="/Bid.pm" />
-      <jump line="562" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="592" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="640" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="593" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="180" column="4" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="197" column="52" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="199" column="2" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="225" column="17" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
       <jump line="144" column="29" filename="$FOUT_HOME$/t/fout/infeed/imageconvert.t" />
       <jump line="24" column="42" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
       <jump line="60" column="7" filename="$FOUT_HOME$/t/fout/infeed/imageconvert.t" />
@@ -1018,6 +1010,17 @@
       <jump line="41" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="173" column="13" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="3" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="28" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
+      <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="180" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="165" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="65" column="21" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="77" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="67" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="95" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="17" column="30" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="12" column="36" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1679,7 +1682,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3dzXD4=</text>
+        <text encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>($responsed_image_asset_size_str, $requested_image_size_str, $type)</text>
@@ -1722,9 +1725,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3dzXD4=</last-search>
+      <last-search encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3dzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1901,6 +1904,8 @@
         <entry encoding="base64">XDxmZWF0c19tYXBcPg==</entry>
         <entry encoding="base64">XDxmZWF0c19ieV9jbHNcPg==</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
+        <entry encoding="base64">XDxLRVlfRkVBVFNfQ0xTXD4=</entry>
+        <entry encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
