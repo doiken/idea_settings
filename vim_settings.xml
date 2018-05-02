@@ -306,6 +306,7 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ldemographicpredict/l_demographic_load_data.hql" timestamp="1525167918973" />
       <file name="$FOUT_HOME$/t/fout/bid/match/match_word-max_lookup.t" timestamp="1522202858265">
         <mark key="[" line="26" column="26" />
         <mark key="]" line="16" column="18" />
@@ -347,7 +348,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore.pm" timestamp="1525154589287">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1524127545049" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1525168007684" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-googlevideo.t" timestamp="1522227874715">
         <mark key="[" line="40" column="21" />
         <mark key="]" line="40" column="23" />
@@ -434,7 +435,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525166425114">
+      <file name="/Dummy.txt" timestamp="1525168009363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -486,12 +487,12 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1525165205625">
-        <mark key="'" line="127" column="11" />
-        <mark key="[" line="141" column="14" />
-        <mark key="]" line="141" column="14" />
-        <mark key="." line="141" column="14" />
-        <mark key="^" line="141" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" timestamp="1525169639378">
+        <mark key="'" line="136" column="30" />
+        <mark key="[" line="89" column="60" />
+        <mark key="]" line="90" column="8" />
+        <mark key="." line="90" column="8" />
+        <mark key="^" line="90" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/dmp/segment_block.t" timestamp="1524035536596">
         <mark key="'" line="64" column="4" />
@@ -514,6 +515,9 @@
         <mark key="]" line="471" column="17" />
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1525167643732">
+        <mark key="'" line="152" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" timestamp="1523005478523">
         <mark key="'" line="44" column="10" />
@@ -581,8 +585,8 @@
         <mark key="^" line="65" column="26" />
         <mark key="." line="96" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" timestamp="1525156406243">
-        <mark key="'" line="111" column="22" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" timestamp="1525168274965">
+        <mark key="'" line="137" column="8" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/bidding_by_cross_device_mapping.t" timestamp="1522202761516">
         <mark key="[" line="57" column="32" />
@@ -620,6 +624,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="44" column="9" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1525167803081">
+        <mark key="'" line="152" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1524188282390">
         <mark key="'" line="88" column="12" />
@@ -661,12 +668,6 @@
         <mark key="'" line="85" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1523426968679" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1525155643186">
-        <mark key="'" line="276" column="26" />
-        <mark key="[" line="232" column="53" />
-        <mark key="]" line="232" column="66" />
-        <mark key="^" line="205" column="5" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/conv/register/cross_device_custom_log.t" timestamp="1520402370945">
         <mark key="[" line="144" column="28" />
         <mark key="]" line="144" column="30" />
@@ -921,25 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="29" filename="$FOUT_HOME$/t/fout/infeed/imageconvert.t" />
-      <jump line="24" column="42" filename="$FOUT_HOME$/lib/FOut/Infeed/ImageConvert.pm" />
-      <jump line="60" column="7" filename="$FOUT_HOME$/t/fout/infeed/imageconvert.t" />
-      <jump line="102" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="226" column="33" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
-      <jump line="227" column="13" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
-      <jump line="1288" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="206" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="209" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="213" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="214" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="199" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1300" column="68" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="838" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="841" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="950" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="276" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
-      <jump line="172" column="19" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="2543" column="12" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="81" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3897" column="68" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="153" column="49" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
@@ -987,14 +969,12 @@
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="158" column="13" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="111" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
-      <jump line="137" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="147" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="79" column="21" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="80" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" />
       <jump line="39" column="4" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="82" column="5" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="91" column="9" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
-      <jump line="136" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="94" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="105" column="40" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="106" column="25" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
@@ -1021,6 +1001,27 @@
       <jump line="95" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="17" column="30" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="12" column="36" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
+      <jump line="125" column="4" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="152" column="4" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="38" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="99" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="152" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="83" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="119" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="134" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="146" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="149" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="136" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="159" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="137" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
+      <jump line="138" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="87" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="102" column="39" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="103" column="26" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="89" column="8" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="137" column="29" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="92" column="9" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
+      <jump line="136" column="30" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1682,7 +1683,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</text>
+        <text encoding="base64">XDxjbnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>($responsed_image_asset_size_str, $requested_image_size_str, $type)</text>
@@ -1725,9 +1726,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</last-search>
+      <last-search encoding="base64">XDxjbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjbnRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1900,12 +1901,22 @@
         <entry encoding="base64">XDxfcHJlZGljdF9saW5lX2RlbW9ncmFwaGljc19hcHBcPg==</entry>
         <entry encoding="base64">XDxfY29sbGVjdF9zZWdtZW50X2lkc1w+</entry>
         <entry encoding="base64">XDxzZWdtZW50X2NvdW50c1w+</entry>
-        <entry encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</entry>
         <entry encoding="base64">XDxmZWF0c19tYXBcPg==</entry>
         <entry encoding="base64">XDxmZWF0c19ieV9jbHNcPg==</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDxLRVlfRkVBVFNfQ0xTXD4=</entry>
         <entry encoding="base64">XDxLRVlfUk9XU19DTFNcPg==</entry>
+        <entry encoding="base64">XDxfY291bnRfYWxsX3NlZ21lbnRfaWRzXD4=</entry>
+        <entry encoding="base64">XDxocWxfdHJhaW5pbmdfZmlsZVw+</entry>
+        <entry encoding="base64">XDxfY291bnRfdHJhaW5pbmdfZGF0YXNcPg==</entry>
+        <entry encoding="base64">XDxfaGl2ZV9xdWVyeV9mb3JfbGluZV9kZW1vZ3JhcGhpY19jb3VudHNcPg==</entry>
+        <entry encoding="base64">XDxfZHVtcF90cmFpbmluZ19kYXRhc1w+</entry>
+        <entry encoding="base64">XDxkYXRhX2NvdW50XD4=</entry>
+        <entry encoding="base64">XDxzZWdtZW50X2NvdW50XD4=</entry>
+        <entry encoding="base64">XDx0b3RhbF9zZWdtZW50X2NvdW50XD4=</entry>
+        <entry encoding="base64">XDxyb3dzX2J5X2Nsc1w+</entry>
+        <entry encoding="base64">XDxmZWF0c19ieV9jbHNfZmVhdFw+</entry>
+        <entry encoding="base64">XDxjbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
