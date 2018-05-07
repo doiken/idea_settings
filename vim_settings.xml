@@ -437,7 +437,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525239791421">
+      <file name="/Dummy.txt" timestamp="1525661900391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -505,8 +505,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1525239789937">
-        <mark key="'" line="1254" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1525662528053">
+        <mark key="'" line="293" column="4" />
         <mark key="[" line="425" column="33" />
         <mark key="]" line="425" column="45" />
         <mark key="^" line="425" column="74" />
@@ -816,8 +816,8 @@
         <mark key="'" line="67" column="26" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" timestamp="1524561085960" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1525240599975">
-        <mark key="'" line="41" column="36" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1525662226544">
+        <mark key="'" line="500" column="4" />
         <mark key="^" line="205" column="28" />
         <mark key="." line="205" column="28" />
       </file>
@@ -929,9 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="4" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
-      <jump line="204" column="11" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
-      <jump line="66" column="18" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="80" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
       <jump line="56" column="0" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/DAO/NaiveBayesModelRole.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRMFMPrediction.pm" />
@@ -1029,6 +1026,9 @@
       <jump line="35" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="1254" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="41" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="293" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="500" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1690,7 +1690,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</text>
+        <text encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>($responsed_image_asset_size_str, $requested_image_size_str, $type)</text>
@@ -1733,9 +1733,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</last-search>
+      <last-search encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1930,6 +1930,8 @@
         <entry encoding="base64">XDxiX3ByaWNlXD4=</entry>
         <entry encoding="base64">XDxwcmljZV9ncm9zc19vcmlnaW5hbFw+</entry>
         <entry encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</entry>
+        <entry encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</entry>
+        <entry encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
