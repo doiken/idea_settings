@@ -263,8 +263,8 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Impl/Campaign.pm" timestamp="1525244333958" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1525774254305" />
       <file name="$FOUT_HOME$/lib/FOut/API/Validator/Bid.pm" timestamp="1525159978563" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Util.pm" timestamp="1522832265409">
-        <mark key="'" line="113" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Util.pm" timestamp="1525854197750">
+        <mark key="'" line="19" column="8" />
       </file>
       <file name="/Charge.pm" timestamp="1524547664966" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
@@ -463,7 +463,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525775650234">
+      <file name="/Dummy.txt" timestamp="1525854181583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -971,6 +971,9 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="13" column="12" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1525854226869">
+        <mark key="'" line="159" column="8" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1523958685333" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1525154599103" />
       <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1525238936214">
@@ -978,9 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
-      <jump line="149" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
-      <jump line="136" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
       <jump line="159" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
       <jump line="137" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/LDemographicPrediction.pm" />
       <jump line="138" column="16" filename="$FOUT_HOME$/lib/FOut/LDemogrPred/Predictor.pm" />
@@ -1078,6 +1078,9 @@
       <jump line="61" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
       <jump line="34" column="5" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="104" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Util.pm" />
+      <jump line="19" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Util.pm" />
+      <jump line="159" column="8" filename="$FOUT_HOME$/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1739,7 +1742,7 @@
         <text>@</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</text>
+        <text encoding="base64">XDxzdWZmaXhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ZiAnJWQlZCVkJywgQCRoYXNoX3JlZntxdy9mb28gYmFyIGJhei99Cg==</text>
@@ -1782,9 +1785,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxzdWZmaXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdWZmaXhcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2003,6 +2006,8 @@
         <entry encoding="base64">XDxtYXliZV9hZGRpdGlvbmFsX2NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxfaGl2ZV9xdWVyeV9mb3JfbW9kZWxfcGFyYW1cPg==</entry>
         <entry encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxyZWFkX2hkYl9maWxlX3N1ZmZpeFw+</entry>
+        <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
