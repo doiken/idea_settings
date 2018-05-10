@@ -304,8 +304,8 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1525833671594">
-        <mark key="'" line="69" column="18" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1525924828601">
+        <mark key="'" line="83" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1525775678869">
         <mark key="'" line="85" column="15" />
@@ -337,6 +337,9 @@
         <mark key="^" line="5" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" timestamp="1525774791452" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/D2C.pm" timestamp="1525924703644">
+        <mark key="'" line="29" column="104" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/Types.pm" timestamp="1525854890452">
         <mark key="'" line="26" column="4" />
       </file>
@@ -465,7 +468,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525859980313">
+      <file name="/Dummy.txt" timestamp="1525924928881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -546,7 +549,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1525748240071">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1525924834902">
         <mark key="'" line="274" column="4" />
         <mark key="[" line="425" column="33" />
         <mark key="]" line="425" column="45" />
@@ -959,14 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
-      <jump line="99" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="5" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRMFMPrediction.pm" />
-      <jump line="36" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="31" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="23" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="8" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
       <jump line="48" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
       <jump line="54" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
       <jump line="26" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
@@ -1059,6 +1054,14 @@
       <jump line="69" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
       <jump line="20" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
+      <jump line="29" column="104" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/D2C.pm" />
+      <jump line="45" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="250" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="19" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="61" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="62" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="70" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="83" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1720,7 +1723,7 @@
         <text>container('fuga')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlc1w+</text>
+        <text>infeed</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JGNvbnRhaW5lci0+Z2V0KCdob2dlJyk=</text>
@@ -1763,9 +1766,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlc1w+</last-search>
+      <last-search>infeed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlc1w+</last-pattern>
+      <last-pattern>infeed</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1996,6 +1999,7 @@
         <entry encoding="base64">XDxtb2RhbFw+</entry>
         <entry encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
+        <entry>infeed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
