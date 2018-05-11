@@ -93,8 +93,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526028548343">
-        <mark key="'" line="33" column="8" />
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526029366984">
+        <mark key="'" line="42" column="4" />
         <mark key="[" line="71" column="16" />
         <mark key="]" line="71" column="20" />
         <mark key="^" line="71" column="20" />
@@ -376,7 +376,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526025258085">
+      <file name="/Dummy.txt" timestamp="1526029450657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -702,7 +702,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" timestamp="1525743189012">
         <mark key="'" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1526019892076">
+      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1526029390004">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="10" />
       </file>
@@ -794,12 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="2" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
-      <jump line="63" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
-      <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
-      <jump line="47" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
-      <jump line="23" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="45" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="56" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="57" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
@@ -894,6 +888,12 @@
       <jump line="24" column="28" filename="$USER_HOME$/Documents/fout_hubot/package.json" />
       <jump line="42" column="8" filename="$USER_HOME$/Documents/callout/lib/CallOut/Api/Slack.pm" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="94" column="58" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="13" column="36" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="16" column="4" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="42" column="4" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1555,7 +1555,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsYmFja1w+</text>
+        <text encoding="base64">XDxtZW1iZXJJZFw+</text>
       </register>
       <register name="0" type="4">
         <text>PORT</text>
@@ -1598,9 +1598,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
+      <last-search encoding="base64">XDxtZW1iZXJJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtZW1iZXJJZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1634,6 +1634,8 @@
         <entry encoding="base64">XDxyZXNcPg==</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxyYW5kb21fZ3JvdXBcPg==</entry>
+        <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
