@@ -114,7 +114,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526018792000">
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526020296804">
         <mark key="'" line="56" column="2" />
         <mark key="[" line="71" column="16" />
         <mark key="]" line="71" column="20" />
@@ -172,6 +172,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" timestamp="1526020669438">
+        <mark key="'" line="40" column="5" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/prepare_mraid.pl" timestamp="1522202771909">
         <mark key="[" line="25" column="40" />
@@ -449,7 +452,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526018993051">
+      <file name="/Dummy.txt" timestamp="1526021401062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -539,6 +542,7 @@
         <mark key="^" line="425" column="74" />
         <mark key="." line="425" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/README.md" timestamp="1526021032580" />
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
         <mark key="[" line="471" column="17" />
         <mark key="]" line="471" column="17" />
@@ -773,6 +777,7 @@
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/http-post-say.coffee" timestamp="1526020758484" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1525775547931">
         <mark key="'" line="85" column="8" />
       </file>
@@ -830,7 +835,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" timestamp="1525743189012">
         <mark key="'" line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1526018922346" />
+      <file name="$USER_HOME$/Documents/fout_hubot/hubot.env" timestamp="1526019892076">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="10" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1524547004096">
         <mark key="'" line="41" column="4" />
       </file>
@@ -940,7 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="30" column="82" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LCPCPcvrDropRateBoost.pm" />
       <jump line="25" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LCPCPcvrDropRateBoost.pm" />
@@ -1040,6 +1047,7 @@
       <jump line="56" column="2" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/github-commits.coffee" />
       <jump line="27" column="47" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/github-commits.coffee" />
+      <jump line="40" column="5" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1052,7 +1060,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>PORT</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1703,8 +1711,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nIGRhdGEK</text>
+      <register name="0" type="4">
+        <text>PORT</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJvYm90LmxvZ2dlci5pbmZvKGRhdGEpCg==</text>
