@@ -93,8 +93,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526029366984">
-        <mark key="'" line="42" column="4" />
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526030294037">
+        <mark key="'" line="45" column="8" />
         <mark key="[" line="71" column="16" />
         <mark key="]" line="71" column="20" />
         <mark key="^" line="71" column="20" />
@@ -794,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="56" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="57" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="61" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
@@ -894,6 +893,7 @@
       <jump line="16" column="4" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
       <jump line="42" column="4" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
+      <jump line="45" column="8" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1555,7 +1555,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW1iZXJJZFw+</text>
+        <text encoding="base64">XDxtc2dcPg==</text>
       </register>
       <register name="0" type="4">
         <text>PORT</text>
@@ -1598,9 +1598,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW1iZXJJZFw+</last-search>
+      <last-search encoding="base64">XDxtc2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW1iZXJJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtc2dcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,6 +1636,7 @@
         <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxyYW5kb21fZ3JvdXBcPg==</entry>
         <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
+        <entry encoding="base64">XDxtc2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
