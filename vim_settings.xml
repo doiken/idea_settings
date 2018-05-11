@@ -93,8 +93,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526020296804">
-        <mark key="'" line="56" column="2" />
+      <file name="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" timestamp="1526028548343">
+        <mark key="'" line="33" column="8" />
         <mark key="[" line="71" column="16" />
         <mark key="]" line="71" column="20" />
         <mark key="^" line="71" column="20" />
@@ -209,6 +209,7 @@
         <mark key="'" line="42" column="13" />
       </file>
       <file name="/hubot.env" timestamp="1526017224964" />
+      <file name="$USER_HOME$/Documents/callout/config.pl" timestamp="1526028265523" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="83" column="45" />
@@ -655,6 +656,9 @@
         <mark key="^" line="114" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/http-post-say.coffee" timestamp="1526020758484" />
+      <file name="$USER_HOME$/Documents/callout/lib/CallOut/Api/Slack.pm" timestamp="1526028305191">
+        <mark key="'" line="42" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1525775547931">
         <mark key="'" line="85" column="8" />
       </file>
@@ -790,8 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LCPCPcvrDropRateBoost.pm" />
-      <jump line="36" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LCPCPcvrDropRateBoost.pm" />
       <jump line="19" column="2" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="63" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
       <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
@@ -890,6 +892,8 @@
       <jump line="40" column="5" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" />
       <jump line="181" column="2" filename="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" />
       <jump line="24" column="28" filename="$USER_HOME$/Documents/fout_hubot/package.json" />
+      <jump line="42" column="8" filename="$USER_HOME$/Documents/callout/lib/CallOut/Api/Slack.pm" />
+      <jump line="33" column="8" filename="$USER_HOME$/Documents/fout_hubot/scripts/random.coffee" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1551,7 +1555,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNcPg==</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
         <text>PORT</text>
@@ -1594,9 +1598,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNcPg==</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1628,6 +1632,8 @@
         <entry encoding="base64">XDxsZXRcPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxyZXNcPg==</entry>
+        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
