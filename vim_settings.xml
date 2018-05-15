@@ -213,7 +213,7 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" timestamp="1525687190677">
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" timestamp="1526356658087">
         <mark key="'" line="42" column="13" />
       </file>
       <file name="/hubot.env" timestamp="1526017224964" />
@@ -300,6 +300,7 @@
         <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/httpd.coffee" timestamp="1526019015521" />
+      <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cpc_ctr_image.yml" timestamp="1526356580561" />
       <file name="$FOUT_HOME$/t/fout/bid/match/match_dmp_segment_target.t" timestamp="1522202809745">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="51" column="18" />
@@ -372,8 +373,8 @@
       <file name="$FOUT_HOME$/t/fout/cli/bid/segment_expander.t" timestamp="1524035550149">
         <mark key="'" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1525687202745">
-        <mark key="'" line="29" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1526356746203">
+        <mark key="'" line="35" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1525155564720">
         <mark key="'" line="532" column="5" />
@@ -396,7 +397,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526352693593">
+      <file name="/Dummy.txt" timestamp="1526356755083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -487,8 +488,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1525743111938">
         <mark key="'" line="30" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1525687193408">
-        <mark key="'" line="47" column="51" />
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1526356633391">
+        <mark key="'" line="45" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/help.coffee" timestamp="1526024772952" />
       <file name="$FOUT_HOME$/t/fout/bid/adserver/hitokuse.t" timestamp="1522145436134">
@@ -819,11 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Util.pm" />
-      <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Util.pm" />
-      <jump line="200" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
-      <jump line="273" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
-      <jump line="274" column="100" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
       <jump line="339" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
       <jump line="363" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
       <jump line="370" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
@@ -919,6 +915,11 @@
       <jump line="10" column="6" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" />
       <jump line="678" column="20" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" />
       <jump line="98" column="27" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pod" />
+      <jump line="98" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" />
+      <jump line="94" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" />
+      <jump line="45" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" />
+      <jump line="29" column="31" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1580,7 +1581,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW50X21lc3NhZ2VzXD4=</text>
+        <text encoding="base64">XDxtYXliZURvU3ViU2FtcGxpbmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>PORT</text>
@@ -1623,9 +1624,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW50X21lc3NhZ2VzXD4=</last-search>
+      <last-search encoding="base64">XDxtYXliZURvU3ViU2FtcGxpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW50X21lc3NhZ2VzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXliZURvU3ViU2FtcGxpbmdcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1670,6 +1671,9 @@
         <entry encoding="base64">XDxyZXNwb25zZU1pZGRsZXdhcmVEb25lXD4=</entry>
         <entry encoding="base64">XDxydW5BZGFwdGVyU2VuZFw+</entry>
         <entry encoding="base64">XDxzZW50X21lc3NhZ2VzXD4=</entry>
+        <entry encoding="base64">XDxkZXNlcmlhbGl6ZU9wdGlvbmFsUGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxzdWJTYW1wbGluZ1JhdGVcPg==</entry>
+        <entry encoding="base64">XDxtYXliZURvU3ViU2FtcGxpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
