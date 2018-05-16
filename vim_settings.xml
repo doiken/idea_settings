@@ -375,12 +375,12 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1526443283981">
-        <mark key="'" line="92" column="16" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="89" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1526448739958">
+        <mark key="'" line="93" column="13" />
+        <mark key="[" line="93" column="12" />
+        <mark key="]" line="93" column="11" />
+        <mark key="." line="93" column="11" />
+        <mark key="^" line="93" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1526443239686">
         <mark key="'" line="3" column="0" />
@@ -552,8 +552,8 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1526438411990">
-        <mark key="'" line="230" column="11" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Format.pm" timestamp="1526448302419">
+        <mark key="'" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" timestamp="1523867121843">
         <mark key="'" line="2194" column="0" />
@@ -898,14 +898,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="21" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="22" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="23" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="28" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="16" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="83" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="93" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
       <jump line="57" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="78" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
@@ -979,7 +976,6 @@
       <jump line="1264" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1184" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="164" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
-      <jump line="230" column="11" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="138" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="127" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="123" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
@@ -998,6 +994,10 @@
       <jump line="61" column="25" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
       <jump line="259" column="10" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
+      <jump line="230" column="12" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
+      <jump line="33" column="9" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
+      <jump line="89" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="93" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1009,8 +1009,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdmFsdWVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>+{}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1656,10 +1656,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>+{}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEdW1wZXJcPg==</text>
+        <text encoding="base64">XDx2YWx1ZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$hash_ref2</text>
@@ -1702,9 +1702,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEdW1wZXJcPg==</last-search>
+      <last-search encoding="base64">XDx2YWx1ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEdW1wZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YWx1ZXNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1804,6 +1804,7 @@
         <entry encoding="base64">XDxtXD4=</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVfY29sdW1uc1w+</entry>
         <entry encoding="base64">XDxEdW1wZXJcPg==</entry>
+        <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
