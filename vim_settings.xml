@@ -378,11 +378,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1526381256421">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="90" column="16" />
-        <mark key="]" line="90" column="21" />
-        <mark key="." line="90" column="21" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" timestamp="1526436034384">
+        <mark key="'" line="124" column="4" />
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="9" />
         <mark key="^" line="90" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1525857153851">
@@ -888,11 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="63" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="25" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="133" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="42" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="43" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
@@ -988,6 +983,11 @@
       <jump line="26" column="4" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" />
       <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" />
       <jump line="219" column="11" filename="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" />
+      <jump line="19" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="6" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="155" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="166" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="124" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1000,7 +1000,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>foo</text>
+        <text>$sums</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1646,13 +1646,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>$sums</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXBkYXRlX3Jldmlld19zdGF0dXNcPg==</text>
+        <text encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>$foo</text>
+        <text>$v_sum_vec</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -1692,9 +1692,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXBkYXRlX3Jldmlld19zdGF0dXNcPg==</last-search>
+      <last-search encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXBkYXRlX3Jldmlld19zdGF0dXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1778,12 +1778,13 @@
         <entry encoding="base64">XDxtX3ZhbHVlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</entry>
         <entry encoding="base64">XDxfcHJlZGljdF9wcm9iYV9pbnRlcm5hbFw+</entry>
-        <entry encoding="base64">XDx2X3N1bV92ZWNcPg==</entry>
-        <entry encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</entry>
         <entry encoding="base64">XDxjYWNoZWRfdmFsdWVzXD4=</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxkdW1wX2FkZ3JwX2Fkc1w+</entry>
         <entry encoding="base64">XDxfdXBkYXRlX3Jldmlld19zdGF0dXNcPg==</entry>
+        <entry encoding="base64">XDxzcXVhcmVfc3BhcnNlX3ZlY3Rvclw+</entry>
+        <entry encoding="base64">XDx2X3N1bV92ZWNcPg==</entry>
+        <entry encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
