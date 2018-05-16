@@ -394,8 +394,8 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1526351952234">
-        <mark key="'" line="659" column="34" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1526437354989">
+        <mark key="'" line="1184" column="66" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/BidPriceEstimation.pm" timestamp="1522051018670">
         <mark key="'" line="147" column="8" />
@@ -566,6 +566,7 @@
         <mark key="." line="455" column="17" />
         <mark key="^" line="455" column="17" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1526437610260" />
       <file name="$FOUT_HOME$/t/fout/bid/match/infeed_filterred_ads.t" timestamp="1522228960478">
         <mark key="[" line="96" column="24" />
         <mark key="]" line="65" column="26" />
@@ -627,9 +628,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/functions/TooHighCVRCampaignGenerator.scala" timestamp="1524186812684">
         <mark key="'" line="22" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCImage.pm" timestamp="1526374210021">
-        <mark key="v" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/middleware.coffee" timestamp="1526033666743">
         <mark key="'" line="69" column="0" />
       </file>
@@ -642,7 +640,7 @@
       <file name="/Bid.pm" timestamp="1524706548267">
         <mark key="'" line="515" column="11" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1524626507111">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1526437423264">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1522657240304">
@@ -653,6 +651,9 @@
       </file>
       <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1524468433117">
         <mark key="'" line="85" column="34" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1526437530990">
+        <mark key="'" line="293" column="12" />
       </file>
       <file name="$FOUT_HOME$/t/fout/conv/register/cross_device_custom_log.t" timestamp="1520402370945">
         <mark key="[" line="144" column="28" />
@@ -689,6 +690,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Vendor/Hike/BidResponseUtil.pm" timestamp="1525860021002">
         <mark key="'" line="22" column="57" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" timestamp="1526437589726">
+        <mark key="'" line="164" column="31" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1522140874314">
         <mark key="'" line="59" column="18" />
@@ -888,15 +892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="42" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="43" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="130" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="72" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="78" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="293" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="25" column="87" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="67" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="27" column="84" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="18" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
@@ -988,6 +983,15 @@
       <jump line="155" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="166" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="124" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="351" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="293" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="644" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="551" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1268" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1264" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1184" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="164" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1649,7 +1653,7 @@
         <text>$sums</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</text>
+        <text>posi</text>
       </register>
       <register name="0" type="4">
         <text>$v_sum_vec</text>
@@ -1692,9 +1696,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</last-search>
+      <last-search>posi</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</last-pattern>
+      <last-pattern>posi</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1785,6 +1789,9 @@
         <entry encoding="base64">XDxzcXVhcmVfc3BhcnNlX3ZlY3Rvclw+</entry>
         <entry encoding="base64">XDx2X3N1bV92ZWNcPg==</entry>
         <entry encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</entry>
+        <entry encoding="base64">XDxzaXplXD4=</entry>
+        <entry>size</entry>
+        <entry>posi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
