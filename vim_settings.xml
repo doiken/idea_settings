@@ -443,7 +443,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526441294517">
+      <file name="/Dummy.txt" timestamp="1526454122061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -734,6 +734,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" timestamp="1526454238194">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1526373335379">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="60" column="12" />
@@ -752,6 +758,13 @@
         <mark key="]" line="114" column="29" />
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1526454020866">
+        <mark key="'" line="68" column="27" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/http-post-say.coffee" timestamp="1526020758484" />
       <file name="$USER_HOME$/Documents/callout/lib/CallOut/Api/Slack.pm" timestamp="1526028305191">
@@ -898,11 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="23" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="28" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="16" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="83" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
       <jump line="57" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="78" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
@@ -998,6 +1006,11 @@
       <jump line="33" column="9" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
       <jump line="89" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="93" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
+      <jump line="73" column="36" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="68" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1010,7 +1023,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+{}</text>
+        <text>*</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1656,10 +1669,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+{}</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZXNcPg==</text>
+        <text encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>$hash_ref2</text>
@@ -1702,9 +1715,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1805,6 +1818,7 @@
         <entry encoding="base64">XDxhdmFpbGFibGVfY29sdW1uc1w+</entry>
         <entry encoding="base64">XDxEdW1wZXJcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
+        <entry encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
