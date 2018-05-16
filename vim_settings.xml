@@ -443,7 +443,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526454122061">
+      <file name="/Dummy.txt" timestamp="1526454919483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -759,8 +759,8 @@
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1526454020866">
-        <mark key="'" line="68" column="27" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1526454917355">
+        <mark key="'" line="71" column="35" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
@@ -817,6 +817,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" timestamp="1526376796113">
         <mark key="'" line="44" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1526455031264">
+        <mark key="'" line="5" column="38" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1524547004096">
         <mark key="'" line="41" column="4" />
@@ -911,11 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
-      <jump line="57" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
-      <jump line="78" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="128" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="6" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="143" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="114" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="70" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" />
@@ -1011,6 +1009,11 @@
       <jump line="89" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="68" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="71" column="35" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="33" column="2" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
+      <jump line="32" column="2" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
+      <jump line="7" column="72" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
+      <jump line="5" column="38" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1672,7 +1675,7 @@
         <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</text>
+        <text encoding="base64">XDxoaXZlbWFsbFw+</text>
       </register>
       <register name="0" type="4">
         <text>$hash_ref2</text>
@@ -1715,12 +1718,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</last-search>
+      <last-search encoding="base64">XDxoaXZlbWFsbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoaXZlbWFsbFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1819,6 +1822,8 @@
         <entry encoding="base64">XDxEdW1wZXJcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxmZWF0dXJlc190YWJsZVw+</entry>
+        <entry encoding="base64">XDxtaGFzaFw+</entry>
+        <entry encoding="base64">XDxoaXZlbWFsbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
