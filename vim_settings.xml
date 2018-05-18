@@ -531,7 +531,7 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1526016802142">
         <mark key="'" line="2636" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1526622605904">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1526625048353">
         <mark key="'" line="274" column="4" />
         <mark key="[" line="425" column="33" />
         <mark key="]" line="425" column="45" />
@@ -1018,7 +1018,6 @@
       <jump line="1245" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="326" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="293" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="36" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="61" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="241" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
@@ -1044,6 +1043,7 @@
       <jump line="92" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="305" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="102" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1705,7 +1705,7 @@
         <text>adspots_spot_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwY3ZyX2NhbmRpZGF0ZV9sb2dnZXJcPg==</text>
+        <text encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</text>
       </register>
       <register name="0" type="4">
         <text>adserver_spot_id</text>
@@ -1748,9 +1748,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwY3ZyX2NhbmRpZGF0ZV9sb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwY3ZyX2NhbmRpZGF0ZV9sb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1865,7 +1865,6 @@
         <entry encoding="base64">XDxwY3ZyX2NhbmRpZGF0ZV9sb2dcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</entry>
         <entry encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</entry>
         <entry>TEMP</entry>
         <entry encoding="base64">XDxURU1QMVw+</entry>
         <entry encoding="base64">XDxyZnBfbmV0d29ya19pbmRleFw+</entry>
@@ -1876,6 +1875,7 @@
         <entry encoding="base64">XDxDVlJNRk1fUFJFRElDVElPTlw+</entry>
         <entry encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxwY3ZyX2NhbmRpZGF0ZV9sb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
