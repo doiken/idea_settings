@@ -910,7 +910,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1526622045667">
         <mark key="'" line="24" column="4" />
       </file>
-      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1526954621491">
+      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1526958737110">
+        <mark key="'" line="70" column="16" />
         <mark key="[" line="24" column="1" />
         <mark key="]" line="24" column="2" />
         <mark key="." line="24" column="2" />
@@ -953,8 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="116" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="115" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="8" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
       <jump line="338" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1053,6 +1052,8 @@
       <jump line="17" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
       <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
       <jump line="109" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="279" column="12" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
+      <jump line="70" column="16" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
