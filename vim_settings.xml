@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1524650757939">
-        <mark key="'" line="255" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1526972122464">
+        <mark key="'" line="0" column="11" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/get_ads_by_adgroup.t" timestamp="1522230090089">
         <mark key="[" line="12" column="21" />
@@ -546,6 +546,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1525167643732">
         <mark key="'" line="152" column="4" />
       </file>
+      <file name="/InfeedRole.pm" timestamp="1526972249827">
+        <mark key="'" line="139" column="12" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB.pm" timestamp="1525854899117">
         <mark key="'" line="23" column="4" />
       </file>
@@ -955,9 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
-      <jump line="86" column="77" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
-      <jump line="92" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="256" column="9" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="60" column="8" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
       <jump line="61" column="25" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
@@ -1055,6 +1055,9 @@
       <jump line="1481" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1255" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="346" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="0" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="72" column="13" filename="/InfeedRole.pm" />
+      <jump line="139" column="12" filename="/InfeedRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
