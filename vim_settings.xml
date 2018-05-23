@@ -812,8 +812,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1525775547931">
         <mark key="'" line="85" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Request.pm" timestamp="1523327816709">
-        <mark key="'" line="74" column="1" />
+      <file name="$FOUT_HOME$/lib/FOut/Request.pm" timestamp="1527054232273">
+        <mark key="'" line="83" column="46" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/build_bid_data-warn.t" timestamp="1522229953521">
         <mark key="[" line="25" column="42" />
@@ -855,6 +855,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1526455031264">
         <mark key="'" line="5" column="38" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1527054253983">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1524547004096">
         <mark key="'" line="41" column="4" />
@@ -962,8 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="8" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
-      <jump line="61" column="25" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
       <jump line="259" column="10" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
       <jump line="230" column="12" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
@@ -1062,6 +1063,8 @@
       <jump line="72" column="13" filename="/InfeedRole.pm" />
       <jump line="139" column="12" filename="/InfeedRole.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRMFM.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
+      <jump line="83" column="46" filename="$FOUT_HOME$/lib/FOut/Request.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
