@@ -178,8 +178,8 @@
         <mark key="." line="191" column="75" />
         <mark key="^" line="191" column="75" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1526965554816">
-        <mark key="'" line="1255" column="38" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1527138863747">
+        <mark key="'" line="494" column="4" />
         <mark key="[" line="2352" column="0" />
         <mark key="]" line="2352" column="0" />
         <mark key="^" line="2171" column="22" />
@@ -344,6 +344,9 @@
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1523264658098">
         <mark key="'" line="126" column="10" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Click/Request.pm" timestamp="1527138773954">
+        <mark key="'" line="417" column="5" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/mysqld.pm" timestamp="1524465969985">
         <mark key="'" line="81" column="0" />
@@ -965,10 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/perl/structure.pl" />
-      <jump line="230" column="12" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
-      <jump line="33" column="9" filename="$FOUT_HOME$/lib/FOut/Log/Format.pm" />
-      <jump line="89" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="93" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="73" column="36" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
@@ -1065,6 +1064,10 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
       <jump line="83" column="46" filename="$FOUT_HOME$/lib/FOut/Request.pm" />
       <jump line="122" column="30" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" />
+      <jump line="519" column="18" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
+      <jump line="417" column="5" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
+      <jump line="494" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1726,7 +1729,7 @@
         <text>adspots_spot_id</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>adserver_spot_id</text>
@@ -1769,9 +1772,9 @@
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1905,6 +1908,8 @@
         <entry encoding="base64">XDxleHRyYWN0b3JcPg==</entry>
         <entry encoding="base64">XDxiX3ByaWNlXD4=</entry>
         <entry>price</entry>
+        <entry encoding="base64">XDx1c2VyX2lkXD4=</entry>
+        <entry encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
