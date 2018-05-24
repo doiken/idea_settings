@@ -558,7 +558,7 @@
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/reaction-message.coffee" timestamp="1526033133879">
         <mark key="'" line="15" column="17" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" timestamp="1523005478523">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" timestamp="1527153958857">
         <mark key="'" line="44" column="10" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1526622001018">
@@ -663,6 +663,13 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/functions/TooHighCVRCampaignGenerator.scala" timestamp="1524186812684">
         <mark key="'" line="22" column="6" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCImage.pm" timestamp="1527153918623">
+        <mark key="v" line="0" column="0" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/middleware.coffee" timestamp="1526033666743">
         <mark key="'" line="69" column="0" />
@@ -1077,7 +1084,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>warn</text>
+        <text>CTRLineCPCImage</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1723,7 +1730,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>warn</text>
+        <text>CTRLineCPCImage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</text>
