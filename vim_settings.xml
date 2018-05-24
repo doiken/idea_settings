@@ -401,11 +401,11 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1526443239686">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="259" column="58" />
-        <mark key="]" line="259" column="57" />
-        <mark key="." line="259" column="57" />
+      <file name="$USER_HOME$/Documents/perl/structure.pl" timestamp="1527142068782">
+        <mark key="'" line="232" column="41" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="15" />
+        <mark key="." line="269" column="0" />
         <mark key="^" line="259" column="57" />
       </file>
       <file name="$FOUT_HOME$/t/fout/uniqueid/audience/sanitize.t" timestamp="1516184685537">
@@ -968,7 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="73" column="36" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
@@ -1068,6 +1067,7 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
       <jump line="417" column="5" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
       <jump line="494" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="232" column="41" filename="$USER_HOME$/Documents/perl/structure.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1080,7 +1080,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>adspots_spot_id</text>
+        <text>warn</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1726,7 +1726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>adspots_spot_id</text>
+        <text>warn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZHVwbGljYXRlX2FkXD4=</text>
