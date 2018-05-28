@@ -294,8 +294,12 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1526622625089">
-        <mark key="'" line="102" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1527499097699">
+        <mark key="'" line="121" column="4" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1525775678869">
         <mark key="'" line="85" column="15" />
@@ -672,13 +676,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/functions/TooHighCVRCampaignGenerator.scala" timestamp="1524186812684">
         <mark key="'" line="22" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCImage.pm" timestamp="1527153918623">
-        <mark key="v" line="0" column="0" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/middleware.coffee" timestamp="1526033666743">
         <mark key="'" line="69" column="0" />
       </file>
@@ -1000,7 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="97" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="151" column="0" filename="$FOUT_HOME$/t/fout/bid/data/cvr_mfm_prediction.t" />
       <jump line="38" column="14" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
@@ -1100,6 +1096,7 @@
       <jump line="311" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="44" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="144" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1112,7 +1109,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>CTRLineCPCImage</text>
+        <text>e</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1758,7 +1755,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CTRLineCPCImage</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljaW5nXD4=</text>
