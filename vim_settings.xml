@@ -469,7 +469,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527498067968">
+      <file name="/Dummy.txt" timestamp="1527500548729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -909,8 +909,8 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1526965580649">
-        <mark key="'" line="1855" column="18" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1527500559749">
+        <mark key="'" line="314" column="4" />
         <mark key="[" line="1224" column="0" />
         <mark key="]" line="1225" column="17" />
         <mark key="." line="1225" column="17" />
@@ -997,7 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRMFMPrediction.pm" />
       <jump line="151" column="0" filename="$FOUT_HOME$/t/fout/bid/data/cvr_mfm_prediction.t" />
       <jump line="38" column="14" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
       <jump line="42" column="8" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
@@ -1097,6 +1096,7 @@
       <jump line="44" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="144" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1758,7 +1758,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljaW5nXD4=</text>
+        <text encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</text>
       </register>
       <register name="0" type="4">
         <text>adserver_spot_id</text>
@@ -1801,9 +1801,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1952,6 +1952,7 @@
         <entry encoding="base64">XDxhbGdvcml0aG1cPg==</entry>
         <entry encoding="base64">XDxnZXRfaW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxwcmljaW5nXD4=</entry>
+        <entry encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
