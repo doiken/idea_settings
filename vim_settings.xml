@@ -526,8 +526,8 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1526016802142">
         <mark key="'" line="2636" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527566418567">
-        <mark key="'" line="374" column="18" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527572491953">
+        <mark key="'" line="521" column="4" />
         <mark key="[" line="184" column="30" />
         <mark key="]" line="184" column="30" />
         <mark key="^" line="425" column="74" />
@@ -972,7 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" />
       <jump line="1577" column="15" filename="$FOUT_HOME$/config.yaml" />
       <jump line="1573" column="11" filename="$FOUT_HOME$/config.yaml" />
       <jump line="560" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
@@ -1072,6 +1071,7 @@
       <jump line="543" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="371" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="374" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="521" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1733,7 +1733,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5kaWRhdGVzXD4=</text>
+        <text encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>adserver_spot_id</text>
@@ -1776,9 +1776,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5kaWRhdGVzXD4=</last-search>
+      <last-search encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5kaWRhdGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1935,6 +1935,7 @@
         <entry encoding="base64">XDxsb29rdXBfYmlkX2luX2RlYWxfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxfbG9va3VwX2JpZF9pbl9lYWNoX2luZGV4XD4=</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVzXD4=</entry>
+        <entry encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
