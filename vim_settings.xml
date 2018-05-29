@@ -149,12 +149,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1525155387970">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527584983815">
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527585711695">
         <mark key="'" line="66" column="25" />
-        <mark key="[" line="62" column="40" />
-        <mark key="]" line="62" column="40" />
-        <mark key="." line="62" column="40" />
-        <mark key="^" line="62" column="40" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="61" />
+        <mark key="." line="71" column="61" />
+        <mark key="^" line="71" column="61" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1527505947743">
         <mark key="'" line="54" column="11" />
@@ -866,8 +866,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1526455031264">
         <mark key="'" line="5" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527584975743">
-        <mark key="'" line="278" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527585737007">
+        <mark key="'" line="247" column="4" />
         <mark key="[" line="177" column="37" />
         <mark key="]" line="177" column="37" />
         <mark key="^" line="177" column="37" />
@@ -981,7 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="363" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="142" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="145" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -1081,6 +1080,7 @@
       <jump line="16" column="4" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="67" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="278" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="247" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1093,7 +1093,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>{size}</text>
+        <text>4</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1739,10 +1739,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{size}</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</text>
+        <text encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYnV5aW5nX3BtLmF1dG9fYmlkc190YWNfcmF0ZS5yZWQiID0+IDAuNCwK</text>
@@ -1785,9 +1785,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1947,7 +1947,6 @@
         <entry encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</entry>
         <entry encoding="base64">XDxkZXNpcmVkX2JpZF9wcmljZV9zeXNcPg==</entry>
         <entry encoding="base64">XDxfYm9vc3RcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2Nwdl9iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
@@ -1960,6 +1959,7 @@
         <entry encoding="base64">XDxfZ2V0X2ZpeGVkX3VzZXJfbWFyZ2luXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
