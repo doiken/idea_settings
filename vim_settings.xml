@@ -526,12 +526,12 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1526016802142">
         <mark key="'" line="2636" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527572491953">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527573628484">
         <mark key="'" line="521" column="4" />
-        <mark key="[" line="184" column="30" />
-        <mark key="]" line="184" column="30" />
-        <mark key="^" line="425" column="74" />
-        <mark key="." line="184" column="30" />
+        <mark key="[" line="531" column="52" />
+        <mark key="]" line="531" column="52" />
+        <mark key="^" line="531" column="49" />
+        <mark key="." line="531" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/README.md" timestamp="1526021032580" />
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
@@ -1084,7 +1084,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>$auto_bidding_order</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1730,13 +1730,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>adserver_spot_id</text>
+        <text>$auto_bidding_order</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpc19hcHBsaWNhdGlvbiA9PiAwLAo=</text>
