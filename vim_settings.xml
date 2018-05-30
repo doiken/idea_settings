@@ -464,7 +464,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527584950886">
+      <file name="/Dummy.txt" timestamp="1527647022292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -817,8 +817,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1527505396785">
         <mark key="'" line="66" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1527216618884">
-        <mark key="'" line="110" column="5" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1527646968107">
+        <mark key="'" line="113" column="62" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="141" column="24" />
@@ -961,6 +961,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Infeed/Util.pm" timestamp="1524648132117">
         <mark key="'" line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1527647021725">
+        <mark key="'" line="68" column="26" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidInfo.pm" timestamp="1520837432362">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="23" />
@@ -981,10 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="145" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="147" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="63" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" />
       <jump line="159" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="148" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="126" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1081,6 +1080,10 @@
       <jump line="278" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="163" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="509" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="113" column="62" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="9" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="68" column="26" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1742,7 +1745,7 @@
         <text>$key</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</text>
+        <text encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYnV5aW5nX3BtLmF1dG9fYmlkc190YWNfcmF0ZS5yZWQiID0+IDAuNCwK</text>
@@ -1785,9 +1788,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1961,6 +1964,7 @@
         <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
