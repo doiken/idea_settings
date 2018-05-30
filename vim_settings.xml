@@ -149,7 +149,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1525155387970">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527585711695">
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527648022141">
         <mark key="'" line="66" column="25" />
         <mark key="[" line="71" column="61" />
         <mark key="]" line="71" column="61" />
@@ -940,6 +940,13 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1526622045667">
         <mark key="'" line="24" column="4" />
       </file>
+      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1527648128618">
+        <mark key="'" line="70" column="16" />
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1525162372139">
         <mark key="'" line="53" column="28" />
       </file>
@@ -1095,8 +1102,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15ICRrZXkgPSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tac_rate</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1742,7 +1749,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$key</text>
+        <text>tac_rate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</text>
