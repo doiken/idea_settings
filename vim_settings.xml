@@ -149,7 +149,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1525155387970">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527648022141">
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1527649975838">
         <mark key="'" line="66" column="25" />
         <mark key="[" line="71" column="61" />
         <mark key="]" line="71" column="61" />
@@ -536,8 +536,8 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1526016802142">
         <mark key="'" line="2636" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527583608671">
-        <mark key="'" line="521" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1527649764310">
+        <mark key="'" line="156" column="12" />
         <mark key="[" line="279" column="33" />
         <mark key="]" line="279" column="47" />
         <mark key="^" line="530" column="119" />
@@ -866,7 +866,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1526455031264">
         <mark key="'" line="5" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527644143013">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527649749147">
         <mark key="'" line="509" column="17" />
         <mark key="[" line="289" column="0" />
         <mark key="]" line="289" column="0" />
@@ -991,7 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="148" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="126" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="103" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1091,6 +1090,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="9" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="68" column="26" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="156" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1752,7 +1752,7 @@
         <text>tac_rate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</text>
+        <text encoding="base64">XDxwcmljZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYnV5aW5nX3BtLmF1dG9fYmlkc190YWNfcmF0ZS5yZWQiID0+IDAuNCwK</text>
@@ -1795,9 +1795,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-search>
+      <last-search encoding="base64">XDxwcmljZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmljZXNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1972,6 +1972,7 @@
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</entry>
+        <entry encoding="base64">XDxwcmljZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
