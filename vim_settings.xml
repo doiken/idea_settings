@@ -183,8 +183,8 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1527657052494">
-        <mark key="'" line="346" column="18" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1527661528188">
+        <mark key="'" line="928" column="2" />
         <mark key="[" line="191" column="73" />
         <mark key="]" line="191" column="75" />
         <mark key="." line="191" column="75" />
@@ -1029,7 +1029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="63" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
       <jump line="45" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="154" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -1129,6 +1128,7 @@
       <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
       <jump line="306" column="33" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
+      <jump line="928" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
