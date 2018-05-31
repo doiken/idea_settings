@@ -388,7 +388,7 @@
         <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/httpd.coffee" timestamp="1526019015521" />
-      <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cpc_ctr_image.yml" timestamp="1527732514327" />
+      <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cpc_ctr_image.yml" timestamp="1527733980363" />
       <file name="$FOUT_HOME$/t/fout/bid/match/match_dmp_segment_target.t" timestamp="1522202809745">
         <mark key="[" line="57" column="39" />
         <mark key="]" line="51" column="18" />
@@ -713,6 +713,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1525167803081">
         <mark key="'" line="152" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/LineCTRPredictionData.scala" timestamp="1527733561381" />
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
         <mark key="'" line="88" column="12" />
       </file>
@@ -951,8 +952,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1526455031264">
         <mark key="'" line="5" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527649749147">
-        <mark key="'" line="509" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1527734559085">
+        <mark key="'" line="85" column="31" />
         <mark key="[" line="289" column="0" />
         <mark key="]" line="289" column="0" />
         <mark key="^" line="289" column="45" />
@@ -1050,6 +1051,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1525162372139">
         <mark key="'" line="53" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/ffm_auto_bidding_ctr_image.yml" timestamp="1527733948334">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="27" column="9" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRMFMPrediction.pm" timestamp="1525742746156">
         <mark key="'" line="5" column="21" />
       </file>
@@ -1099,14 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="68" column="26" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="156" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="70" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="56" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
-      <jump line="57" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
-      <jump line="56" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
-      <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
       <jump line="306" column="33" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="928" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
@@ -1199,6 +1198,14 @@
       <jump line="15" column="49" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/entry/TestFeatureExtractionRunner.scala" />
       <jump line="21" column="30" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/entry/TestFeatureExtractionRunner.scala" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/entry/TestFeatureExtractionRunner.scala" />
+      <jump line="278" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="163" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="509" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="46" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="479" column="2" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="117" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="85" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1210,8 +1217,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1857,10 +1864,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5lcmF0ZU1ENURpZ2VzdFw+</text>
+        <text encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YWxsb3dlZEZlYXR1cmVOYW1lcy5pbmRleE9mKGZlYXR1cmVOYW1lKSAhPSAtMSB8fCA=</text>
@@ -1903,9 +1910,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5lcmF0ZU1ENURpZ2VzdFw+</last-search>
+      <last-search encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5lcmF0ZU1ENURpZ2VzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2065,7 +2072,6 @@
         <entry encoding="base64">XDxfYm9vc3RcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2Nwdl9iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxnZXRfZ3Jvc3NfcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxDVFJGTV9BUFBMSU5URVJFU1RWMl9QUkVESUNUSU9OXD4=</entry>
         <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
@@ -2075,8 +2081,6 @@
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
-        <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</entry>
         <entry encoding="base64">XDxwcmljZXNcPg==</entry>
         <entry encoding="base64">XDxjb25kaXRpb25fa2V5XD4=</entry>
@@ -2120,6 +2124,9 @@
         <entry encoding="base64">XDxyZGRPdXRcPg==</entry>
         <entry encoding="base64">XDxkZklucHV0XD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZU1ENURpZ2VzdFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
