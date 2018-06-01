@@ -191,12 +191,12 @@
         <mark key="." line="191" column="75" />
         <mark key="^" line="191" column="75" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1527831591532">
-        <mark key="'" line="1998" column="12" />
-        <mark key="[" line="2492" column="0" />
-        <mark key="]" line="2492" column="0" />
-        <mark key="^" line="2311" column="22" />
-        <mark key="." line="2492" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1527832148354">
+        <mark key="'" line="1758" column="31" />
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="35" />
+        <mark key="." line="1758" column="31" />
+        <mark key="^" line="1758" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1523867180446">
         <mark key="'" line="266" column="0" />
@@ -1111,8 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="60" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
-      <jump line="8" column="38" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="106" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureExtractor.scala" />
       <jump line="84" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureExtractor.scala" />
       <jump line="69" column="23" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureExtractor.scala" />
@@ -1211,6 +1209,8 @@
       <jump line="1744" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1994" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1998" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2000" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1758" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1222,8 +1222,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkYWEgXj0gMiBpZiAkbmFtZXNbJGNoaWxkXSBlcSAnRnJlZCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>is_automated</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1869,55 +1869,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmICRuYW1lc1skY2hpbGRdIGVxICdGcmVkJw==</text>
+        <text>抜く</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdW90YV9zZXR0aW5nXD4=</text>
+        <text encoding="base64">XDxyZWZfc2xvdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkYWEgXj0gMiBpZiAkbmFtZXNbJGNoaWxkXSBlcSAnRnJlZCc7Cg==</text>
+      <register name="0" type="4">
+        <text>is_automated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdhcm4gJGFhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybiAkJCAuICRuYW1lc1skY2hpbGRdIC4kYWE7CgogICAgICAgICAgICAjIFRoaXMgY29kZSBpcyB0aGUgY2hpbGQgcHJvY2VzcwogICAgICAgICAgICBwcmludCAiVGhpcyBpcyAkbmFtZXNbJGNoaWxkXSwgQ2hpbGQgbnVtYmVyICRjaGlsZFxuIjsKICAgICAgICAgICAgc2xlZXAgKCAkY2hpbGQgKTsKICAgICAgICAgICAgcHJpbnQgIiRuYW1lc1skY2hpbGRdLCBDaGlsZCAkY2hpbGQgaXMgYWJvdXQgdG8gZ2V0IG91dC4uLlxuIjsKICAgICAgICAgICAgc2xlZXAgMTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG15IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKDAgLi4gNSkgewo=</text>
+        <text encoding="base64">ICAgICMg44GT44GT44GnYXV0b19iaWQsIOaKnOOBjwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyDjgZPjgZPjgafmipzjgY8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgcXVvdGE6IGF1dG9fYmlkLCBiaWxsaW5nX3R5cGXovrzjgb8KICAgICMga2V5czogYXV0b19iaWQsIGJpbGxpbmdfdHlwZeaKnOOBjQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3YXJuIDsK</text>
+        <text encoding="base64">ICAgICRpbmRleCA9PiBtYXAgeyAka2V5cy0+eyRffSB9IEB7JHNldHRpbmctPntrZXlzfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYWEgLj0gJ2MnOwo=</text>
+        <text encoding="base64">ICAgIGlmIChteSAkcXVvdGFfc2V0dGluZyA9ICRzZXR0aW5nLT57cXVvdGF9KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYWEgLj0gJ2MnOwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGF1dG9fYmlkLCBiaWxsaW5nX3R5cGXjgpLpmaTjgY8K</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdW90YV9zZXR0aW5nXD4=</last-search>
+      <last-search encoding="base64">XDxyZWZfc2xvdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdW90YV9zZXR0aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZfc2xvdFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2150,6 +2150,7 @@
         <entry encoding="base64">XDxiaWRfaW52ZXJ0ZWRfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxxdW90YV9zZXR0aW5nXD4=</entry>
+        <entry encoding="base64">XDxyZWZfc2xvdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
