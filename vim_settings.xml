@@ -9,7 +9,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1527664807139">
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1527842888784">
         <mark key="'" line="779" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
@@ -410,7 +410,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" timestamp="1527841075978" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PotentialConsumption.pm" timestamp="1527843107159" />
       <file name="/Dummy.txt" timestamp="1527840959521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -755,7 +755,7 @@
         <mark key="." line="39" column="48" />
         <mark key="^" line="39" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1527841054103" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1527843062030" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Cache/Memcached/Fast.pm" timestamp="1527756243665" />
       <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1523942271200">
         <mark key="[" line="68" column="0" />
@@ -889,8 +889,8 @@
         <mark key="^" line="49" column="14" />
         <mark key="." line="52" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1527840978318">
-        <mark key="'" line="68" column="26" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1527843012569">
+        <mark key="'" line="68" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidInfo.pm" timestamp="1520837432362">
         <mark key="[" line="13" column="12" />
@@ -911,8 +911,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1526966098272" />
     </filemarks>
     <jumps>
-      <jump line="99" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/extraction/general/TestFeatureDependencyResolver.scala" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="29" column="28" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="156" column="34" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/extraction/general/TestFeatureExtractor.scala" />
@@ -1011,6 +1009,8 @@
       <jump line="165" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
       <jump line="0" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1578" column="16" filename="$FOUT_HOME$/config.yaml" />
+      <jump line="9" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1672,7 +1672,7 @@
         <text>抜く</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZfc2xvdFw+</text>
+        <text encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</text>
       </register>
       <register name="0" type="4">
         <text>is_automated</text>
@@ -1715,9 +1715,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWZfc2xvdFw+</last-search>
+      <last-search encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZfc2xvdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1884,7 +1884,6 @@
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</entry>
         <entry encoding="base64">XDxwcmljZXNcPg==</entry>
         <entry encoding="base64">XDxjb25kaXRpb25fa2V5XD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -1951,6 +1950,7 @@
         <entry encoding="base64">XDxzZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxxdW90YV9zZXR0aW5nXD4=</entry>
         <entry encoding="base64">XDxyZWZfc2xvdFw+</entry>
+        <entry encoding="base64">XDxuZXR3b3JrX2lkX2NvbmRpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
