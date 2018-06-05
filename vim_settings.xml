@@ -715,6 +715,13 @@
         <mark key="^" line="270" column="14" />
         <mark key="." line="270" column="14" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1528193905127">
+        <mark key="'" line="364" column="4" />
+        <mark key="[" line="639" column="39" />
+        <mark key="]" line="639" column="40" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="639" column="40" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB/AdServerBase.pm" timestamp="1526891010952" />
       <file name="$FOUT_HOME$/t/fout/bid/match/infeed_filterred_ads.t" timestamp="1522228960478">
         <mark key="[" line="96" column="24" />
@@ -813,8 +820,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1526890925172">
         <mark key="'" line="287" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineImageAutoBiddingCTRFMPrediction.pm" timestamp="1528190240459">
-        <mark key="'" line="80" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineImageAutoBiddingCTRFMPrediction.pm" timestamp="1528193477827">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="89" column="6" />
       </file>
@@ -1209,11 +1216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="73" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="74" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="81" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="90" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="98" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
       <jump line="289" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="1744" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1309,6 +1311,11 @@
       <jump line="97" column="4" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/FMTrainDataExtractor.pm" />
       <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/FMTrainDataExtractor.pm" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineImageAutoBiddingCTRFMPrediction.pm" />
+      <jump line="457" column="15" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="419" column="15" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="639" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="364" column="4" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1970,7 +1977,7 @@
         <text>$dryrun // 0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</text>
+        <text encoding="base64">XDxfcnVuX2FwcG5leHVzX3ByZXZpZXdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>run_etl</text>
@@ -2013,9 +2020,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxfcnVuX2FwcG5leHVzX3ByZXZpZXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVuX2FwcG5leHVzX3ByZXZpZXdcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2274,6 +2281,8 @@
         <entry encoding="base64">XDxfc3Bhcmtfc3VibWl0XD4=</entry>
         <entry encoding="base64">XDxfcnVuX3NwYXJrXD4=</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxfcGlja3VwX2FwcG5leHVzX2FkX3ByZXZpZXdcPg==</entry>
+        <entry encoding="base64">XDxfcnVuX2FwcG5leHVzX3ByZXZpZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
