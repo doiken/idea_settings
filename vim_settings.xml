@@ -574,7 +574,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish/Image.pm" timestamp="1522140885234">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528166066656">
+      <file name="/Dummy.txt" timestamp="1528170589737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1044,7 +1044,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1522656960961">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1527843062030" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1528169948771">
+        <mark key="'" line="19" column="18" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/Updatable.pm" timestamp="1525142411457">
         <mark key="'" line="133" column="26" />
       </file>
@@ -1209,8 +1211,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Infeed/Util.pm" timestamp="1524648132117">
         <mark key="'" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1527843012569">
-        <mark key="'" line="68" column="12" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1528170075667">
+        <mark key="'" line="52" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidInfo.pm" timestamp="1520837432362">
         <mark key="[" line="13" column="12" />
@@ -1240,9 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="7" filename="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/ffm_auto_bidding_ctr_image.yml" />
-      <jump line="135" column="0" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
-      <jump line="62" column="11" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
       <jump line="31" column="4" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
       <jump line="65" column="11" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
       <jump line="266" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -1340,6 +1339,9 @@
       <jump line="105" column="0" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/RestoreSegment/segment_list.pl" />
       <jump line="110" column="6" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/RestoreSegment/segment_list.pl" />
       <jump line="50" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" />
+      <jump line="13" column="34" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="19" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="52" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2001,7 +2003,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VfbmFtZVw+</text>
+        <text encoding="base64">XDxjb25kaXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3YXJuIGxlbmd0aCAkYWE7Cg==</text>
@@ -2044,9 +2046,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VfbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxjb25kaXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VfbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb25kaXRpb25cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2182,7 +2184,6 @@
         <entry encoding="base64">XDxCaWRDYW5kaWRhdGVzXD4=</entry>
         <entry encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVcPg==</entry>
-        <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9tYXRlZF9jcG5faWRzXD4=</entry>
         <entry encoding="base64">XDxjb25kaXRpb25fY3JcPg==</entry>
         <entry encoding="base64">XDxjdHJcPg==</entry>
@@ -2286,6 +2287,7 @@
         <entry encoding="base64">XDxhYVw+</entry>
         <entry encoding="base64">XDxiaWRfbG9nc1w+</entry>
         <entry encoding="base64">XDxkZXZpY2VfbmFtZVw+</entry>
+        <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
