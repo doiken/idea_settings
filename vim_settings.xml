@@ -443,6 +443,11 @@
         <mark key="'" line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/scripts/httpd.coffee" timestamp="1526019015521" />
+      <file name="$USER_HOME$/Documents/perl/fork_manager_trial.pl" timestamp="1528173970593">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_line_cpc_ctr_image.yml" timestamp="1527745891991">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="20" />
@@ -1044,8 +1049,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1522656960961">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1528169948771">
-        <mark key="'" line="19" column="18" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1528173949985">
+        <mark key="'" line="42" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/Updatable.pm" timestamp="1525142411457">
         <mark key="'" line="133" column="26" />
@@ -1064,6 +1069,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/PCVRPercentilesEstimation.pm" timestamp="1526981032566" />
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1522054297110">
         <mark key="'" line="67" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Parallel/ForkManager.pm" timestamp="1527754268373">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/fm_notline_cvr.yml" timestamp="1527670484927" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" timestamp="1526376796113">
@@ -1242,7 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
       <jump line="65" column="11" filename="$FOUT_HOME$/lib/FOut/RabbitMQ/Worker/SegmentUpload.pm" />
       <jump line="266" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1752" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1342,6 +1351,7 @@
       <jump line="13" column="34" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="19" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="52" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="42" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
