@@ -77,11 +77,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1527209172771">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1528190973981">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CVNumMaximizationUpdater.pm" timestamp="1519347190214">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="20" />
@@ -463,8 +458,8 @@
         <mark key="^" line="139" column="33" />
         <mark key="." line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1526621364936">
-        <mark key="'" line="102" column="21" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1528278210742">
+        <mark key="'" line="166" column="12" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="1" />
         <mark key="." line="14" column="0" />
@@ -640,11 +635,6 @@
         <mark key="]" line="471" column="17" />
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/Feature.scala" timestamp="1527730759728">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1525167643732">
         <mark key="'" line="152" column="4" />
@@ -1213,8 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="68" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="7" column="0" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="5" column="14" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
       <jump line="11" column="23" filename="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" />
@@ -1313,6 +1301,8 @@
       <jump line="1958" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2018" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1695" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="101" column="25" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="166" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1974,7 +1964,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</text>
+        <text>network</text>
       </register>
       <register name="0" type="4">
         <text>run_etl</text>
@@ -2017,9 +2007,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-search>
+      <last-search>network</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</last-pattern>
+      <last-pattern>network</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2282,6 +2272,7 @@
         <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
+        <entry>network</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
