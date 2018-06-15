@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1527670509980">
         <mark key="'" line="24" column="15" />
       </file>
+      <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
+        <mark key="'" line="69" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/pricing/percentile_boost_l_d_rate.t" timestamp="1529044305341">
         <mark key="'" line="66" column="4" />
         <mark key="[" line="18" column="0" />
@@ -681,7 +684,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1529054390522">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1529057296984">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="1" />
@@ -794,7 +797,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529045576844">
+      <file name="/Dummy.txt" timestamp="1529057353816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -925,18 +928,11 @@
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1529057633318">
+        <mark key="'" line="161" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" />
-      <jump line="23" column="11" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" />
-      <jump line="32" column="28" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" />
-      <jump line="48" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfig.scala" />
-      <jump line="100" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="108" column="4" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="146" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="158" column="4" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="165" column="4" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="155" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
       <jump line="11" column="31" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
       <jump line="91" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
@@ -1027,6 +1023,16 @@
       <jump line="326" column="27" filename="$FOUT_HOME$/t/fout/bid/algorithm/pricing/logical_flow/bucket153.t" />
       <jump line="206" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="29" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="10" column="0" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
+      <jump line="89" column="0" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
+      <jump line="59" column="0" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
+      <jump line="69" column="4" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
+      <jump line="82" column="2" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="66" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="84" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="58" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="149" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="161" column="54" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1688,7 +1694,7 @@
         <text encoding="base64">CSAgICAgICAgIH0gZWxzZSB7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcHJpY2luZ1w+</text>
+        <text encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBGT3V0OjpCaWQ6OkFsZ29yaXRobTo6UHJpY2luZzo6RGVmYXVsdC0+bmV3OwogICAgICAgIH0K</text>
@@ -1731,13 +1737,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcHJpY2luZ1w+</last-search>
+      <last-search encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcHJpY2luZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1761,6 +1767,7 @@
         <entry encoding="base64">XDwyNDBcPg==</entry>
         <entry encoding="base64">XDxib29zdFw+</entry>
         <entry encoding="base64">XDxnZXRfcHJpY2luZ1w+</entry>
+        <entry encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
