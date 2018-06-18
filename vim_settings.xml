@@ -598,7 +598,7 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529043569470">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529286950990">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="46" />
         <mark key="." line="46" column="46" />
@@ -706,8 +706,8 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1529030959941">
-        <mark key="'" line="1302" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1529286978663">
+        <mark key="'" line="1270" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" timestamp="1527666866947">
         <mark key="'" line="36" column="62" />
@@ -782,7 +782,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529285963718">
+      <file name="/Dummy.txt" timestamp="1529286980306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -918,9 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="101" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="117" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
       <jump line="156" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
       <jump line="26" column="42" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
       <jump line="5" column="58" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureExtractor.scala" />
@@ -1018,6 +1015,9 @@
       <jump line="161" column="54" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="77" column="40" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="45" column="25" filename="$FOUT_HOME$/lib/FOut/Adveri/BrandSafeURLSender.pm" />
+      <jump line="576" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1268" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1270" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1679,7 +1679,7 @@
         <text encoding="base64">CSAgICAgICAgIH0gZWxzZSB7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</text>
+        <text encoding="base64">XDxwY3RyX2NhbmRpZGF0ZV9sb2dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBGT3V0OjpCaWQ6OkFsZ29yaXRobTo6UHJpY2luZzo6RGVmYXVsdC0+bmV3OwogICAgICAgIH0K</text>
@@ -1722,9 +1722,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxwY3RyX2NhbmRpZGF0ZV9sb2dcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxwY3RyX2NhbmRpZGF0ZV9sb2dcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1753,6 +1753,7 @@
         <entry encoding="base64">XDxib29zdFw+</entry>
         <entry encoding="base64">XDxnZXRfcHJpY2luZ1w+</entry>
         <entry encoding="base64">XDxkYWlseV90YXNrc19kdXJhdGlvblw+</entry>
+        <entry encoding="base64">XDxwY3RyX2NhbmRpZGF0ZV9sb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
