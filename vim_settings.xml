@@ -184,6 +184,9 @@
         <mark key="." line="209" column="24" />
         <mark key="^" line="209" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" timestamp="1529290996399">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/api/impl/adserver_report/async_get.t" timestamp="1521112533451">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -332,7 +335,7 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1528958054988">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1529290883884">
         <mark key="'" line="928" column="2" />
         <mark key="[" line="191" column="73" />
         <mark key="]" line="191" column="75" />
@@ -715,6 +718,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/BidPriceEstimation.pm" timestamp="1527503592531">
         <mark key="'" line="150" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" timestamp="1529291052556" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-deny_mraid.t" timestamp="1522202073611">
         <mark key="[" line="81" column="36" />
         <mark key="]" line="41" column="14" />
@@ -782,7 +786,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529288667559">
+      <file name="/Dummy.txt" timestamp="1529291075823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -918,11 +922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/data/configuration/TestExtractionConfig.scala" />
-      <jump line="26" column="42" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
-      <jump line="5" column="58" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureExtractor.scala" />
-      <jump line="23" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" />
-      <jump line="25" column="50" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" />
       <jump line="28" column="58" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" />
       <jump line="35" column="20" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" />
       <jump line="41" column="24" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeatureDependencyResolver.scala" />
@@ -1018,6 +1017,11 @@
       <jump line="576" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1268" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1270" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="50" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" />
+      <jump line="9" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" />
+      <jump line="64" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/ConsumptionRate.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
