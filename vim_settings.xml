@@ -143,8 +143,8 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1529044281868">
-        <mark key="'" line="54" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1529386444506">
+        <mark key="'" line="40" column="8" />
       </file>
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
         <mark key="'" line="0" column="0" />
@@ -728,14 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1864" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1895" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1967" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="2016" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1518" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="71" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" />
-      <jump line="113" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" />
-      <jump line="13" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
       <jump line="1245" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1302" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1404" column="21" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" />
@@ -828,6 +820,14 @@
       <jump line="49" column="0" filename="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" />
       <jump line="70" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" />
       <jump line="75" column="22" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" />
+      <jump line="71" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="72" column="109" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="73" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="77" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="24" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="25" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="26" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="40" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1489,7 +1489,7 @@
         <text encoding="base64">CSAgICAgICAgIH0gZWxzZSB7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGVyY2VudGlsZVw+</text>
+        <text encoding="base64">XDxzY2FsZWRfcHJlZGljdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBGT3V0OjpCaWQ6OkFsZ29yaXRobTo6UHJpY2luZzo6RGVmYXVsdC0+bmV3OwogICAgICAgIH0K</text>
@@ -1532,9 +1532,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGVyY2VudGlsZVw+</last-search>
+      <last-search encoding="base64">XDxzY2FsZWRfcHJlZGljdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGVyY2VudGlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FsZWRfcHJlZGljdGlvblw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1569,6 +1569,9 @@
         <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZVw+</entry>
         <entry encoding="base64">XDxwZXJjZW50aWxlXD4=</entry>
         <entry encoding="base64">XDxfcGVyY2VudGlsZVw+</entry>
+        <entry encoding="base64">XDxhbHBoYVw+</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzY2FsZWRfcHJlZGljdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
