@@ -468,8 +468,8 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1528336003664">
         <mark key="'" line="2636" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529477193704">
-        <mark key="'" line="275" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529489528772">
+        <mark key="'" line="1286" column="52" />
         <mark key="[" line="279" column="33" />
         <mark key="]" line="279" column="47" />
         <mark key="^" line="530" column="119" />
@@ -869,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="298" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="275" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="80" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
@@ -969,6 +968,7 @@
       <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="46" column="19" filename="$FOUT_HOME$/t/fout/bid/prediction/ctr_fm_prediction.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" />
+      <jump line="1286" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
