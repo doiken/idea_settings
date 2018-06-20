@@ -24,6 +24,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1526456852431">
         <mark key="'" line="227" column="13" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" timestamp="1529463922266" />
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
         <mark key="'" line="69" column="4" />
       </file>
@@ -170,6 +171,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" timestamp="1529464497662">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+      </file>
       <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519026494882">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="22" />
@@ -264,12 +272,12 @@
         <mark key="'" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" timestamp="1529391997257" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" timestamp="1529462256980">
-        <mark key="'" line="68" column="13" />
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" timestamp="1529464148098">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="69" column="8" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="69" column="8" />
+        <mark key="^" line="68" column="37" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Cache/Memcached/Fast/Safe.pm" timestamp="1527753194028">
         <mark key="'" line="126" column="10" />
@@ -362,7 +370,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529462058109">
+      <file name="/Dummy.txt" timestamp="1529464470293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -453,10 +461,10 @@
         <mark key="^" line="66" column="42" />
         <mark key="." line="66" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1529461736551">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1529464426279">
+        <mark key="'" line="6" column="45" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="29" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="3" column="24" />
       </file>
@@ -785,18 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="1" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
-      <jump line="80" column="6" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
-      <jump line="40" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" />
-      <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="51" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="54" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="55" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="56" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="60" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="34" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="58" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="26" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
       <jump line="18" column="18" filename="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" />
@@ -879,12 +875,24 @@
       <jump line="15" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" />
       <jump line="7" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" />
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="16" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
       <jump line="44" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
       <jump line="24" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
       <jump line="108" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
       <jump line="68" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
       <jump line="44" column="33" filename="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_line_video.t" />
+      <jump line="22" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" />
+      <jump line="17" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="131" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="15" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="16" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="64" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="13" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="30" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="72" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="12" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" />
+      <jump line="6" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" />
+      <jump line="33" column="34" filename="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" />
+      <jump line="71" column="0" filename="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -897,7 +905,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>line_vid</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1543,13 +1551,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>line_vid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOT1RfTElORV9DUENfTU9ERUxfSURcPg==</text>
+        <text encoding="base64">XDxOT1RfTElORV9NT0RFTF9JRFw+</text>
       </register>
       <register name="0" type="4">
-        <text>_MODEL_ID</text>
+        <text>notline_cvr_fm</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bm8gTW91c2U7Cg==</text>
@@ -1589,9 +1597,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOT1RfTElORV9DUENfTU9ERUxfSURcPg==</last-search>
+      <last-search encoding="base64">XDxOT1RfTElORV9NT0RFTF9JRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOT1RfTElORV9DUENfTU9ERUxfSURcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxOT1RfTElORV9NT0RFTF9JRFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1648,6 +1656,7 @@
         <entry encoding="base64">XDxjYWNoZV9uYW1lc3BhY2VcPg==</entry>
         <entry encoding="base64">XDxDVFJGTV9BUFBMSU5URVJFU1RWMl9QUkVESUNUSU9OXD4=</entry>
         <entry encoding="base64">XDxOT1RfTElORV9DUENfTU9ERUxfSURcPg==</entry>
+        <entry encoding="base64">XDxOT1RfTElORV9NT0RFTF9JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
