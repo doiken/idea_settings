@@ -31,6 +31,9 @@
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
         <mark key="'" line="69" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1529480653796">
+        <mark key="'" line="7" column="9" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-freq.t" timestamp="1522229854617">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="40" column="14" />
@@ -251,6 +254,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1529480683571" />
       <file name="$FOUT_HOME$/lib/FOut/Network/Constants.pm" timestamp="1519206116587">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="31" />
@@ -384,7 +388,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529475542469">
+      <file name="/Dummy.txt" timestamp="1529480637290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -807,9 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="55" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
-      <jump line="1" column="0" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
       <jump line="3" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" />
       <jump line="8" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" />
       <jump line="4" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineImageAutoBidding.pm" />
@@ -907,6 +908,9 @@
       <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="149" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="155" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="59" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" />
+      <jump line="0" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" />
+      <jump line="7" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
