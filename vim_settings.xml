@@ -107,6 +107,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigParser.scala" timestamp="1528351784016">
         <mark key="'" line="14" column="6" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" timestamp="1529488765808">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-mapping.t" timestamp="1522227900631">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="71" column="27" />
@@ -175,6 +178,7 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1529488293074" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1529475910253">
         <mark key="'" line="155" column="47" />
         <mark key="[" line="60" column="0" />
@@ -182,7 +186,7 @@
         <mark key="^" line="60" column="21" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1529460406055">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1529488077732">
         <mark key="'" line="72" column="8" />
       </file>
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
@@ -372,7 +376,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1529486121368">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1529487137442">
         <mark key="'" line="1277" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" timestamp="1527666866947">
@@ -413,7 +417,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529486409362">
+      <file name="/Dummy.txt" timestamp="1529487137893">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -514,7 +518,7 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPercentilesEstimation.pm" timestamp="1529387577778" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPercentilesEstimation.pm" timestamp="1529488395145" />
       <file name="$FOUT_HOME$/t/fout/dynamic_ads/item_importer/http_fetcher.t" timestamp="1523947064301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -634,18 +638,14 @@
       <file name="$USER_HOME$/Documents/fout_logs/blib/lib/FOut/Logs/Util/Hive.pm" timestamp="1526376630398">
         <mark key="'" line="15" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" timestamp="1529402882650">
-        <mark key="'" line="42" column="38" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" timestamp="1529487078646">
+        <mark key="'" line="41" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" timestamp="1529483449796">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="95" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" timestamp="1526025351349">
         <mark key="'" line="181" column="2" />
@@ -661,6 +661,9 @@
         <mark key="]" line="195" column="43" />
         <mark key="." line="195" column="43" />
         <mark key="^" line="195" column="43" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/prediction/ctr_fm_prediction.t" timestamp="1529488758580">
+        <mark key="'" line="46" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala" timestamp="1529032320861">
         <mark key="'" line="959" column="6" />
@@ -794,7 +797,7 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1529387497513">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1529488406276">
         <mark key="'" line="60" column="13" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
@@ -816,8 +819,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" timestamp="1527731329920">
         <mark key="'" line="100" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1529486261952">
-        <mark key="'" line="118" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1529487601557">
+        <mark key="'" line="44" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
@@ -866,11 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket141.pm" />
-      <jump line="16" column="2" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
-      <jump line="22" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="51" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="53" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="298" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="275" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -882,7 +880,6 @@
       <jump line="52" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="56" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="28" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
-      <jump line="42" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
       <jump line="142" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="33" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="83" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
@@ -964,8 +961,14 @@
       <jump line="48" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
       <jump line="1277" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="44" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="118" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="42" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
+      <jump line="43" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
+      <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
+      <jump line="41" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
+      <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="46" column="19" filename="$FOUT_HOME$/t/fout/bid/prediction/ctr_fm_prediction.t" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1744,6 +1747,8 @@
         <entry encoding="base64">XDxzcG90X3Njb3JlXD4=</entry>
         <entry encoding="base64">XDxkYW9cPg==</entry>
         <entry encoding="base64">XDxzZXRfcGVyY2VudGlsZV9ib29zdF9sb2dcPg==</entry>
+        <entry encoding="base64">XDxib29zdF92YWx1ZVw+</entry>
+        <entry encoding="base64">XDxwY3RyX3BjdnJfYm9vc3RcPg==</entry>
         <entry encoding="base64">XDxzY2FsZWRfcGN2clw+</entry>
       </history-search>
       <history-cmd>
