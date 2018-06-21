@@ -588,11 +588,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ProductPrediction.pm" timestamp="1529484328872">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ProductPrediction.pm" timestamp="1529574597491">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="17" column="82" />
+        <mark key="]" line="17" column="82" />
         <mark key="^" line="29" column="63" />
-        <mark key="." line="43" column="4" />
+        <mark key="." line="17" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
         <mark key="'" line="88" column="12" />
@@ -783,8 +784,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1527759348076">
         <mark key="'" line="5" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1529571668881">
-        <mark key="'" line="271" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1529573708441">
+        <mark key="'" line="329" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1527133623952">
         <mark key="'" line="122" column="30" />
@@ -835,7 +836,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" timestamp="1527731329920">
         <mark key="'" line="100" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1529572401178">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1529574626210">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -880,13 +881,11 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pod" timestamp="1526355165189">
         <mark key="'" line="98" column="27" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1529574398268">
+        <mark key="'" line="6" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="61" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="55" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="159" column="54" filename="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" />
-      <jump line="132" column="54" filename="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" />
       <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="149" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="155" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
@@ -982,6 +981,11 @@
       <jump line="271" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="87" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="329" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="16" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" />
+      <jump line="30" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" />
+      <jump line="6" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" />
+      <jump line="17" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/ProductPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -994,7 +998,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1640,10 +1644,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbXNcPg==</text>
+        <text encoding="base64">XDxfY3RyXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHNlbGYtPmxvZ2dlcl92YWx1ZXM=</text>
@@ -1686,9 +1690,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxfY3RyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY3RyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1696,7 +1700,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcG90X3Njb3JlXD4=</entry>
         <entry encoding="base64">XDxkYW9cPg==</entry>
         <entry encoding="base64">XDxzZXRfcGVyY2VudGlsZV9ib29zdF9sb2dcPg==</entry>
         <entry encoding="base64">XDxwY3RyX3BjdnJfYm9vc3RcPg==</entry>
@@ -1717,6 +1720,8 @@
         <entry encoding="base64">XDxwcmVkX2NhbmRpZGF0ZV9sb2dcPg==</entry>
         <entry encoding="base64">XDxib29zdF92YWx1ZVw+</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxzcG90X3Njb3JlXD4=</entry>
+        <entry encoding="base64">XDxfY3RyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
