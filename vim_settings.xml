@@ -182,6 +182,13 @@
         <mark key="." line="45" column="34" />
         <mark key="^" line="45" column="34" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1529636391710">
+        <mark key="'" line="103" column="53" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="9" />
+        <mark key="." line="35" column="9" />
+        <mark key="^" line="35" column="9" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-line_video_2.t" timestamp="1522144586727">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="36" />
@@ -255,7 +262,7 @@
         <mark key="^" line="139" column="33" />
         <mark key="." line="139" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1529632746985">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1529636201801">
         <mark key="'" line="1433" column="40" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="1" />
@@ -304,7 +311,7 @@
         <mark key="^" line="28" column="39" />
         <mark key="." line="28" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529634230285">
+      <file name="/Dummy.txt" timestamp="1529635702357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -351,8 +358,8 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529635354167">
-        <mark key="'" line="135" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529635803654">
+        <mark key="'" line="327" column="4" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="^" line="135" column="0" />
@@ -431,6 +438,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1529635972570">
+        <mark key="'" line="142" column="33" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="1" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="34" />
@@ -493,8 +505,8 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1529632354088">
-        <mark key="'" line="124" column="1" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1529635646015">
+        <mark key="'" line="24" column="4" />
         <mark key="[" line="73" column="41" />
         <mark key="]" line="73" column="59" />
         <mark key="." line="73" column="59" />
@@ -621,10 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="327" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
-      <jump line="65" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="17" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" />
       <jump line="95" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
       <jump line="3" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
@@ -721,6 +729,10 @@
       <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="275" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="336" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="55" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="327" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1382,7 +1394,7 @@
         <text>sub</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</text>
+        <text encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aGFzIGxvZ2dlZF92YWx1ZXMgPT4gKAo=</text>
@@ -1425,9 +1437,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</last-search>
+      <last-search encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1461,9 +1473,7 @@
         <entry encoding="base64">XDxib29zdF9wYXJhbXNfc3VmZml4XD4=</entry>
         <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
         <entry encoding="base64">XDxpc19yZXRhcmdldGluZ1w+</entry>
-        <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
         <entry encoding="base64">XDxwcmVkX2NhbmRpZGF0ZV9sb2dcPg==</entry>
-        <entry encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</entry>
         <entry encoding="base64">XDxDYXJwXD4=</entry>
         <entry encoding="base64">XDxUb2t5b0NhYmluZXRcPg==</entry>
         <entry encoding="base64">XDxNSVNTSU5HX0tFWVw+</entry>
@@ -1481,6 +1491,9 @@
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
         <entry encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</entry>
         <entry encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</entry>
+        <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
+        <entry encoding="base64">XDxMVklEX1BSRURJQ1RJT05cPg==</entry>
+        <entry encoding="base64">XDxfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
