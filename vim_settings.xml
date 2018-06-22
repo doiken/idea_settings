@@ -351,12 +351,12 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529632850151">
-        <mark key="'" line="327" column="4" />
-        <mark key="[" line="279" column="33" />
-        <mark key="]" line="279" column="47" />
-        <mark key="^" line="530" column="119" />
-        <mark key="." line="530" column="119" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1529635354167">
+        <mark key="'" line="135" column="4" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/appvador.t" timestamp="1522145399559">
         <mark key="[" line="471" column="17" />
@@ -621,8 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1021" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="99" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="327" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
@@ -721,6 +719,8 @@
       <jump line="28" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="34" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="275" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1382,7 +1382,7 @@
         <text>sub</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</text>
+        <text encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aGFzIGxvZ2dlZF92YWx1ZXMgPT4gKAo=</text>
@@ -1425,9 +1425,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-search>
+      <last-search encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1479,6 +1479,8 @@
         <entry encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</entry>
         <entry encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
+        <entry encoding="base64">XDxfaXNfcGVyY2VudGlsZV9jdXRfdGFyZ2V0X3JlcVw+</entry>
+        <entry encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
