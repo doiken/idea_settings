@@ -560,8 +560,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
         <mark key="'" line="192" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1530081684337">
-        <mark key="'" line="13" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1530085155895">
+        <mark key="'" line="93" column="12" />
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="7" />
         <mark key="^" line="23" column="7" />
@@ -840,7 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="97" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="101" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="67" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
@@ -940,6 +939,7 @@
       <jump line="80" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="64" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="1387" column="12" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="93" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1601,7 +1601,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>percentile</text>
+        <text encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</text>
       </register>
       <register name="0" type="4">
         <text>percentile_cut</text>
@@ -1644,9 +1644,9 @@
       </register>
     </registers>
     <search>
-      <last-search>percentile</last-search>
+      <last-search encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</last-search>
       <last-offset />
-      <last-pattern>percentile</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1711,6 +1711,7 @@
         <entry encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</entry>
         <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
         <entry>percentile</entry>
+        <entry encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
