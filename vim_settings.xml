@@ -238,7 +238,7 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1530170536551" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1530496608846" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
       </file>
@@ -713,6 +713,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala" timestamp="1529032320861">
         <mark key="'" line="959" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/fm_model_etl/sagemaker.t" timestamp="1530496710150">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/match/match_retarget_multi.t" timestamp="1522202853122">
         <mark key="[" line="72" column="25" />
         <mark key="]" line="52" column="22" />
@@ -1052,7 +1058,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGlmICgkcHJlZF90eXBlIGVxIENWUl9QUkVESUNUSU9OKSB7CiAgICAgICAgbXkgJHByZWRpY3RfbW9kZWwgPSAkc2VsZi0+cHJlZGljdF9tb2RlbDsKCiAgICAgICAgIyBwZXJjZW50IGZvciBjYW5kaWRhdGUgY3V0CiAgICAgICAgbXkgJGN1dF9wZXJjZW50ID0gbW9kZWxzKCdzY2llbmNlX2NvbmYnKS0+e3BlcmNlbnRpbGVfY3V0fS0+eyRwcmVkX3R5cGV9LT57JHJ0Z190YWd9LT57JHN1ZmZpeH07CiAgICAgICAgdW5sZXNzICgkY3V0X3BlcmNlbnQpIHsKICAgICAgICAgICAgbXkgJHNwbGl0cnVuX3BhcmFtcyA9ICRjb250ZXh0LT5wZXJjZW50aWxlX2N1dF9zcGxpdHJ1bl9wYXJhbXM7CiAgICAgICAgICAgICRjdXRfcGVyY2VudCA9ICRzcGxpdHJ1bl9wYXJhbXMtPmdldCgicGVyY2VudGlsZV9jdXRfcG0uJHtwcmVkX3R5cGV9LiR7cnRnX3RhZ30uJHtzdWZmaXh9IiwgMCk7CiAgICAgICAgfQogICAgICAgIHVubGVzcyAoMCA8PSAkY3V0X3BlcmNlbnQgYW5kICRjdXRfcGVyY2VudCA8PSA5OSl7CiAgICAgICAgICAgIG1vZGVscygnbG9nZ2VyJyktPndhcm4oIkludmFsaWQgcGVyY2VudGlsZV9jdXRfcG0uJHtwcmVkX3R5cGV9LiR7cnRnX3RhZ30uJHtzdWZmaXh9ID0gJGN1dF9wZXJjZW50Iik7CiAgICAgICAgICAgICRjdXRfcGVyY2VudCA9IDA7CiAgICAgICAgfQoKICAgICAgICAjIHBjdnItdmFsdWUgZm9yIGN1dCBjYW5kaWRhdGUKICAgICAgICBteSAkcGVyY2VudGlsZV9kYW8gPSBGT3V0OjpCaWQ6OkRhdGE6OlBDVlJQZXJjZW50aWxlLT5uZXcoCiAgICAgICAgICAgICAgICAgICAgICBoZGIgPT4gJGNvbnRleHQtPnBjdnJfcGVyY2VudGlsZV9pbmRleC0+aGRiLAogICAgICAgICAgICAgICAgICAgICAgY29udGV4dCA9PiAkY29udGV4dAogICAgICAgICk7CiAgICAgICAgbXkgJGN1dF9jdnIgPSAkcGVyY2VudGlsZV9kYW8tPmdldF9wZXJjZW50aWxlX2N2cigkcHJlZGljdF9tb2RlbCwgJGNwbl9pZCwgJGN1dF9wZXJjZW50KTsKCiAgICAgICAgJGlzX2N1dCA9ICgkcHJlZGljdF9wcm9iYSA8ICRjdXRfY3ZyKSA/IDEgOiAwOwogICAgICAgICRjYW5kaWRhdGVfbG9nID0gewogICAgICAgICAgICB0aW1lID0+IGxvY2FsdGltZS0+bXlzcWxfZGF0ZXRpbWUsCiAgICAgICAgICAgIGJpZF9pZCA9PiAkYmlkX2lkLAogICAgICAgICAgICBjYW1wYWlnbl9pZCA9PiAkY3BuX2lkLAogICAgICAgICAgICBpc19jdXQgPT4gJGlzX2N1dCwKICAgICAgICAgICAgcHJlZGljdF9jdnIgPT4gJHByZWRpY3RfcHJvYmEsCiAgICAgICAgICAgIGN1dF9wZXJjZW50ID0+ICRjdXRfcGVyY2VudCwKICAgICAgICAgICAgY3V0X2N2ciA9PiAkY3V0X2N2ciwKICAgICAgICAgICAgcHJlZGljdF9tb2RlbCA9PiAkcHJlZGljdF9tb2RlbCwKICAgICAgICAgICAgcHJlZGljdF9tb2RlbF9pZCA9PiAkcHJlZGljdF9tb2RlbF9pZCwKICAgICAgICAgICAgcmVxdWVzdF9pZCA9PiAkY29udGV4dC0+cmVxdWVzdF9pZCwKICAgICAgICAgICAgcGN2cl9wZXJjZW50aWxlID0+IDAsCiAgICAgICAgICAgIGJvb3N0X3ZhbHVlID0+IDAsCiAgICAgICAgfTsKICAgIH0gZWxz</text>
+        <text>'ml.c5.4xlarge'</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1698,7 +1704,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>'ml.c5.4xlarge'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</text>
