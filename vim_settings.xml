@@ -74,9 +74,9 @@
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1530601561958">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1530606286309">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="46" />
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
@@ -318,12 +318,11 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" timestamp="1530603610463">
-        <mark key="'" line="89" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="37" column="5" />
-        <mark key="." line="266" column="44" />
-        <mark key="^" line="12" column="58" />
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" timestamp="1530606080446">
+        <mark key="[" line="408" column="0" />
+        <mark key="]" line="408" column="62" />
+        <mark key="^" line="110" column="27" />
+        <mark key="." line="284" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529286950990">
         <mark key="[" line="46" column="46" />
@@ -792,12 +791,11 @@
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="60" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1530603842912">
-        <mark key="'" line="126" column="8" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="49" column="8" />
-        <mark key="^" line="33" column="10" />
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1530606149026">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="8" />
+        <mark key="^" line="32" column="10" />
+        <mark key="." line="124" column="8" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Mouse.pm" timestamp="1530581795914">
         <mark key="'" line="34" column="32" />
@@ -929,17 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="85" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="86" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="75" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="77" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="81" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="82" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="87" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="100" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="107" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="109" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="97" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="125" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="49" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -1029,6 +1016,17 @@
       <jump line="110" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="67" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
       <jump line="72" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
+      <jump line="8" column="20" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="35" column="38" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="40" column="13" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="46" column="13" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="7" column="20" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="409" column="23" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
+      <jump line="74" column="24" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
+      <jump line="274" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
+      <jump line="284" column="43" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
+      <jump line="304" column="43" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
+      <jump line="327" column="43" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1040,8 +1038,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBteSAkbG9nID0gJGNvbnRleHQtPnBjdnJfY2FuZGlkYXRlX2xvZy0+ezE4NTEzOTJ9Owo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1687,55 +1685,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, $log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcnVuX2ZtXD4=</text>
+        <text encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpZF9pbmRleF9maXh0dXJlIHNwbGl0cnVuID0+IHN1YiB7CiAgICAgICAgbXkgJGhkYiA9IHNoaWZ0OwogICAgICAgIG15ICRkYW8gPSBGT3V0OjpTcGxpdFJ1bjo6REFPLT5uZXcoaGRiID0+ICRoZGIpOwogICAgICAgIG15ICRwcmVkaWN0aW9uX3R5cGUgPSBDVlJfUFJFRElDVElPTjsKICAgICAgICBtb2RlbHMoJ3NjaWVuY2VfY29uZicpLT57cGVyY2VudGlsZV9jdXR9LT57JHByZWRpY3Rpb25fdHlwZX0tPnsnbm9fcnRnJ30tPnsnZGVmJ30gPSAkbm9fcnRnX2N1dDsKICAgICAgICBtb2RlbHMoJ3NjaWVuY2VfY29uZicpLT57cGVyY2VudGlsZV9jdXR9LT57JHByZWRpY3Rpb25fdHlwZX0tPnsncnRnJ30tPnsnZGVmJ30gPSAkcnRnX2N1dDsKICAgICAgICAjIGV4cCAxNjogaWQxMG0KICAgICAgICAkZGFvLT5zZXRfYnVja2V0KDEwMTEgPT4gewogICAgICAgICAgICAncGVyY2VudGlsZV9jdXRfcG0uY3ZyLm5vX3J0Zy5pZDEwbScgPT4gJG5vX3J0Z19jdXQsCiAgICAgICAgICAgICdwZXJjZW50aWxlX2N1dF9wbS5jdnIucnRnLmlkMTBtJyA9PiAkcnRnX2N1dCwKICAgICAgICAgICAgJ3BjdHJfYm9vc3RfY3V0X3BhcmFtcy5nYW1tYV96ZXJvX2xvd19jb25zdW1wdGlvbicgPT4gMzAuMCwKICAgICAgICAgICAgJ3BjdHJfYm9vc3RfY3V0X3BhcmFtcy5nYW1tYV96ZXJvX2hpZ2hfY29uc3VtcHRpb24nID0+IDYwLjAsCiAgICAgICAgfSk7CiAgICAgICAgJGRhby0+c2V0X2V4cG9zdXJlcyhURVNUX0VYUEVSSU1FTlRfSUQsIHsKICAgICAgICAgICAgYnVja2V0X2lkID0+IDEwMTEsIHR5cGUgPT4gJ3JlcXVlc3QnLCBwZXJjZW50ID0+IDEwMC4wLAogICAgICAgIH0pOwogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICBteSAkbG9nID0gJGNvbnRleHQtPnBjdnJfY2FuZGlkYXRlX2xvZy0+ezE4NTEzOTJ9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlIERhdGE6OkR1bXBlcjsKICAgICAgICAgICAgd2FybiBEdW1wZXIgJGJpZF90eXBlOwogICAgICAgICAgICB3YXJuIER1bXBlciAkYmlkX3R5cGVfc3VmZml4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXkgJGxvZyA9ICRjb250ZXh0LT5wY3ZyX2NhbmRpZGF0ZV9sb2ctPnsxODUxMzkyfTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlIERhdGE6OkR1bXBlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXkgJGxvZyA9ICRjb250ZXh0LT5wY3ZyX2NhbmRpZGF0ZV9sb2ctPnsxODUxMzkyfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybiBEdW1wZXIgJGN1dF9wZXJjZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBleHAgMTY6IGlkMTBtCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybiBEdW1wZXIgJGJpZF90eXBlX3N1ZmZpeDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXkgJHByZWRpY3Rpb25fdHlwZSA9IENWUl9QUkVESUNUSU9OOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybiBEdW1wZXIgJGN1dF9wZXJjZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhby0+c2V0X2V4cG9zdXJlcyhURVNUX0VYUEVSSU1FTlRfSUQsIHsKICAgICAgICAgICAgICAgIGJ1Y2tldF9pZCA9PiAxMDExLCB0eXBlID0+ICdyZXF1ZXN0JywgcGVyY2VudCA9PiAxMDAuMCwKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UgRGF0YTo6RHVtcGVyOwogICAgICAgIHdhcm4gRHVtcGVyICRjdXRfcGVyY2VudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGVyY2VudGlsZV9jdXRfcG0uY3ZyLnJ0Zy5pZDEwbScgPT4gJHJ0Z19jdXQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0OjpBdXRvQmlkUGVyY2VudGlsZUN1dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncGVyY2VudGlsZV9jdXRfcG0uY3ZyLm5vX3J0Zy5pZDEwbScgPT4gJG5vX3J0Z19jdXQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0OjpBdXRvQmlkUGVyY2VudGlsZUN1dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxzKCdzY2llbmNlX2NvbmYnKS0+e3BlcmNlbnRpbGVfY3V0fS0+eyRwcmVkaWN0aW9uX3R5cGV9LT57J3J0Zyd9LT57J2RlZid9ID0gJHJ0Z19jdXQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEF1dG9CaWRQZXJjZW50aWxlQ3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxzKCdzY2llbmNlX2NvbmYnKS0+e3BlcmNlbnRpbGVfY3V0fS0+eyRwcmVkaWN0aW9uX3R5cGV9LT57J25vX3J0Zyd9LT57J2RlZid9ID0gJG5vX3J0Z19jdXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcnVuX2ZtXD4=</last-search>
+      <last-search encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcnVuX2ZtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1791,7 +1789,6 @@
         <entry encoding="base64">XDxwcmVkaWN0X3Byb2JhXD4=</entry>
         <entry>percentile</entry>
         <entry encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</entry>
-        <entry encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</entry>
         <entry encoding="base64">XDxGTU1vZGVsVExcPg==</entry>
         <entry encoding="base64">XDxFQ1JfSU1BR0VfUEFUSFw+</entry>
         <entry encoding="base64">XDxBV1NfUkVHSU9OXD4=</entry>
@@ -1850,6 +1847,9 @@
         <entry encoding="base64">XDxtYWtlX3BlcmNlbnRpbGVfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxwcmVwYXJlX3Rlc3RfcGN0clw+</entry>
         <entry encoding="base64">XDxfcnVuX2ZtXD4=</entry>
+        <entry encoding="base64">XDxEQU9cPg==</entry>
+        <entry encoding="base64">XDxDYWNoZVw+</entry>
+        <entry encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
