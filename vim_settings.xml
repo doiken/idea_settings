@@ -216,6 +216,9 @@
         <mark key="^" line="89" column="26" />
         <mark key="." line="90" column="0" />
       </file>
+      <file name="/file.dummy" timestamp="1530681908257">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
       </file>
@@ -459,7 +462,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="25" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" timestamp="1530676622435">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" timestamp="1530681982168">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="99" column="30" />
         <mark key="]" line="99" column="30" />
@@ -510,10 +513,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1527506023902">
         <mark key="'" line="71" column="16" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/imobile.t" timestamp="1530668086844">
-        <mark key="[" line="179" column="22" />
-        <mark key="]" line="179" column="57" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRMFM.pm" timestamp="1529632359826">
         <mark key="'" line="0" column="0" />
@@ -739,12 +738,12 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1530676521828">
-        <mark key="'" line="78" column="57" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="93" column="34" />
-        <mark key="^" line="74" column="23" />
-        <mark key="." line="93" column="34" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1530682270318">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="75" column="21" />
+        <mark key="]" line="75" column="21" />
+        <mark key="^" line="75" column="21" />
+        <mark key="." line="75" column="21" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/WatchServiceLog.pm" timestamp="1513152968960">
         <mark key="[" line="145" column="14" />
@@ -810,6 +809,13 @@
         <mark key="]" line="69" column="1" />
         <mark key="." line="69" column="1" />
         <mark key="^" line="69" column="1" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" timestamp="1530682135627">
+        <mark key="'" line="123" column="78" />
+        <mark key="[" line="191" column="22" />
+        <mark key="]" line="172" column="29" />
+        <mark key="^" line="172" column="29" />
+        <mark key="." line="191" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1530507868195">
         <mark key="'" line="55" column="0" />
@@ -923,12 +929,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1530676483611">
-        <mark key="'" line="75" column="8" />
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="22" column="17" />
-        <mark key="^" line="22" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1530682253177">
+        <mark key="'" line="113" column="33" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1527215451892">
         <mark key="'" line="63" column="11" />
@@ -945,12 +951,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1528170075667">
         <mark key="'" line="52" column="8" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" timestamp="1530676874533">
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" timestamp="1530681668644">
         <mark key="'" line="129" column="59" />
-        <mark key="[" line="163" column="26" />
-        <mark key="]" line="115" column="29" />
-        <mark key="^" line="115" column="29" />
-        <mark key="." line="163" column="29" />
+        <mark key="[" line="166" column="22" />
+        <mark key="]" line="166" column="26" />
+        <mark key="^" line="134" column="25" />
+        <mark key="." line="166" column="22" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/BidInfo.pm" timestamp="1520837432362">
         <mark key="[" line="13" column="12" />
@@ -966,9 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="12" column="45" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="14" column="33" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="89" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="20" column="43" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="89" column="41" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1050,7 +1053,6 @@
       <jump line="1229" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="41" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="24" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="113" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="8" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="22" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="39" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -1066,6 +1068,10 @@
       <jump line="114" column="64" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="130" column="64" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
       <jump line="129" column="59" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
+      <jump line="50" column="39" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
+      <jump line="123" column="78" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/bucket141.t" />
+      <jump line="113" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="75" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1078,7 +1084,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1093,13 +1099,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBdXRvQmlkUGVyY2VudGlsZUN1dFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>ctr_prediction</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdHJfcHJlZGljdGlvbiAgICA9PiBDVFJGTV9MVklERU9fUFJFRElDVElPTi0+bmV3LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
