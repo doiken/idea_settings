@@ -9,10 +9,6 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineImage.pm" timestamp="1530683401216">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="31" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -38,6 +34,9 @@
         <mark key="]" line="40" column="14" />
         <mark key="^" line="40" column="14" />
         <mark key="." line="44" column="23" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" timestamp="1530694803138">
+        <mark key="'" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1530689592374">
         <mark key="'" line="103" column="40" />
@@ -468,10 +467,6 @@
         <mark key="^" line="471" column="17" />
         <mark key="." line="471" column="17" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/imobile.t" timestamp="1530668086844">
-        <mark key="[" line="179" column="22" />
-        <mark key="]" line="179" column="57" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRMFM.pm" timestamp="1529632359826">
         <mark key="'" line="0" column="0" />
       </file>
@@ -838,9 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="86" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="44" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="78" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="84" column="70" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="88" column="91" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -938,6 +930,9 @@
       <jump line="206" column="43" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="232" column="73" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="256" column="73" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="99" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="13" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="15" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -968,7 +963,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2JpZFw+</text>
+        <text encoding="base64">XDxfY3JpdF9wYXJ0aXRpb25faG91cnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpc19kZWVwbHkgJGNvbnRleHQtPnBjdHJfcGN2cl9jYW5kaWRhdGVfbG9nLT57MTg1MTM5Mn0sICt7CiAgICAgICAgICAgIGJpZF9pZCA9PiAnMTg1MTM5MicsCiAgICAgICAgICAgIGNhbXBhaWduX2lkID0+ICRjcG5faWQsCiAgICAgICAgICAgIHByZWRpY3RfbW9kZWxfaWRfY3RyID0+ICRwcmVkaWN0X21vZGVsX2lkLAogICAgICAgICAgICBwcmVkaWN0X21vZGVsX2lkX2N2ciA9PiAyMDEsCiAgICAgICAgICAgIHByZWRpY3RfY3RyID0+ICcyOTk5LjIzNDI1JywKICAgICAgICAgICAgcHJlZGljdF9jdnIgPT4gJzIuMDAwMDAnLAogICAgICAgICAgICByZXF1ZXN0X2lkID0+ICdSTWJmLXlHRTUxM3lSejJZdU96aVRnJywKICAgICAgICAgICAgZXhwZXJpbWVudF9idWNrZXRfbWFwID0+IHVuZGVmLAogICAgICAgICAgICBwcmVkaWN0X3Byb2R1Y3QgPT4gJzU5OTguNDY4NScsCiAgICAgICAgICAgIHByb2R1Y3RfcGVyY2VudGlsZSA9PiAwLAogICAgICAgICAgICBib29zdF92YWx1ZSA9PiAwLAogICAgICAgIH07Cg==</text>
@@ -1026,9 +1021,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2JpZFw+</last-search>
+      <last-search encoding="base64">XDxfY3JpdF9wYXJ0aXRpb25faG91cnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2JpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JpdF9wYXJ0aXRpb25faG91cnNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1168,6 +1163,7 @@
         <entry encoding="base64">XDxleHBlcmltZW50X2J1Y2tldF9tYXBcPg==</entry>
         <entry>temp_prob</entry>
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
+        <entry encoding="base64">XDxfY3JpdF9wYXJ0aXRpb25faG91cnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
