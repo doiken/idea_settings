@@ -25,6 +25,13 @@
       <file name="$FOUT_HOME$/t/utils/MakeHelper.pm" timestamp="1529472163920">
         <mark key="'" line="76" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/audience_proxy.pl" timestamp="1529546961763">
+        <mark key="'" line="80" column="24" />
+        <mark key="[" line="81" column="24" />
+        <mark key="]" line="81" column="27" />
+        <mark key="." line="81" column="27" />
+        <mark key="^" line="81" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/bin/run_etl.pl" timestamp="1530526204819" />
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1526456852431">
         <mark key="'" line="227" column="13" />
@@ -33,12 +40,15 @@
       <file name="$FOUT_HOME$/db/cron/rotate_logs_table.pl" timestamp="1529057203013">
         <mark key="'" line="69" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" timestamp="1530697592452">
-        <mark key="'" line="342" column="31" />
+      <file name="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" timestamp="1531119325767">
+        <mark key="'" line="184" column="38" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
-        <mark key="^" line="149" column="71" />
+        <mark key="^" line="150" column="71" />
         <mark key="." line="125" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" timestamp="1531120798947">
+        <mark key="'" line="36" column="72" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/UnionPrediction.pm" timestamp="1529483578880">
         <mark key="[" line="0" column="31" />
@@ -86,12 +96,12 @@
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1530697101635">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="50" />
-        <mark key="^" line="67" column="33" />
-        <mark key="." line="67" column="33" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1531120543329">
+        <mark key="'" line="43" column="9" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
       </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
@@ -125,6 +135,13 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1531105263365">
         <mark key="'" line="34" column="28" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_line_video.t" timestamp="1529475940396">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="163" column="37" />
+        <mark key="]" line="163" column="56" />
+        <mark key="^" line="160" column="27" />
+        <mark key="." line="163" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigParser.scala" timestamp="1528351784016">
         <mark key="'" line="14" column="6" />
       </file>
@@ -153,6 +170,12 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1527505947743">
         <mark key="'" line="54" column="11" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1529632242633">
+        <mark key="'" line="38" column="8" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="122" column="3" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" timestamp="1526020669438">
         <mark key="'" line="40" column="5" />
       </file>
@@ -170,6 +193,13 @@
         <mark key="]" line="20" column="18" />
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
+      </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1529290883884">
+        <mark key="'" line="928" column="2" />
+        <mark key="[" line="191" column="73" />
+        <mark key="]" line="191" column="75" />
+        <mark key="." line="191" column="75" />
+        <mark key="^" line="191" column="75" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -203,6 +233,13 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="36" column="1" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1529475910253">
+        <mark key="'" line="155" column="47" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="60" column="21" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1530671101105">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="23" column="31" />
@@ -227,6 +264,13 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1530685439286">
         <mark key="'" line="94" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/prediction/cvrfm_not_line.t" timestamp="1529476004191">
+        <mark key="'" line="132" column="54" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="159" column="26" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/lib/Mock/RfpNetwork/DB.pm" timestamp="1519026494882">
         <mark key="[" line="12" column="12" />
@@ -292,6 +336,13 @@
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1529556781815">
+        <mark key="'" line="57" column="2" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
@@ -452,7 +503,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531112002538">
+      <file name="/Dummy.txt" timestamp="1531120803563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -470,13 +521,20 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="25" column="38" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1529546109877">
+        <mark key="'" line="633" column="33" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="$FOUT_HOME$/local/lib/perl5/x86_64-linux/Data/MessagePack/PP.pm" timestamp="1531099701005" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" timestamp="1530683447998">
-        <mark key="'" line="86" column="16" />
-        <mark key="[" line="43" column="56" />
-        <mark key="]" line="43" column="67" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="109" column="29" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" timestamp="1531120857769">
+        <mark key="'" line="44" column="57" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="110" column="29" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp.t" timestamp="1522230124266">
         <mark key="[" line="37" column="21" />
@@ -511,8 +569,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1530867569660">
-        <mark key="'" line="0" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531119782238">
+        <mark key="'" line="1015" column="21" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
         <mark key="^" line="332" column="15" />
@@ -624,8 +682,21 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/prediction_filtered_candidates.t" timestamp="1531119604544">
+        <mark key="'" line="136" column="53" />
+        <mark key="[" line="149" column="33" />
+        <mark key="]" line="149" column="33" />
+        <mark key="." line="149" column="33" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ProductPrediction.pm" timestamp="1529574597491">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="17" column="82" />
+        <mark key="]" line="17" column="82" />
+        <mark key="^" line="29" column="63" />
+        <mark key="." line="17" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
         <mark key="'" line="88" column="12" />
@@ -633,12 +704,11 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
         <mark key="'" line="192" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1531117447485">
-        <mark key="'" line="40" column="59" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="14" />
-        <mark key="." line="36" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1531120540786">
+        <mark key="'" line="49" column="30" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
@@ -669,6 +739,13 @@
         <mark key="]" line="51" column="23" />
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
+      </file>
+      <file name="$FOUT_HOME$/t/static_analysis_of_dependency.t" timestamp="1531120795805">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="276" column="51" />
+        <mark key="]" line="276" column="59" />
+        <mark key="^" line="276" column="59" />
+        <mark key="." line="276" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/streaming/etl_conversion.t" timestamp="1519892028557">
         <mark key="[" line="7" column="461" />
@@ -733,12 +810,12 @@
         <mark key="^" line="18" column="10" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1530683351970">
-        <mark key="'" line="110" column="16" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="67" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="96" column="60" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1531120850129">
+        <mark key="'" line="90" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="60" />
+        <mark key="^" line="9" column="60" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/WatchServiceLog.pm" timestamp="1513152968960">
         <mark key="[" line="145" column="14" />
@@ -876,6 +953,13 @@
         <mark key="." line="224" column="24" />
         <mark key="^" line="224" column="24" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1529563936640">
+        <mark key="'" line="726" column="23" />
+        <mark key="[" line="993" column="46" />
+        <mark key="]" line="993" column="3" />
+        <mark key="." line="993" column="3" />
+        <mark key="^" line="993" column="3" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-no_url_broad.t" timestamp="1522202410080">
         <mark key="[" line="25" column="36" />
         <mark key="]" line="22" column="14" />
@@ -934,12 +1018,8 @@
         <mark key="'" line="28" column="28" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1530083829827" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531105113737">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="8" column="75" />
-        <mark key="]" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-        <mark key="^" line="8" column="75" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531120624765">
+        <mark key="'" line="79" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1527215451892">
         <mark key="'" line="63" column="11" />
@@ -977,31 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
-      <jump line="122" column="69" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/logical_flow/default.t" />
-      <jump line="116" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="81" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="33" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="43" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="69" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="35" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="105" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="51" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="39" column="20" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="95" column="12" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="93" column="4" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="1441" column="20" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="1851" column="4" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="70" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="1384" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
-      <jump line="71" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
-      <jump line="22" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
-      <jump line="68" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="69" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="69" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
-      <jump line="99" column="18" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="419" column="33" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="50" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
       <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
       <jump line="78" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
@@ -1077,6 +1132,31 @@
       <jump line="9" column="29" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" />
       <jump line="99" column="47" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
       <jump line="178" column="4" filename="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" />
+      <jump line="112" column="29" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
+      <jump line="73" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="183" column="38" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
+      <jump line="42" column="20" filename="$FOUT_HOME$/t/fout/bid/decision/prediction_filtered_candidates.t" />
+      <jump line="120" column="56" filename="$FOUT_HOME$/t/fout/bid/decision/prediction_filtered_candidates.t" />
+      <jump line="136" column="53" filename="$FOUT_HOME$/t/fout/bid/decision/prediction_filtered_candidates.t" />
+      <jump line="1015" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="244" column="16" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="11" column="5" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="200" column="31" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="177" column="12" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="38" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="168" column="70" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="110" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="84" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="115" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="4" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="5" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="79" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="49" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
+      <jump line="43" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="171" column="0" filename="$FOUT_HOME$/t/static_analysis_of_dependency.t" />
+      <jump line="36" column="72" filename="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" />
+      <jump line="90" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="43" column="57" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1089,7 +1169,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdhcm4gMTsK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0OjpBdXRvQmlkUGVyY2VudGlsZUN1dDsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1104,16 +1184,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>, $candidate_log, $pred_type</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVjb3JkX2Zvcl9sb2dnaW5nXD4=</text>
+        <text encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0Ojpfc2V0X3ByZWRfY2FuZGlkYXRlX2xvZyh1bmRlZiwgJGNvbnRleHQsICRwcmVkX3R5cGUsICRjYW5kaWRhdGVfbG9nKTsK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0OjpBdXRvQmlkUGVyY2VudGlsZUN1dDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdhcm4gMTsK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6UHJlZGljdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1134,40 +1214,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lID0+ICc5OTk5LTk5LTk5IDk5Ojk5Ojk5JywK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpQZXJjZW50aWxlQ3V0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZSA9PiAkcGN2cl9jYW5kaWRhdGVfbG9nLT57J3RpbWUnfSwK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6RGF0YTo6UENWUlBlcmNlbnRpbGU7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZSA9PiAkcGN2cl9jYW5kaWRhdGVfbG9nLT57J3RpbWUnfSwK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6RGF0YTo6QXV0b0N1dEJvb3N0UGFyYW1zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdhcm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGVyaW1lbnRfYnVja2V0X21hcCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAmJiAhJGJpZC0+e2JpZF9kYXRhfXtjcF9pc19hdXRvbWF0ZWR9ICMg6Ieq5YuV5YWl5pyt44GvRjo6Qjo6QTo6UGVyY2VudGlsZUN1dDo6QXV0b0JpZFBlcmNlbnRpbGVDdXTjgavjgablrp/mlr0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGVyaW1lbnRfYnVja2V0X21hcCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcmVzZXJ2ZWQgZm9yIGJvb3N0IHBhcmFtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyByZXNlcnZlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRjYW5kaWRhdGVfbG9nLT57cGN0cl9wZXJjZW50aWxlfSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIydleHBlcmltZW50X2J1Y2tldF9tYXAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2FybiBEdW1wZXIgJGNvbnRleHQtPnBjdHJfcGN2cl9jYW5kaWRhdGVfbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2V4cGVyaW1lbnRfYnVja2V0X21hcCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVjb3JkX2Zvcl9sb2dnaW5nXD4=</last-search>
+      <last-search encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVjb3JkX2Zvcl9sb2dnaW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1233,7 +1313,6 @@
         <entry encoding="base64">XDxfd2FpdF9mb3Jfc2FnZW1ha2VyX2pvYlw+</entry>
         <entry encoding="base64">XDxfYXdzX2NtZFw+</entry>
         <entry encoding="base64">XDxfcnVuX2hpdmVfY29tbWFuZFw+</entry>
-        <entry encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</entry>
         <entry encoding="base64">XDxQQ1ZSUGVyY2VudGlsZVw+</entry>
         <entry encoding="base64">XDxNeVNRTFw+</entry>
         <entry encoding="base64">XDxNYXRjaFR5cGVVdGlsXD4=</entry>
@@ -1258,7 +1337,6 @@
         <entry encoding="base64">XDxfZXh0cmFjdF9tb2RlbF9maWxlXD4=</entry>
         <entry encoding="base64">XDxfZGlzdGNwX3RvX3MzXD4=</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</entry>
-        <entry encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfcGVyY2VudGlsZV9jdXRcPg==</entry>
         <entry encoding="base64">XDxDVlJfUFJFRElDVElPTlw+</entry>
         <entry encoding="base64">XDxORVRXT1JLX0lEX1JFRFw+</entry>
@@ -1323,6 +1401,10 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxmcmVha291dF91aWRcPg==</entry>
         <entry encoding="base64">XDxfcmVjb3JkX2Zvcl9sb2dnaW5nXD4=</entry>
+        <entry encoding="base64">XDxjdXRfYnlfcHJlZGljdGlvblw+</entry>
+        <entry encoding="base64">XDxXRUxMS05PV05fREVQRU5ERU5DSUVTXD4=</entry>
+        <entry encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</entry>
+        <entry encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
