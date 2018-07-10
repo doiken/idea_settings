@@ -187,6 +187,16 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1531191294719">
+        <mark key="'" line="928" column="2" />
+        <mark key="[" line="191" column="73" />
+        <mark key="]" line="191" column="75" />
+        <mark key="." line="191" column="75" />
+        <mark key="^" line="191" column="75" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1531191378103">
+        <mark key="'" line="249" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
         <mark key="]" line="109" column="44" />
@@ -407,6 +417,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="494" column="29" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1531192131886" />
       <file name="$FOUT_HOME$/config_local.yaml" timestamp="1527581517126">
         <mark key="[" line="143" column="0" />
         <mark key="]" line="143" column="0" />
@@ -477,7 +488,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531187551065">
+      <file name="/Dummy.txt" timestamp="1531191453449">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -545,7 +556,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531119782238">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531191481670">
         <mark key="'" line="1015" column="21" />
         <mark key="[" line="338" column="0" />
         <mark key="]" line="338" column="0" />
@@ -1043,7 +1054,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="29" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
       <jump line="139" column="41" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
       <jump line="140" column="53" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
       <jump line="341" column="57" filename="$FOUT_HOME$/t/fout/bid/decision/set_pctr_pcvr_candidate_log.t" />
@@ -1143,6 +1153,7 @@
       <jump line="110" column="41" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="126" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="397" column="45" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="249" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1173,7 +1184,7 @@
         <text encoding="base64">LCBkID0+IDEuMDAwMDAwMQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2NrVGltZVw+</text>
+        <text encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2FybiBEdW1wZXIgKERhdGE6Ok1lc3NhZ2VQYWNrLT51bnBhY2soRGF0YTo6TWVzc2FnZVBhY2stPnBhY2soe2EgPT4gMSwgYiA9PiAxLjAsIGMgPT4gMS4wMSwgZCA9PiAxLjAwMDAwMDF9KSkpOwo=</text>
@@ -1231,9 +1242,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2NrVGltZVw+</last-search>
+      <last-search encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2NrVGltZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,6 +1404,7 @@
         <entry encoding="base64">XDxwcmVwYXJlX3Rlc3RfcGN0clw+</entry>
         <entry encoding="base64">XDxteXNxbF9kYXRldGltZVw+</entry>
         <entry encoding="base64">XDxNb2NrVGltZVw+</entry>
+        <entry encoding="base64">XDxfYXNlX3NlZ21lbnRfaWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5wdXQgPXJhbmdlKDEsNSk=</entry>
