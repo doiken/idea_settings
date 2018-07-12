@@ -541,7 +541,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531382601809">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531386319452">
         <mark key="'" line="328" column="4" />
         <mark key="[" line="344" column="0" />
         <mark key="]" line="344" column="0" />
@@ -654,6 +654,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1527664778887">
         <mark key="'" line="88" column="12" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/BidCandidates.pm" timestamp="1531386536902">
+        <mark key="'" line="11" column="4" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
         <mark key="'" line="192" column="26" />
@@ -1009,7 +1012,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1447" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="319" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="5" column="4" filename="$FOUT_HOME$/t/fout/bid/logger.t" />
@@ -1109,6 +1111,7 @@
       <jump line="90" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="93" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match/BidCandidates.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1139,7 +1142,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYnVja2V0c1w+</text>
+        <text encoding="base64">XDxfY21wX2JpZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzZWxmLT5fc2V0X3ByZWRfY2FuZGlkYXRlX2xvZygkY29udGV4dCwgJHByZWRfdHlwZSwgK3sKICAgICAgICB0aW1lID0+IGxvY2FsdGltZS0+bXlzcWxfZGF0ZXRpbWUsCiAgICAgICAgYmlkX2lkID0+ICRiaWRfaWQsCiAgICAgICAgY2FtcGFpZ25faWQgPT4gJGNwbl9pZCwKICAgICAgICBpc19jdXQgPT4gJGlzX2N1dCwKICAgICAgICBwcmVkaWN0X2N2ciA9PiAkcHJlZGljdF9wcm9iYSwKICAgICAgICBjdXRfcGVyY2VudCA9PiAkY3V0X3BlcmNlbnQsCiAgICAgICAgY3V0X2N2ciA9PiAkY3V0X2N2ciwKICAgICAgICBwcmVkaWN0X21vZGVsID0+ICRwcmVkaWN0X21vZGVsLAogICAgICAgIHByZWRpY3RfbW9kZWxfaWQgPT4gJHByZWRpY3RfbW9kZWxfaWQsCiAgICAgICAgcmVxdWVzdF9pZCA9PiAkY29udGV4dC0+cmVxdWVzdF9pZCwKICAgIH0pOwo=</text>
@@ -1197,9 +1200,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYnVja2V0c1w+</last-search>
+      <last-search encoding="base64">XDxfY21wX2JpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYnVja2V0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfY21wX2JpZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1255,6 +1258,7 @@
         <entry encoding="base64">XDxhdXRvX2JpZHNfc3BsaXRydW5fcGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxjdXRfcGVyY2VudFw+</entry>
         <entry encoding="base64">XDxfYnVja2V0c1w+</entry>
+        <entry encoding="base64">XDxfY21wX2JpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
