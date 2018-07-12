@@ -658,6 +658,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/io/UnixFileSystem.java" timestamp="1528336921665">
         <mark key="'" line="192" column="26" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1531383817892" />
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/bid-ase-segment.t" timestamp="1519046678009">
         <mark key="[" line="43" column="35" />
         <mark key="]" line="43" column="34" />
@@ -945,8 +946,8 @@
         <mark key="." line="51" column="36" />
         <mark key="^" line="51" column="36" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" timestamp="1531361886579">
-        <mark key="'" line="11" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" timestamp="1531384113194">
+        <mark key="'" line="106" column="25" />
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="15" />
         <mark key="^" line="23" column="4" />
@@ -973,8 +974,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531382926855">
-        <mark key="'" line="108" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531384331311">
+        <mark key="'" line="93" column="9" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
@@ -1008,12 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
-      <jump line="81" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" />
-      <jump line="15" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
-      <jump line="99" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
-      <jump line="53" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/FMModelRole.pm" />
       <jump line="84" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
       <jump line="1447" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
@@ -1102,12 +1097,18 @@
       <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="295" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="328" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="83" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="93" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="95" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="81" column="57" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="115" column="104" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="108" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="82" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
+      <jump line="106" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
+      <jump line="97" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="76" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="83" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="91" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="90" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="93" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1120,7 +1121,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6RGF0YTo6QXV0b0N1dEJvb3N0UGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgICRzZWxmLT5fc2V0X3ByZWRfY2FuZGlkYXRlX2xvZygkY29udGV4dCwgJHByZWRfdHlwZSwgK3sKICAgICAgICB0aW1lID0+IGxvY2FsdGltZS0+bXlzcWxfZGF0ZXRpbWUsCiAgICAgICAgYmlkX2lkID0+ICRiaWRfaWQsCiAgICAgICAgY2FtcGFpZ25faWQgPT4gJGNwbl9pZCwKICAgICAgICBpc19jdXQgPT4gJGlzX2N1dCwKICAgICAgICBwcmVkaWN0X2N2ciA9PiAkcHJlZGljdF9wcm9iYSwKICAgICAgICBjdXRfcGVyY2VudCA9PiAkY3V0X3BlcmNlbnQsCiAgICAgICAgY3V0X2N2ciA9PiAkY3V0X2N2ciwKICAgICAgICBwcmVkaWN0X21vZGVsID0+ICRwcmVkaWN0X21vZGVsLAogICAgICAgIHByZWRpY3RfbW9kZWxfaWQgPT4gJHByZWRpY3RfbW9kZWxfaWQsCiAgICAgICAgcmVxdWVzdF9pZCA9PiAkY29udGV4dC0+cmVxdWVzdF9pZCwKICAgIH0pOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1138,10 +1139,10 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkX2RhdGFcPg==</text>
+        <text encoding="base64">XDxjdXRfcGVyY2VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6Ok5ldHdvcmtzOjpDb25zdGFudHMgcXcoTkVUV09SS19JRF9SRUQpOwp1c2UgRk91dDo6QmlkOjpEYXRhOjpBdXRvQ3V0Qm9vc3RQYXJhbXM7CnVzZSBGaWxlOjpUZW1wIHF3KHRlbXBkaXIpOwo=</text>
+        <text encoding="base64">ICAgICRzZWxmLT5fc2V0X3ByZWRfY2FuZGlkYXRlX2xvZygkY29udGV4dCwgJHByZWRfdHlwZSwgK3sKICAgICAgICB0aW1lID0+IGxvY2FsdGltZS0+bXlzcWxfZGF0ZXRpbWUsCiAgICAgICAgYmlkX2lkID0+ICRiaWRfaWQsCiAgICAgICAgY2FtcGFpZ25faWQgPT4gJGNwbl9pZCwKICAgICAgICBpc19jdXQgPT4gJGlzX2N1dCwKICAgICAgICBwcmVkaWN0X2N2ciA9PiAkcHJlZGljdF9wcm9iYSwKICAgICAgICBjdXRfcGVyY2VudCA9PiAkY3V0X3BlcmNlbnQsCiAgICAgICAgY3V0X2N2ciA9PiAkY3V0X2N2ciwKICAgICAgICBwcmVkaWN0X21vZGVsID0+ICRwcmVkaWN0X21vZGVsLAogICAgICAgIHByZWRpY3RfbW9kZWxfaWQgPT4gJHByZWRpY3RfbW9kZWxfaWQsCiAgICAgICAgcmVxdWVzdF9pZCA9PiAkY29udGV4dC0+cmVxdWVzdF9pZCwKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6RGF0YTo6QXV0b0N1dEJvb3N0UGFyYW1zOwo=</text>
@@ -1196,9 +1197,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkX2RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxjdXRfcGVyY2VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkX2RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjdXRfcGVyY2VudFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1248,8 +1249,11 @@
         <entry encoding="base64">XDxfcHJlZGljdGlvbl9maWx0ZXJlZF9jYW5kaWRhdGVzXD4=</entry>
         <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
         <entry encoding="base64">XDxwZXJjZW50XD4=</entry>
-        <entry encoding="base64">XDxjdXRfcGVyY2VudFw+</entry>
         <entry encoding="base64">XDxwcmVkX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxhdXRvX3BhcmFtc19kYW9cPg==</entry>
+        <entry encoding="base64">XDxiaWRfdHlwZV9zdWZmaXhcPg==</entry>
+        <entry encoding="base64">XDxhdXRvX2JpZHNfc3BsaXRydW5fcGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxjdXRfcGVyY2VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
