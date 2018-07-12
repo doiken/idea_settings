@@ -64,8 +64,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1529552840541">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1531380392021">
-        <mark key="'" line="80" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1531385157913">
+        <mark key="'" line="23" column="4" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-dmp-freq.t" timestamp="1522229854617">
         <mark key="[" line="44" column="21" />
@@ -164,7 +164,7 @@
         <mark key="^" line="134" column="5" />
         <mark key="." line="134" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1531380450078">
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1531385101783">
         <mark key="'" line="54" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-scripts/src/scripts/gitlab.coffee" timestamp="1526020669438">
@@ -779,7 +779,7 @@
         <mark key="." line="114" column="29" />
         <mark key="^" line="114" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_add_network_id.sql" timestamp="1531375654151">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_add_network_id.sql" timestamp="1531385665515">
         <mark key="'" line="4" column="62" />
         <mark key="[" line="5" column="12" />
         <mark key="]" line="6" column="25" />
@@ -1009,7 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
       <jump line="1447" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="319" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
@@ -1109,6 +1108,7 @@
       <jump line="91" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="90" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="93" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1139,7 +1139,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXRfcGVyY2VudFw+</text>
+        <text encoding="base64">XDxfYnVja2V0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzZWxmLT5fc2V0X3ByZWRfY2FuZGlkYXRlX2xvZygkY29udGV4dCwgJHByZWRfdHlwZSwgK3sKICAgICAgICB0aW1lID0+IGxvY2FsdGltZS0+bXlzcWxfZGF0ZXRpbWUsCiAgICAgICAgYmlkX2lkID0+ICRiaWRfaWQsCiAgICAgICAgY2FtcGFpZ25faWQgPT4gJGNwbl9pZCwKICAgICAgICBpc19jdXQgPT4gJGlzX2N1dCwKICAgICAgICBwcmVkaWN0X2N2ciA9PiAkcHJlZGljdF9wcm9iYSwKICAgICAgICBjdXRfcGVyY2VudCA9PiAkY3V0X3BlcmNlbnQsCiAgICAgICAgY3V0X2N2ciA9PiAkY3V0X2N2ciwKICAgICAgICBwcmVkaWN0X21vZGVsID0+ICRwcmVkaWN0X21vZGVsLAogICAgICAgIHByZWRpY3RfbW9kZWxfaWQgPT4gJHByZWRpY3RfbW9kZWxfaWQsCiAgICAgICAgcmVxdWVzdF9pZCA9PiAkY29udGV4dC0+cmVxdWVzdF9pZCwKICAgIH0pOwo=</text>
@@ -1197,9 +1197,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXRfcGVyY2VudFw+</last-search>
+      <last-search encoding="base64">XDxfYnVja2V0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXRfcGVyY2VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYnVja2V0c1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1254,6 +1254,7 @@
         <entry encoding="base64">XDxiaWRfdHlwZV9zdWZmaXhcPg==</entry>
         <entry encoding="base64">XDxhdXRvX2JpZHNfc3BsaXRydW5fcGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxjdXRfcGVyY2VudFw+</entry>
+        <entry encoding="base64">XDxfYnVja2V0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
