@@ -500,6 +500,9 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pm" timestamp="1526355129549">
         <mark key="'" line="678" column="20" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
+        <mark key="'" line="403" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531303155850">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -1053,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="12" filename="$FOUT_HOME$/t/fout/bid/data/pctr_pcvr_percentile.t" />
-      <jump line="93" column="12" filename="$FOUT_HOME$/t/fout/bid/data/pctr_pcvr_percentile.t" />
       <jump line="141" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="86" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="16" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -1153,6 +1154,8 @@
       <jump line="28" column="39" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="35" column="31" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="354" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="347" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
+      <jump line="403" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1183,7 +1186,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb2ZmZXJfYmlkc1w+</text>
+        <text encoding="base64">XDxjaGVja19zYW1lX2ZpbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIEZPdXQ6Ok5ldHdvcmtzOjpDb25zdGFudHMgcXcoTkVUV09SS19JRF9SRUQpOwp1c2UgRk91dDo6QmlkOjpEYXRhOjpBdXRvQ3V0Qm9vc3RQYXJhbXM7CnVzZSBGaWxlOjpUZW1wIHF3KHRlbXBkaXIpOwo=</text>
@@ -1241,9 +1244,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb2ZmZXJfYmlkc1w+</last-search>
+      <last-search encoding="base64">XDxjaGVja19zYW1lX2ZpbGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb2ZmZXJfYmlkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19zYW1lX2ZpbGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1276,6 +1279,7 @@
         <entry encoding="base64">XDxORVRXT1JLX0lEX1JFRFw+</entry>
         <entry encoding="base64">XDxBdXRvQ3V0Qm9vc3RQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfb2ZmZXJfYmlkc1w+</entry>
+        <entry encoding="base64">XDxjaGVja19zYW1lX2ZpbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
