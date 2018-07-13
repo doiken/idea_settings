@@ -455,7 +455,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531474471749">
+      <file name="/Dummy.txt" timestamp="1531477668021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -667,6 +667,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/ad/request/register_spot.t" timestamp="1531477663216">
+        <mark key="'" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-plusplus/src/plusplus.coffee" timestamp="1526025351349">
         <mark key="'" line="181" column="2" />
@@ -900,7 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="18" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="21" column="20" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="14" column="33" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="15" column="21" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1000,6 +1002,7 @@
       <jump line="0" column="26" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="30" column="66" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
+      <jump line="2" column="10" filename="$FOUT_HOME$/t/fout/ad/request/register_spot.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1030,7 +1033,7 @@
         <text>prediction_jp.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXR3b3JrX2lkXD4=</text>
+        <text encoding="base64">XDxNb2NrT2JqZWN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>pctr_pcvr_candidate</text>
@@ -1088,9 +1091,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-search>
+      <last-search encoding="base64">XDxNb2NrT2JqZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxNb2NrT2JqZWN0XD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1156,6 +1159,7 @@
         <entry encoding="base64">XDxfcmVtb3ZlX2NvbnRyb2xfY2hhclw+</entry>
         <entry encoding="base64">XDxmcm9tX3RzXD4=</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
+        <entry encoding="base64">XDxNb2NrT2JqZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
