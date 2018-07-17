@@ -24,7 +24,7 @@
       <file name="$FOUT_HOME$/t/utils/MakeHelper.pm" timestamp="1529472163920">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_jp_add_network_id.sql" timestamp="1531474764077">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_jp_add_network_id.sql" timestamp="1531806587314">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
@@ -286,10 +286,11 @@
         <mark key="." line="0" column="31" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1531459090693" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_prediction_jp_add_network_id.sql" timestamp="1531805672082">
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="1" column="81" />
-        <mark key="." line="1" column="78" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_prediction_jp_add_network_id.sql" timestamp="1531806526216">
+        <mark key="[" line="1" column="80" />
+        <mark key="]" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+        <mark key="^" line="1" column="80" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
@@ -353,8 +354,8 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531477100503">
-        <mark key="'" line="0" column="26" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531806541837">
+        <mark key="'" line="409" column="4" />
         <mark key="[" line="401" column="4" />
         <mark key="]" line="401" column="23" />
         <mark key="." line="400" column="0" />
@@ -376,6 +377,13 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1531806601371">
+        <mark key="'" line="1412" column="5" />
+        <mark key="[" line="1439" column="10" />
+        <mark key="]" line="1439" column="10" />
+        <mark key="." line="1439" column="10" />
+        <mark key="^" line="1439" column="10" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1531372998279">
         <mark key="'" line="36" column="36" />
@@ -903,8 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="20" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
-      <jump line="14" column="33" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="15" column="21" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="99" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
       <jump line="14" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
@@ -1003,6 +1009,8 @@
       <jump line="30" column="66" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
       <jump line="2" column="10" filename="$FOUT_HOME$/t/fout/ad/request/register_spot.t" />
+      <jump line="409" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="1412" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1015,7 +1023,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1030,7 +1038,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2NrT2JqZWN0XD4=</text>
