@@ -286,10 +286,10 @@
         <mark key="." line="0" column="31" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1531459090693" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_prediction_jp_add_network_id.sql" timestamp="1531474757392">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180710_50968_prediction_jp_add_network_id.sql" timestamp="1531805672082">
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="1" column="81" />
+        <mark key="." line="1" column="78" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1520578193066">
         <mark key="[" line="0" column="0" />
@@ -1014,8 +1014,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgY2FzdChuZXR3b3JrX2lkIGFzIGludCksCg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1030,13 +1030,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>prediction_jp.</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2NrT2JqZWN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>pctr_pcvr_candidate</text>
+        <text>int</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgY2FzdChuZXR3b3JrX2lkIGFzIGludCksCg==</text>
