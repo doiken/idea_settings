@@ -167,11 +167,9 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="80" column="39" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" timestamp="1531878432929">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" timestamp="1531879522411">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" timestamp="1531302306263">
         <mark key="'" line="104" column="4" />
@@ -728,6 +726,12 @@
         <mark key="^" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/foo.pl" timestamp="1531879730561">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/streaming/etl_conversion.t" timestamp="1519892028557">
         <mark key="[" line="7" column="461" />
         <mark key="]" line="7" column="460" />
@@ -1173,7 +1177,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self</text>
+        <text>t/fout/bid/adserver/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1188,16 +1192,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>t/fout/bid/adserver/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVwYXJlX3Rlc3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>{prediction}</text>
+      <register name="0" type="2">
+        <text encoding="base64">d2FybiBGb28tPm5ldyhwcm9wMSA9PiAxKS0+e3Byb3AxfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBteSAoJHNlbGYpID0gQF87Cg==</text>
+        <text encoding="base64">Rm9vLT5uZXcoKS0+cHJvcDE7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1208,31 +1212,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VGVzdCBTdW1tYXJ5IFJlcG9ydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZGljdGlvbiAgICAgICAgICA9PiAkX1swXS0+e3ByZWRpY3Rpb259Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGT3V0OjpCaWQ6OlNjaWVuY2U6OlBlcmNlbnRpbGVCb29zdC0+bmV3KAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Tm8gc3VidGVzdHMgcnVuIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dC9mb3V0L2JpZC9hZHNlcnZlci9hZGdlbmVyYXRpb24udCAuLiAK</text>
+        <text encoding="base64">aGFzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBtYWluOwoK</text>
+        <text encoding="base64">ICAgICAgICBteSAoJHNlbGYpID0gQF87Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIHN0cmljdDsK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9wZXJsCg==</text>
+        <text encoding="base64">VGVzdCBTdW1tYXJ5IFJlcG9ydAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
