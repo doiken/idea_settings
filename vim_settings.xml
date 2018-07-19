@@ -93,6 +93,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1531287976642">
         <mark key="'" line="81" column="26" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1531970593107">
+        <mark key="'" line="82" column="42" />
+      </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="13" column="13" />
@@ -355,8 +358,8 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531896355161">
-        <mark key="'" line="230" column="46" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531971588824">
+        <mark key="'" line="409" column="5" />
         <mark key="[" line="400" column="4" />
         <mark key="]" line="400" column="23" />
         <mark key="." line="400" column="0" />
@@ -413,8 +416,8 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1531822837543">
-        <mark key="'" line="1254" column="19" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1531971025631">
+        <mark key="'" line="1230" column="4" />
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -462,7 +465,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531908071852">
+      <file name="/Dummy.txt" timestamp="1531971267339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -513,8 +516,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531902387887">
-        <mark key="'" line="424" column="37" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1531971039917">
+        <mark key="'" line="328" column="4" />
         <mark key="[" line="344" column="0" />
         <mark key="]" line="344" column="0" />
         <mark key="." line="344" column="0" />
@@ -796,8 +799,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1531905850860">
         <mark key="'" line="27" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531966184827">
-        <mark key="'" line="78" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531970287658">
+        <mark key="'" line="32" column="69" />
         <mark key="[" line="68" column="25" />
         <mark key="]" line="68" column="25" />
         <mark key="." line="68" column="25" />
@@ -930,7 +933,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531883577110">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1531970637909">
         <mark key="'" line="55" column="53" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -965,24 +968,18 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" />
-      <jump line="61" column="16" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="0" column="26" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="30" column="66" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
       <jump line="14" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" />
       <jump line="2" column="10" filename="$FOUT_HOME$/t/fout/ad/request/register_spot.t" />
-      <jump line="409" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="1412" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1239" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="571" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1252" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1254" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
-      <jump line="328" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="67" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="31" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/pctr_pcvr_percentile.t" />
-      <jump line="32" column="68" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="295" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="276" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="29" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
@@ -1065,6 +1062,12 @@
       <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="81" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
+      <jump line="32" column="69" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
+      <jump line="82" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="1230" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="157" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="328" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="409" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1095,7 +1098,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</text>
+        <text encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$adg</text>
@@ -1144,9 +1147,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</last-search>
+      <last-search encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1154,9 +1157,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlX3Rlc3RcPg==</entry>
-        <entry encoding="base64">XDxfdGFyZ2V0X3BhcnRpdGlvblw+</entry>
-        <entry encoding="base64">XDxfaXNfaW52YWxpZF9hdXRvbWF0ZWRfYmlkc1w+</entry>
         <entry encoding="base64">XDxfaXNfYWxsb3dlZF9uZXR3b3JrXD4=</entry>
         <entry encoding="base64">XDxfb3ZlcndyaXRlX2JvX3ZhbHVlc19ieV9ib19mYWxsYmFja1w+</entry>
         <entry encoding="base64">XDxzZWxlY3RfYmlkc1w+</entry>
@@ -1177,6 +1177,8 @@
         <entry encoding="base64">XDxfaGl2ZV9xdWVyeV9mb3JfcGVyY2VudGlsZXNcPg==</entry>
         <entry encoding="base64">XDxocWxcPg==</entry>
         <entry encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</entry>
+        <entry encoding="base64">XDxzZXRfcGVyY2VudGlsZV9ib29zdF9sb2dcPg==</entry>
+        <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
