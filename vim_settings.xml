@@ -363,8 +363,8 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531978531438">
-        <mark key="'" line="409" column="5" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531987452583">
+        <mark key="'" line="400" column="15" />
         <mark key="[" line="400" column="4" />
         <mark key="]" line="400" column="23" />
         <mark key="." line="400" column="0" />
@@ -564,7 +564,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMPrediction.pm" timestamp="1529485785089">
         <mark key="'" line="60" column="9" />
       </file>
-      <file name="$FOUT_HOME$/config.yaml" timestamp="1531904311425">
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1531987668171">
         <mark key="'" line="1194" column="10" />
       </file>
       <file name="$FOUT_HOME$/t/fout/dynamic_ads/item_importer/http_fetcher.t" timestamp="1523947064301">
@@ -801,7 +801,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1531905850860">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1531987450740">
         <mark key="'" line="27" column="19" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531979496251">
@@ -973,7 +973,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1239" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="571" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1252" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1254" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
@@ -1073,6 +1072,7 @@
       <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="3519" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/IPC/Run.pm" />
       <jump line="1449" column="20" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/IPC/Run.pm" />
+      <jump line="400" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
