@@ -805,8 +805,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1531987450740">
         <mark key="'" line="27" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531988537020">
-        <mark key="'" line="67" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1531990922560">
+        <mark key="'" line="78" column="4" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="28" />
         <mark key="." line="67" column="26" />
@@ -1066,14 +1066,14 @@
       <jump line="409" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="15" column="17" filename="$FOUT_HOME$/t/fout/bid/rtbindex/pctr_pcvr_percentile.t" />
       <jump line="25" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
-      <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="81" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
-      <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="3519" column="4" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/IPC/Run.pm" />
       <jump line="1449" column="20" filename="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/IPC/Run.pm" />
       <jump line="400" column="15" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="61" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="67" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
+      <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
+      <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1158,7 +1158,7 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
