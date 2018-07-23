@@ -93,8 +93,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1531287976642">
         <mark key="'" line="81" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1531970593107">
-        <mark key="'" line="82" column="42" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1532336495351">
+        <mark key="'" line="8" column="4" />
       </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
         <mark key="[" line="13" column="2" />
@@ -171,11 +171,6 @@
         <mark key="]" line="191" column="75" />
         <mark key="." line="191" column="75" />
         <mark key="^" line="191" column="75" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1531979479614">
-        <mark key="'" line="420" column="0" />
-        <mark key="[" line="1277" column="54" />
-        <mark key="]" line="1277" column="62" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -984,8 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="69" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
-      <jump line="40" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="0" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="133" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="71" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
@@ -1084,6 +1077,8 @@
       <jump line="272" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
       <jump line="1214" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="25" column="8" filename="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="98" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="8" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1114,7 +1109,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</text>
+        <text encoding="base64">XDxQUk9CQV9TQ0FMRVw+</text>
       </register>
       <register name="0" type="4">
         <text>spot_score_splitrun_params</text>
@@ -1162,9 +1157,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-search>
+      <last-search encoding="base64">XDxQUk9CQV9TQ0FMRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQUk9CQV9TQ0FMRVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1194,6 +1189,7 @@
         <entry encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</entry>
         <entry encoding="base64">XDxjYWxsX2J1eWluZ1w+</entry>
         <entry encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</entry>
+        <entry encoding="base64">XDxQUk9CQV9TQ0FMRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
