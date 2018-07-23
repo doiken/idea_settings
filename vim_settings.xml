@@ -257,6 +257,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" timestamp="1532308743329">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
         <mark key="[" line="94" column="43" />
         <mark key="]" line="83" column="45" />
@@ -363,11 +369,11 @@
         <mark key="^" line="54" column="49" />
         <mark key="." line="54" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1531987452583">
-        <mark key="'" line="400" column="15" />
-        <mark key="[" line="400" column="4" />
-        <mark key="]" line="400" column="23" />
-        <mark key="." line="400" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1532308668689">
+        <mark key="'" line="309" column="42" />
+        <mark key="[" line="396" column="0" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1531473537425">
         <mark key="'" line="62" column="13" />
@@ -974,7 +980,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1252" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="1254" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
@@ -1074,6 +1079,7 @@
       <jump line="67" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
       <jump line="78" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
+      <jump line="309" column="42" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1092,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$expected</text>
+        <text>predict_model_id_cvr</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1101,13 +1107,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>$expected</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZHVtcF9wZXJjZW50aWxlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">K3sKICAgICAgICAgICAgdGltZSA9PiAnMjAxOC0wNy0wOSAwMDowMDowMCcsCiAgICAgICAgICAgIGJpZF9pZCA9PiAnMTg1MTM5MicsCiAgICAgICAgICAgIGNhbXBhaWduX2lkID0+ICRjcG5faWQsCiAgICAgICAgICAgIHByZWRpY3RfbW9kZWxfaWRfY3RyID0+ICRwcmVkaWN0X21vZGVsX2lkLAogICAgICAgICAgICBwcmVkaWN0X21vZGVsX2lkX2N2ciA9PiAyMDEsCiAgICAgICAgICAgIHByZWRpY3RfY3RyID0+ICc0NS43ODQxMCcsCiAgICAgICAgICAgIHByZWRpY3RfY3ZyID0+ICcyLjAwMDAwJywKICAgICAgICAgICAgcmVxdWVzdF9pZCA9PiAnUk1iZi15R0U1MTN5UnoyWXVPemlUZycsCiAgICAgICAgICAgIHByZWRpY3RfcHJvZHVjdCA9PiAnOTEuNTY4MicsCiAgICAgICAgICAgIHByb2R1Y3RfcGVyY2VudGlsZSA9PiAwLAogICAgICAgICAgICBib29zdF92YWx1ZSA9PiAwLAogICAgICAgICAgICBuZXR3b3JrX2lkID0+ICRuZXR3b3JrX2lkLAogICAgICAgICAgICBjdXRfcGVyY2VudCA9PiB1bmRlZiwKICAgICAgICAgICAgaXNfY3V0ID0+IHVuZGVmLAogICAgICAgICAgICBjdXRfcHJvZHVjdCA9PiB1bmRlZiwKICAgICAgICB9</text>
+        <text>predict_model_id_cvr</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">K3sKICAgICAgICAgICAgdGltZSA9PiAnMjAxOC0wNy0wOSAwMDowMDowMCcsCiAgICAgICAgICAgIGJpZF9pZCA9PiAnMTg1MTM5MicsCiAgICAgICAgICAgIGNhbXBhaWduX2lkID0+ICRjcG5faWQsCiAgICAgICAgICAgIHByZWRpY3RfbW9kZWxfaWRfY3RyID0+ICRwcmVkaWN0X21vZGVsX2lkLAogICAgICAgICAgICBwcmVkaWN0X21vZGVsX2lkX2N2ciA9PiAyMDEsCiAgICAgICAgICAgIHByZWRpY3RfY3RyID0+ICc0NS43ODQxMCcsCiAgICAgICAgICAgIHByZWRpY3RfY3ZyID0+ICcyLjAwMDAwJywKICAgICAgICAgICAgcmVxdWVzdF9pZCA9PiAnUk1iZi15R0U1MTN5UnoyWXVPemlUZycsCiAgICAgICAgICAgIHByZWRpY3RfcHJvZHVjdCA9PiAnOTEuNTY4MicsCiAgICAgICAgICAgIHByb2R1Y3RfcGVyY2VudGlsZSA9PiAwLAogICAgICAgICAgICBib29zdF92YWx1ZSA9PiAwLAogICAgICAgICAgICBuZXR3b3JrX2lkID0+ICRuZXR3b3JrX2lkLAogICAgICAgICAgICBjdXRfcGVyY2VudCA9PiB1bmRlZiwKICAgICAgICAgICAgaXNfY3V0ID0+IHVuZGVmLAogICAgICAgICAgICBjdXRfcHJvZHVjdCA9PiB1bmRlZiwKICAgICAgICB9</text>
