@@ -12,6 +12,9 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" timestamp="1532483946718">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1513064511908">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
@@ -87,7 +90,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1531287976642">
         <mark key="'" line="81" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1532337967441">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1532484345740">
         <mark key="'" line="87" column="15" />
       </file>
       <file name="$FOUT_HOME$/sql/migrate/20180129_45304_dsp.sql" timestamp="1519033216583">
@@ -382,8 +385,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1531893645704">
-        <mark key="'" line="1449" column="20" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1532484298608">
+        <mark key="'" line="1451" column="0" />
         <mark key="[" line="1439" column="10" />
         <mark key="]" line="1439" column="10" />
         <mark key="." line="1439" column="10" />
@@ -410,8 +413,8 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1532330639294">
-        <mark key="'" line="1214" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1532484616678">
+        <mark key="'" line="1242" column="19" />
         <mark key="[" line="1212" column="11" />
         <mark key="]" line="1212" column="36" />
         <mark key="." line="0" column="2" />
@@ -459,7 +462,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532482755060">
+      <file name="/Dummy.txt" timestamp="1532484141993">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -953,15 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$FOUT_HOME$/t/fout/bid/science/pctr_pcvr_boost.t" />
-      <jump line="101" column="8" filename="$FOUT_HOME$/t/fout/bid/science/pctr_pcvr_boost.t" />
-      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/t/lib/Hoge.pm" />
-      <jump line="27" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="103" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="86" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
-      <jump line="84" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="32" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
       <jump line="109" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="48" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
@@ -1053,6 +1047,15 @@
       <jump line="31" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
       <jump line="54" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" />
+      <jump line="1232" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1233" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1234" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1236" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1237" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1240" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1242" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="1451" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1083,7 +1086,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGFya19vcHRzXD4=</text>
+        <text encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>spot_score_splitrun_params</text>
@@ -1131,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGFya19vcHRzXD4=</last-search>
+      <last-search encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGFya19vcHRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1168,6 +1171,7 @@
         <entry encoding="base64">XDxnZXRfZ3Jvc3NfcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxfQnV5aW5nX2F1Y3Rpb25cPg==</entry>
         <entry encoding="base64">XDxzcGFya19vcHRzXD4=</entry>
+        <entry encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
