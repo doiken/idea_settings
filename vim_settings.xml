@@ -136,6 +136,9 @@
         <mark key="^" line="88" column="56" />
         <mark key="." line="80" column="39" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1532503935211">
+        <mark key="'" line="30" column="8" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/AD.pm" timestamp="1531903431898">
         <mark key="'" line="47" column="56" />
       </file>
@@ -237,12 +240,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" timestamp="1532308743329">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="43" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="13" column="43" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1522202404062">
         <mark key="[" line="94" column="43" />
@@ -645,6 +642,7 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" timestamp="1531380245839">
         <mark key="'" line="84" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1532504050239" />
       <file name="$FOUT_HOME$/t/fout/conv/register/cross_device_custom_log.t" timestamp="1520402370945">
         <mark key="[" line="144" column="28" />
         <mark key="]" line="144" column="30" />
@@ -705,12 +703,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1532337483109">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/WatchServiceLog.pm" timestamp="1513152968960">
         <mark key="[" line="145" column="14" />
         <mark key="]" line="145" column="14" />
@@ -744,6 +736,7 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1532330738730">
         <mark key="'" line="25" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SparkSubmit.pm" timestamp="1532503296290" />
       <file name="$FOUT_HOME$/t/fout/bid/match/build_bid_data-warn.t" timestamp="1522229953521">
         <mark key="[" line="25" column="42" />
         <mark key="]" line="25" column="44" />
@@ -781,8 +774,8 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1531470082195">
         <mark key="'" line="55" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1531988983069">
-        <mark key="'" line="34" column="31" />
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1532503779675">
+        <mark key="'" line="327" column="13" />
         <mark key="[" line="174" column="22" />
         <mark key="]" line="174" column="36" />
         <mark key="^" line="174" column="36" />
@@ -876,15 +869,15 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532501410860">
-        <mark key="'" line="131" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532503847330">
+        <mark key="'" line="150" column="4" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="12" />
         <mark key="^" line="119" column="13" />
         <mark key="." line="125" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1532482789868">
-        <mark key="'" line="54" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" timestamp="1532503318966">
+        <mark key="'" line="11" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/SSMapping.pm" timestamp="1529035320412">
         <mark key="'" line="0" column="8" />
@@ -912,11 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="17" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
-      <jump line="40" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
-      <jump line="27" column="51" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
-      <jump line="42" column="24" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="58" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="53" column="8" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
       <jump line="65" column="111" filename="$FOUT_HOME$/t/fout/bid/rtbindex/bid-is_automated.t" />
@@ -1012,6 +1000,11 @@
       <jump line="126" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="127" column="82" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="131" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="56" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" />
+      <jump line="11" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" />
+      <jump line="327" column="13" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
+      <jump line="150" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="30" column="8" filename="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1042,7 +1035,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaGFzZVw+</text>
+        <text encoding="base64">XDxleHBhbmRlclw+</text>
       </register>
       <register name="0" type="4">
         <text>CLICK_MAXIMIZE_PHASE</text>
@@ -1090,9 +1083,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaGFzZVw+</last-search>
+      <last-search encoding="base64">XDxleHBhbmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaGFzZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxleHBhbmRlclw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1141,11 +1134,14 @@
         <entry encoding="base64">XDxwZXJjZW50XD4=</entry>
         <entry encoding="base64">XDxwcmVkX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxwY3RyXD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2N1dF9wY3RyX3BjdnJcPg==</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxzcGxpdHJ1bl9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwaGFzZVw+</entry>
+        <entry encoding="base64">XDxFWEVDVVRPUl9DT1JFU1w+</entry>
+        <entry encoding="base64">XDxpc19jdXRcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2N1dF9wY3RyX3BjdnJcPg==</entry>
+        <entry encoding="base64">XDxleHBhbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
