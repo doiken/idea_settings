@@ -190,8 +190,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1532337898413">
         <mark key="'" line="133" column="26" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1532490992317">
-        <mark key="'" line="6" column="61" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1532496652937">
+        <mark key="'" line="3" column="21" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="81" />
         <mark key="." line="23" column="30" />
@@ -867,8 +867,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532494938580">
-        <mark key="'" line="83" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532496577359">
+        <mark key="'" line="137" column="26" />
         <mark key="[" line="77" column="8" />
         <mark key="]" line="77" column="8" />
         <mark key="^" line="75" column="3" />
@@ -903,8 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="964" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1436" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="158" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="159" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="135" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -1003,6 +1001,8 @@
       <jump line="6" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="124" column="90" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="79" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="137" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="3" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,7 +1033,7 @@
         <text encoding="base64">bG9jYWwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9fcGFyYW1zXD4=</text>
+        <text encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9jYWwgJHByZWRfZGF0YS0+e2N1dF9wZXJjZW50fSA9ICRnYW1tYTsKICAgICAgICAgICAgbG9jYWwgJHByZWRfZGF0YS0+e2N1dF9jdHJ9ID0gJHNlbGYtPl9nZXRfY3V0X2N0cigkY29udGV4dCwgJHByZWRfZGF0YSk7CiAgICAgICAgICAgIGxvY2FsICRwcmVkX2RhdGEtPntpc19jdXR9ID0gJGlzX2N1dCA9ICgkcGN0ciA8ICRwcmVkX2RhdGEtPntjdXRfY3RyfSkgPyAxIDogMDsK</text>
@@ -1081,9 +1081,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9fcGFyYW1zXD4=</last-search>
+      <last-search encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fcGFyYW1zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1124,6 +1124,8 @@
         <entry encoding="base64">XDxfZ2V0X2N1dF9wZXJjZW50XD4=</entry>
         <entry encoding="base64">XDxDUEFfT1BUSU1JWkVfUEhBU0VcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fcGFyYW1zXD4=</entry>
+        <entry encoding="base64">XDxwcmVkX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxQQ1RSUGVyY2VudGlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
