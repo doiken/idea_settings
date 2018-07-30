@@ -931,12 +931,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532653152709">
-        <mark key="'" line="135" column="24" />
-        <mark key="[" line="137" column="29" />
-        <mark key="]" line="137" column="34" />
-        <mark key="." line="137" column="34" />
-        <mark key="^" line="137" column="34" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1532914146213">
+        <mark key="'" line="134" column="24" />
+        <mark key="[" line="104" column="96" />
+        <mark key="]" line="104" column="109" />
+        <mark key="." line="104" column="96" />
+        <mark key="^" line="136" column="34" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1532587296172">
         <mark key="'" line="29" column="21" />
@@ -1081,8 +1081,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT5mbHVzaDsK</text>
+      <register name="&quot;" type="4">
+        <text>0.0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1097,16 +1097,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>を</text>
+        <text>0.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlX2N1dGJvb3N0X3BhcmFtc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>$disable_cpa_optimize_phase</text>
+        <text>GAMMA_DEFAULT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT5mbHVzaDsK</text>
+        <text encoding="base64">ICAgIG15ICRwcmVkX3R5cGUgPSAkc2VsZi0+Y3RyX3ByZWRpY3Rpb24tPnByZWRfdHlwZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1117,31 +1117,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpcyBtb2RlbHMoJ2xvZ2dlcicpLT50b19zdHIsICJbd2Fybl0gTm8gcENUUiB4IHBDVlIgcGVyY2VudGlsZSBpbiBDUEFfT1BUSU1JWkVfUEhBU0U6IHByZWRpY3RfbW9kZWxfaWRfY3RyPTIwMCwgcHJlZGljdF9tb2RlbF9pZF9jdnI9MjAxLCBjYW1wYWlnbl9pZD0yNjM5MCwgbmV0d29ya19pZD0yXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbHMoJ2xvZ2dlcicpLT5mbHVzaDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpcyBtb2RlbHMoJ2xvZ2dlcicpLT50b19zdHIsICJbd2Fybl0gTm8gcENUUiB4IHBDVlIgcGVyY2VudGlsZSBpbiBDUEFfT1BUSU1JWkVfUEhBU0U6IHByZWRpY3RfbW9kZWxfaWRfY3RyPTIwMCwgcHJlZGljdF9tb2RlbF9pZF9jdnI9MjAxLCBjYW1wYWlnbl9pZD0yNjM5MCwgbmV0d29ya19pZD0yXG4iOwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5sZXNzICRoYXNfcGVyY2VudGlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVscygnbG9nZ2VyJyktPndhcm4oc3ByaW50ZignTm8gcENUUiB4IHBDVlIgcGVyY2VudGlsZSBpbiBDUEFfT1BUSU1JWkVfUEhBU0U6IHByZWRpY3RfbW9kZWxfaWRfY3RyPSVkLCBwcmVkaWN0X21vZGVsX2lkX2N2cj0lZCwgY2FtcGFpZ25faWQ9JWQsIG5ldHdvcmtfaWQ9JWQnLCBAeyRwcmVkX2RhdGF9e3F3LwogICAgICAgICAgICAgICAgICAgIHByZWRpY3RfbW9kZWxfaWRfY3RyCiAgICAgICAgICAgICAgICAgICAgcHJlZGljdF9tb2RlbF9pZF9jdnIKICAgICAgICAgICAgICAgICAgICBjYW1wYWlnbl9pZAogICAgICAgICAgICAgICAgICAgIG5ldHdvcmtfaWQKICAgICAgICAgICAgICAgIC99KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5sZXNzICRoYXNfcGVyY2VudGlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVscygnbG9nZ2VyJyktPndhcm4oc3ByaW50ZignTm8gcENUUiB4IHBDVlIgcGVyY2VudGlsZSBpbiBDUEFfT1BUSU1JWkVfUEhBU0U6IHByZWRpY3RfbW9kZWxfaWRfY3RyPSVkLCBwcmVkaWN0X21vZGVsX2lkX2N2cj0lZCwgY2FtcGFpZ25faWQ9JWQsIG5ldHdvcmtfaWQ9JWQnLCBAeyRwcmVkX2RhdGF9e3F3LwogICAgICAgICAgICAgICAgICAgIHByZWRpY3RfbW9kZWxfaWRfY3RyCiAgICAgICAgICAgICAgICAgICAgcHJlZGljdF9tb2RlbF9pZF9jdnIKICAgICAgICAgICAgICAgICAgICBjYW1wYWlnbl9pZAogICAgICAgICAgICAgICAgICAgIG5ldHdvcmtfaWQKICAgICAgICAgICAgICAgIC99KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
