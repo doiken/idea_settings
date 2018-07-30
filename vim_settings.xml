@@ -138,6 +138,7 @@
         <mark key="^" line="71" column="27" />
         <mark key="." line="72" column="27" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1532942787554" />
       <file name="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_deal.t" timestamp="1522202429141">
         <mark key="[" line="80" column="37" />
         <mark key="]" line="88" column="60" />
@@ -208,8 +209,8 @@
         <mark key="." line="49" column="38" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1532499005185" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1532337898413">
-        <mark key="'" line="133" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1532942850046">
+        <mark key="'" line="162" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1532500355141">
         <mark key="'" line="3" column="21" />
@@ -975,7 +976,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1532917467766" />
     </filemarks>
     <jumps>
-      <jump line="308" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="349" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="159" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="225" column="36" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1075,6 +1075,7 @@
       <jump line="34" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="78" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
       <jump line="369" column="27" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="162" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1105,7 +1106,7 @@
         <text>後退</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVwYXJlXD4=</text>
+        <text encoding="base64">XDxwcm9iYVw+</text>
       </register>
       <register name="0" type="4">
         <text>cpn_pctr_percentiles</text>
@@ -1153,9 +1154,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVwYXJlXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9iYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVwYXJlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9iYVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,6 +1252,7 @@
         <entry encoding="base64">XDxwZXJjZW50aWxlX2N1dFw+</entry>
         <entry encoding="base64">XDxtYWtlX2N1dGJvb3N0X3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxwcmVwYXJlXD4=</entry>
+        <entry encoding="base64">XDxwcm9iYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
