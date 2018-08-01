@@ -684,6 +684,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" timestamp="1533092548537">
+        <mark key="'" line="180" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
       </file>
@@ -937,8 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="36" column="9" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="37" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="72" column="31" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="73" column="36" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1037,6 +1038,8 @@
       <jump line="44" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="89" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="161" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
+      <jump line="180" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1067,7 +1070,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text encoding="base64">XDxfcnVuX2pvYlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQgJGZvbzsK</text>
@@ -1115,9 +1118,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search encoding="base64">XDxfcnVuX2pvYlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVuX2pvYlw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1149,6 +1152,8 @@
         <entry encoding="base64">XDxPVVRQVVRfVEFCTEVfTkFNRVw+</entry>
         <entry encoding="base64">XDxzY2FsZWRfcHJvYmFcPg==</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry encoding="base64">XDxfYXdzX2NtZFw+</entry>
+        <entry encoding="base64">XDxfcnVuX2pvYlw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
