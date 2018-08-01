@@ -201,8 +201,8 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533094984445">
-        <mark key="'" line="162" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533099898002">
+        <mark key="'" line="43" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1533023209793">
         <mark key="'" line="3" column="21" />
@@ -946,7 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="217" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="169" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="142" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1046,6 +1045,7 @@
       <jump line="77" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="92" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="11" column="53" filename="$FOUT_HOME$/t/fout/bid/data/cvr_fm_prediction.t" />
+      <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1076,7 +1076,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGQUNUT1JfU0laRVw+</text>
+        <text encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQgJGZvbzsK</text>
@@ -1124,9 +1124,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGQUNUT1JfU0laRVw+</last-search>
+      <last-search encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGQUNUT1JfU0laRVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1161,6 +1161,7 @@
         <entry encoding="base64">XDxfYXdzX2NtZFw+</entry>
         <entry encoding="base64">XDxfcnVuX2pvYlw+</entry>
         <entry encoding="base64">XDxGQUNUT1JfU0laRVw+</entry>
+        <entry encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
