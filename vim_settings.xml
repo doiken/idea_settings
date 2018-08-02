@@ -226,8 +226,8 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533178301219">
-        <mark key="'" line="25" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533179521045">
+        <mark key="'" line="134" column="23" />
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="20" />
       </file>
@@ -487,7 +487,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533175215450">
+      <file name="/Dummy.txt" timestamp="1533179675953">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -673,8 +673,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" timestamp="1531380245839">
         <mark key="'" line="84" column="4" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/data/cvr_fm_prediction.t" timestamp="1533094974820">
-        <mark key="'" line="11" column="53" />
+      <file name="$FOUT_HOME$/t/fout/bid/data/cvr_fm_prediction.t" timestamp="1533179769417">
+        <mark key="'" line="14" column="26" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1532505127180">
         <mark key="'" line="286" column="21" />
@@ -754,6 +754,9 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" timestamp="1533179724302">
+        <mark key="'" line="18" column="6" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/WatchServiceLog.pm" timestamp="1513152968960">
         <mark key="[" line="145" column="14" />
         <mark key="]" line="145" column="14" />
@@ -817,6 +820,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1531470082195">
         <mark key="'" line="55" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" timestamp="1533179673426">
+        <mark key="'" line="72" column="42" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1533175572697">
         <mark key="'" line="34" column="4" />
@@ -966,14 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="91" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="291" column="91" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="333" column="91" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="371" column="50" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="421" column="95" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="428" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="423" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="379" column="18" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="79" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="60" column="0" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
       <jump line="20" column="17" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
@@ -1066,6 +1064,14 @@
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="45" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="134" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="28" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
+      <jump line="55" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
+      <jump line="85" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
+      <jump line="71" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
+      <jump line="72" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
+      <jump line="18" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
+      <jump line="14" column="26" filename="$FOUT_HOME$/t/fout/bid/data/cvr_fm_prediction.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1096,7 +1102,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</text>
+        <text encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Data::MessagePack</text>
@@ -1144,9 +1150,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,6 +1191,7 @@
         <entry encoding="base64">XDxnZXRfcGFyc2VkX3BlcmNlbnRpbGVcPg==</entry>
         <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</entry>
         <entry encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
