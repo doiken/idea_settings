@@ -130,8 +130,8 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1533177903862">
-        <mark key="'" line="67" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1533180766452">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="88" />
         <mark key="." line="68" column="0" />
@@ -226,8 +226,8 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533179521045">
-        <mark key="'" line="134" column="23" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533180869725">
+        <mark key="'" line="117" column="16" />
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="20" />
       </file>
@@ -584,7 +584,7 @@
       <file name="$FOUT_HOME$/config.yaml" timestamp="1531987668171">
         <mark key="'" line="1194" column="10" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1533175239635" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1533180779725" />
       <file name="$FOUT_HOME$/t/fout/dynamic_ads/item_importer/http_fetcher.t" timestamp="1523947064301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -972,8 +972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="60" column="0" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
       <jump line="20" column="17" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
       <jump line="66" column="128" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
       <jump line="10" column="4" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
@@ -1072,6 +1070,8 @@
       <jump line="72" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CVRFMPrediction.pm" />
       <jump line="18" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
       <jump line="14" column="26" filename="$FOUT_HOME$/t/fout/bid/data/cvr_fm_prediction.t" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="117" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1102,7 +1102,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</text>
+        <text encoding="base64">XDxhcmdzX2Zvcl9jYWNoZVw+</text>
       </register>
       <register name="0" type="4">
         <text>Data::MessagePack</text>
@@ -1150,9 +1150,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</last-search>
+      <last-search encoding="base64">XDxhcmdzX2Zvcl9jYWNoZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcmdzX2Zvcl9jYWNoZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,6 +1192,7 @@
         <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</entry>
         <entry encoding="base64">XDx3ZWlnaHRfZGVzZXJpYWxpemVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2hhc2hlZF9rZXlcPg==</entry>
+        <entry encoding="base64">XDxhcmdzX2Zvcl9jYWNoZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
