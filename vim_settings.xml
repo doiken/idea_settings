@@ -191,10 +191,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533007760719">
-        <mark key="'" line="1491" column="34" />
-        <mark key="[" line="1277" column="54" />
-        <mark key="]" line="1277" column="62" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533693644834">
+        <mark key="'" line="1274" column="4" />
+        <mark key="[" line="1383" column="30" />
+        <mark key="]" line="1383" column="30" />
+        <mark key="." line="1383" column="30" />
+        <mark key="^" line="1383" column="30" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -981,8 +983,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="130" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="163" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="165" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -1081,6 +1081,8 @@
       <jump line="104" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
       <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
       <jump line="122" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
+      <jump line="1245" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1093,7 +1095,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Data::MessagePack</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1108,16 +1110,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbF90YWJsZVw+</text>
+        <text encoding="base64">XDxiaWRfc3FsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>Data::MessagePack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgQU5EIGNwbnMuaXNfYXV0b21hdGVkID0gMQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1128,40 +1130,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15ICRwY3RyID0gJHNlbGYtPl9nZXRfcHJlZGljdF9wcm9iYSgkYmlkLCAkY29udGV4dCwgJHNlbGYtPmN0cl9wcmVkaWN0aW9uKTsKICAgIG15ICRwY3ZyID0gJHNlbGYtPl9nZXRfcHJlZGljdF9wcm9iYSgkYmlkLCAkY29udGV4dCwgJHNlbGYtPmN2cl9wcmVkaWN0aW9uKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG15ICRwY3RyID0gc2NhbGVkX3Byb2JhKCRiaWQsICRjb250ZXh0LCAkc2VsZi0+Y3RyX3ByZWRpY3Rpb24pOwogICAgbXkgJHBjdnIgPSBzY2FsZWRfcHJvYmEoJGJpZCwgJGNvbnRleHQsICRzZWxmLT5jdnJfcHJlZGljdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIG15ICRwY3RyID0gJHNlbGYtPl9nZXRfcHJlZGljdF9wcm9iYSgkYmlkLCAkY29udGV4dCwgJHNlbGYtPmN0cl9wcmVkaWN0aW9uKTsKICAgIG15ICRwY3ZyID0gJHNlbGYtPl9nZXRfcHJlZGljdF9wcm9iYSgkYmlkLCAkY29udGV4dCwgJHNlbGYtPmN2cl9wcmVkaWN0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6U2NpZW5jZTo6UGVyY2VudGlsZVV0aWwgcXcoc2NhbGVkX3Byb2JhKTsK</text>
+        <text encoding="base64">ICAgIG15ICRwY3RyID0gc2NhbGVkX3Byb2JhKCRiaWQsICRjb250ZXh0LCAkc2VsZi0+Y3RyX3ByZWRpY3Rpb24pOwogICAgbXkgJHBjdnIgPSBzY2FsZWRfcHJvYmEoJGJpZCwgJGNvbnRleHQsICRzZWxmLT5jdnJfcHJlZGljdGlvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6U2NpZW5jZTo6UGVyY2VudGlsZVV0aWwgcXcoc2NhbGVkX3Byb2JhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RlbF90YWJsZVw+</last-search>
+      <last-search encoding="base64">XDxiaWRfc3FsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbF90YWJsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRfc3FsXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1209,6 +1211,7 @@
         <entry encoding="base64">XDxfZHVtcF9tb2RlbF9wYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxfbWFrZV9pbmRleF9pbXBsXD4=</entry>
         <entry encoding="base64">XDxtb2RlbF90YWJsZVw+</entry>
+        <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
