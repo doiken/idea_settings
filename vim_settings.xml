@@ -191,8 +191,11 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533694824178">
-        <mark key="'" line="1066" column="27" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533695352551">
+        <mark key="'" line="602" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1533695012023">
+        <mark key="'" line="236" column="6" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -491,7 +494,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533191707960">
+      <file name="/Dummy.txt" timestamp="1533695914037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -979,22 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="97" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="109" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="122" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="129" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="148" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="160" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="166" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="70" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="36" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
-      <jump line="11" column="716" filename="$FOUT_HOME$/t/lib/Mock/Bid/Percentile.pm" />
-      <jump line="469" column="19" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="370" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="474" column="27" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
-      <jump line="536" column="28" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="502" column="25" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="403" column="8" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
       <jump line="29" column="21" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
@@ -1079,6 +1066,22 @@
       <jump line="1053" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="273" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1066" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="171" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="176" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="177" column="16" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="183" column="17" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="190" column="10" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="236" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="676" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="351" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="268" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2255" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="278" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="930" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="279" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="283" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="280" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="602" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1109,7 +1112,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</text>
+        <text encoding="base64">XDxkdW1wX3Jld2FyZF92aWRlb3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Data::MessagePack</text>
@@ -1157,9 +1160,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-search>
+      <last-search encoding="base64">XDxkdW1wX3Jld2FyZF92aWRlb3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wX3Jld2FyZF92aWRlb3NcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1209,6 +1212,13 @@
         <entry encoding="base64">XDxtb2RlbF90YWJsZVw+</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
         <entry encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</entry>
+        <entry>type</entry>
+        <entry encoding="base64">XDxkdW1wX2ZpbHRlcl9kb21haW5cPg==</entry>
+        <entry encoding="base64">XDxkdW1wX2FkZ3JwX2Fkc1w+</entry>
+        <entry encoding="base64">XDxkdW1wX3R5cGljYWxfYWRfaWRzXD4=</entry>
+        <entry encoding="base64">XDxkdW1wX2FwcF9pbmZlZWRfZHluYW1pY2FkXD4=</entry>
+        <entry encoding="base64">XDxkdW1wX2FwcHNfcGx1c1w+</entry>
+        <entry encoding="base64">XDxkdW1wX3Jld2FyZF92aWRlb3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
