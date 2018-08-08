@@ -191,12 +191,8 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533693644834">
-        <mark key="'" line="1274" column="4" />
-        <mark key="[" line="1383" column="30" />
-        <mark key="]" line="1383" column="30" />
-        <mark key="." line="1383" column="30" />
-        <mark key="^" line="1383" column="30" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533694824178">
+        <mark key="'" line="1066" column="27" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
         <mark key="[" line="109" column="29" />
@@ -983,9 +979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="165" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="47" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="97" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="109" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -1083,6 +1076,9 @@
       <jump line="122" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PredictModelRole.pm" />
       <jump line="1245" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1274" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1053" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="273" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1066" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1113,7 +1109,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRfc3FsXD4=</text>
+        <text encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Data::MessagePack</text>
@@ -1161,9 +1157,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRfc3FsXD4=</last-search>
+      <last-search encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRfc3FsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1212,6 +1208,7 @@
         <entry encoding="base64">XDxfbWFrZV9pbmRleF9pbXBsXD4=</entry>
         <entry encoding="base64">XDxtb2RlbF90YWJsZVw+</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
+        <entry encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
