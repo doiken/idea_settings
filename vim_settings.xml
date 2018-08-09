@@ -334,6 +334,13 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" timestamp="1533785511165">
+        <mark key="'" line="138" column="23" />
+        <mark key="[" line="138" column="15" />
+        <mark key="]" line="139" column="49" />
+        <mark key="^" line="139" column="49" />
+        <mark key="." line="139" column="49" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529286950990">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="46" />
@@ -462,7 +469,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533711084380">
+      <file name="/Dummy.txt" timestamp="1533785101709">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -911,7 +918,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1533709456191" />
     </filemarks>
     <jumps>
-      <jump line="135" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="90" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
       <jump line="97" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AutoCutBoostParams.pm" />
       <jump line="398" column="23" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" />
@@ -1011,6 +1017,7 @@
       <jump line="76" column="28" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" />
       <jump line="163" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
       <jump line="161" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
+      <jump line="138" column="23" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
