@@ -183,8 +183,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533807314832">
-        <mark key="'" line="1560" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1533894670761">
+        <mark key="'" line="1053" column="4" />
+        <mark key="[" line="1493" column="8" />
+        <mark key="]" line="1493" column="9" />
+        <mark key="^" line="1493" column="9" />
+        <mark key="." line="1493" column="9" />
       </file>
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1533792456649">
         <mark key="'" line="882" column="26" />
@@ -776,8 +780,8 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" timestamp="1533707585666" />
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1533891572290">
-        <mark key="'" line="113" column="24" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" timestamp="1533892428916">
+        <mark key="'" line="103" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" timestamp="1528350673418">
         <mark key="'" line="18" column="13" />
@@ -956,15 +960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1064" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1053" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1135" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1055" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1069" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="3647" column="364" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" />
-      <jump line="76" column="28" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" />
-      <jump line="163" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
-      <jump line="161" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
       <jump line="138" column="23" filename="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
       <jump line="884" column="26" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="333" column="13" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
@@ -1056,6 +1051,15 @@
       <jump line="87" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
       <jump line="55" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
       <jump line="13" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
+      <jump line="71" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" />
+      <jump line="103" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcCTRFMPrediction.pm" />
+      <jump line="2201" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1804" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1888" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1905" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="418" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1609" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1053" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1090,7 @@
         <text>click/cpa_maximize</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZWJDVFJQcmVkaWN0aW9uXD4=</text>
+        <text encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJHByZWRfZGF0YS0+e3BoYXNlfTsKICAgICAgICAgICAgIyBjbGljay9jcGFfbWF4aW1pemUK</text>
@@ -1134,9 +1138,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZWJDVFJQcmVkaWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZWJDVFJQcmVkaWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxfdHJhdmVyc2VfYXJyYXlcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1193,10 +1197,8 @@
         <entry encoding="base64">XDxsb2FkX3Rhc2tfY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxkYl9uYW1lXD4=</entry>
         <entry encoding="base64">XDxoZGZzX291dHB1dF9kaXJcPg==</entry>
-        <entry encoding="base64">XDxfaXNfaW52YWxpZF9hdXRvbWF0ZWRfYmlkc1w+</entry>
         <entry encoding="base64">XDxiaWRfc3FsXD4=</entry>
         <entry encoding="base64">XDxzcWxcPg==</entry>
-        <entry encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</entry>
         <entry encoding="base64">XDxiX3ByaWNlX2ZydGdcPg==</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxfYXdzX2NtZFw+</entry>
@@ -1215,7 +1217,6 @@
         <entry encoding="base64">XDxyZWZfc2xvdFw+</entry>
         <entry encoding="base64">XDxfcHV0X29uZV9pbnRvX2ludmVydGVkSW5kZXhcPg==</entry>
         <entry encoding="base64">XDxpbnZlcnRlZEluZGV4XD4=</entry>
-        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxkYWlseVw+</entry>
@@ -1227,6 +1228,12 @@
         <entry encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</entry>
         <entry encoding="base64">XDxDVlJNRk1fUFJFRElDVElPTlw+</entry>
         <entry encoding="base64">XDxXZWJDVFJQcmVkaWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxtYWtlX2F1dG9fYmlkX2luZm9cPg==</entry>
+        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
+        <entry encoding="base64">XDxfaXNfaW52YWxpZF9hdXRvbWF0ZWRfYmlkc1w+</entry>
+        <entry encoding="base64">XDxiaWRfaW52ZXJ0ZWRfaW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxkdW1wX2JpZHNfdGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
