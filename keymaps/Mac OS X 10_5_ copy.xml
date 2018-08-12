@@ -18,6 +18,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="shift r" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="w" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
@@ -84,6 +87,10 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
@@ -216,9 +223,6 @@
   <action id="MakeStatic">
     <keyboard-shortcut first-keystroke="meta alt s" />
   </action>
-  <action id="ManageRecentProjects">
-    <keyboard-shortcut first-keystroke="ctrl w" second-keystroke="p" />
-  </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="divide" />
   </action>
@@ -295,6 +299,9 @@
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="shift f2" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="r" />
   </action>
   <action id="ReformatCode" />
   <action id="RenameElement">
