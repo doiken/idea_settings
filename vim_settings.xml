@@ -108,8 +108,8 @@
         <mark key="." line="40" column="61" />
         <mark key="^" line="40" column="61" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1531287976642">
-        <mark key="'" line="81" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1534753843638">
+        <mark key="'" line="58" column="24" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1533800091339">
         <mark key="'" line="79" column="47" />
@@ -251,8 +251,8 @@
         <mark key="^" line="36" column="70" />
         <mark key="." line="49" column="38" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1533188259975">
-        <mark key="'" line="117" column="16" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1534753710402">
+        <mark key="'" line="56" column="0" />
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="20" />
       </file>
@@ -400,6 +400,9 @@
         <mark key="^" line="139" column="49" />
         <mark key="." line="139" column="49" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" timestamp="1534753812843">
+        <mark key="'" line="60" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoostLDRate.pm" timestamp="1529286950990">
         <mark key="[" line="46" column="46" />
         <mark key="]" line="46" column="46" />
@@ -539,7 +542,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1531366851570">
         <mark key="'" line="403" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534729623741">
+      <file name="/Dummy.txt" timestamp="1534753881589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1000,7 +1003,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1529632402089">
         <mark key="'" line="28" column="28" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/SplitRun.pm" timestamp="1534729200497" />
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1532587296172">
         <mark key="'" line="29" column="21" />
       </file>
@@ -1046,10 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="43" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
-      <jump line="107" column="43" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
-      <jump line="113" column="31" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
-      <jump line="118" column="33" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="119" column="59" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="120" column="96" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="121" column="100" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
@@ -1146,6 +1144,10 @@
       <jump line="72" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" />
       <jump line="3110" column="1" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="1919" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="56" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="23" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
+      <jump line="60" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
+      <jump line="58" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1230,11 +1232,10 @@
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxhZGRQYXJ0aXRpb25Db2x1bW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbWRcPg==</entry>
         <entry encoding="base64">XDxyb3dzXD4=</entry>
         <entry encoding="base64">XDxzc3BfcmV2aWV3X2lzX29rXD4=</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
