@@ -212,8 +212,8 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1534733784279">
-        <mark key="'" line="1919" column="23" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1534830162502">
+        <mark key="'" line="1129" column="21" />
       </file>
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1534733759736">
         <mark key="'" line="3110" column="1" />
@@ -1048,8 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="96" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
-      <jump line="121" column="100" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="123" column="33" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="127" column="29" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
       <jump line="130" column="35" filename="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" />
@@ -1148,6 +1146,8 @@
       <jump line="60" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
       <jump line="58" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" />
       <jump line="128" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
+      <jump line="2009" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1129" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1178,7 +1178,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kX3JlcG9ydFw+</text>
+        <text encoding="base64">XDxkZWFsX3ByaW9yaXR5X2J1aWxkZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>^-</text>
@@ -1226,9 +1226,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kX3JlcG9ydFw+</last-search>
+      <last-search encoding="base64">XDxkZWFsX3ByaW9yaXR5X2J1aWxkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kX3JlcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWFsX3ByaW9yaXR5X2J1aWxkZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxhZGRQYXJ0aXRpb25Db2x1bW5zXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1242,7 +1242,6 @@
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxfZmV0Y2hfc3NwX3Jldmlld3NfaGlrZVw+</entry>
         <entry encoding="base64">XDxjcG5fcGVyZm9ybWFuY2VfaW5kaWNhdG9yc1w+</entry>
-        <entry encoding="base64">XDxjb2xsZWN0X2RlYWxfcHJpb3JpdHlcPg==</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
@@ -1257,6 +1256,8 @@
         <entry encoding="base64">XDxhZHZlcmlfZGF0YV9kaXNwYXRjaGVyXD4=</entry>
         <entry encoding="base64">XDxzcG90X3Njb3JlX2FkanVzdGVyXD4=</entry>
         <entry encoding="base64">XDxzZW5kX3JlcG9ydFw+</entry>
+        <entry encoding="base64">XDxjb2xsZWN0X2RlYWxfcHJpb3JpdHlcPg==</entry>
+        <entry encoding="base64">XDxkZWFsX3ByaW9yaXR5X2J1aWxkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
