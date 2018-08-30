@@ -180,12 +180,12 @@
         <mark key="^" line="20" column="18" />
         <mark key="." line="25" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1535610946131">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1535612413760">
         <mark key="'" line="702" column="11" />
-        <mark key="[" line="810" column="19" />
-        <mark key="]" line="810" column="23" />
-        <mark key="." line="810" column="23" />
-        <mark key="^" line="810" column="23" />
+        <mark key="[" line="810" column="12" />
+        <mark key="]" line="810" column="21" />
+        <mark key="." line="810" column="12" />
+        <mark key="^" line="814" column="29" />
       </file>
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1535609500486" />
       <file name="$FOUT_HOME$/t/fout/bid/logger-response.t" timestamp="1519271316240">
@@ -1079,7 +1079,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>$size</text>
+        <text>undef</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1094,13 +1094,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>$size</text>
+        <text>undef</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JF8tPntuZXR3b3JrX2lkfQ==</text>
+        <text>$adgrp_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG15ICgkc2VsZikgPSBAXzsKICAgIG15ICVzZWdtZW50X3NvdXJjZSA9ICgpOwoKICAgIG15ICRzcWwgPSAnU0VMRUNUIGlkLCBzb3VyY2UgRlJPTSBkbXBfc2VnbWVudHMgd2hlcmUgc291cmNlID4gMCBBTkQgaXNfZW5hYmxlZCA9IDEgQU5EIGlzX2RlbGV0ZWQgPSAwJzsKICAgIG15ICRzdGggPSAkc2VsZi0+c2tpbm55LT5kYmgtPnByZXBhcmUoJHNxbCk7CiAgICAkc3RoLT5leGVjdXRlKCk7CiAgICB3aGlsZSAobXkgJHJvdyA9ICRzdGgtPmZldGNocm93X2hhc2hyZWYpIHsKICAgICAgICBteSAkc2VnbWVudF9pZCA9ICRyb3ctPntpZH07CiAgICAgICAgbXkgJHNvdXJjZSA9ICRyb3ctPntzb3VyY2V9OwogICAgICAgICRzZWdtZW50X3NvdXJjZXskc2VnbWVudF9pZH0gPSAkc291cmNlOwogICAgfQogICAgXCVzZWdtZW50X3NvdXJjZTsK</text>
