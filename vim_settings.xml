@@ -69,8 +69,8 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" timestamp="1535619726427">
         <mark key="'" line="406" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" timestamp="1535958069524">
-        <mark key="'" line="59" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" timestamp="1535958959093">
+        <mark key="'" line="80" column="8" />
         <mark key="[" line="12" column="13" />
         <mark key="]" line="98" column="40" />
         <mark key="." line="98" column="40" />
@@ -473,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1447" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="553" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="719" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="736" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -573,6 +572,7 @@
       <jump line="58" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="73" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="59" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
+      <jump line="80" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -603,7 +603,7 @@
         <text>ne</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbW9wdGlvbnNcPg==</text>
+        <text encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9u</text>
@@ -651,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbW9wdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbW9wdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -710,6 +710,7 @@
         <entry encoding="base64">XDxyZWFzb25cPg==</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
