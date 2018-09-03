@@ -69,12 +69,12 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" timestamp="1535619726427">
         <mark key="'" line="406" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" timestamp="1535958959093">
-        <mark key="'" line="80" column="8" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="98" column="40" />
-        <mark key="." line="98" column="40" />
-        <mark key="^" line="98" column="40" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" timestamp="1535960394902">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="104" column="52" />
+        <mark key="]" line="104" column="52" />
+        <mark key="." line="104" column="52" />
+        <mark key="^" line="104" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigParser.scala" timestamp="1528351784016">
         <mark key="'" line="14" column="6" />
@@ -473,7 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="719" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="736" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="520" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -570,9 +569,10 @@
       <jump line="1085" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="44" column="44" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" />
       <jump line="58" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
-      <jump line="73" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="59" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
+      <jump line="73" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
+      <jump line="69" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -584,8 +584,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>+</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -600,16 +600,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>ne</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</text>
+        <text encoding="base64">XDxmbW9wdGlvbnNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9u</text>
+        <text encoding="base64">TU9ERUxfUEFSQU1TLT57JG1vZGVsX2lkfXtmbW9wdGlvbnN9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2lmICgkbW9kZWxfaWQgPT0gMTcpIHsKICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxN19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsKICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTI7CiAgICB9IGVsc2UgewogICAgICAgIGRpZSAiSW5jb3JyZWN0IG1vZGVsX2lkICRtb2RlbF9pZCBpcyBnaXZlbi4gT25seSAxMyBhbmQgMTcgYXJlIGF2YWlsYWJsZSBmb3IgTGluZUNwY1ZpZGVvQ1RSRk1QcmVkaWN0aW9uIjsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -620,40 +620,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZWxmLT5fYXV0b19iaWRfYXBwX29ubHlfYWRncnBzLT57JGNvbHMtPnthZ19pZH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGVycm9yID0gc3ByaW50ZiAiTk9fQURTKCVzKSIsIChqb2luICIsIiwgQGVycm9yX2RldGFpbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxM19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gdW5sZXNzIEAkYWRzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRzID0gW2dyZXAgewogICAgICAgICAgICAkc2VsZi0+X2F1dG9fYmlkX2FwcF9vbmx5X2FkZ3Jwcy0+eyRjb2xzLT57YWdfaWR9fQogICAgICAgIH1dOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJEZPX0JJRF9DT05GLT57YXV0b19iaWRfdHlwZXNfcGVyZm9ybWFuY2V9eyRiaWRfZGF0YS0+e2JfdHlwZX19ICYmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZWxmLT5fYXV0b19iaWRfYXBwX29ubHlfYWRncnBzLT57JGNvbHMtPnthZ19pZH19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpZF9kYXRhLT57YWduX25ldHdvcmtfaWR9ICE9IE5FVFdPUktfSURfUkVEIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXkgJGVycm9yID0gc3ByaW50ZiAiTk9fQURTKCVzKSIsIChqb2luICIsIiwgQGVycm9yX2RldGFpbHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgISRiaWRfZGF0YS0+e2NwX2lzX2F1dG9tYXRlZH0gfHwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gdW5sZXNzIEAkYWRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpZF9kYXRhLT57Y3BfaXNfYXV0b21hdGVkfQo=</text>
+        <text encoding="base64">ICAgICAgICAkYWRzID0gW2dyZXAgewogICAgICAgICAgICAkc2VsZi0+X2F1dG9fYmlkX2FwcF9vbmx5X2FkZ3Jwcy0+eyRjb2xzLT57YWdfaWR9fQogICAgICAgIH1dOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</last-search>
+      <last-search encoding="base64">XDxmbW9wdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmbW9wdGlvbnNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -709,8 +709,8 @@
         <entry encoding="base64">XDxlcnJvcl9kZXRhaWxzXD4=</entry>
         <entry encoding="base64">XDxyZWFzb25cPg==</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
-        <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</entry>
+        <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
