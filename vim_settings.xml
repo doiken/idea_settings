@@ -13,7 +13,7 @@
       <file name="$FOUT_HOME$/t/utils/MakeHelper.pm" timestamp="1529472163920">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/LineCpcVideoCTRFMPrediction.pm" timestamp="1535956550880" />
+      <file name="/LineCpcVideoCTRFMPrediction.pm" timestamp="1535965140997" />
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1526456852431">
         <mark key="'" line="227" column="13" />
       </file>
@@ -420,12 +420,12 @@
         <mark key="'" line="8" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo49624.pm" timestamp="1535961250291" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1535624386995">
-        <mark key="'" line="1085" column="17" />
-        <mark key="[" line="1079" column="69" />
-        <mark key="]" line="1079" column="70" />
-        <mark key="^" line="1079" column="70" />
-        <mark key="." line="1078" column="88" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1535964531776">
+        <mark key="'" line="1254" column="4" />
+        <mark key="[" line="1256" column="43" />
+        <mark key="]" line="1256" column="43" />
+        <mark key="." line="1256" column="43" />
+        <mark key="^" line="1256" column="43" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Time/Piece/MySQL.pm" timestamp="1531124086819">
         <mark key="'" line="134" column="61" />
@@ -475,11 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="520" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="324" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1662" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1722" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1418" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="493" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="531" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="40" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" />
@@ -575,6 +570,11 @@
       <jump line="69" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="66" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
       <jump line="105" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL.pm" />
+      <jump line="1091" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1242" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1280" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1234" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1254" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -587,7 +587,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -602,16 +602,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</text>
+        <text encoding="base64">XDxfYXV0b19iaWRfYWRfZmlsdGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">TU9ERUxfUEFSQU1TLT57JG1vZGVsX2lkfXtmbW9wdGlvbnN9</text>
+        <text>_auto_bid_ad_filter</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2lmICgkbW9kZWxfaWQgPT0gMTcpIHsKICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxN19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsKICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTI7CiAgICB9IGVsc2UgewogICAgICAgIGRpZSAiSW5jb3JyZWN0IG1vZGVsX2lkICRtb2RlbF9pZCBpcyBnaXZlbi4gT25seSAxMyBhbmQgMTcgYXJlIGF2YWlsYWJsZSBmb3IgTGluZUNwY1ZpZGVvQ1RSRk1QcmVkaWN0aW9uIjsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyA1MjE5MQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -622,40 +622,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTQ7Cg==</text>
+        <text encoding="base64">ICAgICM1MjE5MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxM19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsK</text>
+        <text encoding="base64">IzUyMTkxCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMg44GT44GT44Gn6Ieq5YuV5YWl5pyt44GL44GkUkVE44GL44Gk44OR44OV44Kp44O844Oe44Oz44K544Oh44OH44Kj44Ki44GL44GkYXBw44Gq5bqD5ZGK44KS6Zmk5aSW44GZ44KLCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg44GT44GT44Gn6Ieq5YuV5YWl5pyt44GL44GkUkVE44GL44Gk44OR44OV44Kp44O844Oe44Oz44K544Oh44OH44Kj44Ki44GL44GkYXBw44Gq5bqD5ZGK44KS6Zmk5aSW44GZ44KLCiAgICBpZiAoJGJpZF9kYXRhLT57YWduX25ldHdvcmtfaWR9ID09IE5FVFdPUktfSURfUkVEICYmICRiaWRfZGF0YS0+e2FnX2Rsdl90eXBlfSA9PSA1KSB7CiAgICAgICAgJGFkcyA9IFtncmVwIHsgJHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9uIHx8ICRfLT57bGFuZGluZ190eXBlfSBlcSAnYXBwJyB9IEAkYWRzXTsKICAgICAgICB1bmxlc3MgKEAkYWRzKSB7CiAgICAgICAgICAgICRlcnJvciA9ICdUT0RPJzsKICAgICAgICAgICAgIyBteSAkZXJyb3IgPSBzcHJpbnRmICJOT19BRFMoJXMpIiwgKGpvaW4gIiwiLCBAZXJyb3JfZGV0YWlscyk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzZWxmLT5fYXV0b19iaWRfYXBwX29ubHlfYWRncnBzLT57JGNvbHMtPnthZ19pZH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIOOBk+OBk+OBp+iHquWLleWFpeacreOBi+OBpFJFROOBi+OBpOODkeODleOCqeODvOODnuODs+OCueODoeODh+OCo+OCouOBi+OBpGFwcOOBquW6g+WRiuOCkumZpOWkluOBmeOCiwogICAgICAgIGlmICgkYmlkX2RhdGEtPnthZ25fbmV0d29ya19pZH0gPT0gTkVUV09SS19JRF9SRUQgJiYgJGJpZF9kYXRhLT57YWdfZGx2X3R5cGV9ID09IDUpIHsKICAgICAgICAgICAgJGFkcyA9IFtncmVwIHsgJHNlbGYtPmNvbnRleHQtPmlzX2FwcGxpY2F0aW9uIHx8ICRfLT57bGFuZGluZ190eXBlfSBlcSAnYXBwJyB9IEAkYWRzXTsKICAgICAgICAgICAgdW5sZXNzIChAJGFkcykgewogICAgICAgICAgICAgICAgJGVycm9yID0gJ1RPRE8nOwogICAgICAgICAgICAgICAgIyBteSAkZXJyb3IgPSBzcHJpbnRmICJOT19BRFMoJXMpIiwgKGpvaW4gIiwiLCBAZXJyb3JfZGV0YWlscyk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXkgJGVycm9yID0gc3ByaW50ZiAiTk9fQURTKCVzKSIsIChqb2luICIsIiwgQGVycm9yX2RldGFpbHMpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2lmICgkbW9kZWxfaWQgPT0gMTcpIHsKICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxN19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsKICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTI7CiAgICB9IGVsc2UgewogICAgICAgIGRpZSAiSW5jb3JyZWN0IG1vZGVsX2lkICRtb2RlbF9pZCBpcyBnaXZlbi4gT25seSAxMyBhbmQgMTcgYXJlIGF2YWlsYWJsZSBmb3IgTGluZUNwY1ZpZGVvQ1RSRk1QcmVkaWN0aW9uIjsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVycm9yID0gdW5sZXNzIEAkYWRzOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZm1vcHRpb25zLT57bnpkaW19ID0gMTQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRzID0gW2dyZXAgewogICAgICAgICAgICAkc2VsZi0+X2F1dG9fYmlkX2FwcF9vbmx5X2FkZ3Jwcy0+eyRjb2xzLT57YWdfaWR9fQogICAgICAgIH1dOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZXh0cmFjdGlvbl9jb25maWdfZmlsZSA9IG1vZGVscygnY29uZicpLT57ZmVhdHVyZV9leHRyYWN0aW9uX3J1bm5lcl9jb25maWdfZGlyfSAuICcvMDAxM19mbV9saW5lX2NwY19jdHJfdmlkZW8ueW1sJzsK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxfYXV0b19iaWRfYWRfZmlsdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYXV0b19iaWRfYWRfZmlsdGVyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -714,6 +714,10 @@
         <entry encoding="base64">XDxtYXliZV9kdXJhdGlvbl9ob3Vyc1w+</entry>
         <entry encoding="base64">XDxmbW9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsX2NvbmRpdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxfcmV3YXJkX2FkX2ZpbHRlclw+</entry>
+        <entry encoding="base64">XDxfYXV0b19iaWRfZmlsdGVyZWRfYWRzXD4=</entry>
+        <entry encoding="base64">XDxfYXV0b19iaWRfYWRfZmlsdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
