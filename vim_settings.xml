@@ -108,7 +108,12 @@
         <mark key="." line="1372" column="10" />
         <mark key="^" line="1372" column="10" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1535621813141" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1535953305527">
+        <mark key="[" line="854" column="54" />
+        <mark key="]" line="854" column="54" />
+        <mark key="^" line="854" column="54" />
+        <mark key="." line="854" column="54" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DummyParams.pm" timestamp="1532330742288">
         <mark key="'" line="22" column="45" />
       </file>
@@ -118,7 +123,7 @@
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1534907005638">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1535954367700">
         <mark key="'" line="157" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1534395663546">
@@ -172,6 +177,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1533697454539">
         <mark key="'" line="117" column="28" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/CLI/LogAggregator.pm" timestamp="1535953731016" />
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
@@ -335,6 +341,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/PairRDDFunctions.scala" timestamp="1529032320861">
         <mark key="'" line="959" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/log_active/nn" timestamp="1535953819740" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" timestamp="1533179724302">
         <mark key="'" line="18" column="6" />
       </file>
@@ -346,6 +353,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/AppLInterestV2.pm" timestamp="1529307489565">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" timestamp="1535953583025">
+        <mark key="'" line="44" column="44" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Config.pm" timestamp="1535624002640">
         <mark key="'" line="12" column="5" />
@@ -453,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="974" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1396" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1397" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -553,6 +562,7 @@
       <jump line="959" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="855" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1085" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="44" column="44" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
