@@ -58,6 +58,7 @@
         <mark key="^" line="50" column="44" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1536201830141" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Click.pm" timestamp="1536214341153" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1535614563513">
         <mark key="'" line="25" column="4" />
       </file>
@@ -222,6 +223,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1526356746203">
         <mark key="'" line="35" column="8" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1536214409566">
+        <mark key="'" line="353" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelTL/SageMaker.pm" timestamp="1530503447910">
         <mark key="'" line="0" column="8" />
       </file>
@@ -255,8 +259,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1535623564547">
-        <mark key="'" line="1101" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1536215103483">
+        <mark key="'" line="144" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/jp/Ad.scala" timestamp="1531905581208">
         <mark key="'" line="225" column="23" />
@@ -349,6 +353,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Model/Conversion.pm" timestamp="1533798194484">
         <mark key="'" line="94" column="38" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" timestamp="1536214085864">
+        <mark key="'" line="4" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
@@ -455,6 +462,9 @@
         <mark key="'" line="8" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo49624.pm" timestamp="1535961250291" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1536213993311">
+        <mark key="'" line="1102" column="7" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Time/Piece/MySQL.pm" timestamp="1531124086819">
         <mark key="'" line="134" column="61" />
       </file>
@@ -467,7 +477,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/Base.pm" timestamp="1531112096918">
         <mark key="'" line="178" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1535618941829" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1536214066962">
+        <mark key="'" line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" timestamp="1531302658007">
         <mark key="'" line="0" column="8" />
       </file>
@@ -503,11 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="846" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="959" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="855" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1085" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="44" column="44" filename="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" />
       <jump line="58" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="59" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="80" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
@@ -603,6 +610,11 @@
       <jump line="1253" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1323" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1242" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1102" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="89" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="4" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
+      <jump line="353" column="13" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
+      <jump line="144" column="69" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -633,7 +645,7 @@
         <text encoding="base64">Tk9UIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZF9hZHNcPg==</text>
+        <text encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JGFkLT57aWR9Og==</text>
@@ -687,9 +699,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZF9hZHNcPg==</last-search>
+      <last-search encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZF9hZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -771,6 +783,7 @@
         <entry encoding="base64">XDxjdXRfcGVyY2VudFw+</entry>
         <entry encoding="base64">XDxfc2hvdWxkX2ZpbHRlcl9hdXRvX2JpZF9hcHBfYWRcPg==</entry>
         <entry encoding="base64">XDx2YWxpZF9hZHNcPg==</entry>
+        <entry encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
