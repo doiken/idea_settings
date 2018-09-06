@@ -57,6 +57,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="50" column="44" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1536201830141" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1535614563513">
         <mark key="'" line="25" column="4" />
       </file>
@@ -110,15 +111,15 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket141.pm" timestamp="1529551986358">
         <mark key="'" line="63" column="47" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1535623946032">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1536201470832">
         <mark key="'" line="28" column="30" />
         <mark key="[" line="1358" column="34" />
         <mark key="]" line="1358" column="48" />
         <mark key="." line="1372" column="10" />
         <mark key="^" line="1372" column="10" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1536137923076">
-        <mark key="'" line="219" column="21" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1536201764433">
+        <mark key="'" line="283" column="185" />
         <mark key="[" line="877" column="54" />
         <mark key="]" line="877" column="54" />
         <mark key="^" line="877" column="54" />
@@ -194,7 +195,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1535969061313">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1536201531949">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="2" />
@@ -399,7 +400,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" timestamp="1528350673418">
         <mark key="'" line="18" column="13" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1528162567738">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Review.pm" timestamp="1536200617386">
         <mark key="'" line="74" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" timestamp="1532583082107">
@@ -442,7 +443,7 @@
         <mark key="'" line="8" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo49624.pm" timestamp="1535961250291" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1536198886187">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1536201492370">
         <mark key="'" line="42" column="8" />
         <mark key="[" line="1263" column="11" />
         <mark key="]" line="1263" column="40" />
@@ -497,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1030" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1038" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1044" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1054" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1058" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1071" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -597,6 +595,9 @@
       <jump line="26" column="26" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
       <jump line="8" column="4" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
       <jump line="51" column="11" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
+      <jump line="236" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="237" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="283" column="185" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -627,7 +628,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2hvdWxkX3ZhbGlkYXRlX2F1dG9fYmlkX2xhbmRpbmdfdHlwZVw+</text>
+        <text encoding="base64">XDxkYWlseV9mcmVxX2NhcFw+</text>
       </register>
       <register name="0" type="4">
         <text>@adgrp_adids</text>
@@ -681,9 +682,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2hvdWxkX3ZhbGlkYXRlX2F1dG9fYmlkX2xhbmRpbmdfdHlwZVw+</last-search>
+      <last-search encoding="base64">XDxkYWlseV9mcmVxX2NhcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2hvdWxkX3ZhbGlkYXRlX2F1dG9fYmlkX2xhbmRpbmdfdHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkYWlseV9mcmVxX2NhcFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -755,6 +756,8 @@
         <entry encoding="base64">XDxfYXV0b19iaWRfZmlsdGVyZWRfYWRzXD4=</entry>
         <entry encoding="base64">XDxyZWFzb25cPg==</entry>
         <entry encoding="base64">XDxfc2hvdWxkX3ZhbGlkYXRlX2F1dG9fYmlkX2xhbmRpbmdfdHlwZVw+</entry>
+        <entry>freq</entry>
+        <entry encoding="base64">XDxkYWlseV9mcmVxX2NhcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
