@@ -464,7 +464,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" timestamp="1536214409566">
         <mark key="'" line="353" column="13" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1536644274060">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1536823298966">
+        <mark key="'" line="324" column="14" />
         <mark key="[" line="1243" column="0" />
         <mark key="]" line="1243" column="0" />
         <mark key="^" line="1242" column="9" />
@@ -549,8 +550,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Geo/IP/Record.pod" timestamp="1526355165189">
         <mark key="'" line="98" column="27" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1536219613119">
-        <mark key="'" line="144" column="69" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1536823371275">
+        <mark key="'" line="1095" column="15" />
         <mark key="[" line="274" column="32" />
         <mark key="]" line="274" column="31" />
         <mark key="^" line="274" column="31" />
@@ -564,8 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="30" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
-      <jump line="1303" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="71" column="19" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
       <jump line="42" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="26" column="26" filename="$FOUT_HOME$/t/fout/bid/match/auto_bid_filterred_ads.t" />
@@ -664,6 +663,8 @@
       <jump line="57" column="16" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
       <jump line="471" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="324" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1095" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
