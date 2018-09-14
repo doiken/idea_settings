@@ -386,8 +386,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" timestamp="1534237376219">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" timestamp="1536897557472">
-        <mark key="'" line="64" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" timestamp="1536902549854">
+        <mark key="'" line="67" column="61" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRFMPrediction.pm" timestamp="1536220817026">
         <mark key="'" line="40" column="39" />
@@ -598,16 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
-      <jump line="66" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
-      <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket141.pm" />
-      <jump line="71" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
-      <jump line="102" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCVRFMPrediction.pm" />
-      <jump line="35" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
-      <jump line="11" column="14" filename="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0001_fm_line_cvr_image.yml" />
-      <jump line="91" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="1259" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="557" column="4" filename="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" />
       <jump line="47" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="321" column="14" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
       <jump line="121" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
@@ -695,9 +685,19 @@
       <jump line="2767" column="20" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/templates/internal/hubot.fout.jp.conf" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
-      <jump line="63" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
       <jump line="64" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
       <jump line="82" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
+      <jump line="48" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="63" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="75" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="76" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="94" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="96" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="100" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="65" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
+      <jump line="67" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -728,7 +728,7 @@
         <text>d-ad-demo.dspappsplus.com.conf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHVtcF9wYXJhbXNcPg==</text>
+        <text encoding="base64">XDx0bXBmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiZC1hZC1kZW1vLmRzcGFwcHNwbHVzLmNvbS5jb25mIiwK</text>
@@ -776,9 +776,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHVtcF9wYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDx0bXBmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHVtcF9wYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0bXBmaWxlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -819,8 +819,12 @@
         <entry encoding="base64">XDxhcHBseVw+</entry>
         <entry encoding="base64">XDxzZWdtZW50c1w+</entry>
         <entry encoding="base64">XDx0bXBmaWxlbmFtZVw+</entry>
-        <entry encoding="base64">XDx0bXBmaWxlXD4=</entry>
         <entry encoding="base64">XDxfZHVtcF9wYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxfc2hvd19wYXJ0aXRpb25faHFsXD4=</entry>
+        <entry encoding="base64">XDxkb3dubG9hZF92aWFfc3NoXD4=</entry>
+        <entry encoding="base64">XDxsYXRlc3RfcGFydGl0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzaG93X3BhcnRpdGlvbl9ocWxcPg==</entry>
+        <entry encoding="base64">XDx0bXBmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
