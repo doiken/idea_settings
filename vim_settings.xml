@@ -580,6 +580,13 @@
         <mark key="^" line="3076" column="35" />
         <mark key="." line="3076" column="35" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1537247092196">
+        <mark key="'" line="345" column="8" />
+        <mark key="[" line="274" column="32" />
+        <mark key="]" line="274" column="31" />
+        <mark key="^" line="274" column="31" />
+        <mark key="." line="274" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/templates/internal/callout.fout.jp.conf" timestamp="1536891461005" />
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1535601673090">
         <mark key="'" line="120" column="16" />
@@ -589,10 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="57" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="59" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="61" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="62" column="95" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="63" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="71" column="80" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
@@ -689,6 +692,10 @@
       <jump line="896" column="11" filename="$USER_HOME$/Documents/fout_infra/puppet/manifests/nodes.pp" />
       <jump line="6" column="5" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/manifests/nginx_config.pp" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
+      <jump line="496" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="184" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="136" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="345" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -719,7 +726,7 @@
         <text>crt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJzYW1wcmluZ19yYXRlXD4=</text>
+        <text encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNzbF9jZXJ0aWZpY2F0ZSAgICAgICAgICAgIC9ldGMvbmdpbngvc3NsL2RtcC5mb3V0LmNydDsK</text>
@@ -767,9 +774,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJzYW1wcmluZ19yYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJzYW1wcmluZ19yYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -778,7 +785,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDx2YWxpZF9hZHNcPg==</entry>
-        <entry encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</entry>
         <entry encoding="base64">XDx0b3BfbGV2ZWxfZG9tYWluXD4=</entry>
         <entry encoding="base64">XDxnZXRfaGllcmFyY2hpY2FsX2RvbWFpbnNcPg==</entry>
         <entry encoding="base64">XDxfc2V0X3BjdHJfcGN2cl9jYW5kaWRhdGVfbG9nXD4=</entry>
@@ -819,6 +825,10 @@
         <entry encoding="base64">XDxuZ2lueF9jZXJ0aWZpY2F0ZVw+</entry>
         <entry encoding="base64">XDxzc2xcPg==</entry>
         <entry encoding="base64">XDxzdWJzYW1wcmluZ19yYXRlXD4=</entry>
+        <entry encoding="base64">XDxfY29vcmRpbmF0ZV9kdXBsaWNhdGVkX3VzZXJfaWRcPg==</entry>
+        <entry encoding="base64">XDxzb3J0ZWRfbGlzdFw+</entry>
+        <entry encoding="base64">XDxfY2hvb3NlX2Rlc2NlbmRpbmdfY2FuZGlkYXRlc1w+</entry>
+        <entry encoding="base64">XDxzb3J0ZWRfY2FuZGlkYXRlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
