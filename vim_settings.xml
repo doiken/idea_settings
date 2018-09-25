@@ -63,8 +63,8 @@
       <file name="$FOUT_HOME$/t/fout/model/adgroup-isthirdparty.t" timestamp="1531120798947">
         <mark key="'" line="36" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1536653660694">
-        <mark key="'" line="26" column="22" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1537862255217">
+        <mark key="'" line="98" column="21" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMPrediction.pm" timestamp="1529485785089">
         <mark key="'" line="60" column="9" />
@@ -96,6 +96,9 @@
         <mark key="]" line="946" column="4" />
         <mark key="^" line="946" column="4" />
         <mark key="." line="946" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction50304.pm" timestamp="1537861761319">
+        <mark key="'" line="74" column="51" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1535614563513">
         <mark key="'" line="25" column="4" />
@@ -204,7 +207,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1537845632484">
         <mark key="'" line="134" column="4" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1536823996739">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1537860182628">
         <mark key="'" line="804" column="10" />
         <mark key="[" line="878" column="54" />
         <mark key="]" line="878" column="54" />
@@ -308,15 +311,15 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1527583214434">
         <mark key="'" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1537256562821">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1537862743364">
         <mark key="'" line="41" column="41" />
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
+        <mark key="^" line="93" column="61" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/AppLInterestV2.pm" timestamp="1529307489565">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/templates/services/sync.dmp.fout.jp.conf" timestamp="1536907076696">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="59" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" timestamp="1535953583025">
         <mark key="'" line="44" column="44" />
@@ -399,7 +402,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1537264679860" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1537861492442" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" timestamp="1526376796113">
         <mark key="'" line="44" column="42" />
       </file>
@@ -470,8 +473,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1536825348231">
         <mark key="'" line="140" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" timestamp="1531302658007">
-        <mark key="'" line="0" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" timestamp="1537862180580">
+        <mark key="'" line="43" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
@@ -553,9 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="42" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="197" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
-      <jump line="95" column="56" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" />
       <jump line="187" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
       <jump line="4" column="22" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="72" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" />
@@ -653,6 +653,9 @@
       <jump line="134" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
       <jump line="42" column="8" filename="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" />
       <jump line="33" column="4" filename="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" />
+      <jump line="74" column="51" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction50304.pm" />
+      <jump line="43" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction50304.pm" />
+      <jump line="98" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -665,7 +668,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.exists(_.isEmpty)</text>
+        <text encoding="base64">aWYgKCRtb2RlbF90eXBlIGVxICdsX2ludGVyZXN0X3YyJykgewogICAgICAgICRmbW9wdGlvbnMtPntuemRpbX0gPSAzMjsKICAgICAgICAkZHVtcF9ocWwgPSAnZHVtcF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfdHJhaW5pbmcuaHFsJzsKICAgICAgICAkbG9hZF9ocWwgPSAnbG9hZF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfbW9kZWwuaHFsJzsKICAgICAgICAkYWxsX2RhdGFfZmlsZSA9ICd0cmFpbl9hcHBfbF9pbnRlcmVzdF92Ml9jdHInOwogICAgICAgICRtb2RlbF9maWxlID0gJ3dlaWdodHNfYXBwX2xfaW50ZXJlc3RfdjJfY3RyJzsKICAgICAgICAkZGF0YXNldF9ocWwgPSAnZGF0YXNldF9hcHBfbF9pbnRlcmVzdF92Ml9jdHIuaHFsJzsKICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsKICAgIH0gZWxz</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -680,16 +683,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>.exists(_.isEmpty)</text>
+        <text encoding="base64">bXkg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcnRpZmFjdF9jbWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TGlzdCgpLmV4aXN0cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">TGlzdCgxLCAyLCAzKS5leGlzdHMoXyA+IDApCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aWYgKCRtb2RlbF90eXBlIGVxICdsX2ludGVyZXN0X3YyJykgewogICAgICAgICRmbW9wdGlvbnMtPntuemRpbX0gPSAzMjsKICAgICAgICAkZHVtcF9ocWwgPSAnZHVtcF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfdHJhaW5pbmcuaHFsJzsKICAgICAgICAkbG9hZF9ocWwgPSAnbG9hZF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfbW9kZWwuaHFsJzsKICAgICAgICAkYWxsX2RhdGFfZmlsZSA9ICd0cmFpbl9hcHBfbF9pbnRlcmVzdF92Ml9jdHInOwogICAgICAgICRtb2RlbF9maWxlID0gJ3dlaWdodHNfYXBwX2xfaW50ZXJlc3RfdjJfY3RyJzsKICAgICAgICAkZGF0YXNldF9ocWwgPSAnZGF0YXNldF9hcHBfbF9pbnRlcmVzdF92Ml9jdHIuaHFsJzsKICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsKICAgIH0gZWxz</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -700,31 +703,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U29tZSgxKS5leGlzdHMoXyA+IDApCg==</text>
+        <text encoding="base64">ICAgIG15ICRoaXZlX3RhYmxlX3VwZGF0ZXIgPSBGT3V0OjpMb2dzOjpDVFJGTVByZWRpY3Rpb24tPm5ldyh7CiAgICAgICAgdGltZXN0YW1wICAgICAgICAgID0+ICRzdGFydF90aW1lc3RhbXAsCiAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgdGVzdF90cmFpbiAgICAgICAgID0+ICR0ZXN0X3RyYWluLAogICAgICAgIG1vZGUgICAgICAgICAgICAgICA9PiAkbW9kZSwKICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgZGF0YXNldF9ocWwgICAgICAgID0+ICRkYXRhc2V0X2hxbCwKICAgICAgICBkdW1wX2hxbCAgICAgICAgICAgPT4gJGR1bXBfaHFsLAogICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgYWxsX2RhdGFfZmlsZSAgICAgID0+ICRhbGxfZGF0YV9maWxlLAogICAgICAgIG1vZGVsX2ZpbGUgICAgICAgICA9PiAkbW9kZWxfZmlsZSwKICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICBmbW9wdGlvbnMgICAgICAgICAgPT4gJGZtb3B0aW9ucywKICAgICAgICBwb29sICAgICAgICAgICAgICAgPT4gJHBvb2wsCiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U29tZSgxKS5leGlzdHMoXy5pc0VtcHR5KQo=</text>
+        <text encoding="base64">ICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICBkcnlydW4gICAgICAgICAgICAgPT4gJGRyeXJ1biwKICAgICAgICB0ZXN0X3RyYWluICAgICAgICAgPT4gJHRlc3RfdHJhaW4sCiAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgIGhxbF9kaXIgICAgICAgICAgICA9PiAkaHFsX2RpciwKICAgICAgICBkYXRhc2V0X2hxbCAgICAgICAgPT4gJGRhdGFzZXRfaHFsLAogICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgbG9hZF9ocWwgICAgICAgICAgID0+ICRsb2FkX2hxbCwKICAgICAgICBhbGxfZGF0YV9maWxlICAgICAgPT4gJGFsbF9kYXRhX2ZpbGUsCiAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgIGFnZ3JlZ2F0aW9uX3BlcmlvZCA9PiAkYWdncmVnYXRpb25fcGVyaW9kLAogICAgICAgIGZtb3B0aW9ucyAgICAgICAgICA9PiAkZm1vcHRpb25zLAogICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgIH0pOwo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">U29tZShMaXN0KDEsIDIsIDMsIDQsIDUpKS5leGlzdHMoXy5pc0VtcHR5KQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKCRtb2RlbF90eXBlIGVxICdsX2ludGVyZXN0X3YyJykgewogICAgICAgICRmbW9wdGlvbnMtPntuemRpbX0gPSAzMjsKICAgICAgICAkZHVtcF9ocWwgPSAnZHVtcF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfdHJhaW5pbmcuaHFsJzsKICAgICAgICAkbG9hZF9ocWwgPSAnbG9hZF9hcHBfbF9pbnRlcmVzdF92Ml9jdHJfbW9kZWwuaHFsJzsKICAgICAgICAkYWxsX2RhdGFfZmlsZSA9ICd0cmFpbl9hcHBfbF9pbnRlcmVzdF92Ml9jdHInOwogICAgICAgICRtb2RlbF9maWxlID0gJ3dlaWdodHNfYXBwX2xfaW50ZXJlc3RfdjJfY3RyJzsKICAgICAgICAkZGF0YXNldF9ocWwgPSAnZGF0YXNldF9hcHBfbF9pbnRlcmVzdF92Ml9jdHIuaHFsJzsKICAgIH0gZWxz</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TGlzdCgxLCAyLCAzKS5leGlzdHMoXyA+IDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsIG9wdGlvbmFsTGlzdDogT3B0aW9uW0xpc3RbSW50XV0gPSBOb25lIC8vIFNvbWUoTGlzdCgxLCAyLCAzLCA0LCA1KSkK</text>
+        <text encoding="base64">U29tZSgxKS5leGlzdHMoXyA+IDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsIGRvdWJsZWRMaXN0MSA9IGZvciB7CiAgbGlzdCA8LSBvcHRpb25hbExpc3QudG9MaXN0CiAgaWYgbGlzdC5ub25FbXB0eQogIGZpZWxkIDwtIGxpc3QKfSB5aWVsZCBmaWVsZCAqIDIKCi8vdmFsIGRvdWJsZWRMaXN0MiA9IG9wdGlvbmFsTGlzdC50b0xpc3QuZmxhdE1hcChfLm1hcChfICogMikpCnZhbCBkb3VibGVkTGlzdDIgPSBvcHRpb25hbExpc3QudG9MaXN0LmZsYXR0ZW4ubWFwKF8gKiAyKQoKLy92YWwgZG91YmxlZExpc3QzID0gb3B0aW9uYWxMaXN0IG1hdGNoIHsKLy8gIGNhc2UgU29tZShsOiBMaXN0W0ludF0pID0+IGwubWFwKF8gKiAyKQovLyAgY2FzZSBfID0+IE5pbAovL30KCg==</text>
+        <text encoding="base64">U29tZSgxKS5leGlzdHMoXy5pc0VtcHR5KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TGlzdCgxLCAyLCAzKS4K</text>
+        <text encoding="base64">U29tZShMaXN0KDEsIDIsIDMsIDQsIDUpKS5leGlzdHMoXy5pc0VtcHR5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXNlIE5vbmUgPT4gTmlsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
