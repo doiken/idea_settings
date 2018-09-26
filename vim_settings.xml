@@ -149,8 +149,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SiteDomain.pm" timestamp="1536216471198">
         <mark key="'" line="143" column="35" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1537949733981">
-        <mark key="'" line="81" column="56" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1537952080705">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1526437423264">
         <mark key="'" line="0" column="0" />
@@ -225,8 +225,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" timestamp="1533711108827">
         <mark key="'" line="161" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1537950851367">
-        <mark key="'" line="114" column="43" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1537952381941">
+        <mark key="'" line="115" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -281,8 +281,8 @@
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/bot.coffee" timestamp="1526348900197">
         <mark key="'" line="133" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" timestamp="1537950937423">
-        <mark key="'" line="31" column="18" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" timestamp="1537951490384">
+        <mark key="'" line="18" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1537949244148">
         <mark key="'" line="30" column="50" />
@@ -330,7 +330,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" timestamp="1532583082107">
         <mark key="'" line="20" column="31" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" timestamp="1537949476660">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" timestamp="1537952690260">
         <mark key="'" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/ctrfmprediction50304.t" timestamp="1537941233243">
@@ -480,8 +480,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1537930222210">
         <mark key="'" line="39" column="51" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1537944736867">
-        <mark key="'" line="7" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1537951540077">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/rtbindex/hive.t" timestamp="1537941382553" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CVRMFMPrediction.pm" timestamp="1533202892681">
@@ -532,18 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/templates/internal/hubot.fout.jp.conf" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
-      <jump line="64" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="82" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
-      <jump line="48" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="63" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="75" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="76" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="94" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="96" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
       <jump line="100" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
       <jump line="65" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
       <jump line="67" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
@@ -628,10 +616,22 @@
       <jump line="16" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="30" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="22" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
-      <jump line="114" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="24" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
       <jump line="31" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
       <jump line="45" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
+      <jump line="18" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
+      <jump line="104" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
+      <jump line="2" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
+      <jump line="116" column="70" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="118" column="68" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="216" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="6" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="59" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="111" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="112" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="114" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="7" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
+      <jump line="115" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -662,7 +662,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYnlfaWRcPg==</text>
+        <text encoding="base64">XDxjYWNoZWRfdmFsdWVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsK</text>
@@ -710,9 +710,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYnlfaWRcPg==</last-search>
+      <last-search encoding="base64">XDxjYWNoZWRfdmFsdWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYnlfaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZWRfdmFsdWVzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -763,8 +763,12 @@
         <entry encoding="base64">XDxjYW5kaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDxDVFJGTUFwcExJbnRlcmVzdFYyXD4=</entry>
-        <entry encoding="base64">XDxjYWNoZWRfZmVhdHVyZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRfYnlfaWRcPg==</entry>
+        <entry encoding="base64">XDxwcmVmaXhcPg==</entry>
+        <entry encoding="base64">XDxjdHJcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZWRfZmVhdHVyZXNcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZV9uYW1lc3BhY2VcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZWRfdmFsdWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
