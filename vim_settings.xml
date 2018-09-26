@@ -102,7 +102,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket141.pm" timestamp="1529551986358">
         <mark key="'" line="63" column="47" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1537867781549">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1537956137120">
         <mark key="'" line="804" column="10" />
         <mark key="[" line="878" column="54" />
         <mark key="]" line="878" column="54" />
@@ -127,6 +127,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1534395663546">
         <mark key="'" line="86" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1537956725361" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1536651925763">
         <mark key="'" line="81" column="42" />
       </file>
@@ -331,6 +332,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" timestamp="1534322062632">
         <mark key="'" line="1393" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1537956327706" />
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/client/src/main/java/jp/fout/log/hadoop/client/adverification/EvaluatedUrlMasterClient.java" timestamp="1534142202128">
         <mark key="'" line="108" column="36" />
       </file>
@@ -425,6 +427,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" timestamp="1532583082107">
         <mark key="'" line="20" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1537956350323">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/response.coffee" timestamp="1526033759020">
         <mark key="'" line="78" column="4" />
@@ -525,8 +530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="5" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nginx/manifests/nginx_config.pp" />
-      <jump line="49" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" />
       <jump line="496" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="184" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="41" column="41" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
@@ -625,6 +628,8 @@
       <jump line="34" column="98" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/fout_logs/t/Utils.pm" />
+      <jump line="54" column="10" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -655,7 +660,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXNlX3Rlc3RfZGJcPg==</text>
+        <text encoding="base64">XDxwYWNrYWdlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsK</text>
@@ -703,9 +708,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXNlX3Rlc3RfZGJcPg==</last-search>
+      <last-search encoding="base64">XDxwYWNrYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXNlX3Rlc3RfZGJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYWNrYWdlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -765,6 +770,7 @@
         <entry encoding="base64">XDxDVFJGTV9BUFBMSU5URVJFU1RWMl9QUkVESUNUSU9OXD4=</entry>
         <entry encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</entry>
         <entry encoding="base64">XDxfdXNlX3Rlc3RfZGJcPg==</entry>
+        <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
