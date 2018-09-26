@@ -148,8 +148,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SiteDomain.pm" timestamp="1536216471198">
         <mark key="'" line="143" column="35" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1537930370678">
-        <mark key="'" line="82" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1537933950308">
+        <mark key="'" line="81" column="56" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1526437423264">
         <mark key="'" line="0" column="0" />
@@ -275,6 +275,7 @@
       <file name="$USER_HOME$/Documents/fout_ukigumo/local/lib/perl5/IPC/Run.pm" timestamp="1531986058951">
         <mark key="'" line="1449" column="20" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/WebCTRPrediction.pm" timestamp="1537933760188" />
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/bot.coffee" timestamp="1526348900197">
         <mark key="'" line="133" column="8" />
       </file>
@@ -468,9 +469,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537858837236">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" timestamp="1537858840190">
         <mark key="'" line="33" column="4" />
       </file>
@@ -527,7 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2124" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2131" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1711" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1854" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -627,6 +624,7 @@
       <jump line="82" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="32" column="4" filename="/Default.pm" />
       <jump line="86" column="37" filename="/Default.pm" />
+      <jump line="81" column="56" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
