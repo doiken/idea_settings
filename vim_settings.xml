@@ -16,6 +16,9 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="33" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1538034810520">
+        <mark key="'" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/LineCpcVideoCTRFMPrediction.pm" timestamp="1537237341924">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="104" column="52" />
@@ -184,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="144" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="213" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="79" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
@@ -284,6 +286,7 @@
       <jump line="32" column="17" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
       <jump line="9" column="17" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
       <jump line="260" column="3" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
+      <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -314,7 +317,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcHBMYXN0Q2xpY2tJbmZvXD4=</text>
+        <text encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsK</text>
@@ -362,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcHBMYXN0Q2xpY2tJbmZvXD4=</last-search>
+      <last-search encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcHBMYXN0Q2xpY2tJbmZvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -434,6 +437,7 @@
         <entry encoding="base64">XDxzYXZlT25IaXZlXD4=</entry>
         <entry encoding="base64">XDxpbXBDbGlja01vZGVsc1w+</entry>
         <entry encoding="base64">XDxBcHBMYXN0Q2xpY2tJbmZvXD4=</entry>
+        <entry encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
