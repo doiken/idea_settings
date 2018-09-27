@@ -39,12 +39,12 @@
         <mark key="^" line="427" column="15" />
         <mark key="." line="427" column="15" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538030259501">
-        <mark key="'" line="804" column="10" />
-        <mark key="[" line="878" column="54" />
-        <mark key="]" line="878" column="54" />
-        <mark key="^" line="878" column="54" />
-        <mark key="." line="878" column="54" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538039810330">
+        <mark key="'" line="791" column="31" />
+        <mark key="[" line="3981" column="30" />
+        <mark key="]" line="3981" column="30" />
+        <mark key="^" line="3981" column="27" />
+        <mark key="." line="3981" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1538038144319">
         <mark key="'" line="128" column="27" />
@@ -187,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="213" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="79" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
@@ -287,6 +286,7 @@
       <jump line="9" column="17" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
       <jump line="260" column="3" filename="$FOUT_HOME$/lib/FOut/Click/Redirect.pm" />
       <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" />
+      <jump line="791" column="31" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -299,7 +299,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -314,7 +314,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</text>
