@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" timestamp="1537264872557">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1536221052821">
-        <mark key="'" line="35" column="11" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1538017659338">
+        <mark key="'" line="61" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" timestamp="1537930516464">
         <mark key="'" line="55" column="66" />
@@ -115,8 +115,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl.pm" timestamp="1531463409601">
         <mark key="'" line="29" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1537952381941">
-        <mark key="'" line="115" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1538017814950">
+        <mark key="'" line="128" column="27" />
       </file>
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
         <mark key="'" line="0" column="0" />
@@ -124,7 +124,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1535954367700">
         <mark key="'" line="157" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1534395663546">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1538017676104">
         <mark key="'" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1537956725361" />
@@ -364,8 +364,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket149.pm" timestamp="1529045751116">
         <mark key="'" line="184" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" timestamp="1533711108827">
-        <mark key="'" line="161" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" timestamp="1538017358616">
+        <mark key="'" line="57" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.5.0-cdh5.5.1/spark-core_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/rdd/RDD.scala" timestamp="1529032285569">
         <mark key="'" line="1404" column="21" />
@@ -408,7 +408,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/StoreMapping.pm" timestamp="1531111982882">
         <mark key="'" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1538015579377" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1538016635271" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/AppLInterestV2.pm" timestamp="1529307489565">
         <mark key="'" line="0" column="0" />
       </file>
@@ -538,16 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="947" column="26" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="860" column="33" filename="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/master_hive.sql" />
-      <jump line="94" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="91" column="13" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="59" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="81" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="261" column="47" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="187" column="11" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="279" column="10" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
       <jump line="99" column="19" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
       <jump line="134" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
       <jump line="42" column="8" filename="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" />
@@ -638,6 +628,16 @@
       <jump line="175" column="12" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
       <jump line="162" column="4" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
       <jump line="163" column="20" filename="$FOUT_HOME$/lib/FOut/Click/Request.pm" />
+      <jump line="57" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SageMaker/FM.pm" />
+      <jump line="113" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="106" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="5" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="85" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="19" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="20" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="43" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="61" column="25" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/FMModelETL.pm" />
+      <jump line="128" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -668,7 +668,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbmV3X2RhdGFfZnJvbV9hZFw+</text>
+        <text encoding="base64">XDxzYWdlbWFrZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaGl2ZV90YWJsZV91cGRhdGVyID0gRk91dDo6TG9nczo6Q1RSRk1QcmVkaWN0aW9uLT5uZXcoewogICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgICAgPT4gJHN0YXJ0X3RpbWVzdGFtcCwKICAgICAgICAgICAgZHJ5cnVuICAgICAgICAgICAgID0+ICRkcnlydW4sCiAgICAgICAgICAgIHRlc3RfdHJhaW4gICAgICAgICA9PiAkdGVzdF90cmFpbiwKICAgICAgICAgICAgbW9kZSAgICAgICAgICAgICAgID0+ICRtb2RlLAogICAgICAgICAgICBocWxfZGlyICAgICAgICAgICAgPT4gJGhxbF9kaXIsCiAgICAgICAgICAgIGRhdGFzZXRfaHFsICAgICAgICA9PiAkZGF0YXNldF9ocWwsCiAgICAgICAgICAgIGR1bXBfaHFsICAgICAgICAgICA9PiAkZHVtcF9ocWwsCiAgICAgICAgICAgIGxvYWRfaHFsICAgICAgICAgICA9PiAkbG9hZF9ocWwsCiAgICAgICAgICAgIGFsbF9kYXRhX2ZpbGUgICAgICA9PiAkYWxsX2RhdGFfZmlsZSwKICAgICAgICAgICAgbW9kZWxfZmlsZSAgICAgICAgID0+ICRtb2RlbF9maWxlLAogICAgICAgICAgICBhZ2dyZWdhdGlvbl9wZXJpb2QgPT4gJGFnZ3JlZ2F0aW9uX3BlcmlvZCwKICAgICAgICAgICAgZm1vcHRpb25zICAgICAgICAgID0+ICRmbW9wdGlvbnMsCiAgICAgICAgICAgIHBvb2wgICAgICAgICAgICAgICA9PiAkcG9vbCwKICAgICAgICB9KTsK</text>
@@ -716,9 +716,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbmV3X2RhdGFfZnJvbV9hZFw+</last-search>
+      <last-search encoding="base64">XDxzYWdlbWFrZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbmV3X2RhdGFfZnJvbV9hZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYWdlbWFrZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -783,6 +783,8 @@
         <entry encoding="base64">XDxpc19jbGlja192YWxpZFw+</entry>
         <entry encoding="base64">XDxkYXRhX2Zyb21fYWRcPg==</entry>
         <entry encoding="base64">XDxfbmV3X2RhdGFfZnJvbV9hZFw+</entry>
+        <entry encoding="base64">XDxGTVw+</entry>
+        <entry encoding="base64">XDxzYWdlbWFrZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
