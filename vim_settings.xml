@@ -42,12 +42,12 @@
         <mark key="^" line="427" column="15" />
         <mark key="." line="427" column="15" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538099410935">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538112043942">
         <mark key="'" line="791" column="31" />
-        <mark key="[" line="3984" column="0" />
-        <mark key="]" line="3984" column="0" />
-        <mark key="^" line="3981" column="27" />
-        <mark key="." line="3984" column="0" />
+        <mark key="[" line="3967" column="0" />
+        <mark key="]" line="3986" column="0" />
+        <mark key="^" line="3983" column="27" />
+        <mark key="." line="3986" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1538038144319">
         <mark key="'" line="128" column="27" />
@@ -74,7 +74,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Click/Request.pm" timestamp="1538014471632">
         <mark key="'" line="163" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1538020017731" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1538112079352">
+        <mark key="'" line="241" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1537861492442" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1536825125909">
         <mark key="'" line="471" column="4" />
@@ -190,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="79" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="9" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="18" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
@@ -290,6 +291,7 @@
       <jump line="791" column="31" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="41" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="241" column="45" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
