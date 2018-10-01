@@ -143,8 +143,8 @@
         <mark key="'" line="86" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1538020202195" />
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1536651925763">
-        <mark key="'" line="81" column="42" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1538381361586">
+        <mark key="'" line="167" column="64" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
@@ -504,8 +504,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Scaling.pm" timestamp="1532583082107">
         <mark key="'" line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1537956350323">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1538381343409">
+        <mark key="'" line="129" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot/src/response.coffee" timestamp="1526033759020">
         <mark key="'" line="78" column="4" />
@@ -613,10 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="15" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" />
-      <jump line="16" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" />
-      <jump line="32" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" />
       <jump line="56" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" />
       <jump line="80" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="83" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
@@ -713,6 +709,10 @@
       <jump line="104" column="103" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
       <jump line="31" column="43" filename="$FOUT_HOME$/db/cron/rotate_logs_table.pl" />
       <jump line="468" column="0" filename="$FOUT_HOME$/cpanfile" />
+      <jump line="169" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="29" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="129" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="167" column="64" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -743,7 +743,7 @@
         <text>用</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</text>
+        <text encoding="base64">XDxkcnlydW5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>bids.price</text>
@@ -791,9 +791,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</last-search>
+      <last-search encoding="base64">XDxkcnlydW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkcnlydW5cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -864,6 +864,7 @@
         <entry encoding="base64">XDxfd2Fybl9wYXJ0aXRpb25faG91cnNcPg==</entry>
         <entry encoding="base64">XDxDVFJGTV9BUFBMSU5URVJFU1RWMl9QUkVESUNUSU9OXD4=</entry>
         <entry encoding="base64">XDxBUFBfQ1RSX1BSRURJQ1RJT05cPg==</entry>
+        <entry encoding="base64">XDxkcnlydW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
