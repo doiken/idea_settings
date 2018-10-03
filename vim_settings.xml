@@ -58,7 +58,7 @@
         <mark key="'" line="61" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket164.pm" timestamp="1537930516464">
-        <mark key="'" line="55" column="66" />
+        <mark key="'" line="56" column="66" />
         <mark key="[" line="36" column="31" />
         <mark key="]" line="36" column="33" />
         <mark key="^" line="36" column="33" />
@@ -116,12 +116,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket141.pm" timestamp="1529551986358">
         <mark key="'" line="63" column="47" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538469705751">
-        <mark key="'" line="295" column="0" />
-        <mark key="[" line="3969" column="3" />
-        <mark key="]" line="3970" column="2" />
-        <mark key="." line="3970" column="2" />
-        <mark key="^" line="3970" column="2" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1538554753906">
+        <mark key="'" line="1299" column="28" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1538555177272">
+        <mark key="'" line="57" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/DummyParams.pm" timestamp="1532330742288">
         <mark key="'" line="22" column="45" />
@@ -586,38 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="149" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="105" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
-      <jump line="5" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" />
-      <jump line="7" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
-      <jump line="32" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRLineCPCVideo.pm" />
-      <jump line="85" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="28" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="90" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="146" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="155" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="16" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="30" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="22" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" />
-      <jump line="24" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
-      <jump line="31" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
-      <jump line="45" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" />
-      <jump line="18" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Role.pm" />
-      <jump line="104" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
-      <jump line="2" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" />
-      <jump line="116" column="70" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="118" column="68" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="216" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="6" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="59" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="111" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="112" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="114" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="7" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
-      <jump line="115" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="47" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCTRPCVRBoost.pm" />
-      <jump line="34" column="98" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="32" column="4" filename="$USER_HOME$/Documents/fout_logs/t/Utils.pm" />
       <jump line="54" column="10" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -686,6 +653,38 @@
       <jump line="1402" column="3" filename="/System/Library/Perl/Extras/5.18/Test/Deep.pm" />
       <jump line="1419" column="23" filename="/System/Library/Perl/Extras/5.18/Test/Deep.pm" />
       <jump line="1406" column="12" filename="/System/Library/Perl/Extras/5.18/Test/Deep.pm" />
+      <jump line="898" column="34" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="4012" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="4015" column="15" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="4017" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="875" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="887" column="22" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="890" column="9" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="891" column="32" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="893" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="903" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="922" column="22" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="924" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1067" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1080" column="23" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1082" column="9" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1084" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1094" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1113" column="23" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1115" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1254" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1264" column="33" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1265" column="18" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1267" column="9" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1269" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1280" column="2" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1297" column="33" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1299" column="28" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1545" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1253" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="47" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="554" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -716,7 +715,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbXBfZGV0YWlsc1w+</text>
+        <text encoding="base64">XDxERUZBVUxUX0NUUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JGZvby0+b2soQmFyLT5uZXcoYSA9PiAyKSk7Cg==</text>
@@ -764,9 +763,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbXBfZGV0YWlsc1w+</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0NUUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbXBfZGV0YWlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0NUUlw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxuZXdfc2VnbWVudHNcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -841,6 +840,9 @@
         <entry encoding="base64">XDxGb29cPg==</entry>
         <entry encoding="base64">XDxjbXBfZGVlcGx5XD4=</entry>
         <entry encoding="base64">XDxjbXBfZGV0YWlsc1w+</entry>
+        <entry encoding="base64">XDx0aW1lX2xvY2FsXD4=</entry>
+        <entry encoding="base64">XDxCSURfUkVORVdBTF9JTlRFUlZBTFw+</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0NUUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
