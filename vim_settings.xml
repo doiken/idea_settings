@@ -224,8 +224,10 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd2/templates/collector/etc/td-agent/fluentd_store_template.conf" timestamp="1533696190263">
         <mark key="'" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1539057697829">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1539087760935">
         <mark key="'" line="241" column="45" />
+        <mark key="[" line="305" column="4" />
+        <mark key="]" line="305" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1533697454539">
         <mark key="'" line="117" column="28" />
@@ -413,7 +415,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1537845632484">
         <mark key="'" line="134" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1539087309198">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1539088132397">
         <mark key="'" line="71" column="3" />
         <mark key="[" line="97" column="0" />
         <mark key="]" line="101" column="14" />
@@ -516,12 +518,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1539087540636">
-        <mark key="'" line="78" column="29" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="46" column="7" />
-        <mark key="." line="46" column="7" />
-        <mark key="^" line="46" column="13" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1539088342266">
+        <mark key="'" line="83" column="29" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="16" />
+        <mark key="^" line="52" column="16" />
       </file>
       <file name="/Decision.pm" timestamp="1536220116237">
         <mark key="'" line="157" column="15" />
@@ -731,7 +733,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -746,16 +748,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VfZ3JvdXAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIGwuZ2VuZGVyICAgICAgICAgPSByLmdlbmRlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tIOiHquWLleWFpeacreOBruOBv+OBrm5ldHdvcmtz44Gu44OH44OV44Kp44Or44OI5YWl5pyt6YeR6aGNICM1MzMyMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -766,32 +768,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TEVGVCBKT0lOIGFkc19kZWZhdWx0IE9OCiAgICAgICAgYWRzLm5ldHdvcmtfaWQgICAgID0gYWRzX2ZhbGxiYWNrLm5ldHdvcmtfaWQKICAgIEFORCBhZHMuaXNfYXBwbGljYXRpb24gPSBhZHNfZmFsbGJhY2suaXNfYXBwbGljYXRpb24KICAgIEFORCBhZHMuZ2VuZGVyICAgICAgICAgPSBhZHNfZmFsbGJhY2suZ2VuZGVyCiAgICBBTkQKCgo=</text>
+        <text encoding="base64">ICAgIC0tIOiHquWLleWFpeacreOBruOBv+OBrm5ldHdvcmtz44Gu44OH44OV44Kp44Or44OI5YWl5pyt6YeR6aGNICM1MzMyMQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-            'city'</text>
+      <register name="3" type="2">
+        <text encoding="base64">TEVGVCBKT0lOIGFkc19kZWZhdWx0IE9OCiAgICAgICAgYWRzLm5ldHdvcmtfaWQgICAgID0gYWRzX2ZhbGxiYWNrLm5ldHdvcmtfaWQKICAgIEFORCBhZHMuaXNfYXBwbGljYXRpb24gPSBhZHNfZmFsbGJhY2suaXNfYXBwbGljYXRpb24KICAgIEFORCBhZHMuZ2VuZGVyICAgICAgICAgPSBhZHNfZmFsbGJhY2suZ2VuZGVyCiAgICBBTkQKCgo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXR3b3JrX2lkLAo=</text>
+      <register name="4" type="4">
+        <text>,
+            'city'</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIG5ldHdvcmtfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrX2lkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBteSAkY29scyA9IFwlY29sc19oYXNoOwo=</text>
+        <text encoding="base64">ICAgICAgIG5ldHdvcmtfaWQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBTkQgCg==</text>
+        <text encoding="base64">ICAgICAgICBteSAkY29scyA9IFwlY29sc19oYXNoOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBMRUZUIEpPSU4gYmlkZGluZ19vcmRlciBib19mYWxsYmFjayBPTiBib19mYWxsYmFjay5jcG5faWQgaXMgbnVsbCAtLSDoh6rli5XlhaXmnK3jgaDjgYwgYmlkZGluZ19vcmRlciDjgavjg6zjgrPjg7zjg4njgYzjgb7jgaDjgarjgYTjgq3jg6Pjg7Pjg5rjg7zjg7PnlKggKCM0NzQxMSkKICAgICAgICAgICAgICAgQU5EIGFkZ3JwX25ldHdvcmtzLm5ldHdvcmtfaWQgPSBib19mYWxsYmFjay5uZXR3b3JrX2lkCiAgICAgICAgICAgICAgIEFORCBib19mYWxsYmFjay50YXJnZXRfaG91ciA9ICR7XCRzZWxmLT5ub3ctPmhvdXJ9CiAgICAgICAgICAgICAgIEFORCBiby5iaWRkaW5nX29yZGVyIGlzIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBTkQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFdIRVJFICR7aGl2ZXZhcjpwZXJmb3JtYW5jZV9jb25kaXRpb259IEFORCBpc192YWxpZCA9IDEgQU5EIGJpbGxpbmdfdHlwZSA9ICcwJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBMRUZUIEpPSU4gYmlkZGluZ19vcmRlciBib19mYWxsYmFjayBPTiBib19mYWxsYmFjay5jcG5faWQgaXMgbnVsbCAtLSDoh6rli5XlhaXmnK3jgaDjgYwgYmlkZGluZ19vcmRlciDjgavjg6zjgrPjg7zjg4njgYzjgb7jgaDjgarjgYTjgq3jg6Pjg7Pjg5rjg7zjg7PnlKggKCM0NzQxMSkKICAgICAgICAgICAgICAgQU5EIGFkZ3JwX25ldHdvcmtzLm5ldHdvcmtfaWQgPSBib19mYWxsYmFjay5uZXR3b3JrX2lkCiAgICAgICAgICAgICAgIEFORCBib19mYWxsYmFjay50YXJnZXRfaG91ciA9ICR7XCRzZWxmLT5ub3ctPmhvdXJ9CiAgICAgICAgICAgICAgIEFORCBiby5iaWRkaW5nX29yZGVyIGlzIG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
