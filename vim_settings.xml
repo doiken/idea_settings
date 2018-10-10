@@ -603,10 +603,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/FMPrediction.pm" timestamp="1529483013244">
         <mark key="'" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1539135034973">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="45" />
-        <mark key="." line="64" column="35" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1539137449974">
+        <mark key="'" line="66" column="54" />
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="80" column="19" />
+        <mark key="." line="80" column="19" />
+        <mark key="^" line="80" column="19" />
       </file>
       <file name="/Decision.pm" timestamp="1536220116237">
         <mark key="'" line="157" column="15" />
@@ -714,7 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="14" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/table/MasterJpTable.scala" />
       <jump line="22" column="30" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/PCTRBoostCutParams.scala" />
       <jump line="78" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/PCTRBoostCutParams.scala" />
       <jump line="167" column="31" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/PredictionAccuracySummary.scala" />
@@ -798,9 +799,7 @@
       <jump line="71" column="3" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="27" column="3" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="554" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
-      <jump line="66" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="67" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="68" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="69" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="213" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="8" column="48" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
@@ -814,6 +813,9 @@
       <jump line="77" column="11" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="50" column="76" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="68" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="58" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="66" column="54" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -826,7 +828,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>avg_bidded_cpm</text>
+        <text>network_</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -841,13 +843,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>avg_bidded_cpm</text>
+        <text>network_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text encoding="base64">XDxuZXR3b3Jrc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>bids_price</text>
+        <text>id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KSBwcmljZV91bmlvbgo=</text>
@@ -892,9 +894,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search encoding="base64">XDxuZXR3b3Jrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3Jrc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -968,9 +970,9 @@
         <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
         <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
         <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
-        <entry encoding="base64">XDxuZXR3b3Jrc1w+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry encoding="base64">XDxuZXR3b3Jrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
