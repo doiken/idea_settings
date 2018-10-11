@@ -559,8 +559,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" timestamp="1535953583025">
         <mark key="'" line="44" column="44" />
       </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" timestamp="1538708726963">
-        <mark key="'" line="168" column="1" />
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" timestamp="1539237258678">
+        <mark key="'" line="709" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Config.pm" timestamp="1535624002640">
         <mark key="'" line="12" column="5" />
@@ -706,19 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="213" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
-      <jump line="8" column="48" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
-      <jump line="1831" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1891" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1587" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="60" column="62" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="146" column="29" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="149" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="167" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="77" column="11" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
-      <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="50" column="76" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="68" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="58" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="66" column="54" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -806,6 +793,19 @@
       <jump line="118" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
       <jump line="124" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
       <jump line="151" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="503" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="51" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="49" column="13" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="730" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="736" column="15" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="27" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="185" column="12" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="186" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="482" column="5" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="484" column="15" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="486" column="9" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="709" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -836,7 +836,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrX2NsYXNzXD4=</text>
+        <text encoding="base64">XDxtb25fbGlzdFw+</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -884,9 +884,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrX2NsYXNzXD4=</last-search>
+      <last-search encoding="base64">XDxtb25fbGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrX2NsYXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb25fbGlzdFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -981,6 +981,9 @@
         <entry encoding="base64">XDxpZHNcPg==</entry>
         <entry encoding="base64">XDx0YXNrc1w+</entry>
         <entry encoding="base64">XDx0YXNrX2NsYXNzXD4=</entry>
+        <entry>local</entry>
+        <entry>calotime</entry>
+        <entry encoding="base64">XDxtb25fbGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
