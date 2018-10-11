@@ -217,12 +217,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMAppLInterestV2.pm" timestamp="1537952928902">
         <mark key="'" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/ctrfmprediction50304.t" timestamp="1537941233243">
-        <mark key="[" line="74" column="35" />
-        <mark key="]" line="74" column="35" />
-        <mark key="." line="74" column="35" />
-        <mark key="^" line="74" column="35" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Adveri/BrandSafeURLSender.pm" timestamp="1529285492295">
         <mark key="'" line="45" column="25" />
       </file>
@@ -250,12 +244,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Click/Request.pm" timestamp="1538014471632">
         <mark key="'" line="163" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/perl/cpanfile" timestamp="1539222307504">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" timestamp="1539223529697">
         <mark key="'" line="140" column="10" />
@@ -375,12 +363,6 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRFMLineVideo.pm" timestamp="1536220782417">
         <mark key="'" line="36" column="18" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1537504532820">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-        <mark key="^" line="0" column="48" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CVRMFM.pm" timestamp="1533195427272">
         <mark key="'" line="0" column="0" />
@@ -653,8 +635,8 @@
         <mark key="." line="27" column="55" />
         <mark key="^" line="27" column="50" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1539164303462">
-        <mark key="'" line="1228" column="14" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1539250359590">
+        <mark key="'" line="337" column="9" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Time/Piece/MySQL.pm" timestamp="1539049000811">
         <mark key="'" line="25" column="8" />
@@ -710,8 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="597" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1246" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="320" column="18" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
       <jump line="1228" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/BidIDs.pm" />
@@ -810,6 +790,8 @@
       <jump line="1410" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1409" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1407" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1221" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="337" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -840,7 +822,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</text>
+        <text encoding="base64">XDxjb2VmXD4=</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -888,9 +870,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</last-search>
+      <last-search encoding="base64">XDxjb2VmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjb2VmXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -991,6 +973,8 @@
         <entry encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</entry>
+        <entry encoding="base64">XDxfYXV0b19iaWRfZmlsdGVyZWRfYWRzXD4=</entry>
+        <entry encoding="base64">XDxjb2VmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
