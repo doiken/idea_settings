@@ -148,8 +148,8 @@
       <file name="$FOUT_HOME$/api/config.yaml" timestamp="1526608831953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1535954367700">
-        <mark key="'" line="157" column="31" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1539235107742">
+        <mark key="'" line="151" column="20" />
       </file>
       <file name="/System/Library/Perl/Extras/5.18/Test/Deep.pm" timestamp="1538552571325">
         <mark key="'" line="1406" column="12" />
@@ -706,12 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="233" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" />
-      <jump line="71" column="3" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="27" column="3" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="554" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
-      <jump line="67" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="69" column="29" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="213" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
       <jump line="8" column="48" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/pctr_boost_cut_params.hql" />
@@ -806,6 +800,12 @@
       <jump line="126" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="128" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="110" column="18" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
+      <jump line="49" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="202" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="116" column="18" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="118" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="124" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="151" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -836,7 +836,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZHNcPg==</text>
+        <text encoding="base64">XDx0YXNrX2NsYXNzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -884,9 +884,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZHNcPg==</last-search>
+      <last-search encoding="base64">XDx0YXNrX2NsYXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrX2NsYXNzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -979,6 +979,8 @@
         <entry encoding="base64">XDxfZ2V0X3BhcmFtc19mcm9tX3NwbGl0cnVuXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRfYnVja2V0X2lkXD4=</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
+        <entry encoding="base64">XDx0YXNrc1w+</entry>
+        <entry encoding="base64">XDx0YXNrX2NsYXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
