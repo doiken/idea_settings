@@ -182,6 +182,9 @@
       <file name="$USER_HOME$/Documents/fout_hubot/node_modules/hubot-slack/src/bot.coffee" timestamp="1526348900197">
         <mark key="'" line="133" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/entry/ConsumptionRateCalculatorRunner.scala" timestamp="1539242384559">
+        <mark key="'" line="69" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PredictionAccuracySummary.pm" timestamp="1538020233395">
         <mark key="'" line="55" column="27" />
       </file>
@@ -290,8 +293,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/BidPriceEstimation.pm" timestamp="1527503592531">
         <mark key="'" line="150" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" timestamp="1539082759709">
-        <mark key="'" line="233" column="21" />
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" timestamp="1539242393480">
+        <mark key="'" line="36" column="11" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/DAOWithCache.pm" timestamp="1538732627768">
         <mark key="'" line="135" column="17" />
@@ -706,8 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
-      <jump line="58" column="7" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="66" column="54" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="335" column="21" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
       <jump line="1457" column="0" filename="/System/Library/Perl/5.18/File/Temp.pm" />
@@ -806,6 +807,8 @@
       <jump line="484" column="15" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
       <jump line="486" column="9" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
       <jump line="709" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="69" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/entry/ConsumptionRateCalculatorRunner.scala" />
+      <jump line="36" column="11" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -836,7 +839,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25fbGlzdFw+</text>
+        <text encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -884,9 +887,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25fbGlzdFw+</last-search>
+      <last-search encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25fbGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -984,6 +987,7 @@
         <entry>local</entry>
         <entry>calotime</entry>
         <entry encoding="base64">XDxtb25fbGlzdFw+</entry>
+        <entry encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
