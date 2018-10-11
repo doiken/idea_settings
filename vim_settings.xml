@@ -127,8 +127,8 @@
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539224387540">
-        <mark key="'" line="1504" column="48" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539249337376">
+        <mark key="'" line="1407" column="46" />
         <mark key="[" line="1189" column="13" />
         <mark key="]" line="1189" column="8" />
         <mark key="^" line="1189" column="8" />
@@ -710,9 +710,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2535" column="0" filename="/System/Library/Perl/5.18/File/Temp.pm" />
-      <jump line="17" column="43" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
-      <jump line="596" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="597" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1246" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="320" column="18" filename="$FOUT_HOME$/tools/adlog_parser.pl" />
@@ -810,6 +807,9 @@
       <jump line="41" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="64" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="104" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="1410" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1409" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1407" column="46" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -840,7 +840,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -888,9 +888,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -990,6 +990,7 @@
         <entry encoding="base64">XDxtb25fbGlzdFw+</entry>
         <entry encoding="base64">XDxkZkFkZ3JwTmV0d29ya3NcPg==</entry>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxhZGdycF9uZXR3b3Jrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
