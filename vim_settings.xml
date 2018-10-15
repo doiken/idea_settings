@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1530501869223">
-        <mark key="'" line="0" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" timestamp="1539571848212">
+        <mark key="'" line="118" column="24" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" timestamp="1538550922447">
         <mark key="'" line="6" column="8" />
@@ -258,7 +258,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Review/ResultFetcher/Hike.pm" timestamp="1526434977634">
         <mark key="'" line="219" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1538734743505">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1539571400791">
         <mark key="'" line="296" column="39" />
         <mark key="[" line="258" column="31" />
         <mark key="]" line="258" column="30" />
@@ -331,7 +331,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon.pm" timestamp="1531111671409">
         <mark key="'" line="76" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1539253420477">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1539571463667">
         <mark key="'" line="104" column="29" />
         <mark key="[" line="274" column="32" />
         <mark key="]" line="274" column="31" />
@@ -669,9 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="8" filename="$USER_HOME$/Documents/perl/mouse.pl" />
-      <jump line="20" column="8" filename="$USER_HOME$/Documents/perl/mouse.pl" />
-      <jump line="14" column="33" filename="$USER_HOME$/Documents/perl/mouse.pl" />
       <jump line="18" column="26" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Time/Piece/MySQL.pm" />
       <jump line="59" column="25" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Time/Piece/MySQL.pm" />
       <jump line="16" column="8" filename="$USER_HOME$/Documents/perl/local/lib/perl5/Time/Piece/MySQL.pm" />
@@ -769,6 +766,9 @@
       <jump line="274" column="39" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="94" column="4" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
       <jump line="249" column="36" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
+      <jump line="34" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="358" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
+      <jump line="118" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
