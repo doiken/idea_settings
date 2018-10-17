@@ -275,8 +275,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1537951458012">
         <mark key="'" line="45" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1539575256307">
-        <mark key="'" line="471" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1539755253189">
+        <mark key="'" line="795" column="12" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="2" />
@@ -412,6 +412,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/entry/SplitRunSummaryRunner.scala" timestamp="1538735783753">
         <mark key="'" line="30" column="6" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539755166682">
+        <mark key="'" line="35" column="24" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
@@ -611,8 +614,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CTRFMPrediction.pm" timestamp="1526376796113">
         <mark key="'" line="44" column="42" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1539568442111">
-        <mark key="'" line="252" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1539755322987">
+        <mark key="'" line="203" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Sync/Beacon/MobileApp.pm" timestamp="1527133623952">
         <mark key="'" line="122" column="30" />
@@ -691,18 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="44" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/Time/Piece.pm" />
-      <jump line="69" column="4" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/Time/Piece.pm" />
-      <jump line="46" column="0" filename="/System/Library/Perl/5.18/darwin-thread-multi-2level/Time/Piece.pm" />
-      <jump line="66" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
-      <jump line="149" column="6" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
-      <jump line="347" column="14" filename="$USER_HOME$/Documents/fout_logs/config.yaml" />
-      <jump line="318" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
-      <jump line="319" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
-      <jump line="363" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
-      <jump line="317" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
-      <jump line="344" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
       <jump line="345" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter/ByAudience.pm" />
       <jump line="171" column="25" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/AudienceIMSegment.pm" />
       <jump line="172" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/AudienceIMSegment.pm" />
@@ -791,6 +782,18 @@
       <jump line="85" column="5" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Etl/Load.pm" />
       <jump line="83" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
+      <jump line="468" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="35" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="513" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="593" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="795" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="217" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="219" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="223" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="230" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="233" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="235" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="203" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -821,7 +824,7 @@
         <text>'Time::Piece'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW51YWxfcGFyYW1zX3R5cGVcPg==</text>
+        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>::localtime</text>
@@ -869,9 +872,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW51YWxfcGFyYW1zX3R5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW51YWxfcGFyYW1zX3R5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -990,6 +993,9 @@
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxtYXBwZXJfcGF0aFw+</entry>
         <entry encoding="base64">XDxtYW51YWxfcGFyYW1zX3R5cGVcPg==</entry>
+        <entry encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</entry>
+        <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
