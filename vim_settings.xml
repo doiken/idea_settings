@@ -133,7 +133,7 @@
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539758448646">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539767293105">
         <mark key="'" line="1157" column="8" />
         <mark key="[" line="1189" column="13" />
         <mark key="]" line="1189" column="8" />
@@ -294,8 +294,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1537951458012">
         <mark key="'" line="45" column="44" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1539763519056">
-        <mark key="'" line="795" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Networks/Constants.pm" timestamp="1539767521699" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1539767309957">
+        <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="25" />
         <mark key="." line="0" column="2" />
@@ -453,7 +454,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/entry/SplitRunSummaryRunner.scala" timestamp="1538735783753">
         <mark key="'" line="30" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539763503191">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539767184037">
         <mark key="'" line="40" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
@@ -747,7 +748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="39" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="94" column="4" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
       <jump line="249" column="36" filename="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" />
       <jump line="34" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/OpenRTB2/InfeedRole.pm" />
@@ -847,6 +847,7 @@
       <jump line="58" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="60" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="40" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="0" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
