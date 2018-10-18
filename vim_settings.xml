@@ -134,7 +134,7 @@
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539767293105">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1539832254742">
         <mark key="'" line="1157" column="8" />
         <mark key="[" line="1189" column="13" />
         <mark key="]" line="1189" column="8" />
@@ -425,8 +425,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/entry/SplitRunSummaryRunner.scala" timestamp="1538735783753">
         <mark key="'" line="30" column="6" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539771811000">
-        <mark key="'" line="349" column="44" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539831942801">
+        <mark key="'" line="44" column="58" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/DBoost.pm" timestamp="1529042090186">
         <mark key="'" line="16" column="8" />
@@ -667,6 +667,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1529040149613">
         <mark key="'" line="38" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1539832437513">
+        <mark key="'" line="51" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" timestamp="1537858840190">
         <mark key="'" line="33" column="4" />
       </file>
@@ -708,7 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="2" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="172" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
       <jump line="62" column="6" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -796,6 +798,9 @@
       <jump line="60" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="40" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="0" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
+      <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="349" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="247" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Extractor.pm" />
       <jump line="22" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="24" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="33" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
@@ -805,9 +810,7 @@
       <jump line="41" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="42" column="63" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="44" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
-      <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
-      <jump line="349" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
-      <jump line="247" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Extractor.pm" />
+      <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -838,7 +841,7 @@
         <text>'${name}'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</text>
+        <text encoding="base64">XDxfa2V5X25hbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$db</text>
@@ -886,9 +889,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-search>
+      <last-search encoding="base64">XDxfa2V5X25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5X25hbWVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -920,6 +923,7 @@
         <entry encoding="base64">XDxkYlw+</entry>
         <entry encoding="base64">XDxfZmV0Y2hfbmV0d29ya19pZFw+</entry>
         <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
