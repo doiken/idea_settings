@@ -241,8 +241,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/ExpansionExpires/Default.pm" timestamp="1532504627539">
         <mark key="'" line="7" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Extractor.pm" timestamp="1538646753712">
-        <mark key="'" line="24" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Extractor.pm" timestamp="1539831335309">
+        <mark key="'" line="247" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" timestamp="1534237376219">
         <mark key="'" line="35" column="11" />
@@ -702,12 +702,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Budget/Updater.pm" timestamp="1535601673090">
         <mark key="'" line="120" column="16" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1539831293505" />
       <file name="$FOUT_HOME$/lib/FOut/Cache/Budget.pm" timestamp="1535601554796">
         <mark key="'" line="14" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
       <jump line="96" column="2" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="172" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
       <jump line="62" column="6" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
@@ -807,6 +807,7 @@
       <jump line="44" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
       <jump line="349" column="44" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" />
+      <jump line="247" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/Extractor.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
