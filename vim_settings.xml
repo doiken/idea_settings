@@ -30,7 +30,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" timestamp="1538552002386">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/indexer/nn" timestamp="1539842665898" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/indexer/nn" timestamp="1539850731393" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1537862255217">
         <mark key="'" line="98" column="21" />
       </file>
@@ -78,7 +78,7 @@
       <file name="$FOUT_HOME$/lib/FOut/API/Validator/Ad.pm" timestamp="1536224186857">
         <mark key="'" line="557" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1539841780733" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1539850758977" />
       <file name="$USER_HOME$/Documents/perl/local/lib/perl5/Time/Piece/MySQL.pm" timestamp="1539225143401">
         <mark key="'" line="86" column="0" />
       </file>
@@ -189,7 +189,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PG.pm" timestamp="1526553090781">
         <mark key="'" line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" timestamp="1539849010296">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpcvrpercentiles/pctr_pcvr_percentiles_estimation.hql" timestamp="1539850408983">
         <mark key="[" line="5" column="105" />
         <mark key="]" line="5" column="120" />
         <mark key="^" line="8" column="88" />
@@ -726,10 +726,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Cache/Budget.pm" timestamp="1535601554796">
         <mark key="'" line="14" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1539850909836">
+        <mark key="'" line="177" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
-      <jump line="80" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="66" column="12" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="71" column="9" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="78" column="9" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
@@ -828,6 +829,8 @@
       <jump line="117" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" />
       <jump line="14" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1282" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="177" column="16" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -858,7 +861,7 @@
         <text>'${name}'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW1kX2JpZFw+</text>
+        <text encoding="base64">XDxwcmVkaWN0aW9uX3Rhc2tzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>${hivevar:hour}</text>
@@ -906,9 +909,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW1kX2JpZFw+</last-search>
+      <last-search encoding="base64">XDxwcmVkaWN0aW9uX3Rhc2tzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW1kX2JpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVkaWN0aW9uX3Rhc2tzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -944,6 +947,8 @@
         <entry encoding="base64">XDxfZ2V0X2N1dF9wY3RyX3BjdnJcPg==</entry>
         <entry encoding="base64">XDxNZW1kQmlkXD4=</entry>
         <entry encoding="base64">XDxtZW1kX2JpZFw+</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uX3Rhc2tzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
