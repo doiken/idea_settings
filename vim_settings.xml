@@ -63,6 +63,9 @@
         <mark key="'" line="61" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Publish.pm" timestamp="1539771073139" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" timestamp="1539932116836">
+        <mark key="'" line="424" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/EvaluatedUrlMaster" timestamp="1534142195431">
         <mark key="'" line="35" column="8" />
       </file>
@@ -175,7 +178,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpcCVRFMPrediction.pm" timestamp="1538017676104">
         <mark key="'" line="86" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1539849432832" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1539932708869" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1539092374736">
         <mark key="'" line="167" column="43" />
       </file>
@@ -331,7 +334,9 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1538647248833">
         <mark key="'" line="736" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539843351509" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539932149037">
+        <mark key="'" line="42" column="14" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/DMP/Register.pm" timestamp="1536828762111">
         <mark key="'" line="539" column="8" />
       </file>
@@ -449,6 +454,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
         <mark key="'" line="261" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1539933129757">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/TokyoCabinet.pm" timestamp="1534322062632">
         <mark key="'" line="1393" column="4" />
       </file>
@@ -534,8 +542,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Conv/Contact/MySQLRole.pm" timestamp="1538733602207">
         <mark key="'" line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1539580960460">
-        <mark key="'" line="116" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1539932489547">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="121" column="16" />
+        <mark key="]" line="121" column="15" />
+        <mark key="^" line="121" column="15" />
+        <mark key="." line="121" column="15" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer.pm" timestamp="1535953583025">
         <mark key="'" line="44" column="44" />
@@ -591,10 +603,6 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/bidding_order_calculator.t" timestamp="1539858832499">
         <mark key="'" line="8" column="12" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="4" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/home/nn/.bashrc" timestamp="1531470082195">
         <mark key="'" line="54" column="0" />
@@ -701,28 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="233" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="235" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="203" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="45" column="66" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="143" column="81" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="46" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
-      <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
-      <jump line="104" column="25" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
-      <jump line="207" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
-      <jump line="128" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
-      <jump line="87" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
-      <jump line="60" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="79" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="10" column="46" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="77" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="228" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
-      <jump line="46" column="2" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="1157" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="107" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
-      <jump line="17" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
       <jump line="4482" column="49" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="4469" column="41" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
@@ -801,6 +787,28 @@
       <jump line="70" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
       <jump line="63" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
       <jump line="115" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
+      <jump line="42" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" />
+      <jump line="45" column="68" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" />
+      <jump line="408" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="307" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="396" column="23" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="113" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="420" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="421" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="416" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="417" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="282" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="466" column="95" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="63" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="419" column="75" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="424" column="53" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="103" column="38" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="162" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="152" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="50" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -831,7 +839,7 @@
         <text encoding="base64">JHNlbGYtPmFnZ3JlZ2F0aW9uX3BlcmlvZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWFyZ2luXD4=</text>
+        <text encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>24*7</text>
@@ -879,9 +887,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbWFyZ2luXD4=</last-search>
+      <last-search encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWFyZ2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -925,6 +933,16 @@
         <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxfY2FsY19keW5hbWljX21hcmdpbl9hbmRfYm9vc3RfZGVmYXVsdFw+</entry>
         <entry encoding="base64">XDxfbWFyZ2luXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2FjdGl2ZV9idWNrZXRfaWRzXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</entry>
+        <entry encoding="base64">XDxhY3RpdmVfYnVja2V0X2lkc1w+</entry>
+        <entry encoding="base64">XDxtYXJnaW5fYm9vc3RfcGFyYW1ldGVyc190ZW1wX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxfcHV0X25ld19wYXJhbV9maWxlc19vbl9oZGZzXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbXNfZmlsZVw+</entry>
+        <entry encoding="base64">XDxfcmVjb3JkX2RlZmF1bHRfcGFyYW1cPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
+        <entry encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
