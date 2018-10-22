@@ -72,8 +72,8 @@
         <mark key="^" line="413" column="55" />
         <mark key="." line="413" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1540201504301">
-        <mark key="'" line="755" column="19" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1540202823570">
+        <mark key="'" line="1481" column="53" />
         <mark key="[" line="258" column="31" />
         <mark key="]" line="258" column="30" />
         <mark key="^" line="258" column="30" />
@@ -83,8 +83,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539932149037">
         <mark key="'" line="42" column="14" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1539938694911">
-        <mark key="'" line="1282" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1540203076457">
+        <mark key="'" line="994" column="4" />
         <mark key="[" line="274" column="32" />
         <mark key="]" line="274" column="31" />
         <mark key="^" line="274" column="31" />
@@ -134,8 +134,8 @@
         <mark key="'" line="67" column="61" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1539855043002" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1539938519485">
-        <mark key="'" line="498" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1540202804555">
+        <mark key="'" line="203" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/t/streaming/etl_ev_vast_track.t" timestamp="1540198536326" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1539832437513">
@@ -156,15 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2737" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="2647" column="60" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="2328" column="54" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="2327" column="33" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="2325" column="34" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="2200" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="1924" column="28" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="1624" column="59" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="1646" column="22" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="1623" column="38" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="190" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
       <jump line="15" column="18" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
@@ -256,6 +247,15 @@
       <jump line="91" column="18" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="755" column="19" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="406" column="45" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="212" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="217" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="219" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="223" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="230" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="233" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="203" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="1481" column="53" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="994" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -286,7 +286,7 @@
         <text encoding="base64">JHNlbGYtPmFnZ3JlZ2F0aW9uX3BlcmlvZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</text>
+        <text encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="4">
         <text>24*7</text>
@@ -334,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -354,8 +354,6 @@
         <entry encoding="base64">XDxtYXBwZXJfcGF0aFw+</entry>
         <entry encoding="base64">XDxtYW51YWxfcGFyYW1zX3R5cGVcPg==</entry>
         <entry encoding="base64">XDxyYXdfcmZwX25ldHdvcmtfaWRcPg==</entry>
-        <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
-        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxsb2dpY2FsX2Zsb3dcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RhbGxfYXJyYXlyZWZcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRfYnVja2V0X2lkXD4=</entry>
@@ -394,6 +392,9 @@
         <entry encoding="base64">XDx0UHJvZml0cmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2Nwdl9iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
