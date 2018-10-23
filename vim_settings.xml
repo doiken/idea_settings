@@ -91,8 +91,8 @@
         <mark key="." line="274" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/bin/run_potential_consumption.pl" timestamp="1539856852541" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1540197738885">
-        <mark key="'" line="34" column="98" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1540263059924">
+        <mark key="'" line="61" column="22" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1539938671232">
         <mark key="'" line="274" column="39" />
@@ -156,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1623" column="38" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="190" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Models.pm" />
       <jump line="15" column="18" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="6" column="1" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="56" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
@@ -256,6 +254,8 @@
       <jump line="203" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="1481" column="53" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="994" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="129" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
+      <jump line="61" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -286,7 +286,7 @@
         <text encoding="base64">JHNlbGYtPmFnZ3JlZ2F0aW9uX3BlcmlvZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</text>
+        <text encoding="base64">XDxpc19maXJzdF9wcmljZV9hdWN0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>24*7</text>
@@ -334,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxpc19maXJzdF9wcmljZV9hdWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc19maXJzdF9wcmljZV9hdWN0aW9uXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -395,6 +395,7 @@
         <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxpc19maXJzdF9wcmljZV9hdWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
