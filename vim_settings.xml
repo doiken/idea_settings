@@ -32,8 +32,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1539938671232">
         <mark key="'" line="274" column="39" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540436598872">
-        <mark key="'" line="49" column="55" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540439217626">
+        <mark key="'" line="60" column="4" />
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="50" />
         <mark key="." line="40" column="0" />
@@ -71,8 +71,8 @@
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1540347611272">
-        <mark key="'" line="445" column="37" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1540438902439">
+        <mark key="'" line="61" column="0" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" timestamp="1540375319581">
         <mark key="'" line="13" column="4" />
@@ -180,7 +180,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="27" column="1" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540436618788">
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540438646678">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="30" />
       </file>
@@ -247,8 +247,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540368523846">
         <mark key="'" line="0" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" timestamp="1540437436280">
-        <mark key="'" line="37" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" timestamp="1540439075718">
+        <mark key="'" line="46" column="89" />
         <mark key="^" line="46" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Click/DataFromAD/MemdADToClick.pm" timestamp="1540351945568">
@@ -272,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="38" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
-      <jump line="47" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
       <jump line="37" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
       <jump line="76" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="12" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -372,6 +369,9 @@
       <jump line="44" column="3" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="115" column="21" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="45" column="16" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
+      <jump line="61" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" />
+      <jump line="46" column="89" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
+      <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -402,7 +402,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19zYW1lX3ByaWNlc1w+</text>
+        <text encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text>$threshold_rate</text>
@@ -450,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19zYW1lX3ByaWNlc1w+</last-search>
+      <last-search encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19zYW1lX3ByaWNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
         <entry encoding="base64">XDxEb3VibGVcPg==</entry>
         <entry encoding="base64">XDxfbWFyc2hhbGxfYXBwX3Bvc3RiYWNrX3Rlc3RfbG9nc1w+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</entry>
         <entry encoding="base64">XDxwcmljaW5nXD4=</entry>
         <entry encoding="base64">XDxfcHJlZGljdF9wZXJjZW50aWxlXD4=</entry>
         <entry encoding="base64">XDxiaWRcPg==</entry>
@@ -519,6 +518,7 @@
         <entry encoding="base64">XDxBVVRPX0JJRFNfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry encoding="base64">XDxBdXRvQmlkXD4=</entry>
         <entry encoding="base64">XDxpc19zYW1lX3ByaWNlc1w+</entry>
+        <entry encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
