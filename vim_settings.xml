@@ -47,12 +47,14 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="68" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1540452382938">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="11" column="88" />
+        <mark key="." line="11" column="88" />
+        <mark key="^" line="11" column="1" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" timestamp="1540433867651">
         <mark key="'" line="164" column="54" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/CpnTypeUtil.pm" timestamp="1540433954727">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="28" column="62" />
       </file>
       <file name="$FOUT_HOME$/js/html/conv.js" timestamp="1540432165774" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
@@ -137,10 +139,6 @@
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1540434390961">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="70" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bids.t" timestamp="1540446172173">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="13" column="0" />
@@ -150,6 +148,12 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1539762813253">
         <mark key="'" line="32" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1540363220120">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
@@ -190,18 +194,6 @@
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="30" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/context-write_spot_log.t" timestamp="1540435511115">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="24" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/spot_score_web_sp_modfm_prediction.t" timestamp="1540434614555">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="23" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/percentile_cut/auto_bid_percentile_cut.t" timestamp="1540372815154">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="26" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1540436738966">
         <mark key="'" line="77" column="56" />
         <mark key="[" line="63" column="0" />
@@ -215,6 +207,7 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Exporter/Lite.pm" timestamp="1540361577187" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1540452565480" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServers.pm" timestamp="1540449018750">
         <mark key="'" line="56" column="4" />
         <mark key="[" line="43" column="0" />
@@ -382,8 +375,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJJRF9FWFBFUklNRU5UX0lECg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -398,7 +391,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>:all</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</text>
