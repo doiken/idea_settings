@@ -53,7 +53,8 @@
         <mark key="." line="11" column="88" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" timestamp="1540453883430">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" timestamp="1540463715445">
+        <mark key="'" line="109" column="6" />
         <mark key="[" line="67" column="37" />
         <mark key="]" line="67" column="38" />
         <mark key="." line="67" column="38" />
@@ -225,8 +226,8 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Exporter/Lite.pm" timestamp="1540361577187" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1540460942359">
-        <mark key="'" line="76" column="107" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1540463841539">
+        <mark key="'" line="83" column="5" />
         <mark key="[" line="5" column="100" />
         <mark key="]" line="5" column="114" />
         <mark key="^" line="5" column="114" />
@@ -291,10 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="47" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="49" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="54" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="57" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="69" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="70" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -391,6 +388,10 @@
       <jump line="68" column="35" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" />
       <jump line="69" column="36" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" />
       <jump line="64" column="26" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="26" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
+      <jump line="60" column="51" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
+      <jump line="109" column="6" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" />
+      <jump line="83" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -421,7 +422,7 @@
         <text>adjust_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYW5kXD4=</text>
+        <text encoding="base64">XDxocWxfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGF5ID0+IHNwcmludGYoIiUwMmQiLCAkZGQpLAo=</text>
@@ -469,9 +470,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYW5kXD4=</last-search>
+      <last-search encoding="base64">XDxocWxfZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxocWxfZmlsZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -543,6 +544,7 @@
         <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry encoding="base64">XDxob3VyXD4=</entry>
         <entry encoding="base64">XDxyYW5kXD4=</entry>
+        <entry encoding="base64">XDxocWxfZmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
