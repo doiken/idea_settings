@@ -37,12 +37,12 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1540518752050">
         <mark key="'" line="274" column="39" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540527126458">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="59" column="19" />
-        <mark key="]" line="59" column="32" />
-        <mark key="." line="59" column="32" />
-        <mark key="^" line="59" column="32" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540528585454">
+        <mark key="'" line="39" column="34" />
+        <mark key="[" line="64" column="45" />
+        <mark key="]" line="64" column="45" />
+        <mark key="." line="64" column="45" />
+        <mark key="^" line="37" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539831942801">
         <mark key="'" line="44" column="58" />
@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" timestamp="1540358961110">
         <mark key="'" line="81" column="15" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" timestamp="1540526562155">
+      <file name="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" timestamp="1540528627360">
         <mark key="'" line="39" column="8" />
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="97" column="23" />
-        <mark key="^" line="39" column="26" />
-        <mark key="." line="97" column="8" />
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="47" />
+        <mark key="^" line="99" column="47" />
+        <mark key="." line="99" column="47" />
       </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
@@ -189,13 +189,13 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540527002119">
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540528590376">
         <mark key="a" line="17" column="24" />
         <mark key="'" line="11" column="4" />
-        <mark key="[" line="25" column="98" />
-        <mark key="]" line="25" column="124" />
-        <mark key="^" line="25" column="124" />
-        <mark key="." line="25" column="124" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="22" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540453989154">
         <mark key="'" line="406" column="45" />
@@ -217,12 +217,12 @@
         <mark key="^" line="258" column="30" />
         <mark key="." line="258" column="30" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540527053534">
-        <mark key="'" line="49" column="21" />
-        <mark key="[" line="48" column="76" />
-        <mark key="]" line="48" column="94" />
-        <mark key="." line="48" column="94" />
-        <mark key="^" line="48" column="94" />
+      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540528553155">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="32" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1540517467504">
         <mark key="'" line="19" column="20" />
@@ -302,10 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="48" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="10" column="33" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="51" column="48" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="11" column="15" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="19" column="45" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="12" column="27" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="14" column="36" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
@@ -374,21 +370,16 @@
       <jump line="137" column="18" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="45" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="64" column="6" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
-      <jump line="17" column="12" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="70" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="89" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="58" column="36" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="26" column="11" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="39" column="8" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="31" column="12" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
-      <jump line="46" column="12" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
       <jump line="54" column="46" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
       <jump line="61" column="68" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
       <jump line="13" column="39" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
       <jump line="38" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="33" column="32" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="19" column="76" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="28" column="13" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="29" column="98" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
@@ -399,9 +390,18 @@
       <jump line="49" column="21" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
       <jump line="68" column="6" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="24" column="92" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
-      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="17" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="20" column="36" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="64" column="6" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="17" column="66" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="21" column="74" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="33" column="12" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="46" column="12" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
+      <jump line="20" column="8" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
+      <jump line="39" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="39" column="8" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -414,7 +414,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>START_PERCENTILE</text>
+        <text>0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -429,13 +429,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>START_PERCENTILE</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</text>
+        <text encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>FOut::SplitRun::Params::AutoBid::DEFAULT_START_PERCENTILE</text>
+        <text>max_proba</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIGNvbnN0YW50IHsKICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZX1BDVCA9PiA1MCwKICAgIERFRkFVTFRfU1RBUlRfUEVSQ0VOVElMRSA9PiA4MCwKICAgIERFRkFVTFRfTElNSVRfSU5DUkVBU0VfUkFURSA9PiAyMCwKfTsKCg==</text>
@@ -480,9 +480,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</last-search>
+      <last-search encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -555,8 +555,6 @@
         <entry encoding="base64">XDxwZXJjZW50aWxlXD4=</entry>
         <entry encoding="base64">XDxidWNrZXRcPg==</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
-        <entry encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</entry>
-        <entry encoding="base64">XDxtYXhfcHJvYmFcPg==</entry>
         <entry encoding="base64">XDxfY2FsY19hZGp1c3RfcmF0ZV9wZXJjZW50XD4=</entry>
         <entry encoding="base64">XDxtYXhfcGVyY2VudFw+</entry>
         <entry encoding="base64">XDxsaW1pdF9pbmNyZWFzZV9yYXRlXD4=</entry>
@@ -565,6 +563,8 @@
         <entry encoding="base64">XDxfY2FsY19wcm9iYV9wY3RcPg==</entry>
         <entry encoding="base64">XDxERUZBVUxUX1NUQVJUX1BFUkNFTlRJTEVcPg==</entry>
         <entry encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</entry>
+        <entry encoding="base64">XDxtYXhfcHJvYmFcPg==</entry>
+        <entry encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
