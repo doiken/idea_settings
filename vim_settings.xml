@@ -189,13 +189,13 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540528590376">
-        <mark key="a" line="17" column="24" />
-        <mark key="'" line="11" column="4" />
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540530198576">
+        <mark key="a" line="23" column="24" />
+        <mark key="'" line="23" column="66" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="37" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540453989154">
         <mark key="'" line="406" column="45" />
@@ -217,12 +217,11 @@
         <mark key="^" line="258" column="30" />
         <mark key="." line="258" column="30" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540528553155">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="33" />
+      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540530228198">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="87" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1540517467504">
         <mark key="'" line="19" column="20" />
@@ -391,7 +390,6 @@
       <jump line="17" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="20" column="36" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="64" column="6" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
-      <jump line="17" column="66" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="21" column="74" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="33" column="12" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
       <jump line="46" column="12" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
@@ -402,6 +400,7 @@
       <jump line="345" column="44" filename="$FOUT_HOME$/lib/FOut/Models.pm" />
       <jump line="5" column="8" filename="$FOUT_HOME$/lib/FOut/Models.pm" />
       <jump line="458" column="10" filename="$FOUT_HOME$/lib/FOut/Models.pm" />
+      <jump line="17" column="66" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -413,8 +412,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -429,16 +428,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhfcHJvYmFiaWxpdHlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>max_proba</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZID0+IDAsCiAgICBERUZBVUxUX1NUQVJUX1BFUkNFTlRJTEUgPT4gOTksCiAgICBERUZBVUxUX0xJTUlUX0lOQ1JFQVNFX1JBVEUgPT4gMjAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50IHsKICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZX1BDVCA9PiA1MCwKICAgIERFRkFVTFRfU1RBUlRfUEVSQ0VOVElMRSA9PiA4MCwKICAgIERFRkFVTFRfTElNSVRfSU5DUkVBU0VfUkFURSA9PiAyMCwKfTsKCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -449,31 +448,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZX1BDVCA9PiA1MCwKICAgIERFRkFVTFRfU1RBUlRfUEVSQ0VOVElMRSA9PiA4MCwKICAgIERFRkFVTFRfTElNSVRfSU5DUkVBU0VfUkFURSA9PiAyMCwKfTsKCg==</text>
+        <text encoding="base64">dXNlIGNvbnN0YW50IHsKICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZX1BDVCA9PiA1MCwKICAgIERFRkFVTFRfU1RBUlRfUEVSQ0VOVElMRSA9PiA4MCwKICAgIERFRkFVTFRfTElNSVRfSU5DUkVBU0VfUkFURSA9PiAyMCwKfTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIERFRkFVTFRfTUFYX1BST0JBQklMSVRZX1BDVCA9PiA1MCwKICAgIERFRkFVTFRfU1RBUlRfUEVSQ0VOVElMRSA9PiA4MCwKICAgIERFRkFVTFRfTElNSVRfSU5DUkVBU0VfUkFURSA9PiAyMCwKfTsKCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMg5Y2Y5L2NOiBY5YCN44KSIF9mZXRjaF90aHJlc2hvbGTjgYzmnJ/lvoXjgZnjgosg5YWl5pyt6aGNOuODleODreOCouODl+ODqeOCpOOCuSDmr5TnjofjgavlpInmj5sK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICMg5Y2Y5L2NOiBY5YCN44KSIF9mZXRjaF90aHJlc2hvbGTjgYzmnJ/lvoXjgZnjgosg5YWl5pyt6aGNOuODleODreOCouODl+ODqeOCpOOCuSDmr5TnjofjgavlpInmj5sK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMg5Y2Y5L2NOiBY5YCN44KSIF9mZXRjaF90aHJlc2hvbGTjgYzmnJ/lvoXjgZnjgosg5YWl5pyt6aGNOuODleODreOCouODl+ODqeOCpOOCuSDmr5TnjofjgavlpInmj5sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBzdWJ0ZXN0ICdnZXQgZGVmYXVsdCBwYXJhbXMnID0+IHN1YiB7CiAgICAgICAgbXkgJGF1dG9fYmlkX3BhcmFtcyA9IEZPdXQ6OlNwbGl0UnVuOjpQYXJhbXM6OkF1dG9CaWQtPm5ldygKICAgICAgICAgICAgYXVkaWVuY2VfaWQgICAgICA9PiB1bmRlZiwKICAgICAgICAgICAgYWxnb3JpdGhtX3ByZWZpeCA9PiAnRk91dDo6QmlkOjpBbGdvcml0aG0nLAogICAgICAgICAgICBleHBlcmltZW50X2lkICAgID0+IEFVVE9fQklEU19FWFBFUklNRU5UX0lELAogICAgICAgICAgICBidWNrZXQgICAgICAgICAgID0+IHt9LAogICAgICAgICAgICBtYWluX2J1Y2tldCAgICAgID0+IHt9LAogICAgICAgICk7CiAgICAgICAgaXNfZGVlcGx5ICRhdXRvX2JpZF9wYXJhbXMtPmZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcywgK3sKICAgICAgICAgICAgbWF4X3BlcmNlbnQgPT4gNTAsCiAgICAgICAgICAgIHN0YXJ0X3BlcmNlbnRpbGUgPT4gODAsCiAgICAgICAgICAgIG1heF9ib29zdF90aW1lcyA9PiAyMCwKICAgICAgICB9LCAnbm9ybWFsIGNhc2UnOwogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUgICAgICAgICAgICA9PiB1bmRlZiwK</text>
+        <text encoding="base64">CiAgICBzdWJ0ZXN0ICdnZXQgZGVmYXVsdCBwYXJhbXMnID0+IHN1YiB7CiAgICAgICAgbXkgJGF1dG9fYmlkX3BhcmFtcyA9IEZPdXQ6OlNwbGl0UnVuOjpQYXJhbXM6OkF1dG9CaWQtPm5ldygKICAgICAgICAgICAgYXVkaWVuY2VfaWQgICAgICA9PiB1bmRlZiwKICAgICAgICAgICAgYWxnb3JpdGhtX3ByZWZpeCA9PiAnRk91dDo6QmlkOjpBbGdvcml0aG0nLAogICAgICAgICAgICBleHBlcmltZW50X2lkICAgID0+IEFVVE9fQklEU19FWFBFUklNRU5UX0lELAogICAgICAgICAgICBidWNrZXQgICAgICAgICAgID0+IHt9LAogICAgICAgICAgICBtYWluX2J1Y2tldCAgICAgID0+IHt9LAogICAgICAgICk7CiAgICAgICAgaXNfZGVlcGx5ICRhdXRvX2JpZF9wYXJhbXMtPmZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcywgK3sKICAgICAgICAgICAgbWF4X3BlcmNlbnQgPT4gNTAsCiAgICAgICAgICAgIHN0YXJ0X3BlcmNlbnRpbGUgPT4gODAsCiAgICAgICAgICAgIG1heF9ib29zdF90aW1lcyA9PiAyMCwKICAgICAgICB9LCAnbm9ybWFsIGNhc2UnOwogICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVja2V0ICAgICAgICAgICA9PiB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUgICAgICAgICAgICA9PiB1bmRlZiwK</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
