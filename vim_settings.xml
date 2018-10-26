@@ -43,14 +43,19 @@
       <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1540518752050">
         <mark key="'" line="274" column="39" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540520997163">
-        <mark key="'" line="17" column="18" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540522696256">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="50" />
         <mark key="." line="40" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1539831942801">
         <mark key="'" line="44" column="58" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange/Constants.pm" timestamp="1540446146227">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="68" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" timestamp="1540463715445">
         <mark key="'" line="109" column="6" />
@@ -70,8 +75,28 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1539934591782">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" timestamp="1540434707401">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="27" column="9" />
+      </file>
+      <file name="$FOUT_HOME$/t/lib/t/Utils.pm" timestamp="1540374933392">
+        <mark key="'" line="215" column="17" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="58" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1540522474916">
+        <mark key="'" line="137" column="18" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="50" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1540438902439">
         <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" timestamp="1540375319581">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="72" column="2" />
+        <mark key="]" line="72" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
@@ -163,6 +188,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1540445005713">
+        <mark key="'" line="388" column="23" />
+        <mark key="[" line="376" column="2" />
+        <mark key="]" line="376" column="63" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ModelId.pm" timestamp="1540446088244">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="11" />
@@ -170,12 +200,12 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540456178913">
-        <mark key="'" line="64" column="26" />
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="26" />
-        <mark key="^" line="64" column="26" />
-        <mark key="." line="64" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540522932041">
+        <mark key="'" line="11" column="10" />
+        <mark key="[" line="68" column="6" />
+        <mark key="]" line="68" column="33" />
+        <mark key="^" line="68" column="33" />
+        <mark key="." line="68" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540453989154">
         <mark key="'" line="406" column="45" />
@@ -203,6 +233,13 @@
         <mark key="]" line="67" column="5" />
         <mark key="." line="472" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540522656378">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="33" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1540517467504">
         <mark key="'" line="19" column="20" />
         <mark key="[" line="16" column="8" />
@@ -217,6 +254,11 @@
         <mark key="]" line="5" column="114" />
         <mark key="^" line="5" column="114" />
         <mark key="." line="5" column="114" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServers.pm" timestamp="1540449018750">
+        <mark key="'" line="56" column="4" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="35" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1539832437513">
         <mark key="'" line="51" column="4" />
@@ -276,23 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" />
-      <jump line="50" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" />
-      <jump line="37" column="18" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/deal.t" />
-      <jump line="23" column="100" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="39" column="33" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="27" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="18" column="0" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bids.t" />
-      <jump line="0" column="18" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
-      <jump line="60" column="4" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
-      <jump line="52" column="74" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
-      <jump line="51" column="12" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
-      <jump line="55" column="29" filename="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" />
-      <jump line="55" column="0" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="61" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="164" column="54" filename="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" />
-      <jump line="30" column="0" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
-      <jump line="34" column="46" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="100" column="50" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="5" column="4" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
@@ -376,6 +401,23 @@
       <jump line="38" column="67" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="33" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="17" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="12" column="8" filename="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" />
+      <jump line="39" column="27" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="40" column="35" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="49" column="11" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="54" column="11" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="65" column="16" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="66" column="27" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="68" column="20" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="104" column="31" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="121" column="2" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="124" column="48" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="126" column="47" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="135" column="8" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="137" column="18" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
+      <jump line="45" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="20" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="11" column="10" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -388,7 +430,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>adjust_</text>
+        <text>max_boost_times</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -403,16 +445,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>adjust_</text>
+        <text>max_boost_times</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</text>
+        <text encoding="base64">XDxjYWNoZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF5ID0+IHNwcmludGYoIiUwMmQiLCAkZGQpLAo=</text>
+      <register name="0" type="4">
+        <text>FOut::SplitRun::Cache</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJJRF9FWFBFUklNRU5UX0lECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -423,40 +465,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzdWJ0ZXN0ICdnZXQgZGVmYXVsdCBwYXJhbXMnID0+IHN1YiB7CiAgICAgICAgbXkgJGF1dG9fYmlkX3BhcmFtcyA9IEZPdXQ6OlNwbGl0UnVuOjpQYXJhbXM6OkF1dG9CaWQtPm5ldygKICAgICAgICAgICAgYXVkaWVuY2VfaWQgICAgICA9PiB1bmRlZiwKICAgICAgICAgICAgYWxnb3JpdGhtX3ByZWZpeCA9PiAnRk91dDo6QmlkOjpBbGdvcml0aG0nLAogICAgICAgICAgICBleHBlcmltZW50X2lkICAgID0+IEFVVE9fQklEU19FWFBFUklNRU5UX0lELAogICAgICAgICAgICBidWNrZXQgICAgICAgICAgID0+IHt9LAogICAgICAgICAgICBtYWluX2J1Y2tldCAgICAgID0+IHt9LAogICAgICAgICk7CiAgICAgICAgaXNfZGVlcGx5ICRhdXRvX2JpZF9wYXJhbXMtPmZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcywgK3sKICAgICAgICAgICAgbWF4X3BlcmNlbnQgPT4gNTAsCiAgICAgICAgICAgIHN0YXJ0X3BlcmNlbnRpbGUgPT4gODAsCiAgICAgICAgICAgIG1heF9ib29zdF90aW1lcyA9PiAyMCwKICAgICAgICB9LCAnbm9ybWFsIGNhc2UnOwogICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3VyIEBFWFBPUlRfT0sgPSBxdygKICAgIEJJRF9FWFBFUklNRU5UX0lECiAgICBQTV9FWFBFUklNRU5UX0lECiAgICBVU0VfQUdfU1BMSVRSVU5fSU5ERVhfRVhQRVJJTUVOVF9JRAogICAgQVVUT19CSURTX0VYUEVSSU1FTlRfSUQKICAgIFdNX0RST1BfTUFQUElOR19FWFBFUklNRU5UX0lECiAgICBOT1RfTElORV9DUENfQ1ZSX0VYUEVSSU1FTlRfSUQKICAgIFNQT1RfU0NPUkVfTElORV9DUENfSU1BR0VfRVhQRVJJTUVOVF9JRAopOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGUgICAgICAgICAgICA9PiB1bmRlZiwK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGNvbnN0YW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVja2V0ICAgICAgICAgICA9PiB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3RhbnQtPmltcG9ydCgkY29uc3RhbnRzKTsK</text>
+        <text encoding="base64">c3VidGVzdCAnZ2V0IG5vcm1hbCBwYXJhbXMgZmxvb3JfcHJpY2VfYWRqdXN0b3JfcGFyYW1zJyA9PiBzdWIgewogICAgbXkgJGF1dG9fYmlkX3BhcmFtcyA9IGNyZWF0ZV9hdXRvX2JpZF9wYXJhbXMoKTsKICAgIGlzX2RlZXBseSAkYXV0b19iaWRfcGFyYW1zLT5mbG9vcl9wcmljZV9hZGp1c3Rvcl9wYXJhbXMsICt7CiAgICAgICAgbWF4X3BlcmNlbnQgPT4gNTAsCiAgICAgICAgc3RhcnRfcGVyY2VudGlsZSA9PiA4MCwKICAgICAgICBtYXhfYm9vc3RfdGltZXMgPT4gMjAsCiAgICB9LCAnbm9ybWFsIGNhc2UnOwp9OwoKc3VidGVzdCAnZ2V0IGludmFsaWQgcGFyYW1zIGZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcycgPT4gc3ViIHsKICAgIGZvciBteSAkYnVja2V0ICgoCiAgICAgICAgK3sgJ2F1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9wZXJjZW50JyA9PiAtMSB9LAogICAgICAgICt7ICdhdXRvX2JpZF9mbG9vcl9wcmljZV9hZGp1c3Rvci5zdGFydF9wZXJjZW50aWxlJyA9PiAtMiB9LAogICAgICAgICt7ICdhdXRvX2JpZF9mbG9vcl9wcmljZV9hZGp1c3Rvci5tYXhfYm9vc3RfdGltZXMnID0+IDAgfSwKICAgICkpIHsKICAgICAgICBvayAhJXtjcmVhdGVfYXV0b19iaWRfcGFyYW1zKCUkYnVja2V0KS0+Zmxvb3JfcHJpY2VfYWRqdXN0b3JfcGFyYW1zfTsKICAgIH0KICAgIG15IEB3YXJucyA9IHNwbGl0ICdcbicsIG1vZGVscygnbG9nZ2VyJyktPnRvX3N0cjsKICAgIGlzICR3YXJuc1swXSwgJ1t3YXJuXSBJbnZhbGlkIGF1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9wZXJjZW50ID0gLTEnOwogICAgaXMgJHdhcm5zWzFdLCAnW3dhcm5dIEludmFsaWQgYXV0b19iaWRfZmxvb3JfcHJpY2VfYWRqdXN0b3Iuc3RhcnRfcGVyY2VudGlsZSA9IC0yJzsKICAgIGlzICR3YXJuc1syXSwgJ1t3YXJuXSBJbnZhbGlkIGF1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9ib29zdF90aW1lcyA9IDAnOwp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVzaCBARVhQT1JUX09LLCBrZXlzKCUkY29uc3RhbnRzKTsK</text>
+        <text encoding="base64">c3VidGVzdCAnZ2V0IG5vcm1hbCBwYXJhbXMnID0+IHN1YiB7CiAgICBteSAkYXV0b19iaWRfcGFyYW1zID0gY3JlYXRlX2F1dG9fYmlkX3BhcmFtcygpOwogICAgaXNfZGVlcGx5ICRhdXRvX2JpZF9wYXJhbXMtPmZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcywgK3sKICAgICAgICBtYXhfcGVyY2VudCA9PiA1MCwKICAgICAgICBzdGFydF9wZXJjZW50aWxlID0+IDgwLAogICAgICAgIG1heF9ib29zdF90aW1lcyA9PiAyMCwKICAgIH0sICdub3JtYWwgY2FzZSc7Cn07CgpzdWJ0ZXN0ICdnZXQgZGVmYXVsdCBwYXJhbXMgd2hlbiBlbXB0eSBieSBmbG9vcl9wcmljZV9hZGp1c3Rvcl9wYXJhbXMnID0+IHN1YiB7CiAgICBteSAkYXV0b19iaWRfcGFyYW1zID0gY3JlYXRlX2F1dG9fYmlkX3BhcmFtcygpOwogICAgaXNfZGVlcGx5ICRhdXRvX2JpZF9wYXJhbXMtPmZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcywgK3sKICAgICAgICBtYXhfcGVyY2VudCA9PiA1MCwKICAgICAgICBzdGFydF9wZXJjZW50aWxlID0+IDgwLAogICAgICAgIG1heF9ib29zdF90aW1lcyA9PiAyMCwKICAgIH0sICdub3JtYWwgY2FzZSc7Cn07CgpzdWJ0ZXN0ICdnZXQgZW1wdHkgaGFzaHJlZiB3aGVuIGludmFsaWQgcGFyYW1zIGJ5IGZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcycgPT4gc3ViIHsKICAgIGZvciBteSAkYnVja2V0ICgoCiAgICAgICAgK3sgJ2F1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9wZXJjZW50JyA9PiAtMSB9LAogICAgICAgICt7ICdhdXRvX2JpZF9mbG9vcl9wcmljZV9hZGp1c3Rvci5zdGFydF9wZXJjZW50aWxlJyA9PiAtMiB9LAogICAgICAgICt7ICdhdXRvX2JpZF9mbG9vcl9wcmljZV9hZGp1c3Rvci5tYXhfYm9vc3RfdGltZXMnID0+IDAgfSwKICAgICkpIHsKICAgICAgICBvayAhJXtjcmVhdGVfYXV0b19iaWRfcGFyYW1zKCUkYnVja2V0KS0+Zmxvb3JfcHJpY2VfYWRqdXN0b3JfcGFyYW1zfTsKICAgIH0KICAgIG15IEB3YXJucyA9IHNwbGl0ICdcbicsIG1vZGVscygnbG9nZ2VyJyktPnRvX3N0cjsKICAgIGlzICR3YXJuc1swXSwgJ1t3YXJuXSBJbnZhbGlkIGF1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9wZXJjZW50ID0gLTEnOwogICAgaXMgJHdhcm5zWzFdLCAnW3dhcm5dIEludmFsaWQgYXV0b19iaWRfZmxvb3JfcHJpY2VfYWRqdXN0b3Iuc3RhcnRfcGVyY2VudGlsZSA9IC0yJzsKICAgIGlzICR3YXJuc1syXSwgJ1t3YXJuXSBJbnZhbGlkIGF1dG9fYmlkX2Zsb29yX3ByaWNlX2FkanVzdG9yLm1heF9ib29zdF90aW1lcyA9IDAnOwp9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJJRF9FWFBFUklNRU5UX0lECiAgICBQTV9FWFBFUklNRU5UX0lECiAgICBVU0VfQUdfU1BMSVRSVU5fSU5ERVhfRVhQRVJJTUVOVF9JRAogICAgQVVUT19CSURTX0VYUEVSSU1FTlRfSUQKICAgIFdNX0RST1BfTUFQUElOR19FWFBFUklNRU5UX0lECiAgICBOT1RfTElORV9DUENfQ1ZSX0VYUEVSSU1FTlRfSUQKICAgIFNQT1RfU0NPUkVfTElORV9DUENfSU1BR0VfRVhQRVJJTUVOVF9JRAo=</text>
+        <text encoding="base64">c3VidGVzdCAnZ2V0IGludmFsaWQgcGFyYW1zIGZsb29yX3ByaWNlX2FkanVzdG9yX3BhcmFtcycgPT4gc3ViIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bXkgQG5hdGl2ZV9hZF9maWVsZF9jb25zdGFudHM7CkJFR0lOIHsKICAgIG5vIHN0cmljdCAncmVmcyc7CiAgICBteSAkZmllbGRzX3N5bWJvbF90YWJsZSA9CiAgICAgICAgXCVGT3V0OjpEb3VibGVDbGlja0FkRXg6OkJpZFJlcXVlc3Q6OkFkU2xvdDo6TmF0aXZlQWRUZW1wbGF0ZTo6RmllbGRzOjo7CiAgICBmb3IgKGtleXMgJSRmaWVsZHNfc3ltYm9sX3RhYmxlKSB7CiAgICAgICAgbXkgJGNvbnN0YW50X25hbWUgPSAiTkFUSVZFX0FEX0ZJRUxEXyRfIjsKICAgICAgICBteSAkdmFsdWUgPSAkZmllbGRzX3N5bWJvbF90YWJsZS0+eyRffSgpOwogICAgICAgICokY29uc3RhbnRfbmFtZSA9IHN1YiAoKSB7ICR2YWx1ZSB9IDsKCiAgICAgICAgcHVzaCBAbmF0aXZlX2FkX2ZpZWxkX2NvbnN0YW50cywgJGNvbnN0YW50X25hbWU7CiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIEJJRF9FWFBFUklNRU5UX0lECg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</last-search>
+      <last-search encoding="base64">XDxjYWNoZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNoZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -530,6 +572,8 @@
         <entry encoding="base64">XDxocWxfZmlsZVw+</entry>
         <entry encoding="base64">XDxwZXJjZW50aWxlXD4=</entry>
         <entry encoding="base64">XDxfc2hvdWxkX2FkanVzdFw+</entry>
+        <entry encoding="base64">XDxidWNrZXRcPg==</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
