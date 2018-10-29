@@ -33,9 +33,6 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="65" column="52" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1540518752050">
-        <mark key="'" line="274" column="39" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540800075325">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="61" column="35" />
@@ -61,7 +58,7 @@
       </file>
       <file name="$FOUT_HOME$/js/html/conv.js" timestamp="1540432165774" />
       <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1540432491153" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" timestamp="1540434707401">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PercentileBoost.pm" timestamp="1540804355243">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="9" />
@@ -96,8 +93,8 @@
         <mark key="^" line="326" column="20" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Spiffy.pm" timestamp="1540362085953" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1540783121626">
-        <mark key="'" line="38" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1540804572331">
+        <mark key="'" line="7" column="30" />
         <mark key="[" line="86" column="35" />
         <mark key="]" line="86" column="35" />
         <mark key="." line="86" column="35" />
@@ -118,6 +115,7 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="70" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPhase.pm" timestamp="1540804503826" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/Default.pm" timestamp="1540799206293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
@@ -168,9 +166,6 @@
         <mark key="." line="51" column="49" />
         <mark key="^" line="51" column="49" />
       </file>
-      <file name="/System/Library/Perl/5.18/Package/Constants.pm" timestamp="1540363674457">
-        <mark key="'" line="46" column="21" />
-      </file>
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1540445005713">
         <mark key="'" line="388" column="23" />
         <mark key="[" line="376" column="2" />
@@ -182,14 +177,6 @@
         <mark key="]" line="5" column="46" />
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1540795993945">
-        <mark key="a" line="23" column="24" />
-        <mark key="'" line="74" column="21" />
-        <mark key="[" line="25" column="90" />
-        <mark key="]" line="25" column="112" />
-        <mark key="^" line="25" column="112" />
-        <mark key="." line="25" column="112" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/context-write_spot_log.t" timestamp="1540435511115">
         <mark key="[" line="23" column="0" />
@@ -206,20 +193,14 @@
         <mark key="^" line="15" column="88" />
         <mark key="." line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540453989154">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540804919000">
         <mark key="'" line="406" column="45" />
         <mark key="[" line="402" column="46" />
         <mark key="]" line="402" column="55" />
         <mark key="^" line="402" column="55" />
         <mark key="." line="402" column="55" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
-        <mark key="'" line="19" column="9" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
-        <mark key="'" line="55" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1540518742471">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1540804015769">
         <mark key="'" line="1481" column="53" />
         <mark key="[" line="258" column="31" />
         <mark key="]" line="258" column="30" />
@@ -232,12 +213,6 @@
         <mark key="]" line="95" column="25" />
         <mark key="^" line="22" column="2" />
         <mark key="." line="22" column="2" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/split_run/params/auto_bid.t" timestamp="1540795970049">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="33" />
-        <mark key="." line="31" column="33" />
-        <mark key="^" line="31" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1540801547628">
         <mark key="'" line="17" column="12" />
@@ -274,6 +249,11 @@
         <mark key="." line="13" column="37" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1540802386206" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1540804887130">
+        <mark key="[" line="108" column="44" />
+        <mark key="]" line="108" column="44" />
+        <mark key="." line="108" column="44" />
+      </file>
       <file name="$FOUT_HOME$/tools/akamai_content_purger.sh" timestamp="1540519400301" />
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1540776938019" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ExperimentId.pm" timestamp="1540783385702">
@@ -283,15 +263,17 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/context-splitrun.t" timestamp="1540783428152">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBids.pm" timestamp="1540371999952">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="39" />
-      </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
-        <mark key="'" line="338" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" timestamp="1540800084391">
         <mark key="'" line="29" column="4" />
@@ -307,19 +289,13 @@
         <mark key="^" line="274" column="31" />
         <mark key="." line="274" column="31" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1540792290651">
-        <mark key="'" line="63" column="8" />
+      <file name="$FOUT_HOME$/t/fout/bid/match/check_auto_bid_is_skipped.t" timestamp="1540784272466">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="60" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="9" filename="$FOUT_HOME$/t/fout/bid/algorithm/ceilling_price/static_ceiling.t" />
-      <jump line="41" column="32" filename="$FOUT_HOME$/t/fout/bid/algorithm/ceilling_price/static_ceiling.t" />
-      <jump line="6" column="15" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="23" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="47" column="15" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="100" column="12" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="31" column="45" filename="$FOUT_HOME$/t/fout/bid/algorithm/pricing/fm_scaling.t" />
-      <jump line="252" column="39" filename="$FOUT_HOME$/t/fout/bid/algorithm/pricing/price_controle_role.t" />
       <jump line="15" column="41" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/deal.t" />
       <jump line="11" column="41" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/infeed.t" />
       <jump line="48" column="24" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-fixed-user-margin.t" />
@@ -412,6 +388,14 @@
       <jump line="29" column="19" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
       <jump line="95" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="48" column="6" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
+      <jump line="164" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="166" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="167" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="168" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="163" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="143" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="7" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -442,7 +426,7 @@
         <text>NFEED</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VcPg==</text>
+        <text encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbCAqRk91dDo6QmlkOjpCaWRQcmljZUFkanVzdG9yOjpEZWFsOjpfZmV0Y2hfdGhyZXNob2xkID0gc3ViIHsgMC4xIH07Cg==</text>
@@ -490,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VcPg==</last-search>
+      <last-search encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -592,6 +576,7 @@
         <entry encoding="base64">XDxfY2FuX2FkanVzdFw+</entry>
         <entry encoding="base64">XDxiaWRcPg==</entry>
         <entry encoding="base64">XDx1c2VcPg==</entry>
+        <entry encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
