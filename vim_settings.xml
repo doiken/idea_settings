@@ -223,8 +223,8 @@
         <mark key="^" line="258" column="30" />
         <mark key="." line="258" column="30" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1540806746461">
-        <mark key="'" line="95" column="31" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1540866527653">
+        <mark key="'" line="212" column="4" />
         <mark key="[" line="95" column="8" />
         <mark key="]" line="95" column="25" />
         <mark key="^" line="22" column="2" />
@@ -309,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/bid_to_ad.t" />
       <jump line="22" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
       <jump line="18" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/fix_highest_bid.t" />
       <jump line="22" column="49" filename="$FOUT_HOME$/t/fout/bid/decision/memd_bid-splitrun.t" />
@@ -409,6 +408,7 @@
       <jump line="46" column="7" filename="/System/Library/Perl/5.18/Exporter.pm" />
       <jump line="53" column="7" filename="/System/Library/Perl/5.18/Exporter.pm" />
       <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
+      <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -439,7 +439,7 @@
         <text>create_mraid_ad</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</text>
+        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbCAqRk91dDo6QmlkOjpCaWRQcmljZUFkanVzdG9yOjpEZWFsOjpfZmV0Y2hfdGhyZXNob2xkID0gc3ViIHsgMC4xIH07Cg==</text>
@@ -487,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -594,6 +594,7 @@
         <entry encoding="base64">XDxleHBvcnRzXD4=</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
