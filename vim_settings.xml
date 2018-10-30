@@ -32,6 +32,9 @@
         <mark key="^" line="8" column="65" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange.pm" timestamp="1540446190843" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" timestamp="1540878915697">
+        <mark key="'" line="421" column="5" />
+      </file>
       <file name="$FOUT_HOME$/tools/r53.pl" timestamp="1540520133972">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="34" column="0" />
@@ -97,12 +100,15 @@
         <mark key="[" line="72" column="2" />
         <mark key="]" line="72" column="20" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1540870235140">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1540876442826">
         <mark key="'" line="3315" column="13" />
         <mark key="[" line="326" column="17" />
         <mark key="]" line="326" column="20" />
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1540877706493">
+        <mark key="'" line="255" column="8" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Spiffy.pm" timestamp="1540362085953" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1540806735349">
@@ -111,6 +117,9 @@
         <mark key="]" line="86" column="35" />
         <mark key="." line="86" column="35" />
         <mark key="^" line="153" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" timestamp="1540878791637">
+        <mark key="'" line="81" column="15" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" timestamp="1540800060894">
         <mark key="'" line="64" column="56" />
@@ -135,8 +144,15 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540865346727">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540876464497">
         <mark key="'" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1540878759423">
+        <mark key="'" line="101" column="4" />
+        <mark key="[" line="106" column="43" />
+        <mark key="]" line="106" column="43" />
+        <mark key="^" line="106" column="43" />
+        <mark key="." line="106" column="43" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1540795010835">
         <mark key="'" line="46" column="36" />
@@ -297,15 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
-      <jump line="18" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/fix_highest_bid.t" />
-      <jump line="22" column="49" filename="$FOUT_HOME$/t/fout/bid/decision/memd_bid-splitrun.t" />
-      <jump line="138" column="45" filename="$FOUT_HOME$/t/fout/bid/match/match_broad_of_region_ldemogra.t" />
-      <jump line="29" column="44" filename="$FOUT_HOME$/t/fout/bid/cpc_line_lower_bound.t" />
-      <jump line="13" column="36" filename="$FOUT_HOME$/t/fout/bid/cpc_line_lower_bound.t" />
-      <jump line="30" column="44" filename="$FOUT_HOME$/t/fout/bid/cpc_line_upper_bound.t" />
-      <jump line="601" column="44" filename="$FOUT_HOME$/t/fout/bid/adserver/applovin.t" />
-      <jump line="47" column="44" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" />
       <jump line="19" column="40" filename="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" />
       <jump line="41" column="44" filename="$FOUT_HOME$/t/fout/bid/algorithm/pricing/cpv_manual_boost.t" />
       <jump line="46" column="44" filename="$FOUT_HOME$/t/fout/bid/algorithm/spot_score/cpv.t" />
@@ -397,6 +404,15 @@
       <jump line="53" column="7" filename="/System/Library/Perl/5.18/Exporter.pm" />
       <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
       <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="81" column="30" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="255" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
+      <jump line="41" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="43" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="45" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="138" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="421" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,7 +443,7 @@
         <text>create_mraid_ad</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
+        <text encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbCAqRk91dDo6QmlkOjpCaWRQcmljZUFkanVzdG9yOjpEZWFsOjpfZmV0Y2hfdGhyZXNob2xkID0gc3ViIHsgMC4xIH07Cg==</text>
@@ -475,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -583,6 +599,12 @@
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
+        <entry encoding="base64">XDxkYlw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
+        <entry encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X3BhcmFtc19leGlzdGluZ19idWNrZXRzXD4=</entry>
+        <entry encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
