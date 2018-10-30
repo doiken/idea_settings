@@ -42,8 +42,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1540529516765">
         <mark key="'" line="458" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" timestamp="1540878915697">
-        <mark key="'" line="421" column="5" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" timestamp="1540894978320">
+        <mark key="'" line="304" column="4" />
+        <mark key="[" line="400" column="57" />
+        <mark key="]" line="400" column="58" />
+        <mark key="^" line="400" column="58" />
+        <mark key="." line="400" column="58" />
       </file>
       <file name="$FOUT_HOME$/tools/r53.pl" timestamp="1540520133972">
         <mark key="'" line="34" column="13" />
@@ -197,12 +201,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540879856360">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1540893035235">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="106" column="43" />
-        <mark key="]" line="106" column="43" />
-        <mark key="^" line="106" column="43" />
-        <mark key="." line="106" column="43" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1540895288531">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="3" />
+        <mark key="^" line="101" column="3" />
+        <mark key="." line="101" column="3" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
@@ -406,9 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="40" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-line.t" />
-      <jump line="33" column="40" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-reward_video.t" />
-      <jump line="34" column="40" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-rfp.t" />
       <jump line="42" column="40" filename="$FOUT_HOME$/t/fout/bid/buying/price_cpc_infeed_accelerator.t" />
       <jump line="41" column="5" filename="$FOUT_HOME$/t/fout/bid/decision/cpc_line_lower_bound_filtered_candidates.t" />
       <jump line="43" column="28" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" />
@@ -491,8 +492,6 @@
       <jump line="41" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="43" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="45" column="33" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
-      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
-      <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
       <jump line="138" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="421" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="68" column="32" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
@@ -506,6 +505,11 @@
       <jump line="11" column="21" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" />
       <jump line="18" column="25" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" />
       <jump line="36" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="304" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="101" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
+      <jump line="64" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -536,7 +540,7 @@
         <text>$context</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGFyYW1fcV9uYW1lXD4=</text>
+        <text encoding="base64">XDxfZGVmYXVsdF9wYXJhbV9wYWlyc1w+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Rk91dDo6QmlkOjpCdXlpbmctPm5ldyhjb250ZXh0ID0+ICRjb250ZXh0KQ==</text>
@@ -584,9 +588,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGFyYW1fcV9uYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxfZGVmYXVsdF9wYXJhbV9wYWlyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGFyYW1fcV9uYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZGVmYXVsdF9wYXJhbV9wYWlyc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -692,8 +696,6 @@
         <entry encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxkYlw+</entry>
-        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
-        <entry encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3BhcmFtc19leGlzdGluZ19idWNrZXRzXD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNfZXhpc3RpbmdfYnVja2V0c1w+</entry>
         <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
@@ -701,6 +703,11 @@
         <entry encoding="base64">XDxyYXdfcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxfcGFyYW1fcV9uYW1lXD4=</entry>
+        <entry encoding="base64">XDxfcGFyYW1fa19uYW1lXD4=</entry>
+        <entry encoding="base64">XDxfdXBkYXRlX21hcmdpbl9wYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
+        <entry encoding="base64">XDxfbWFyZ2luX2Jvb3N0X2hpdmV2YXJzXD4=</entry>
+        <entry encoding="base64">XDxfZGVmYXVsdF9wYXJhbV9wYWlyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
