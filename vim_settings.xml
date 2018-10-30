@@ -46,6 +46,9 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="65" column="52" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1540518752050">
+        <mark key="'" line="274" column="39" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1540800075325">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="61" column="35" />
@@ -140,6 +143,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540865346727">
+        <mark key="'" line="10" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1540795010835">
         <mark key="'" line="46" column="36" />
         <mark key="[" line="41" column="0" />
@@ -171,6 +177,9 @@
         <mark key="." line="51" column="49" />
         <mark key="^" line="51" column="49" />
       </file>
+      <file name="/System/Library/Perl/5.18/Package/Constants.pm" timestamp="1540363674457">
+        <mark key="'" line="46" column="21" />
+      </file>
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1540806971086">
         <mark key="'" line="53" column="7" />
         <mark key="[" line="376" column="2" />
@@ -200,6 +209,12 @@
         <mark key="]" line="402" column="55" />
         <mark key="^" line="402" column="55" />
         <mark key="." line="402" column="55" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
+        <mark key="'" line="19" column="9" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
+        <mark key="'" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1540804015769">
         <mark key="'" line="1481" column="53" />
@@ -272,6 +287,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
+        <mark key="'" line="338" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" timestamp="1540800084391">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="0" column="8" />
@@ -286,9 +304,11 @@
         <mark key="^" line="274" column="31" />
         <mark key="." line="274" column="31" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1540792290651">
+        <mark key="'" line="63" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/app-openrtb2_hike_video.t" />
       <jump line="194" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/bid_to_ad.t" />
       <jump line="22" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/choose_bid_from_candidates_without_spot_score.t" />
       <jump line="18" column="45" filename="$FOUT_HOME$/t/fout/bid/decision/fix_highest_bid.t" />
@@ -388,6 +408,7 @@
       <jump line="44" column="6" filename="/System/Library/Perl/5.18/Exporter.pm" />
       <jump line="46" column="7" filename="/System/Library/Perl/5.18/Exporter.pm" />
       <jump line="53" column="7" filename="/System/Library/Perl/5.18/Exporter.pm" />
+      <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,7 +439,7 @@
         <text>create_mraid_ad</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmdzXD4=</text>
+        <text encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2NhbCAqRk91dDo6QmlkOjpCaWRQcmljZUFkanVzdG9yOjpEZWFsOjpfZmV0Y2hfdGhyZXNob2xkID0gc3ViIHsgMC4xIH07Cg==</text>
@@ -466,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmdzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmdzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -572,6 +593,7 @@
         <entry encoding="base64">XDxjcmVhdGVfbXJhaWRfYWRcPg==</entry>
         <entry encoding="base64">XDxleHBvcnRzXD4=</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxnZXRfbWFyZ2luX2FuZF9ib29zdF9pbnN0YW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
