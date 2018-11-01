@@ -36,6 +36,7 @@
         <mark key="^" line="400" column="58" />
         <mark key="." line="400" column="58" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1541060209127" />
       <file name="$FOUT_HOME$/tools/r53.pl" timestamp="1540520133972">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="34" column="0" />
@@ -116,8 +117,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1540876442826">
-        <mark key="'" line="3315" column="13" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1541059641723">
+        <mark key="'" line="300" column="24" />
         <mark key="[" line="326" column="17" />
         <mark key="]" line="326" column="20" />
         <mark key="." line="326" column="20" />
@@ -414,8 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
       <jump line="41" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="44" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="50" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -514,6 +513,8 @@
       <jump line="30" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" />
       <jump line="9" column="36" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" />
       <jump line="25" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" />
+      <jump line="4017" column="43" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="300" column="24" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
