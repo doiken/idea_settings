@@ -161,7 +161,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
         <mark key="'" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" timestamp="1540975613421">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" timestamp="1541040524581">
         <mark key="'" line="19" column="16" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" timestamp="1540800060894">
@@ -170,6 +170,12 @@
         <mark key="]" line="24" column="82" />
         <mark key="^" line="41" column="17" />
         <mark key="." line="14" column="44" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid.t" timestamp="1541041611126">
+        <mark key="[" line="201" column="29" />
+        <mark key="]" line="201" column="29" />
+        <mark key="^" line="201" column="29" />
+        <mark key="." line="201" column="29" />
       </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
@@ -298,7 +304,7 @@
         <mark key="." line="258" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1541039080521">
-        <mark key="'" line="327" column="0" />
+        <mark key="'" line="335" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" timestamp="1540880265542">
         <mark key="'" line="9" column="36" />
@@ -306,13 +312,6 @@
         <mark key="]" line="100" column="32" />
         <mark key="^" line="10" column="54" />
         <mark key="." line="100" column="32" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1540863666127">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="1207" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1540517395784">
         <mark key="'" line="83" column="5" />
@@ -322,11 +321,7 @@
         <mark key="." line="5" column="114" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1541039365236">
-        <mark key="'" line="337" column="26" />
-        <mark key="[" line="331" column="33" />
-        <mark key="]" line="331" column="32" />
-        <mark key="^" line="331" column="32" />
-        <mark key="." line="331" column="32" />
+        <mark key="'" line="330" column="26" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServers.pm" timestamp="1540794321492">
         <mark key="'" line="36" column="8" />
@@ -353,7 +348,13 @@
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
         <mark key="'" line="262" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" timestamp="1541038884181" />
+      <file name="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" timestamp="1541041596188">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="182" column="29" />
+        <mark key="]" line="182" column="29" />
+        <mark key="." line="182" column="29" />
+        <mark key="^" line="182" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539932149037">
         <mark key="'" line="42" column="14" />
       </file>
@@ -419,11 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="8" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
-      <jump line="505" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="60" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="143" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="32" column="4" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="53" column="12" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="55" column="12" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="64" column="56" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
@@ -506,10 +502,6 @@
       <jump line="14" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/spot_score/logical_flow/default.t" />
       <jump line="9" column="20" filename="$FOUT_HOME$/t/fout/bid/algorithm/spot_score/logical_flow/default.t" />
       <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" />
-      <jump line="41" column="4" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
-      <jump line="15" column="36" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
-      <jump line="181" column="29" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
-      <jump line="184" column="32" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
       <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/match/check_auto_bid_is_skipped.t" />
       <jump line="23" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="327" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -519,6 +511,15 @@
       <jump line="8" column="36" filename="$FOUT_HOME$/t/fout/bid/match/check_auto_bid_is_skipped.t" />
       <jump line="330" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="337" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="43" column="12" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="41" column="8" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="223" column="35" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="42" column="24" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="15" column="36" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="181" column="29" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="183" column="14" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="184" column="32" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
+      <jump line="16" column="36" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -531,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>BID_EXPERIMENT_ID</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -546,13 +547,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>BID_EXPERIMENT_ID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRvX2JpZF9zcGxpdHJ1bl9wYXJhbXNcPg==</text>
+        <text encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>FOut::Bid::Context</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6QWRTZXJ2ZXJzOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q29udGV4dDsK</text>
@@ -566,40 +567,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEZPdXQ6OlNwbGl0UnVuOjpFeHBlcmltZW50SWQgcXcoU1BPVF9TQ09SRV9MSU5FX0NQQ19JTUFHRV9FWFBFUklNRU5UX0lEKTsK</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkJpZDo6Q29udGV4dDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMg5YWo44Gm44GuYQo=</text>
+        <text encoding="base64">dXNlIEZPdXQ6OlNwbGl0UnVuOjpFeHBlcmltZW50SWQgcXcoU1BPVF9TQ09SRV9MSU5FX0NQQ19JTUFHRV9FWFBFUklNRU5UX0lEKTsK</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMg5YWo44Gm44GuYWRqdXN0b3LjgpIK</text>
+        <text encoding="base64">ICAgICMg5YWo44Gm44GuYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICB3YXJuIER1bXBlciAkcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgICMg5YWo44Gm44GuYWRqdXN0b3LjgpIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICB3YXJuIER1bXBlciAkcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyIFxARk91dDo6QmlkOjpCdXlpbmc6OkJJRF9QUklDRV9BREpVU1RPUlM7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHdhcm4gRHVtcGVyIFxARk91dDo6QmlkOjpCdXlpbmc6OkJJRF9QUklDRV9BREpVU1RPUlM7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcmVzdWx0LT57d2hhdCBtZXRob2R9LT57d2hhdCBleHBlY3RhdGlvbn0KCiAgICAjIHN1YnRlc3QgJ0ZPdXQ6OkJpZDo6QmlkUHJpY2VBZGp1c3Rvcjo6RGVhbCcgPT4gc3ViIHsKICAgICMgICAgIGxvY2FsICpGT3V0OjpCaWQ6OkJpZFByaWNlQWRqdXN0b3I6OkRlYWw6Ol9mZXRjaF90aHJlc2hvbGQgPSBzdWIgeyAwLjEgfTsKICAgICMgICAgIG15ICRkZWFsID0gRk91dDo6QmlkOjpDb250ZXh0OjpEZWFsLT5uZXcoCiAgICAjICAgICAgICAgcGFyZW50ICAgICAgPT4gJGJ1eS0+Y29udGV4dCwKICAgICMgICAgICAgICBkZWFsX2NvZGUgICA9PiAnQUItQWdlbmN5MS0wMDAxJywKICAgICMgICAgICAgICBmbG9vcl9wcmljZSA9PiBwcmljZSAyMDAsCiAgICAjICAgICApOwogICAgIyAgICAgJGJ1eS0+Y29udGV4dC0+ZGVhbCgkZGVhbCk7CiAgICAjICAgICBteSAkcHJpY2VzID0gJGJ1eS0+X0J1eWluZ19hdWN0aW9uKGJpZCA9PiArewogICAgIyAgICAgICAgIHByaWNlID0+IHByaWNlIDEwMCwKICAgICMgICAgICAgICBiaWRfZGF0YSA9PiAre2NwX2JpbGxpbmdfdHlwZSA9PiAxLCB9CiAgICAjICAgICB9KTsKICAgICMgICAgIGlzICRwcmljZXMtPntwcmljZV9iaWRkZWR9LT5nZXRfc3lzdGVtLCAyMDA7CiAgICAjICAgICBpcyAkcHJpY2VzLT57cHJpY2VfZ3Jvc3NfYmlkZGVkfS0+Z2V0X3N5c3RlbSwgMjUwOwogICAgIyAgICAgaXMgJHByaWNlcy0+e3RhY19yYXRlfSwgMC44OwogICAgIyAgICAgJGJ1eS0+Y29udGV4dC0+ZGVhbCh1bmRlZik7CiAgICAjIH07CiAgICAjCiAgICAjIHN1YnRlc3QgJ0ZPdXQ6OkJpZDo6QmlkUHJpY2VBZGp1c3Rvcjo6SW5mZWVkJyA9PiBzdWIgewogICAgIyAgICAgbG9jYWwgKkZPdXQ6OkJpZDo6QmlkUHJpY2VBZGp1c3Rvcjo6SW5mZWVkOjpfZmV0Y2hfdGhyZXNob2xkID0gc3ViIHsgMC4xIH07CiAgICAjICAgICBsb2NhbCAqRk91dDo6QmlkOjpBbGdvcml0aG06OkR5bmFtaWNNYXJnaW46OkxvZ2ljYWxGbG93OjpnZXRfaW5zdGFuY2UgPSBzdWIgewogICAgIyAgICAgbXkgJHByaWNlcyA9ICRidXktPl9CdXlpbmdfYXVjdGlvbihiaWQgPT4gK3sKICAgICMgICAgICAgICBwcmljZSA9PiBwcmljZSAxMDAsCiAgICAjICAgICAgICAgICAgIGJpZF9kYXRhID0+ICt7Y3BfYmlsbGluZ190eXBlID0+IDEsIH0KICAgICMgICAgIH0pOwogICAgIyAgICAgaXMgJHByaWNlcy0+e3ByaWNlX2JpZGRlZH0tPmdldF9zeXN0ZW0sIDIwMDsKICAgICMgICAgIGlzICRwcmljZXMtPntwcmljZV9ncm9zc19iaWRkZWR9LT5nZXRfc3lzdGVtLCAyNTA7CiAgICAjICAgICBpcyAkcHJpY2VzLT57dGFjX3JhdGV9LCAwLjg7CiAgICAjIH07Cg==</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRvX2JpZF9zcGxpdHJ1bl9wYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRvX2JpZF9zcGxpdHJ1bl9wYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -629,11 +630,13 @@
         <entry encoding="base64">XDxTUE9UX1NDT1JFX0xJTkVfQ1BDX0lNQUdFX0VYUEVSSU1FTlRfSURcPg==</entry>
         <entry encoding="base64">XDxFeHBlcmltZW50SWRcPg==</entry>
         <entry encoding="base64">XDxfaXNfYWRqdXN0aW5nX3RhcmdldFw+</entry>
-        <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry>adjustor</entry>
         <entry encoding="base64">XDxDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxBVVRPX0JJRF9FWFBFUklNRU5UX0lEXD4=</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9zcGxpdHJ1bl9wYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxiaWRfcmVzdWx0c1w+</entry>
+        <entry encoding="base64">XDxiaWRzX2RhdGFzXD4=</entry>
+        <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
