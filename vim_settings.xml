@@ -173,11 +173,11 @@
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541036858280">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055119254">
         <mark key="'" line="32" column="19" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" timestamp="1541036815214">
-        <mark key="'" line="10" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" timestamp="1541054953184">
+        <mark key="'" line="25" column="21" />
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="19" />
         <mark key="." line="21" column="16" />
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="56" filename="$FOUT_HOME$/t/fout/bid/bid_price_adjustor/auto_bid_floor_price.t" />
       <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="29" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Role.pm" />
       <jump line="41" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -514,6 +513,7 @@
       <jump line="16" column="36" filename="$FOUT_HOME$/t/fout/bid/decision/app-multi_bid_no_cascade.t" />
       <jump line="30" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" />
       <jump line="9" column="36" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/w_m_drop_mapping.t" />
+      <jump line="25" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Deal.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
