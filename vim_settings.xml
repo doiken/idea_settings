@@ -275,8 +275,8 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="100" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1541063166410">
-        <mark key="'" line="17" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1541141196358">
+        <mark key="'" line="451" column="4" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -373,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$FOUT_HOME$/t/fout/bid/context-deal_trigger.t" />
       <jump line="29" column="7" filename="$FOUT_HOME$/t/fout/bid/context-deal_trigger.t" />
       <jump line="39" column="4" filename="$FOUT_HOME$/t/fout/bid/context-deal_trigger.t" />
       <jump line="33" column="9" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
@@ -473,6 +472,7 @@
       <jump line="99" column="14" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/perl/module_pluggable.pl" />
       <jump line="310" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" />
+      <jump line="451" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -503,7 +503,7 @@
         <text>留意</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfZnJlcVw+</text>
+        <text encoding="base64">XDxhZGdycF9mcmVxdWVuY3lfbWFwXD4=</text>
       </register>
       <register name="0" type="4">
         <text>新規Adjustor追加時</text>
@@ -551,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfZnJlcVw+</last-search>
+      <last-search encoding="base64">XDxhZGdycF9mcmVxdWVuY3lfbWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfZnJlcVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGdycF9mcmVxdWVuY3lfbWFwXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -592,6 +592,7 @@
         <entry encoding="base64">XDxCSURfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry encoding="base64">XDxXTV9EUk9QX01BUFBJTkdfRVhQRVJJTUVOVF9JRFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVfZnJlcVw+</entry>
+        <entry encoding="base64">XDxhZGdycF9mcmVxdWVuY3lfbWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
