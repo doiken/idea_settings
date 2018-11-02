@@ -145,7 +145,7 @@
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" timestamp="1541139028160">
         <mark key="'" line="310" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1541148981959">
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1541149851329">
         <mark key="'" line="28" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
@@ -219,6 +219,9 @@
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1541149745818">
+        <mark key="'" line="37" column="5" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1540954459577">
         <mark key="'" line="10" column="55" />
       </file>
@@ -235,8 +238,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" timestamp="1539841480895">
         <mark key="'" line="67" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1541065785449">
-        <mark key="'" line="99" column="14" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1541150072797">
+        <mark key="'" line="92" column="5" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ModelId.pm" timestamp="1540446088244">
         <mark key="'" line="10" column="0" />
@@ -252,8 +255,8 @@
         <mark key="^" line="15" column="88" />
         <mark key="." line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1540804919000">
-        <mark key="'" line="406" column="45" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1541149918466">
+        <mark key="'" line="387" column="11" />
         <mark key="[" line="402" column="46" />
         <mark key="]" line="402" column="55" />
         <mark key="^" line="402" column="55" />
@@ -340,6 +343,9 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541150068358">
+        <mark key="'" line="50" column="10" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
         <mark key="'" line="338" column="4" />
       </file>
@@ -384,13 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="163" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="143" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="7" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="62" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="66" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="17" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
       <jump line="317" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
       <jump line="37" column="6" filename="/System/Library/Perl/5.18/Exporter.pm" />
@@ -484,6 +483,13 @@
       <jump line="40" column="39" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" />
+      <jump line="37" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="91" column="38" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="387" column="11" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="50" column="10" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="92" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -514,7 +520,7 @@
         <text>留意</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdWRpZW5jZV93ZWlnaHRfbGVmdFw+</text>
+        <text>auto_bids</text>
       </register>
       <register name="0" type="4">
         <text>新規Adjustor追加時</text>
@@ -562,12 +568,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdWRpZW5jZV93ZWlnaHRfbGVmdFw+</last-search>
+      <last-search>auto_bids</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdWRpZW5jZV93ZWlnaHRfbGVmdFw+</last-pattern>
+      <last-pattern>auto_bids</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -606,6 +612,8 @@
         <entry encoding="base64">XDxhZGdycF9mcmVxdWVuY3lfbWFwXD4=</entry>
         <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
         <entry encoding="base64">XDxhdWRpZW5jZV93ZWlnaHRfbGVmdFw+</entry>
+        <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry>auto_bids</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
