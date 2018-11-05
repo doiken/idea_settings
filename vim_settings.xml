@@ -44,11 +44,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1539934591782">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1541147775864">
-        <mark key="'" line="40" column="39" />
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="50" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1540438902439">
         <mark key="'" line="61" column="0" />
       </file>
@@ -86,6 +81,7 @@
       <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$FOUT_HOME$/tools/adlog_parser.pl" timestamp="1541381924602" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1540881279835">
         <mark key="'" line="160" column="21" />
       </file>
@@ -117,6 +113,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540879856360">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1541381912266" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock/Expectation.pm" timestamp="1540964561894">
         <mark key="'" line="0" column="8" />
       </file>
@@ -159,18 +156,12 @@
         <mark key="'" line="55" column="29" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/UserDataWithCache.pm" timestamp="1541151016014" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1541138910759">
-        <mark key="'" line="337" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1541381822470">
+        <mark key="'" line="264" column="49" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="14" />
         <mark key="^" line="69" column="14" />
         <mark key="." line="69" column="14" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1541145891667">
-        <mark key="'" line="451" column="4" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1541039365236">
         <mark key="'" line="330" column="26" />
@@ -202,7 +193,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Click/DataFromAD/MemdADToClick.pm" timestamp="1540351945568">
         <mark key="'" line="62" column="17" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1541154335656">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1541382217394">
         <mark key="'" line="848" column="51" />
         <mark key="[" line="484" column="0" />
         <mark key="]" line="484" column="40" />
@@ -226,15 +217,8 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/spot_score/logical_flow/default.t" timestamp="1541036721721">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="40" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
       <jump line="11" column="21" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" />
       <jump line="18" column="25" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double.pm" />
       <jump line="36" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
@@ -334,6 +318,7 @@
       <jump line="87" column="34" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="834" column="43" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
       <jump line="96" column="40" filename="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" />
+      <jump line="264" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
