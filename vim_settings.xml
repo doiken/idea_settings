@@ -22,9 +22,17 @@
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1541063239814">
         <mark key="'" line="458" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" timestamp="1541396507936" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/CPCLINELowerBound.pm" timestamp="1541061466691" />
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" timestamp="1541152210818">
         <mark key="'" line="74" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" timestamp="1541396255549">
+        <mark key="'" line="266" column="4" />
+        <mark key="[" line="400" column="57" />
+        <mark key="]" line="400" column="58" />
+        <mark key="^" line="400" column="58" />
+        <mark key="." line="400" column="58" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AdgRequirement.pm" timestamp="1541060209127" />
       <file name="$FOUT_HOME$/lib/FOut/AD/Delivery.pm" timestamp="1541383172789">
@@ -56,7 +64,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1541153445866">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1541396577591">
         <mark key="'" line="300" column="24" />
         <mark key="[" line="326" column="17" />
         <mark key="]" line="326" column="20" />
@@ -84,6 +92,7 @@
       <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/SQLite.pm" timestamp="1541396102467" />
       <file name="$FOUT_HOME$/tools/adlog_parser.pl" timestamp="1541381924602" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1540881279835">
         <mark key="'" line="160" column="21" />
@@ -117,6 +126,13 @@
         <mark key="'" line="10" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1541381912266" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1541396133257">
+        <mark key="'" line="116" column="4" />
+        <mark key="[" line="101" column="4" />
+        <mark key="]" line="101" column="3" />
+        <mark key="^" line="101" column="3" />
+        <mark key="." line="101" column="3" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock/Expectation.pm" timestamp="1540964561894">
         <mark key="'" line="0" column="8" />
       </file>
@@ -135,6 +151,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1540954459577">
         <mark key="'" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" timestamp="1541395752995">
+        <mark key="'" line="149" column="13" />
       </file>
       <file name="/System/Library/Perl/5.18/Package/Constants.pm" timestamp="1540363674457">
         <mark key="'" line="46" column="21" />
@@ -176,6 +195,9 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" timestamp="1541395947608">
+        <mark key="'" line="229" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1541389440408">
         <mark key="'" line="83" column="5" />
         <mark key="[" line="5" column="100" />
@@ -204,7 +226,7 @@
         <mark key="'" line="42" column="14" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ExperimentId.pm" timestamp="1541050030040" />
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541390338191">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541396353760">
         <mark key="'" line="57" column="19" />
         <mark key="[" line="50" column="51" />
         <mark key="]" line="50" column="58" />
@@ -248,15 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
-      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
-      <jump line="64" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
-      <jump line="16" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="10" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
-      <jump line="37" column="49" filename="$FOUT_HOME$/t/fout/bid/buying/bid_price_adjustor.t" />
-      <jump line="57" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
-      <jump line="74" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="78" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="86" column="80" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="82" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock/Expectation.pm" />
@@ -348,6 +361,15 @@
       <jump line="230" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="57" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="2580" column="2" filename="$FOUT_HOME$/bid/config.yaml" />
+      <jump line="361" column="60" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="354" column="60" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="266" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
+      <jump line="87" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
+      <jump line="149" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
+      <jump line="172" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
+      <jump line="207" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
+      <jump line="229" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRBoostCutParams.pm" />
+      <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,7 +400,7 @@
         <text>Dsp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZ19kbHZfdHlwZVw+</text>
+        <text encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Standby</text>
@@ -426,9 +448,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZ19kbHZfdHlwZVw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZ19kbHZfdHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -450,7 +472,6 @@
         <entry encoding="base64">XDxfcGFyYW1fcV9uYW1lXD4=</entry>
         <entry encoding="base64">XDxfcGFyYW1fa19uYW1lXD4=</entry>
         <entry encoding="base64">XDxfdXBkYXRlX21hcmdpbl9wYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
         <entry encoding="base64">XDxfZGVmYXVsdF9wYXJhbV9wYWlyc1w+</entry>
         <entry encoding="base64">XDxwcmljZXNcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
@@ -476,6 +497,11 @@
         <entry encoding="base64">XDx0b3VjaFw+</entry>
         <entry encoding="base64">XDxmcmVxXD4=</entry>
         <entry encoding="base64">XDxhZ19kbHZfdHlwZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X21hcmdpbl9wYXJhbXNfZnJvbV9teXNxbFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X3BhcmFtZXRlcl9ob2xkaW5nX2J1Y2tldF9pZFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2FjdGl2ZV9idWNrZXRfaWRcPg==</entry>
+        <entry encoding="base64">XDx0YXJnZXRfYnVja2V0X2lkXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X2hpdmV2YXJfZm9yX29jX3BhcmFtZXRlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
