@@ -6,6 +6,9 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1541147942448">
         <mark key="'" line="38" column="8" />
       </file>
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1541390368064">
+        <mark key="'" line="2580" column="2" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1539844493768">
         <mark key="'" line="117" column="48" />
       </file>
@@ -117,6 +120,10 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock/Expectation.pm" timestamp="1540964561894">
         <mark key="'" line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DMP/OfflineConverter.pm" timestamp="1541390336381">
+        <mark key="[" line="99" column="52" />
+        <mark key="]" line="99" column="58" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
       </file>
@@ -163,6 +170,12 @@
         <mark key="^" line="69" column="14" />
         <mark key="." line="69" column="14" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1541145891667">
+        <mark key="'" line="451" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1541389440408">
         <mark key="'" line="83" column="5" />
         <mark key="[" line="5" column="100" />
@@ -191,8 +204,11 @@
         <mark key="'" line="42" column="14" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ExperimentId.pm" timestamp="1541050030040" />
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541389314782">
-        <mark key="'" line="85" column="15" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541390338191">
+        <mark key="'" line="57" column="19" />
+        <mark key="[" line="50" column="51" />
+        <mark key="]" line="50" column="58" />
+        <mark key="." line="50" column="51" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
         <mark key="'" line="338" column="4" />
@@ -224,10 +240,14 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/spot_score/logical_flow/default.t" timestamp="1541036721721">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
-      <jump line="71" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="304" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/Role.pm" />
       <jump line="116" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
       <jump line="64" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
@@ -326,6 +346,8 @@
       <jump line="264" column="49" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="85" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
       <jump line="230" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="57" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" />
+      <jump line="2580" column="2" filename="$FOUT_HOME$/bid/config.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -337,8 +359,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAjIOWQjOS4gGJpZOOBi+OCieOBrmltcOOBrzHlm57jgZfjgYvjgqvjgqbjg7Pjg4jjgZfjgarjgYQKICAgIHJldHVybiBpZiAkc2VsZi0+cmVxLT5iaWRfZGF0YS0+e2lzX2NoYXJnZWR9OwoKICAgIG15ICRhZGdyb3VwX2lkID0gJHNlbGYtPnJlcS0+YmlkX2RhdGEtPnthZGdyb3VwX2lkfTsKICAgIG15ICRiaWRfaWQgPSAkc2VsZi0+cmVxLT5iaWRfZGF0YS0+e2JpZF9pZH07CiAgICBteSAkbm93ID0gJHNlbGYtPnJlcS0+bm93OwoKICAgICMgZm9yIGJpZGRpbmcgKGJpZCB1bml0IGNhbm5vdCByZWFkIENvb2tpZSkKCiAgICBldmFsIHsKICAgICAgICBtb2RlbHMoJ21lbWRfZGFpbHlfZnJlcXVlbmN5JyktPmluY3IoJHNlbGYtPmF1ZGllbmNlX2lkLCAkYWRncm91cF9pZCk7CiAgICB9OwogICAgbW9kZWxzKCdsb2dnZXInKS0+d2FybigkQCkgaWYgJEA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Dsp</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -353,13 +375,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>adgroup_frequency</text>
+        <text>Dsp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZ19kbHZfdHlwZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>新規Adjustor追加時</text>
+        <text>Standby</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIOWQjOS4gGJpZOOBi+OCieOBrmltcOOBrzHlm57jgZfjgYvjgqvjgqbjg7Pjg4jjgZfjgarjgYQKICAgIHJldHVybiBpZiAkc2VsZi0+cmVxLT5iaWRfZGF0YS0+e2lzX2NoYXJnZWR9OwoKICAgIG15ICRhZGdyb3VwX2lkID0gJHNlbGYtPnJlcS0+YmlkX2RhdGEtPnthZGdyb3VwX2lkfTsKICAgIG15ICRiaWRfaWQgPSAkc2VsZi0+cmVxLT5iaWRfZGF0YS0+e2JpZF9pZH07CiAgICBteSAkbm93ID0gJHNlbGYtPnJlcS0+bm93OwoKICAgICMgZm9yIGJpZGRpbmcgKGJpZCB1bml0IGNhbm5vdCByZWFkIENvb2tpZSkKCiAgICBldmFsIHsKICAgICAgICBtb2RlbHMoJ21lbWRfZGFpbHlfZnJlcXVlbmN5JyktPmluY3IoJHNlbGYtPmF1ZGllbmNlX2lkLCAkYWRncm91cF9pZCk7CiAgICB9OwogICAgbW9kZWxzKCdsb2dnZXInKS0+d2FybigkQCkgaWYgJEA7Cg==</text>
