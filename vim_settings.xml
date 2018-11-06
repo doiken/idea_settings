@@ -40,8 +40,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" timestamp="1540882118789">
         <mark key="'" line="11" column="21" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" timestamp="1541492908492">
-        <mark key="'" line="143" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" timestamp="1541493615112">
+        <mark key="'" line="126" column="21" />
         <mark key="[" line="166" column="32" />
         <mark key="]" line="166" column="40" />
         <mark key="^" line="166" column="40" />
@@ -557,10 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
-      <jump line="76" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
-      <jump line="18" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
       <jump line="37" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
       <jump line="1249" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -657,6 +653,10 @@
       <jump line="141" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
       <jump line="143" column="9" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
       <jump line="48" column="21" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
+      <jump line="27" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
+      <jump line="124" column="55" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
+      <jump line="125" column="22" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
+      <jump line="126" column="21" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -687,7 +687,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxid1w+</text>
+        <text encoding="base64">XDx0YXJnZXRfdGltZVw+</text>
       </register>
       <register name="0" type="4">
         <text>request_group_id</text>
@@ -735,9 +735,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxid1w+</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRfdGltZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxid1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRfdGltZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -820,6 +820,7 @@
         <entry encoding="base64">XDxfcnVuXD4=</entry>
         <entry encoding="base64">XDxSZWFkQmFja3dhcmRzXD4=</entry>
         <entry encoding="base64">XDxid1w+</entry>
+        <entry encoding="base64">XDx0YXJnZXRfdGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
