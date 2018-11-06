@@ -82,15 +82,6 @@
         <mark key="]" line="76" column="10" />
         <mark key="." line="76" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" timestamp="1541475074862">
-        <mark key="'" line="81" column="25" />
-        <mark key="j" line="47" column="18" />
-        <mark key="[" line="10" column="0" />
-        <mark key="m" line="47" column="18" />
-        <mark key="]" line="10" column="46" />
-        <mark key="n" line="47" column="18" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
         <mark key="'" line="261" column="9" />
       </file>
@@ -214,7 +205,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1540879856360">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1541495139653" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1541497484016">
+        <mark key="'" line="61" column="11" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1541492137544">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="27" />
@@ -321,7 +314,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="34" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1541402752143">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1541496985465">
         <mark key="'" line="47" column="30" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="14" />
@@ -356,6 +349,9 @@
         <mark key="'" line="16" column="49" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/API/Impl/ConversionReport.pm" timestamp="1541153133081" />
+      <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1541497953807">
+        <mark key="'" line="122" column="29" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
         <mark key="'" line="262" column="0" />
       </file>
@@ -385,8 +381,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
         <mark key="'" line="338" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1541402540839">
-        <mark key="'" line="99" column="15" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1541497692124">
+        <mark key="'" line="850" column="40" />
         <mark key="[" line="484" column="0" />
         <mark key="]" line="484" column="40" />
         <mark key="^" line="274" column="31" />
@@ -420,15 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
-      <jump line="45" column="16" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="31" column="9" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="33" column="13" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="36" column="9" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="40" column="23" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="6" column="16" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="9" column="21" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
-      <jump line="17" column="11" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
       <jump line="23" column="9" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
       <jump line="25" column="5" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
@@ -520,6 +507,15 @@
       <jump line="174" column="43" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
       <jump line="29" column="17" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
       <jump line="79" column="34" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
+      <jump line="122" column="29" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
+      <jump line="803" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="799" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="906" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="850" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
+      <jump line="205" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="245" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="76" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
+      <jump line="61" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -550,7 +546,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGFtcGVkXD4=</text>
+        <text>price</text>
       </register>
       <register name="0" type="4">
         <text>request_group_id</text>
@@ -598,12 +594,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGFtcGVkXD4=</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGFtcGVkXD4=</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -688,6 +684,8 @@
         <entry encoding="base64">XDxyZWFkX3NpemVcPg==</entry>
         <entry encoding="base64">XDxsaW5lc19yZWZcPg==</entry>
         <entry encoding="base64">XDxTdGFtcGVkXD4=</entry>
+        <entry encoding="base64">XDxwcmljZVw+</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
