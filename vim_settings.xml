@@ -345,10 +345,10 @@
         <mark key="^" line="15" column="88" />
         <mark key="." line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/splitrun_params.t" timestamp="1541475114814">
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/splitrun_params.t" timestamp="1541570616091">
         <mark key="'" line="22" column="5" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="22" column="15" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="93" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1541556874604">
@@ -397,6 +397,7 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" timestamp="1541570628014" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1541389440408">
         <mark key="'" line="83" column="5" />
         <mark key="[" line="5" column="100" />
@@ -456,7 +457,7 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541561206179">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1541570666886">
         <mark key="'" line="73" column="9" />
         <mark key="[" line="72" column="7" />
         <mark key="]" line="73" column="8" />
@@ -627,7 +628,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>INSERT INTO splitrun_exposures (bucket_id, percent) VALUES ($bucket_id, 1);</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -648,7 +649,7 @@
         <text encoding="base64">XDxzdGFydFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JHJvdy0+e3JlcXVlc3RfZ3JvdXBfaWR9</text>
+        <text>INSERT INTO splitrun_exposures (bucket_id, percent) VALUES ($bucket_id, 1);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG15ICRzdGFydCA9IHRpbWU7Cg==</text>
