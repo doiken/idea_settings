@@ -80,15 +80,15 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="166" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" timestamp="1541656963736">
-        <mark key="'" line="32" column="15" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" timestamp="1541660121393">
+        <mark key="'" line="25" column="12" />
         <mark key="j" line="47" column="18" />
-        <mark key="[" line="25" column="78" />
+        <mark key="[" line="26" column="67" />
         <mark key="m" line="47" column="18" />
-        <mark key="]" line="25" column="78" />
+        <mark key="]" line="26" column="68" />
         <mark key="n" line="47" column="18" />
-        <mark key="." line="25" column="78" />
-        <mark key="^" line="89" column="2" />
+        <mark key="." line="26" column="67" />
+        <mark key="^" line="26" column="61" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/Register.pm" timestamp="1541153555830" />
       <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1541565215868">
@@ -306,11 +306,12 @@
         <mark key="^" line="15" column="88" />
         <mark key="." line="15" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/splitrun_params.t" timestamp="1541570616091">
+      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/splitrun_params.t" timestamp="1541660224113">
         <mark key="'" line="22" column="5" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="93" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="49" column="6" />
+        <mark key="]" line="50" column="20" />
+        <mark key="." line="50" column="20" />
+        <mark key="^" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1541556874604">
         <mark key="'" line="387" column="11" />
@@ -450,8 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
-      <jump line="86" column="8" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
       <jump line="180" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
       <jump line="140" column="21" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
       <jump line="124" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/ReadBackwards.pm" />
@@ -550,6 +549,8 @@
       <jump line="45" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="1" column="51" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
       <jump line="2" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" />
+      <jump line="26" column="91" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
+      <jump line="25" column="12" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -562,7 +563,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGlmIGtleXMgJSRidWNrZXRzID4gMQ==</text>
+        <text>init_db_data</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -577,13 +578,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIGtleXMgJSRidWNrZXRzID4gMQ==</text>
+        <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZhdWx0X3ByaWNlc1w+</text>
+        <text encoding="base64">XDxidWNrZXRfaWRzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>price</text>
+        <text>init_db_data</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -628,9 +629,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZhdWx0X3ByaWNlc1w+</last-search>
+      <last-search encoding="base64">XDxidWNrZXRfaWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZhdWx0X3ByaWNlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxidWNrZXRfaWRzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -730,6 +731,7 @@
         <entry encoding="base64">XDx0YXJnZXRfdGltZVw+</entry>
         <entry encoding="base64">XDxtYXhfcmVhZF9zaXplXD4=</entry>
         <entry encoding="base64">XDxkZWZhdWx0X3ByaWNlc1w+</entry>
+        <entry encoding="base64">XDxidWNrZXRfaWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
