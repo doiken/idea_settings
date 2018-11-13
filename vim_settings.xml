@@ -360,8 +360,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542080438242">
-        <mark key="'" line="210" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542090436393">
+        <mark key="'" line="290" column="4" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="14" />
         <mark key="^" line="69" column="14" />
@@ -559,7 +559,6 @@
       <jump line="83" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="94" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="101" column="62" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
-      <jump line="290" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="1316" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="748" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/ContinuousBidInhibitor.pm" />
@@ -588,6 +587,7 @@
       <jump line="28" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="37" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="80" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="290" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -618,7 +618,7 @@
         <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</text>
+        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>init_db_data</text>
@@ -666,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -712,6 +712,7 @@
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2NvbnRyb2xfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
