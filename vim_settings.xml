@@ -408,8 +408,8 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542081145995">
-        <mark key="'" line="32" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542088365690">
+        <mark key="'" line="57" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CTROptimizationUpdater.pm" timestamp="1542018205895" />
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
@@ -573,7 +573,6 @@
       <jump line="210" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="116" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="75" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="34" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="37" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="80" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
@@ -588,6 +587,7 @@
       <jump line="155" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
       <jump line="179" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
       <jump line="4" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
+      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -618,7 +618,7 @@
         <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</text>
+        <text encoding="base64">XDxfa2V5X25hbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>init_db_data</text>
@@ -666,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</last-search>
+      <last-search encoding="base64">XDxfa2V5X25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5X25hbWVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -706,12 +706,12 @@
         <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxrZXlfbmFtZVw+</entry>
-        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2NvbnRyb2xfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</entry>
         <entry encoding="base64">XDxTRUVLX0VORFw+</entry>
         <entry encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
