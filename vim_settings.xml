@@ -244,6 +244,9 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="26" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1542087295793">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1541396133257">
         <mark key="'" line="116" column="4" />
         <mark key="[" line="101" column="4" />
@@ -251,6 +254,7 @@
         <mark key="^" line="101" column="3" />
         <mark key="." line="101" column="3" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Furl/HTTP.pm" timestamp="1542086840859" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock/Expectation.pm" timestamp="1540964561894">
         <mark key="'" line="0" column="8" />
       </file>
@@ -284,6 +288,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1542081166178">
         <mark key="'" line="166" column="7" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/CPVManualBoost.pm" timestamp="1542087119170" />
       <file name="$FOUT_HOME$/t/fout/bid/science/pctr_pcvr_boost.t" timestamp="1540784296888">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="13" column="36" />
@@ -310,6 +315,7 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
         <mark key="'" line="161" column="0" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IPC/Run.pm" timestamp="1542086928624" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/ModelId.pm" timestamp="1540446088244">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="5" column="11" />
@@ -416,6 +422,9 @@
         <mark key="." line="182" column="29" />
         <mark key="^" line="182" column="29" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" timestamp="1542086866189">
+        <mark key="'" line="179" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData/Touch.pm" timestamp="1542075443128" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539932149037">
         <mark key="'" line="42" column="14" />
@@ -479,14 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="12" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
-      <jump line="29" column="22" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
-      <jump line="43" column="38" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
-      <jump line="41" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
-      <jump line="27" column="40" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
-      <jump line="97" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="205" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="347" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="348" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="85" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
       <jump line="118" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
@@ -579,6 +580,14 @@
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
       <jump line="166" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
+      <jump line="153" column="26" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="161" column="29" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="166" column="5" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="182" column="23" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="178" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="155" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="179" column="0" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" />
+      <jump line="4" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -609,7 +618,7 @@
         <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</text>
+        <text encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</text>
       </register>
       <register name="0" type="4">
         <text>init_db_data</text>
@@ -657,9 +666,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</last-search>
+      <last-search encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -701,6 +710,8 @@
         <entry encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2NvbnRyb2xfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</entry>
+        <entry encoding="base64">XDxTRUVLX0VORFw+</entry>
+        <entry encoding="base64">XDxfaW5pdF9zZWVrX2NvbnN0YW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
