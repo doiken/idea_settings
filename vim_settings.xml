@@ -90,6 +90,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1542078806241">
         <mark key="'" line="40" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate.pm" timestamp="1542081224497" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/PCTRPercentilesEstimation.pm" timestamp="1540463715445">
         <mark key="'" line="109" column="6" />
         <mark key="[" line="67" column="37" />
@@ -130,7 +131,7 @@
         <mark key="^" line="8" column="74" />
         <mark key="." line="8" column="74" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1542017982604">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1542080388669">
         <mark key="'" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
@@ -280,8 +281,8 @@
         <mark key="'" line="48" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/masterjp/Users.scala" timestamp="1542076510832" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1540954459577">
-        <mark key="'" line="10" column="55" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1542081166178">
+        <mark key="'" line="166" column="7" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/pctr_pcvr_boost.t" timestamp="1540784296888">
         <mark key="'" line="29" column="28" />
@@ -353,8 +354,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542077174563">
-        <mark key="'" line="290" column="26" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542080438242">
+        <mark key="'" line="210" column="4" />
         <mark key="[" line="69" column="15" />
         <mark key="]" line="69" column="14" />
         <mark key="^" line="69" column="14" />
@@ -367,7 +368,7 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="100" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1542079505113">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1542080390614">
         <mark key="'" line="451" column="19" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="12" />
@@ -401,8 +402,8 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542075335021">
-        <mark key="'" line="16" column="49" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542081145995">
+        <mark key="'" line="32" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdScoring/CTROptimizationUpdater.pm" timestamp="1542018205895" />
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
@@ -450,7 +451,7 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1542078176457">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1542080496032">
         <mark key="'" line="1267" column="0" />
         <mark key="[" line="484" column="0" />
         <mark key="]" line="484" column="40" />
@@ -478,22 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="15" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" />
-      <jump line="122" column="34" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="1" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="26" column="5" filename="$FOUT_HOME$/t/fout/log/bid/segment_expander-2005.t" />
-      <jump line="20" column="4" filename="$FOUT_HOME$/t/fout/log/bid/segment_expander-2005.t" />
-      <jump line="21" column="1" filename="$FOUT_HOME$/t/fout/log/bid/segment_expander-2005.t" />
-      <jump line="22" column="4" filename="$FOUT_HOME$/t/fout/log/bid/segment_expander-2005.t" />
-      <jump line="40" column="26" filename="$FOUT_HOME$/t/fout/log/bid/segment_expander-2005.t" />
-      <jump line="246" column="0" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
-      <jump line="76" column="2" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
-      <jump line="22" column="0" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
-      <jump line="19" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="130" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="139" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="149" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="158" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="60" column="12" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
       <jump line="29" column="22" filename="$FOUT_HOME$/lib/FOut/Logger/FileStamped.pm" />
       <jump line="43" column="38" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
@@ -578,6 +563,22 @@
       <jump line="1316" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="748" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/ContinuousBidInhibitor.pm" />
+      <jump line="220" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="222" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="318" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="317" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="223" column="45" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="193" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="210" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="116" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="75" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="34" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="37" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="80" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="19" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
+      <jump line="166" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -608,7 +609,7 @@
         <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNfYmlkZGFibGVfdXNlcl9pZFw+</text>
+        <text encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</text>
       </register>
       <register name="0" type="4">
         <text>init_db_data</text>
@@ -656,9 +657,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNfYmlkZGFibGVfdXNlcl9pZFw+</last-search>
+      <last-search encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNfYmlkZGFibGVfdXNlcl9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -693,6 +694,13 @@
         <entry encoding="base64">XDxfaGRiX2tleVw+</entry>
         <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
         <entry encoding="base64">XDxfaXNfYmlkZGFibGVfdXNlcl9pZFw+</entry>
+        <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxrZXlfbmFtZVw+</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
+        <entry encoding="base64">XDxfdmFsaWRhdGVfY29lZmZpY2llbnRcPg==</entry>
+        <entry encoding="base64">XDxfZHJvcF9yYXRlX2NvbnRyb2xfY29lZmZpY2llbnRcPg==</entry>
+        <entry encoding="base64">XDxfZHJvcF9yYXRlX2ltcGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
