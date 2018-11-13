@@ -70,8 +70,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
         <mark key="'" line="61" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1541582215728">
-        <mark key="'" line="12" column="32" />
+      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1542102204470">
+        <mark key="'" line="136" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542076768918" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1541065718211">
@@ -189,8 +189,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1542079501522">
-        <mark key="'" line="748" column="22" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1542102252787">
+        <mark key="'" line="1804" column="43" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/Ad.pm" timestamp="1542075821605" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542092980762">
@@ -231,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="23" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="154" column="8" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="167" column="50" filename="$FOUT_HOME$/lib/FOut/Log/Bid/Abstract.pm" />
-      <jump line="140" column="11" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
-      <jump line="104" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
       <jump line="143" column="18" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/File/Stamped.pm" />
       <jump line="1" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="81" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
@@ -331,6 +326,11 @@
       <jump line="35" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="12" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/LogicalFlow/Default.pm" />
+      <jump line="136" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
+      <jump line="1793" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1799" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1801" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="1804" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -361,7 +361,7 @@
         <text>, value=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcG5faWRcPg==</text>
+        <text encoding="base64">XDxhZXhfc2VnbWVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>init_db_data</text>
@@ -409,9 +409,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcG5faWRcPg==</last-search>
+      <last-search encoding="base64">XDxhZXhfc2VnbWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcG5faWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhZXhfc2VnbWVudFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -461,6 +461,8 @@
         <entry encoding="base64">XDxjb2VmZmljaWVudFw+</entry>
         <entry encoding="base64">XDxfZHJvcF9yYXRlX2NvbnRyb2xfY29lZmZpY2llbnRcPg==</entry>
         <entry encoding="base64">XDxjcG5faWRcPg==</entry>
+        <entry encoding="base64">XDxfZmlsbF9zZWdtZW50X2xpc3RcPg==</entry>
+        <entry encoding="base64">XDxhZXhfc2VnbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
