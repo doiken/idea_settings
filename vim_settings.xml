@@ -432,8 +432,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542177706662">
-        <mark key="'" line="301" column="41" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1542184188918">
+        <mark key="'" line="214" column="4" />
         <mark key="[" line="225" column="0" />
         <mark key="]" line="225" column="54" />
         <mark key="^" line="300" column="36" />
@@ -646,7 +646,6 @@
       <jump line="55" column="58" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="159" column="30" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="315" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="214" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="213" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="26" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="30" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
@@ -687,6 +686,7 @@
       <jump line="161" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="166" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="8" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
+      <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,7 +717,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2JpZFw+</text>
+        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -765,9 +765,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2JpZFw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2JpZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +818,6 @@
         <entry encoding="base64">XDxiaWRcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
-        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxpc19saW5lXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2J1eWluZ1w+</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9jcGNfdGFjX3JhdGVfbG9jYXJpXD4=</entry>
@@ -831,6 +830,7 @@
         <entry encoding="base64">XDxfZ2V0X2NvZWZmaWNpZW50XD4=</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
