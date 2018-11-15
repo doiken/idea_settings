@@ -169,8 +169,8 @@
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542262783186">
-        <mark key="'" line="1181" column="10" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542273376224">
+        <mark key="'" line="1141" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1541065718211">
         <mark key="'" line="8" column="63" />
@@ -542,14 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/dynamicmargin.t" />
-      <jump line="82" column="139" filename="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" />
-      <jump line="12" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="14" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="15" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="18" column="52" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="19" column="21" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
       <jump line="26" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" />
       <jump line="189" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="9" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
@@ -642,6 +634,14 @@
       <jump line="484" column="25" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" />
       <jump line="485" column="20" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" />
       <jump line="481" column="10" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" />
+      <jump line="1821" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1787" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1847" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1583" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1194" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="356" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="376" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1141" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +672,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaWRcPg==</text>
+        <text encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -720,9 +720,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaWRcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -793,6 +793,14 @@
         <entry encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</entry>
         <entry encoding="base64">XDxfaW5pdF9kYW9fYXV0b19iaWRcPg==</entry>
         <entry encoding="base64">XDxwaWRcPg==</entry>
+        <entry encoding="base64">XDxfcHV0X29uZV9pbnRvX2ludmVydGVkSW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxwdXRfaW50b19pbnZlcnRlZEluZGV4XD4=</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfV09SRFw+</entry>
+        <entry encoding="base64">XDxtYWtlX2JpZF9pbmRleF9ieV9iX3R5cGVcPg==</entry>
+        <entry encoding="base64">XDxiaWRfaW52ZXJ0ZWRfaW5kZXhcPg==</entry>
+        <entry encoding="base64">XDxfcGFja19kb21haW5fZmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxkdW1wX2ZpbHRlcl9kb21haW5cPg==</entry>
+        <entry encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
