@@ -264,6 +264,9 @@
         <mark key="^" line="5" column="46" />
         <mark key="." line="5" column="46" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1542247005016">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/dynamicmargin.t" timestamp="1542166828953">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="8" column="0" />
@@ -321,11 +324,6 @@
         <mark key="]" line="45" column="12" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bids_price_calculator.t" timestamp="1542163690228">
-        <mark key="[" line="15" column="108" />
-        <mark key="]" line="15" column="108" />
-        <mark key="." line="15" column="108" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" timestamp="1542167474171">
         <mark key="'" line="26" column="4" />
         <mark key="[" line="84" column="77" />
@@ -340,8 +338,12 @@
         <mark key="^" line="5" column="114" />
         <mark key="." line="5" column="114" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1542102252787">
-        <mark key="'" line="1804" column="43" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1542247412900">
+        <mark key="'" line="176" column="4" />
+        <mark key="[" line="322" column="4" />
+        <mark key="]" line="322" column="3" />
+        <mark key="^" line="322" column="3" />
+        <mark key="." line="322" column="3" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/pricing/logical_flow/bucket169.t" timestamp="1540784196600">
         <mark key="'" line="22" column="28" />
@@ -432,15 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="40" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="35" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
-      <jump line="12" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/LogicalFlow/Default.pm" />
-      <jump line="136" column="4" filename="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" />
-      <jump line="1793" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1799" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="1801" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1804" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="51" column="0" filename="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" />
       <jump line="29" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
@@ -532,6 +525,15 @@
       <jump line="2170" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2150" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1181" column="10" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="211" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="145" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="320" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="378" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="322" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" />
+      <jump line="359" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="176" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -562,7 +564,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX2FkZ3JvdXBfaW5mb1w+</text>
+        <text encoding="base64">XDxfaW5pdF9kYW9fYXV0b19iaWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -610,9 +612,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX2FkZ3JvdXBfaW5mb1w+</last-search>
+      <last-search encoding="base64">XDxfaW5pdF9kYW9fYXV0b19iaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX2FkZ3JvdXBfaW5mb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfaW5pdF9kYW9fYXV0b19iaWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -679,6 +681,9 @@
         <entry>network</entry>
         <entry encoding="base64">XDxjb2xzXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2FkZ3JvdXBfaW5mb1w+</entry>
+        <entry encoding="base64">XDxkYW9fYXV0b19iaWRcPg==</entry>
+        <entry encoding="base64">XDxfYXV0b19iaWRfaXNfc2tpcHBlZFw+</entry>
+        <entry encoding="base64">XDxfaW5pdF9kYW9fYXV0b19iaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
