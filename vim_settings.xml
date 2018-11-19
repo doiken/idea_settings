@@ -169,8 +169,12 @@
         <mark key="." line="326" column="20" />
         <mark key="^" line="326" column="20" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542273376224">
-        <mark key="'" line="1141" column="23" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542593633402">
+        <mark key="'" line="1494" column="13" />
+        <mark key="[" line="1993" column="0" />
+        <mark key="]" line="1993" column="0" />
+        <mark key="^" line="1993" column="0" />
+        <mark key="." line="1993" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1541065718211">
         <mark key="'" line="8" column="63" />
@@ -542,11 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" />
-      <jump line="189" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="9" column="39" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="316" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="250" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="246" column="54" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="245" column="59" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="237" column="63" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -642,6 +641,11 @@
       <jump line="356" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="376" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1141" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1407" column="68" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1409" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1410" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1423" column="70" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1494" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -672,7 +676,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</text>
+        <text encoding="base64">XDxkbHZfcGFja2FnZV9uZXR3b3Jrc19tYXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -720,9 +724,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</last-search>
+      <last-search encoding="base64">XDxkbHZfcGFja2FnZV9uZXR3b3Jrc19tYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkbHZfcGFja2FnZV9uZXR3b3Jrc19tYXBcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -801,6 +805,7 @@
         <entry encoding="base64">XDxfcGFja19kb21haW5fZmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxkdW1wX2ZpbHRlcl9kb21haW5cPg==</entry>
         <entry encoding="base64">XDxjaGVja19jcF9zY2hlZHVsZVw+</entry>
+        <entry encoding="base64">XDxkbHZfcGFja2FnZV9uZXR3b3Jrc19tYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
