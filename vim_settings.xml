@@ -47,7 +47,7 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1541147787971">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="$FOUT_HOME$/config.yaml" timestamp="1542263738290" />
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1543300889593" />
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1541402756735">
         <mark key="'" line="207" column="28" />
       </file>
@@ -325,8 +325,8 @@
         <mark key="." line="322" column="3" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/Ad.pm" timestamp="1542075821605" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1542611902449">
-        <mark key="'" line="41" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" timestamp="1543301263890">
+        <mark key="'" line="58" column="4" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="56" />
         <mark key="." line="64" column="4" />
@@ -470,7 +470,6 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" />
       <jump line="26" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
       <jump line="27" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
-      <jump line="58" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="41" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="19" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="225" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -478,6 +477,7 @@
       <jump line="23" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="335" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="22" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" />
+      <jump line="58" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -508,7 +508,7 @@
         <text encoding="base64">PWhlYWQyIEM8PCBteSAkYm9vbCA9IHNob3VsZF9jaGFyZ2VfYXRfaW1wKCRjaGFyZ2VfdHlwZSwgJGJpbGxpbmdfdHlwZSkgPj4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19sYXlhcHBfc2VnbWVudF9zb3VyY2VfYmlkXD4=</text>
+        <text encoding="base64">XDxfa2V5X25hbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -556,9 +556,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19sYXlhcHBfc2VnbWVudF9zb3VyY2VfYmlkXD4=</last-search>
+      <last-search encoding="base64">XDxfa2V5X25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19sYXlhcHBfc2VnbWVudF9zb3VyY2VfYmlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5X25hbWVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -643,10 +643,10 @@
         <entry encoding="base64">XDxvcmlnaW5hbF9wcmljZV9ncm9zc19iaWRkZWRcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2R5bmFtaWNtYXJnaW5fYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxkcm9wX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NvZWZmaWNpZW50XD4=</entry>
         <entry encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</entry>
         <entry encoding="base64">XDxpc19sYXlhcHBfc2VnbWVudF9zb3VyY2VfYmlkXD4=</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
