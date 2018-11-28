@@ -234,8 +234,8 @@
         <mark key="^" line="25" column="11" />
       </file>
       <file name="$FOUT_HOME$/config/common/science.yaml" timestamp="1542187783342" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1541401803389">
-        <mark key="'" line="121" column="21" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
+        <mark key="'" line="154" column="32" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" timestamp="1541139028160">
         <mark key="'" line="310" column="4" />
@@ -419,8 +419,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543390316606">
-        <mark key="'" line="214" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543396114095">
+        <mark key="'" line="46" column="36" />
         <mark key="[" line="182" column="35" />
         <mark key="]" line="182" column="35" />
         <mark key="." line="182" column="35" />
@@ -535,7 +535,7 @@
         <mark key="^" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1542599459485">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1543395886408">
         <mark key="'" line="799" column="12" />
         <mark key="[" line="484" column="0" />
         <mark key="]" line="484" column="40" />
@@ -548,8 +548,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1539850909836">
         <mark key="'" line="177" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1543377768938">
-        <mark key="'" line="63" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1543395868471">
+        <mark key="'" line="251" column="12" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
@@ -563,11 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="190" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="299" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="20" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="191" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="302" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="301" column="41" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="63" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
@@ -663,6 +658,11 @@
       <jump line="42" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="58" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="251" column="12" filename="$FOUT_HOME$/lib/FOut/AD/Request.pm" />
+      <jump line="97" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="153" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
+      <jump line="154" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" />
+      <jump line="46" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -693,7 +693,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
+        <text encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -741,9 +741,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -838,6 +838,8 @@
         <entry encoding="base64">XDxrZXlfbmFtZVw+</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxtYXJnaW5cPg==</entry>
+        <entry encoding="base64">XDxjaGFyZ2VfdXBwZXJfYm91bmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
