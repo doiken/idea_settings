@@ -111,7 +111,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1542102204470">
         <mark key="'" line="136" column="4" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1542595913574">
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1543372186912">
         <mark key="'" line="300" column="24" />
         <mark key="[" line="423" column="12" />
         <mark key="]" line="423" column="12" />
@@ -244,11 +244,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543370790185">
-        <mark key="'" line="294" column="4" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543371945001">
+        <mark key="'" line="214" column="4" />
+        <mark key="[" line="182" column="35" />
+        <mark key="]" line="182" column="35" />
+        <mark key="." line="182" column="35" />
+        <mark key="^" line="182" column="35" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" timestamp="1542178195266">
         <mark key="'" line="166" column="22" />
@@ -421,8 +422,8 @@
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/AdServer/GoogleAdExchange/Constants.pm" />
       <jump line="408" column="56" filename="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" />
       <jump line="408" column="3" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="294" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -434,8 +435,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -450,10 +451,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PWhlYWQyIEM8PCBteSAkYm9vbCA9IHNob3VsZF9jaGFyZ2VfYXRfaW1wKCRjaGFyZ2VfdHlwZSwgJGJpbGxpbmdfdHlwZSkgPj4=</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</text>
+        <text encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -501,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +591,8 @@
         <entry encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</entry>
         <entry encoding="base64">XDxpc19sYXlhcHBfc2VnbWVudF9zb3VyY2VfYmlkXD4=</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
