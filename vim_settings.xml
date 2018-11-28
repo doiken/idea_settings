@@ -244,8 +244,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543373561039">
-        <mark key="'" line="51" column="35" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543374382260">
+        <mark key="'" line="263" column="4" />
         <mark key="[" line="182" column="35" />
         <mark key="]" line="182" column="35" />
         <mark key="." line="182" column="35" />
@@ -324,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="799" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="15" column="23" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="62" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
@@ -418,12 +417,13 @@
       <jump line="408" column="3" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="294" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="214" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="263" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="177" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="523" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="43" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="93" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="51" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="253" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="177" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="523" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="43" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="263" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -454,7 +454,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</text>
+        <text encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -502,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -592,9 +592,10 @@
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X2Nwdl9iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
