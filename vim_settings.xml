@@ -183,8 +183,8 @@
         <mark key="." line="423" column="12" />
         <mark key="^" line="423" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1542594326974">
-        <mark key="'" line="1494" column="13" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1543473106854">
+        <mark key="'" line="404" column="5" />
         <mark key="[" line="1993" column="0" />
         <mark key="]" line="1993" column="0" />
         <mark key="^" line="1993" column="0" />
@@ -418,7 +418,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543471335710">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543472993080">
         <mark key="'" line="224" column="12" />
         <mark key="[" line="182" column="35" />
         <mark key="]" line="182" column="35" />
@@ -562,8 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="161" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="166" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="8" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="49" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
@@ -662,6 +660,8 @@
       <jump line="19" column="78" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" />
       <jump line="25" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" />
       <jump line="224" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="403" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="404" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -692,7 +692,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</text>
+        <text encoding="base64">XDxzdGhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -740,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-search>
+      <last-search encoding="base64">XDxzdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGhcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -841,6 +841,7 @@
         <entry encoding="base64">XDxkcm9wX3JhdGVfcHJlZGljdG9yXD4=</entry>
         <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
+        <entry encoding="base64">XDxzdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
