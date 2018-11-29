@@ -91,6 +91,7 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Review/Sender/Hike.pm" timestamp="1542075705113" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/Prefork.pm" timestamp="1542259592713" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/CPVActualKpiBoost.pm" timestamp="1543463663492" />
       <file name="$FOUT_HOME$/t/fout/split_run/params_set.t" timestamp="1540783221641">
         <mark key="'" line="10" column="36" />
         <mark key="[" line="10" column="44" />
@@ -250,6 +251,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
         <mark key="'" line="43" column="6" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
+        <mark key="'" line="25" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" timestamp="1543384453970">
         <mark key="'" line="19" column="16" />
       </file>
@@ -335,7 +339,7 @@
         <mark key="'" line="48" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/masterjp/Users.scala" timestamp="1542076510832" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543463055310">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543464033460">
         <mark key="'" line="20" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/CPVManualBoost.pm" timestamp="1542087119170" />
@@ -558,9 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="184" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
-      <jump line="29" column="4" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="77" column="18" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="156" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
       <jump line="161" column="22" filename="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" />
@@ -658,6 +659,9 @@
       <jump line="16" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DropRateControlRole.pm" />
       <jump line="149" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="151" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="18" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" />
+      <jump line="19" column="78" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" />
+      <jump line="25" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -688,7 +692,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wX3JhdGVfcHJlZGljdG9yXD4=</text>
+        <text encoding="base64">XDx0YWNfcmF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>make_bid()</text>
@@ -736,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcm9wX3JhdGVfcHJlZGljdG9yXD4=</last-search>
+      <last-search encoding="base64">XDx0YWNfcmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wX3JhdGVfcHJlZGljdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWNfcmF0ZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -826,7 +830,6 @@
         <entry encoding="base64">XDxfZ2V0X2RlZmF1bHRfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
-        <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxrZXlfbmFtZVw+</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
@@ -837,6 +840,7 @@
         <entry encoding="base64">XDxzcGxpdHJ1bl9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxkcm9wX3JhdGVfcGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxkcm9wX3JhdGVfcHJlZGljdG9yXD4=</entry>
+        <entry encoding="base64">XDx0YWNfcmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
