@@ -270,8 +270,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543557504138">
-        <mark key="'" line="18" column="47" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543558498167">
+        <mark key="'" line="314" column="4" />
         <mark key="[" line="287" column="56" />
         <mark key="]" line="287" column="66" />
         <mark key="." line="182" column="35" />
@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4215" column="19" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="4226" column="41" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="4227" column="10" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="4228" column="10" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
@@ -455,12 +454,13 @@
       <jump line="71" column="56" filename="$USER_HOME$/Documents/fout_logs/t/fout/logs/splitrun_params.t" />
       <jump line="242" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
-      <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="237" column="55" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="220" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="219" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="236" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="18" column="47" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="314" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -491,7 +491,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</text>
+        <text encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRkYjEtPmNvbW1pdDsK</text>
@@ -539,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</last-search>
+      <last-search encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -640,7 +640,6 @@
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2R5bmFtaWNtYXJnaW5fYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfcHJlZGljdGVkX2RlbW9ncmFwaGljc1w+</entry>
         <entry encoding="base64">XDxkYlw+</entry>
         <entry>attr</entry>
@@ -648,9 +647,10 @@
         <entry>cache</entry>
         <entry encoding="base64">XDxhdHRyXD4=</entry>
         <entry encoding="base64">XDxTcGxpdHJ1blBhcmFtc1w+</entry>
-        <entry encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxzZWdtZW50X3NvdXJjZV9zdWZmaXhcPg==</entry>
         <entry encoding="base64">XDxnZXRfc2VnbWVudF9zb3VyY2Vfc3VmZml4XD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
