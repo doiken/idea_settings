@@ -157,8 +157,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543988429671">
-        <mark key="'" line="243" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543990713021">
+        <mark key="'" line="187" column="36" />
         <mark key="[" line="450" column="0" />
         <mark key="]" line="450" column="3" />
         <mark key="." line="10" column="0" />
@@ -251,8 +251,8 @@
         <mark key="'" line="52" column="4" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1543987746350">
-        <mark key="'" line="53" column="8" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1543990339456">
+        <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
         <mark key="'" line="45" column="55" />
@@ -341,7 +341,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/ProfitRate.pm" timestamp="1543987825507" />
     </filemarks>
     <jumps>
-      <jump line="2804" column="43" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="109" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="42" column="11" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/DBIx/Sunny.pm" />
       <jump line="32" column="51" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
@@ -405,7 +404,6 @@
       <jump line="22" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="95" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="0" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
-      <jump line="187" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="243" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="28" column="27" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="220" column="33" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
@@ -441,6 +439,8 @@
       <jump line="49" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
+      <jump line="41" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="187" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
