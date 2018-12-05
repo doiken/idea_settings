@@ -157,7 +157,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543571277337">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1543988429671">
         <mark key="'" line="243" column="4" />
         <mark key="[" line="450" column="0" />
         <mark key="]" line="450" column="3" />
@@ -170,12 +170,6 @@
         <mark key="]" line="252" column="68" />
         <mark key="^" line="252" column="89" />
         <mark key="." line="252" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/SplitrunParams.pm" timestamp="1543483969465">
-        <mark key="'" line="61" column="5" />
-        <mark key="j" line="47" column="18" />
-        <mark key="m" line="47" column="18" />
-        <mark key="n" line="47" column="18" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
         <mark key="'" line="261" column="9" />
@@ -253,12 +247,12 @@
         <mark key="^" line="33" column="105" />
         <mark key="." line="33" column="105" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1543987169022">
-        <mark key="'" line="17" column="42" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1543988124859">
+        <mark key="'" line="52" column="4" />
         <mark key="^" line="38" column="9" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1543477098069">
-        <mark key="'" line="1" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1543987746350">
+        <mark key="'" line="53" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
         <mark key="'" line="45" column="55" />
@@ -344,12 +338,9 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/ProfitRate.pm" timestamp="1543987825507" />
     </filemarks>
     <jumps>
-      <jump line="568" column="12" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="569" column="37" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="573" column="44" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
-      <jump line="673" column="59" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="2804" column="43" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBI.pm" />
       <jump line="109" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" />
       <jump line="42" column="11" filename="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/DBIx/Sunny.pm" />
@@ -394,7 +385,6 @@
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="36" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="37" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
-      <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="268" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="49" column="50" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="16" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -446,6 +436,11 @@
       <jump line="16" column="42" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="49" column="4" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="66" column="43" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
+      <jump line="31" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="40" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="49" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="52" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -476,7 +471,7 @@
         <text encoding="base64">KCRjb250ZXh0LT5yZnBfbmV0d29ya19pZCk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3RlZF9saW5lX3RhY19yYXRlXD4=</text>
+        <text encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>$dlv_package_id</text>
@@ -524,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBlY3RlZF9saW5lX3RhY19yYXRlXD4=</last-search>
+      <last-search encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3RlZF9saW5lX3RhY19yYXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +535,6 @@
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxDUENcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfY3BjX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxMQ1BDVGFjUmF0ZUNvZWZcPg==</entry>
         <entry encoding="base64">XDxGT19TQ0lFTkNFX0NPTkZcPg==</entry>
@@ -564,6 +558,10 @@
         <entry>lay</entry>
         <entry encoding="base64">XDxhZ19kbHZfcGFja2FnZV9pZFw+</entry>
         <entry encoding="base64">XDxleHBlY3RlZF9saW5lX3RhY19yYXRlXD4=</entry>
+        <entry encoding="base64">XDxtYXhfcHJcPg==</entry>
+        <entry encoding="base64">XDxkYW9cPg==</entry>
+        <entry encoding="base64">XDxwcm9maXRfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X3ByX2NvbnNpZGVyZWRfdGFjX3JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
