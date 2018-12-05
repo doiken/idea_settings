@@ -195,6 +195,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" timestamp="1544002760818">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="44" />
+        <mark key="." line="14" column="44" />
+        <mark key="^" line="14" column="44" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1542164706428">
         <mark key="'" line="29" column="32" />
       </file>
@@ -273,11 +279,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544000965408">
-        <mark key="'" line="188" column="123" />
-        <mark key="[" line="189" column="51" />
-        <mark key="]" line="189" column="52" />
-        <mark key="." line="189" column="52" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544002479489">
+        <mark key="'" line="189" column="93" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="56" />
         <mark key="^" line="189" column="52" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" timestamp="1542178195266">
@@ -294,12 +299,12 @@
         <mark key="." line="505" column="0" />
         <mark key="^" line="505" column="0" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" timestamp="1542167474171">
+      <file name="$FOUT_HOME$/t/fout/bid/algorithm/dynamicmargin/logical_flow/default.t" timestamp="1544002706829">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="84" column="77" />
-        <mark key="]" line="84" column="95" />
-        <mark key="^" line="75" column="80" />
-        <mark key="." line="84" column="77" />
+        <mark key="[" line="80" column="77" />
+        <mark key="]" line="80" column="77" />
+        <mark key="^" line="74" column="80" />
+        <mark key="." line="80" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
@@ -355,8 +360,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/ProfitRate.pm" timestamp="1543987825507" />
     </filemarks>
     <jumps>
-      <jump line="14" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="54" column="6" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="181" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="36" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
@@ -455,6 +458,8 @@
       <jump line="243" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="188" column="123" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="54" column="4" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-dynamicMargin.t" />
+      <jump line="5" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="189" column="93" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -467,7 +472,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>2</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -482,16 +487,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</text>
+        <text encoding="base64">XDxETFZfUEFDS0FHRV9JRF9SRURcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JG9wdC0+e29iamVjdH0s</text>
+        <text>, undef, undef, 2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2ltcHJlc3Npb24nfSk7Cg==</text>
+        <text encoding="base64">dXNlIEZPdXQ6OkRsdlBhY2thZ2VzOjpDb25zdGFudHMgcXcoRExWX1BBQ0tBR0VfSURfUkVEKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -502,40 +507,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAxfSk7Cg==</text>
+        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2ltcHJlc3Npb24nfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2NwYSd9KTsK</text>
+        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAxfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2NwYyd9KTsK</text>
+        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2NwYSd9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICB3YXJuIER1bXBlciAkYmlkOwo=</text>
+        <text encoding="base64">ICAgIG15ICRiaWQgPSBtYWtlX2JpZCh7YmlsbGluZyA9PiAwLCBvYmplY3QgPT4gJ2NwYyd9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3ViIG1ha2VfYmlkIHsKICAgIG15ICglb3B0KSA9IEBfOwogICAgK3sKICAgIH0KfQoK</text>
+        <text encoding="base64">ICAgIHVzZSBEYXRhOjpEdW1wZXI7CiAgICB3YXJuIER1bXBlciAkYmlkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaWRfZGF0YSA9PiAreyBhZ19kbHZfcGFja2FnZV9pZCA9PiAkb3B0e2Rsdl9wYWNrYWdlX2lkfSB9Cg==</text>
+        <text encoding="base64">c3ViIG1ha2VfYmlkIHsKICAgIG15ICglb3B0KSA9IEBfOwogICAgK3sKICAgIH0KfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZPdXQ6OkJpZDo6Q29udGV4dC0+bmV3KGFkc2VydmVyX25hbWUgPT4gJ2ZyZWFrb3V0JywgJW9wdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaWRfZGF0YSA9PiAreyBhZ19kbHZfcGFja2FnZV9pZCA9PiAkb3B0e2Rsdl9wYWNrYWdlX2lkfSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZPdXQ6OkJpZDo6Q29udGV4dC0+bmV3KGFkc2VydmVyX25hbWUgPT4gJ2ZyZWFrb3V0JywgJW9wdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxETFZfUEFDS0FHRV9JRF9SRURcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxETFZfUEFDS0FHRV9JRF9SRURcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -582,6 +587,8 @@
         <entry encoding="base64">XDxtYWtlX2JpZFw+</entry>
         <entry encoding="base64">XDxkbHZfcGFja2FnZV9pZFw+</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxETFZfUEFDS0FHRV9JRF9SRURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
