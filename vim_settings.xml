@@ -58,6 +58,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" timestamp="1541152210818">
         <mark key="'" line="74" column="7" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CPCLINELowerBound.pm" timestamp="1544091321693" />
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-infeed_video.t" timestamp="1544067650374">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="56" />
@@ -97,10 +98,6 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1541411387332">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-rfp.t" timestamp="1544067677423">
-        <mark key="'" line="43" column="25" />
-        <mark key="^" line="35" column="21" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1544068122306">
         <mark key="'" line="67" column="0" />
@@ -364,8 +361,8 @@
         <mark key="^" line="13" column="66" />
         <mark key="." line="13" column="66" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1543996188298">
-        <mark key="'" line="56" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1544091074490">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1544084298629" />
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
@@ -384,7 +381,7 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1543977717906">
         <mark key="'" line="188" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1544081771164">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1544091216959">
         <mark key="'" line="268" column="4" />
         <mark key="^" line="269" column="27" />
       </file>
@@ -403,7 +400,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/ProfitRate.pm" timestamp="1543987825507" />
     </filemarks>
     <jumps>
-      <jump line="187" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="94" column="60" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
       <jump line="18" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="23" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
@@ -503,6 +499,7 @@
       <jump line="238" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="292" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
