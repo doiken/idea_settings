@@ -9,8 +9,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
       </file>
-      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1541390368064">
+      <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1544079554322">
         <mark key="'" line="2580" column="2" />
+        <mark key="[" line="762" column="23" />
+        <mark key="]" line="762" column="11" />
+        <mark key="^" line="762" column="11" />
+        <mark key="." line="762" column="11" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/ChargeTypeUtil.pm" timestamp="1542610064969">
         <mark key="'" line="0" column="0" />
@@ -308,11 +312,12 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544002479489">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544080212932">
         <mark key="'" line="189" column="93" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="189" column="52" />
+        <mark key="[" line="220" column="68" />
+        <mark key="]" line="220" column="68" />
+        <mark key="^" line="220" column="58" />
+        <mark key="." line="220" column="68" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" timestamp="1542178195266">
         <mark key="'" line="166" column="22" />
@@ -508,8 +513,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS41IiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4yIiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4xX3NwX3J0Z19sYXlhcHAiID0+ICRleHRyZW1lbHlfaGlnaF90YWNyYXRlLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
+      <register name="&quot;" type="4">
+        <text>_tac_rate</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -524,13 +529,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>_tac_rate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxza2lwX2NyZWF0aXZlX3NjcmVlbmluZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>DLV_PACKAGE_ID_RED</text>
+        <text>$dlv_package_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS41IiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4yIiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4xX3NwX3J0Z19sYXlhcHAiID0+ICRleHRyZW1lbHlfaGlnaF90YWNyYXRlLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
