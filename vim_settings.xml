@@ -99,6 +99,13 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1541411387332">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-rfp.t" timestamp="1544146432274">
+        <mark key="'" line="43" column="25" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="51" />
+        <mark key="^" line="56" column="51" />
+        <mark key="." line="56" column="51" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1544068122306">
         <mark key="'" line="67" column="0" />
       </file>
@@ -134,6 +141,13 @@
         <mark key="^" line="33" column="105" />
         <mark key="." line="33" column="105" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1544147408168">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="80" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
         <mark key="'" line="45" column="55" />
       </file>
@@ -143,7 +157,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" timestamp="1540456177119">
         <mark key="'" line="69" column="36" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544069211690">
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544146386202">
         <mark key="'" line="212" column="12" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-reward_video.t" timestamp="1544067657863">
@@ -162,11 +176,11 @@
       <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$FOUT_HOME$/config/common/science.yaml" timestamp="1543993655145">
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="16" />
-        <mark key="." line="81" column="16" />
-        <mark key="^" line="81" column="15" />
+      <file name="$FOUT_HOME$/config/common/science.yaml" timestamp="1544146345112">
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="17" />
+        <mark key="." line="85" column="17" />
+        <mark key="^" line="85" column="17" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
         <mark key="'" line="154" column="32" />
@@ -400,7 +414,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/ProfitRate.pm" timestamp="1543987825507" />
     </filemarks>
     <jumps>
-      <jump line="94" column="60" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" />
       <jump line="18" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="23" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="66" column="20" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
@@ -500,6 +513,7 @@
       <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="292" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
+      <jump line="40" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -511,8 +525,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>elsif</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIOmdnuiHquWLleWFpeacreOBq+OBr+ikh+aVsOOBrumFjeS/oeWFiOOCkumbhuOCgeOBn+ODkeODg+OCseODvOOCuOOBr+OBquOBhOOBn+OCgVJGUOOBqOOBquOCiyAjNTQzOTkjbm90ZS04Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -527,16 +541,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>elsif</text>
+        <text>rfp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>$dlv_package_id</text>
+        <text>default</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0gZWxzaWYgKCRjb250ZXh0LT5yZnBfbmV0d29ya19pZCApIHsKICAgICAgICAjIGJpZCDjgYwgcmZwIOaMh+WumumFjeS/oeOBruWgtOWQiAogICAgICAgIG15ICRyZnBfbmV0d29ya19pZCA9ICRjb250ZXh0LT5yZnBfbmV0d29ya19pZDsKICAgICAgICBteSAkbmFtZSA9ICJidXlpbmdfcG0ucmZwX3RhY19yYXRlLiR7cmZwX25ldHdvcmtfaWR9IjsKICAgICAgICAkdGFjX3JhdGUgPSAkcGFyYW1zLT5nZXQoJG5hbWUsIHVuZGVmKTsK</text>
+        <text encoding="base64">ICAgICAgICAjIOmdnuiHquWLleWFpeacreOBq+OBr+ikh+aVsOOBrumFjeS/oeWFiOOCkumbhuOCgeOBn+ODkeODg+OCseODvOOCuOOBr+OBquOBhOOBn+OCgVJGUOOBqOOBquOCiyAjNTQzOTkjbm90ZS04Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -547,31 +561,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS41IiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4yIiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4xX3NwX3J0Z19sYXlhcHAiID0+ICRleHRyZW1lbHlfaGlnaF90YWNyYXRlLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
+        <text encoding="base64">ICAgIH0gZWxzaWYgKCRjb250ZXh0LT5yZnBfbmV0d29ya19pZCApIHsKICAgICAgICAjIGJpZCDjgYwgcmZwIOaMh+WumumFjeS/oeOBruWgtOWQiAogICAgICAgIG15ICRyZnBfbmV0d29ya19pZCA9ICRjb250ZXh0LT5yZnBfbmV0d29ya19pZDsKICAgICAgICBteSAkbmFtZSA9ICJidXlpbmdfcG0ucmZwX3RhY19yYXRlLiR7cmZwX25ldHdvcmtfaWR9IjsKICAgICAgICAkdGFjX3JhdGUgPSAkcGFyYW1zLT5nZXQoJG5hbWUsIHVuZGVmKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0Kc3VidGVzdCAnYmlsbGluZ190eXBlIGlzIGNwYyBhbmQgc3BvdCBpcyBsb2NhcmksIHJmcF90YWNfcmF0ZSBmb3IgbG9jYXJpIGlzIHVzZWQnID0+IHN1YiB7CiAgICBteSAoJGJpZCwgJGJ1eWluZykgPSAobWFrZV9iaWQoMSwgJGRtcF9tYXRjaF90eXBlLCB1bmRlZiwgNSksIG1ha2VfYnV5aW5nKHtyZnBfbmV0d29ya19pZCA9PiA1fSkpOwogICAgaXMgRk91dDo6QmlkOjpCdXlpbmc6OmdldF9iYXNlX3RhY19yYXRlKCRidXlpbmctPmNvbnRleHQsICRiaWQpLAogICAgICAgICRleHBlY3RlZF9jcGNfdGFjX3JhdGVfbG9jYXJpLCAidXNlIHRoZSB0YWNfcmF0ZSBmb3IgbG9jYXJpIjsKfTsKCnN1YnRlc3QgJ2JpbGxpbmdfdHlwZSBpcyBjcGMgYW5kIHJld2FyZCwgcmZwX3RhY19yYXRlIGZvciByZXdhcmQgaXMgdXNlZCcgPT4gc3ViIHsKICAgIG15ICgkYmlkLCAkYnV5aW5nKSA9IChtYWtlX2JpZCgxLCAkZG1wX21hdGNoX3R5cGUsIHVuZGVmLCAxLCAxMCksIG1ha2VfYnV5aW5nKHtzaXplID0+ICdSRVdBUkQnfSkpOwogICAgaXMgRk91dDo6QmlkOjpCdXlpbmc6OmdldF9iYXNlX3RhY19yYXRlKCRidXlpbmctPmNvbnRleHQsICRiaWQpLAogICAgICAgICRleHBlY3RlZF9jcGNfdGFjX3JhdGVfcmV3YXJkX3ZpZGVvLCAidXNlIHRoZSB0YWNfcmF0ZSBmb3IgbG9jYXJpIjsKfTsKCnN1YnRlc3QgJ2JpbGxpbmdfdHlwZSBpcyBjcGMgYW5kIG5hdGl2ZSwgcmZwX3RhY19yYXRlIGZvciBuYXRpdmUgaXMgdXNlZCcgPT4gc3ViIHsKICAgIG15ICgkYmlkLCAkYnV5aW5nKSA9IChtYWtlX2JpZCgxLCAkZG1wX21hdGNoX3R5cGUsIHVuZGVmLCAxLCA4LCAxKSwgbWFrZV9idXlpbmcoe3NpemUgPT4gJ0lORkVFRCd9KSk7CiAgICBpcyBGT3V0OjpCaWQ6OkJ1eWluZzo6Z2V0X2Jhc2VfdGFjX3JhdGUoJGJ1eWluZy0+Y29udGV4dCwgJGJpZCksCiAgICAgICAgJGV4cGVjdGVkX2NwY190YWNfcmF0ZV9uYXRpdmVfdmlkZW8sICJ1c2UgdGhlIHRhY19yYXRlIGZvciBsb2NhcmkiOwp9OwoKPj4+Pj4+PiBjMTNjM2E3YTg5Li4uIFsjNTQ0MzRdIHVuaWZ5IGtleSBmb3JtYXQK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS41IiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4yIiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4xX3NwX3J0Z19sYXlhcHAiID0+ICRleHRyZW1lbHlfaGlnaF90YWNyYXRlLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0Kc3VidGVzdCAnYmlsbGluZ190eXBlIGlzIGNwYyBhbmQgc3BvdCBpcyBsb2NhcmksIHJmcF90YWNfcmF0ZSBmb3IgbG9jYXJpIGlzIHVzZWQnID0+IHN1YiB7CiAgICBteSAoJGJpZCwgJGJ1eWluZykgPSAobWFrZV9iaWQoMSwgJGRtcF9tYXRjaF90eXBlLCB1bmRlZiwgNSksIG1ha2VfYnV5aW5nKHtyZnBfbmV0d29ya19pZCA9PiA1fSkpOwogICAgaXMgRk91dDo6QmlkOjpCdXlpbmc6OmdldF9iYXNlX3RhY19yYXRlKCRidXlpbmctPmNvbnRleHQsICRiaWQpLAogICAgICAgICRleHBlY3RlZF9jcGNfdGFjX3JhdGVfbG9jYXJpLCAidXNlIHRoZSB0YWNfcmF0ZSBmb3IgbG9jYXJpIjsKfTsKCnN1YnRlc3QgJ2JpbGxpbmdfdHlwZSBpcyBjcGMgYW5kIHJld2FyZCwgcmZwX3RhY19yYXRlIGZvciByZXdhcmQgaXMgdXNlZCcgPT4gc3ViIHsKICAgIG15ICgkYmlkLCAkYnV5aW5nKSA9IChtYWtlX2JpZCgxLCAkZG1wX21hdGNoX3R5cGUsIHVuZGVmLCAxLCAxMCksIG1ha2VfYnV5aW5nKHtzaXplID0+ICdSRVdBUkQnfSkpOwogICAgaXMgRk91dDo6QmlkOjpCdXlpbmc6OmdldF9iYXNlX3RhY19yYXRlKCRidXlpbmctPmNvbnRleHQsICRiaWQpLAogICAgICAgICRleHBlY3RlZF9jcGNfdGFjX3JhdGVfcmV3YXJkX3ZpZGVvLCAidXNlIHRoZSB0YWNfcmF0ZSBmb3IgbG9jYXJpIjsKfTsKCnN1YnRlc3QgJ2JpbGxpbmdfdHlwZSBpcyBjcGMgYW5kIG5hdGl2ZSwgcmZwX3RhY19yYXRlIGZvciBuYXRpdmUgaXMgdXNlZCcgPT4gc3ViIHsKICAgIG15ICgkYmlkLCAkYnV5aW5nKSA9IChtYWtlX2JpZCgxLCAkZG1wX21hdGNoX3R5cGUsIHVuZGVmLCAxLCA4LCAxKSwgbWFrZV9idXlpbmcoe3NpemUgPT4gJ0lORkVFRCd9KSk7CiAgICBpcyBGT3V0OjpCaWQ6OkJ1eWluZzo6Z2V0X2Jhc2VfdGFjX3JhdGUoJGJ1eWluZy0+Y29udGV4dCwgJGJpZCksCiAgICAgICAgJGV4cGVjdGVkX2NwY190YWNfcmF0ZV9uYXRpdmVfdmlkZW8sICJ1c2UgdGhlIHRhY19yYXRlIGZvciBsb2NhcmkiOwp9OwoKPj4+Pj4+PiBjMTNjM2E3YTg5Li4uIFsjNTQ0MzRdIHVuaWZ5IGtleSBmb3JtYXQK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAgICAgImJ1eWluZ19wbS5jcGNfdGFjX3JhdGUuNSIgPT4gJGV4cGVjdGVkX2NwY190YWNfcmF0ZV9sb2NhcmksCiAgICAgICAgICAgICJidXlpbmdfcG0uY3BjX3RhY19yYXRlLjFfcmV3YXJkX3ZpZGVvIiA9PiAkZXhwZWN0ZWRfY3BjX3RhY19yYXRlX3Jld2FyZF92aWRlbywKICAgICAgICAgICAgImJ1eWluZ19wbS5jcGNfdGFjX3JhdGUuMV9uYXRpdmVfdmlkZW8iID0+ICRleHBlY3RlZF9jcGNfdGFjX3JhdGVfbmF0aXZlX3ZpZGVvLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LAogICAgcHJvZml0X3JhdGUgPT4gK3sKICAgICAgICAnQ1BOMjAxJyA9PiAtMjEwLAogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c3VidGVzdCAnYmlsbGluZ190eXBlIGlzIGNwYyBhbmQgc3BvdCBpcyBMSU5FLCBsaW5lX3RhY19yYXRlIGlzIHVzZWQgYW5kIExDUENUYWNSYXRlQ29lZiBub3QgMScgPT4gc3ViIHsKICAgIG15ICgkYmlkLCAkYnV5aW5nKSA9IChtYWtlX2JpZCgxLCAkZG1wX21hdGNoX3R5cGUsIHVuZGVmLCAyLCB1bmRlZiwgdW5kZWYsIDIwMSksIG1ha2VfYnV5aW5nKHtpc19saW5lID0+IDF9KSk7CiAgICBpcyBGT3V0OjpCaWQ6OkJ1eWluZzo6Z2V0X2Jhc2VfdGFjX3JhdGUoJGJ1eWluZy0+Y29udGV4dCwgJGJpZCksCiAgICAgICAgJGV4cGVjdGVkX2xpbmVfdGFjX3JhdGUgKiAwLjgsICJ1c2UgdGhlIHRhY19yYXRlIGZvciBsaW5lIGFuZCAwLjggdGltZXMiOwp9OwoK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhZCA9PiB7CiAgICAgICAgICAgIHR5cGUgICAgICAgICAgPT4gJHR5cGUsCiAgICAgICAgICAgIGlzX21haW5fdmlkZW8gPT4gJGlzX21haW5fdmlkZW8sCiAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3BfaWQgICAgICAgICAgID0+ICRjcG5faWQgLy8gMjAwLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0KICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS41IiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4yIiA9PiAkZXh0cmVtZWx5X2hpZ2hfdGFjcmF0ZSwKICAgICAgICAiYnV5aW5nX3BtLmNwY190YWNfcmF0ZS4xX3NwX3J0Z19sYXlhcHAiID0+ICRleHRyZW1lbHlfaGlnaF90YWNyYXRlLAo+Pj4+Pj4+IGMxM2MzYTdhODkuLi4gWyM1NDQzNF0gdW5pZnkga2V5IGZvcm1hdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3BfaWQgICAgICAgICAgID0+ICRjcG5faWQgLy8gMjAwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
