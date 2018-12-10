@@ -138,7 +138,7 @@
         <mark key="^" line="33" column="105" />
         <mark key="." line="33" column="105" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1544427923469">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1544434589589">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -314,8 +314,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1544433831927">
-        <mark key="'" line="1018" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1544434685850">
+        <mark key="'" line="1146" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
@@ -403,13 +403,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
-      <jump line="36" column="19" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
-      <jump line="38" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
-      <jump line="40" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
-      <jump line="45" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
-      <jump line="173" column="29" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
-      <jump line="39" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="54" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="56" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
@@ -501,8 +494,15 @@
       <jump line="42" column="0" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-infeed_video.t" />
       <jump line="155" column="78" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="42" column="0" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-rfp.t" />
-      <jump line="1126" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1018" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1120" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1122" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1123" column="22" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1126" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1138" column="16" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1140" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1141" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1146" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -533,7 +533,7 @@
         <text>rfp</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text>bid</text>
       </register>
       <register name="0" type="4">
         <text>default</text>
@@ -581,12 +581,12 @@
       </register>
     </registers>
     <search>
-      <last-search>size</last-search>
+      <last-search>bid</last-search>
       <last-offset />
-      <last-pattern>size</last-pattern>
+      <last-pattern>bid</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -612,6 +612,7 @@
         <entry encoding="base64">XDxfZ2V0X2NwY19iaWxsaW5nX2Jhc2VfdGFjX3JhdGVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry>size</entry>
+        <entry>bid</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
