@@ -320,6 +320,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1542075138739">
         <mark key="'" line="70" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544492765621">
+        <mark key="'" line="40" column="24" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/drop_rate_controle_role.t" timestamp="1542178195266">
         <mark key="'" line="166" column="22" />
         <mark key="[" line="252" column="68" />
@@ -403,7 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="54" column="33" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="56" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="245" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
@@ -503,6 +505,7 @@
       <jump line="1140" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1141" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1146" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="40" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -533,7 +536,7 @@
         <text>rfp</text>
       </register>
       <register name="/" type="4">
-        <text>bid</text>
+        <text encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>default</text>
@@ -581,9 +584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bid</last-search>
+      <last-search encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>bid</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -613,6 +616,8 @@
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkc190YWNfcmF0ZVw+</entry>
         <entry>size</entry>
         <entry>bid</entry>
+        <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
+        <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
