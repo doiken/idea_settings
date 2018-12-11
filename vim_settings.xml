@@ -214,6 +214,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" timestamp="1541476187743">
         <mark key="'" line="136" column="16" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1544498961840">
+        <mark key="'" line="94" column="22" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
       </file>
@@ -379,6 +382,9 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" timestamp="1542086866189">
         <mark key="'" line="179" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" timestamp="1544499037495">
+        <mark key="'" line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1539932149037">
         <mark key="'" line="42" column="14" />
       </file>
@@ -406,10 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="248" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="249" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="250" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="247" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="66" column="82" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="69" column="82" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
@@ -506,6 +508,10 @@
       <jump line="174" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="433" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="40" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
+      <jump line="61" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="94" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
+      <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -536,7 +542,7 @@
         <text>rfp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</text>
+        <text encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</text>
       </register>
       <register name="0" type="4">
         <text>default</text>
@@ -584,9 +590,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-search>
+      <last-search encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -618,6 +624,9 @@
         <entry>bid</entry>
         <entry encoding="base64">XDxiYXNlX3RhY19yYXRlXD4=</entry>
         <entry encoding="base64">XDxnZXRfYmFzZV90YWNfcmF0ZVw+</entry>
+        <entry encoding="base64">XDxpc19saW5lX3Nwb3RcPg==</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
+        <entry encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
