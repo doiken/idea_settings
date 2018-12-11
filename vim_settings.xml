@@ -153,12 +153,12 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" timestamp="1540456177119">
         <mark key="'" line="69" column="36" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544507366913">
-        <mark key="'" line="155" column="78" />
-        <mark key="[" line="72" column="70" />
-        <mark key="]" line="72" column="72" />
-        <mark key="." line="72" column="72" />
-        <mark key="^" line="72" column="72" />
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544509105117">
+        <mark key="'" line="90" column="72" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="221" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-reward_video.t" timestamp="1544428678881">
         <mark key="'" line="44" column="59" />
@@ -415,7 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="66" column="82" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="69" column="82" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="70" column="83" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
@@ -515,6 +514,7 @@
       <jump line="94" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
+      <jump line="90" column="72" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -527,7 +527,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>not_line</text>
+        <text>buying_pm.auto_bids_tac_rate.6=1.0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -542,7 +542,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>not_line</text>
+        <text>buying_pm.auto_bids_tac_rate.6=1.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</text>
