@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/rtbindex/pctr_percentile.t" timestamp="1544766071378" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Context/DemoPrediction.pm" timestamp="1543478273223">
         <mark key="'" line="12" column="4" />
       </file>
@@ -230,6 +231,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" timestamp="1544759561469" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1544755817958">
         <mark key="'" line="1146" column="4" />
       </file>
@@ -283,8 +285,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" timestamp="1541403210028">
         <mark key="'" line="147" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1539850909836">
-        <mark key="'" line="177" column="16" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1544766190601">
+        <mark key="'" line="104" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1543395868471">
         <mark key="'" line="251" column="12" />
@@ -294,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="83" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="74" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="78" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="68" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
@@ -394,6 +395,7 @@
       <jump line="90" column="72" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="1246" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="269" column="25" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" />
+      <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -424,7 +426,7 @@
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</text>
+        <text encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>AUTO_BID_EXPERIMENT_ID</text>
@@ -472,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</last-search>
+      <last-search encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -509,6 +511,7 @@
         <entry encoding="base64">XDxpc19saW5lX3Nwb3RcPg==</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
