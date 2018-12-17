@@ -334,7 +334,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" timestamp="1541403210028">
         <mark key="'" line="147" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1544766190601">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1545041196798">
         <mark key="'" line="104" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/Request.pm" timestamp="1543395868471">
@@ -376,7 +376,6 @@
       <jump line="90" column="72" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" />
       <jump line="1246" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Context.pm" />
       <jump line="269" column="25" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" />
-      <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="53" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
       <jump line="1279" column="94" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="62" column="0" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
@@ -445,6 +444,7 @@
       <jump line="3333" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3334" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -475,7 +475,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</text>
+        <text encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -523,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</last-search>
+      <last-search encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +560,6 @@
         <entry encoding="base64">XDxpc19saW5lX3Nwb3RcPg==</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfcHJpY2VfY29udHJvbF9jb2VmZmljaWVudFw+</entry>
-        <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxkaXN0cmlidXRvclw+</entry>
         <entry encoding="base64">XDxDSEFSR0VfVFlQRVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVfdmFsdWVcPg==</entry>
@@ -573,6 +572,7 @@
         <entry encoding="base64">XDxoYWRvb3BfYWRkX3N1YmNvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDx0b29sXD4=</entry>
         <entry encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</entry>
+        <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
