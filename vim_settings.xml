@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1541476167155">
         <mark key="'" line="41" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/201810XX_53150_add_hour_partition.sql" timestamp="1545029607704">
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="9" column="69" />
-        <mark key="." line="9" column="61" />
-        <mark key="^" line="9" column="66" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/201810XX_53150_add_hour_partition.sql" timestamp="1545039283439">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
         <mark key="'" line="261" column="9" />
@@ -177,6 +177,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" timestamp="1545038123651">
+        <mark key="'" line="3337" column="39" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1544083221160">
         <mark key="'" line="143" column="26" />
       </file>
@@ -197,6 +200,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180315_46569_cpn_pctr_percentiles_table.sql" timestamp="1545038549741">
+        <mark key="[" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" timestamp="1545034364315">
         <mark key="'" line="389" column="23" />
@@ -294,7 +300,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545030540684" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545038667205" />
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
       </file>
@@ -339,11 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="79" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="88" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="100" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="139" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="142" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="143" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="96" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
@@ -439,6 +440,11 @@
       <jump line="59" column="49" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" />
       <jump line="70" column="42" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" />
       <jump line="389" column="23" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" />
+      <jump line="288" column="23" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="3339" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="3333" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="3334" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
+      <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,7 +457,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>partition_spec</text>
+        <text>1</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -466,10 +472,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>partition_spec</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b29sXD4=</text>
+        <text encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -517,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b29sXD4=</last-search>
+      <last-search encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b29sXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -566,6 +572,7 @@
         <entry encoding="base64">XDxycGNQcm94eVw+</entry>
         <entry encoding="base64">XDxoYWRvb3BfYWRkX3N1YmNvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDx0b29sXD4=</entry>
+        <entry encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
