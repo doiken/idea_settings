@@ -86,7 +86,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1542102204470">
         <mark key="'" line="136" column="4" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1544683152938" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1545025132268">
+        <mark key="'" line="1279" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1541065718211">
         <mark key="'" line="8" column="63" />
       </file>
@@ -291,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="68" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="72" column="25" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
       <jump line="17" column="4" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" />
@@ -391,6 +392,7 @@
       <jump line="269" column="25" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" />
       <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="53" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" />
+      <jump line="1279" column="94" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
