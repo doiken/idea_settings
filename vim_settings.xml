@@ -263,8 +263,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1542247005016">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545104893825">
-        <mark key="'" line="387" column="11" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545110529325">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="402" column="46" />
         <mark key="]" line="402" column="55" />
         <mark key="^" line="402" column="55" />
@@ -277,8 +277,8 @@
         <mark key="'" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" timestamp="1544759561469" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1545027531596">
-        <mark key="'" line="1146" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1545110517175">
+        <mark key="'" line="1088" column="5" />
         <mark key="[" line="548" column="11" />
         <mark key="]" line="549" column="0" />
         <mark key="^" line="549" column="0" />
@@ -303,8 +303,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545104665283">
-        <mark key="'" line="78" column="5" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545110746177">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
@@ -351,10 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
-      <jump line="96" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="238" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="212" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="292" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
       <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="40" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
@@ -451,6 +447,10 @@
       <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="78" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
+      <jump line="16" column="47" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="1088" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
