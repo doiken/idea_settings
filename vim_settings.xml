@@ -303,8 +303,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545110746177">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545113563223">
+        <mark key="'" line="76" column="89" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
@@ -351,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" />
-      <jump line="14" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" />
       <jump line="40" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" />
       <jump line="59" column="51" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-rfp.t" />
       <jump line="42" column="0" filename="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-infeed_video.t" />
@@ -451,6 +449,8 @@
       <jump line="1088" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
+      <jump line="5" column="110" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
+      <jump line="76" column="89" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -481,7 +481,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</text>
+        <text encoding="base64">XDxob3VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -529,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxob3VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxob3VyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -579,6 +579,7 @@
         <entry encoding="base64">XDx0b29sXD4=</entry>
         <entry encoding="base64">XDxsaXN0T3BlbkZpbGVzXD4=</entry>
         <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxob3VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
