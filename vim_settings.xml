@@ -201,8 +201,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180315_46569_cpn_pctr_percentiles_table.sql" timestamp="1545038549741">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180315_46569_cpn_pctr_percentiles_table.sql" timestamp="1545104771109">
         <mark key="[" line="8" column="17" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" timestamp="1545034364315">
         <mark key="'" line="389" column="23" />
@@ -260,7 +263,7 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1542247005016">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545098695204">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545104893825">
         <mark key="'" line="387" column="11" />
         <mark key="[" line="402" column="46" />
         <mark key="]" line="402" column="55" />
@@ -300,7 +303,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545040278593" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1545104665283">
+        <mark key="'" line="78" column="5" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
       </file>
@@ -346,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="143" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" />
       <jump line="96" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="238" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
@@ -446,6 +450,7 @@
       <jump line="3334" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
+      <jump line="78" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
