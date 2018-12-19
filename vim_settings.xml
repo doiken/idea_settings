@@ -52,11 +52,15 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1543979766329">
         <mark key="'" line="79" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/indexer/nn" timestamp="1545190018500" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1541147787971">
         <mark key="'" line="138" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1541402756735">
         <mark key="'" line="207" column="28" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" timestamp="1545190060461">
+        <mark key="'" line="119" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPercentilesEstimation.pm" timestamp="1545030505631" />
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" timestamp="1541152210818">
@@ -95,8 +99,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1539841056585">
-        <mark key="'" line="261" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
+        <mark key="'" line="309" column="15" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1541565215868">
         <mark key="'" line="30" column="8" />
@@ -438,8 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1122" column="21" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="1123" column="22" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1126" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1138" column="16" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1140" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
@@ -538,6 +540,8 @@
       <jump line="346" column="26" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
       <jump line="291" column="3" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
+      <jump line="309" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
+      <jump line="119" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -568,7 +572,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X3NlZ21lbnRfc291cmNlXD4=</text>
+        <text encoding="base64">XDxtc2dwYWNrXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -616,9 +620,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X3NlZ21lbnRfc291cmNlXD4=</last-search>
+      <last-search encoding="base64">XDxtc2dwYWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X3NlZ21lbnRfc291cmNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtc2dwYWNrXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -668,6 +672,7 @@
         <entry encoding="base64">XDxwcmVkaWN0aW9uX2R1cmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxob3VyXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3NlZ21lbnRfc291cmNlXD4=</entry>
+        <entry encoding="base64">XDxtc2dwYWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
