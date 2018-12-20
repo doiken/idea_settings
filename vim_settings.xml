@@ -68,8 +68,8 @@
         <mark key="." line="1915" column="98" />
         <mark key="^" line="1915" column="98" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1545121025030">
-        <mark key="'" line="2578" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1545288596922">
+        <mark key="'" line="512" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/manifests/init.pp" timestamp="1545209975263" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB.pm" timestamp="1543544325880">
@@ -263,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
-      <jump line="216" column="22" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
-      <jump line="211" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
-      <jump line="221" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
       <jump line="279" column="14" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" />
       <jump line="32" column="4" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" />
       <jump line="46" column="24" filename="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" />
@@ -363,6 +359,10 @@
       <jump line="439" column="23" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" />
       <jump line="186" column="37" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
       <jump line="59" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
+      <jump line="516" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="518" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="517" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="512" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -393,7 +393,7 @@
         <text>rgin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaFRhc2tcPg==</text>
+        <text encoding="base64">XDxidWRnZXRfaXNfb2tcPg==</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -441,9 +441,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaFRhc2tcPg==</last-search>
+      <last-search encoding="base64">XDxidWRnZXRfaXNfb2tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaFRhc2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxidWRnZXRfaXNfb2tcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -500,6 +500,8 @@
         <entry encoding="base64">XDxwbGFuXD4=</entry>
         <entry encoding="base64">XDxxdWVyeVN0clw+</entry>
         <entry encoding="base64">XDxmZXRjaFRhc2tcPg==</entry>
+        <entry encoding="base64">XDxmbG93X3JhdGVcPg==</entry>
+        <entry encoding="base64">XDxidWRnZXRfaXNfb2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
