@@ -106,7 +106,9 @@
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
         <mark key="'" line="243" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1545298629912" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1545299728272">
+        <mark key="'" line="96" column="25" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
         <mark key="'" line="309" column="15" />
       </file>
@@ -242,8 +244,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" timestamp="1541476187743">
         <mark key="'" line="136" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1545291245077">
-        <mark key="'" line="63" column="53" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1545299338448">
+        <mark key="'" line="62" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
@@ -490,8 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="66" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
       <jump line="67" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
       <jump line="34" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
       <jump line="35" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
@@ -590,6 +590,8 @@
       <jump line="48" column="1" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
       <jump line="137" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
+      <jump line="62" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
+      <jump line="96" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
