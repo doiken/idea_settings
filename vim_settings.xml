@@ -109,6 +109,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1542080388669">
         <mark key="'" line="61" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1545708093207">
+        <mark key="'" line="39" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
       </file>
@@ -162,6 +165,7 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" timestamp="1540456177119">
         <mark key="'" line="69" column="36" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1545707998738" />
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544517276848">
         <mark key="'" line="90" column="72" />
       </file>
@@ -211,7 +215,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/auto_bid_phase_check.t" timestamp="1541476187743">
         <mark key="'" line="136" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1545299338448">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" timestamp="1545707154864">
         <mark key="'" line="62" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
@@ -310,7 +314,7 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1542247005016">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545704398468">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545707175715">
         <mark key="'" line="65" column="34" />
         <mark key="[" line="396" column="21" />
         <mark key="]" line="396" column="20" />
@@ -374,6 +378,9 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSDirConcatOp.java" timestamp="1545366582443">
         <mark key="'" line="241" column="16" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1545707852398">
+        <mark key="'" line="85" column="9" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1544091074490">
         <mark key="'" line="14" column="4" />
       </file>
@@ -424,22 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="52" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="53" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="54" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="55" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="56" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="57" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="58" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="59" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="60" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="61" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="62" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="63" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="31" column="2" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" />
-      <jump line="100" column="13" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSUtil.java" />
-      <jump line="1723" column="0" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSUtil.java" />
       <jump line="405" column="4" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" />
       <jump line="59" column="49" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" />
       <jump line="70" column="42" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" />
@@ -524,6 +515,22 @@
       <jump line="1537" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java" />
       <jump line="1532" column="31" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java" />
       <jump line="65" column="34" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
+      <jump line="90" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="42" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="43" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="47" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="51" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="55" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="59" column="78" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="63" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="67" column="77" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="41" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="38" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="11" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="85" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="53" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
+      <jump line="10" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
+      <jump line="39" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -554,7 +561,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25jYXRcPg==</text>
+        <text encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -602,9 +609,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25jYXRcPg==</last-search>
+      <last-search encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25jYXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +624,6 @@
         <entry>get</entry>
         <entry encoding="base64">XDxwcm9maXRfcmF0ZVw+</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxETFZfUEFDS0FHRV9JRF9SRURcPg==</entry>
         <entry encoding="base64">XDxkbHZfcGFja2FnZV9pZFw+</entry>
@@ -671,6 +677,9 @@
         <entry encoding="base64">XDxuYW1lbm9kZVVyaVw+</entry>
         <entry encoding="base64">XDxkZWx0YXNcPg==</entry>
         <entry encoding="base64">XDxjb25jYXRcPg==</entry>
+        <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
+        <entry encoding="base64">XDxib29zdF9wYXJhbXNfc3VmZml4XD4=</entry>
+        <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
