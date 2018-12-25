@@ -76,6 +76,9 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1545271622902" />
       <file name="$USER_HOME$/Documents/apache/hadoop/README.txt" timestamp="1545030155149" />
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1545360540719" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1545725583223">
+        <mark key="'" line="50" column="4" />
+      </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" timestamp="1545723906667">
         <mark key="'" line="164" column="54" />
       </file>
@@ -165,8 +168,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" timestamp="1540456177119">
         <mark key="'" line="69" column="36" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1545708206804">
-        <mark key="'" line="137" column="48" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1545725757391">
+        <mark key="'" line="168" column="16" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544517276848">
         <mark key="'" line="90" column="72" />
@@ -390,8 +393,8 @@
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1545190795983">
         <mark key="'" line="69" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1545723964043">
-        <mark key="'" line="18" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1545725688659">
+        <mark key="'" line="157" column="73" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
         <mark key="'" line="262" column="0" />
@@ -435,9 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="23" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" />
-      <jump line="288" column="23" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
-      <jump line="3339" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3333" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3334" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
       <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
@@ -535,6 +535,9 @@
       <jump line="137" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="118" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" />
       <jump line="18" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="157" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
+      <jump line="168" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -565,7 +568,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</text>
+        <text encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -613,9 +616,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-search>
+      <last-search encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -684,6 +687,7 @@
         <entry encoding="base64">XDxzdWZmaXhcPg==</entry>
         <entry encoding="base64">XDxib29zdF9wYXJhbXNfc3VmZml4XD4=</entry>
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
+        <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
