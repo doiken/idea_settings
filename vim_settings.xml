@@ -62,6 +62,9 @@
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" timestamp="1545203940969">
         <mark key="'" line="439" column="23" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1545812391162">
+        <mark key="'" line="74" column="51" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/RfpNetwork.pm" timestamp="1542076219981">
         <mark key="'" line="3" column="10" />
       </file>
@@ -91,7 +94,7 @@
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
         <mark key="'" line="243" column="18" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1545299728272">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1545812403177">
         <mark key="'" line="96" column="25" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
@@ -438,12 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3333" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
-      <jump line="3334" column="15" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
-      <jump line="3337" column="39" filename="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" />
-      <jump line="104" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
-      <jump line="78" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
-      <jump line="16" column="47" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="1088" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
@@ -538,6 +535,12 @@
       <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="157" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="168" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
+      <jump line="67" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="68" column="63" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="69" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="71" column="18" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="73" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
+      <jump line="74" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -568,7 +571,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</text>
+        <text encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -616,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</last-search>
+      <last-search encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -688,6 +691,7 @@
         <entry encoding="base64">XDxib29zdF9wYXJhbXNfc3VmZml4XD4=</entry>
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
         <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</entry>
+        <entry encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
