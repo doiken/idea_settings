@@ -79,8 +79,8 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1545271622902" />
       <file name="$USER_HOME$/Documents/apache/hadoop/README.txt" timestamp="1545030155149" />
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1545360540719" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1545725583223">
-        <mark key="'" line="50" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1545882335406">
+        <mark key="'" line="50" column="30" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" timestamp="1545723906667">
         <mark key="'" line="164" column="54" />
@@ -151,6 +151,9 @@
         <mark key="'" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20181220_53150_add_hour_partition.sql" timestamp="1545275397274" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1545882326621">
+        <mark key="'" line="47" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1544434589589">
         <mark key="'" line="40" column="12" />
         <mark key="[" line="79" column="0" />
@@ -445,52 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
-      <jump line="5" column="110" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
-      <jump line="76" column="89" filename="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" />
-      <jump line="2578" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="80" column="15" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
-      <jump line="86" column="18" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/io/merge/MergeFileMapper.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
-      <jump line="346" column="26" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
-      <jump line="86" column="0" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
-      <jump line="291" column="3" filename="$USER_HOME$/Documents/apache/hive/bin/hive" />
-      <jump line="309" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" />
-      <jump line="119" column="8" filename="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" />
-      <jump line="69" column="60" filename="$FOUT_HOME$/tools/bidlog_parser.pl" />
-      <jump line="1151" column="14" filename="$USER_HOME$/Documents/fout_logs/sql/hive.sql" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/metadata/Hive.java" />
-      <jump line="626" column="29" filename="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" />
-      <jump line="636" column="20" filename="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" />
-      <jump line="637" column="4" filename="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" />
-      <jump line="436" column="6" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" />
-      <jump line="442" column="13" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" />
-      <jump line="74" column="20" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java" />
-      <jump line="119" column="4" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java" />
-      <jump line="661" column="9" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java" />
-      <jump line="238" column="11" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" />
-      <jump line="242" column="12" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" />
-      <jump line="243" column="18" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" />
-      <jump line="439" column="23" filename="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" />
-      <jump line="186" column="37" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" />
-      <jump line="59" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/LogicalFlow/Default.pm" />
-      <jump line="516" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="518" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="517" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="512" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="63" column="53" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="25" column="46" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="26" column="17" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="27" column="40" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="31" column="5" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="32" column="6" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="33" column="6" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="34" column="17" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="35" column="39" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="39" column="13" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="43" column="17" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="57" column="5" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
-      <jump line="50" column="17" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
       <jump line="49" column="25" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
       <jump line="48" column="1" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
       <jump line="44" column="39" filename="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" />
@@ -534,7 +491,6 @@
       <jump line="137" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="118" column="17" filename="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" />
       <jump line="18" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
-      <jump line="50" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="157" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="168" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" />
       <jump line="67" column="38" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
@@ -545,6 +501,53 @@
       <jump line="74" column="51" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" />
       <jump line="100" column="23" filename="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/optimal_parameters_margin_boost.hql" />
       <jump line="70" column="11" filename="$FOUT_HOME$/lib/FOut/ScopedModels.pm" />
+      <jump line="81" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="82" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="83" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="109" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="112" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="116" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="120" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="122" column="15" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="125" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="127" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="130" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="132" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="135" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="137" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="142" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="144" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="145" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="23" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="25" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="29" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="30" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="35" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="36" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="41" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="42" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="50" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="53" column="26" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="57" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="60" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="64" column="61" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="137" column="142" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="25" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="26" column="63" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="30" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="31" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="36" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="37" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="42" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="43" column="92" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="51" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="54" column="103" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="58" column="119" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="66" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="67" column="122" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="73" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
+      <jump line="47" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="50" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -575,7 +578,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</text>
+        <text encoding="base64">XDxuZXR3b3JrX2lkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>hour int</text>
@@ -623,9 +626,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</last-search>
+      <last-search encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZXR3b3JrX2lkXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -696,6 +699,7 @@
         <entry encoding="base64">XDxwcmVkaWN0X21vZGVsXD4=</entry>
         <entry encoding="base64">XDxwY3RyX3BjdnJfcGVyY2VudGlsZV9vZl9jcG5cPg==</entry>
         <entry encoding="base64">XDxjYW5kaWRhdGVfbG9nXD4=</entry>
+        <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
