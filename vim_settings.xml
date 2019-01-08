@@ -90,7 +90,7 @@
         <mark key="'" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20181220_53150_add_hour_partition.sql" timestamp="1545275397274" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1545882326621">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1546937338780">
         <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
@@ -240,9 +240,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1545297025066">
-        <mark key="'" line="137" column="8" />
-      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1546937182848" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" timestamp="1542248042094">
         <mark key="'" line="21" column="0" />
       </file>
@@ -265,9 +263,6 @@
       </file>
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
         <mark key="'" line="243" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" timestamp="1546852815446">
-        <mark key="'" line="94" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
         <mark key="'" line="309" column="15" />
@@ -428,11 +423,11 @@
         <mark key="^" line="322" column="3" />
         <mark key="." line="322" column="3" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1545707852398">
-        <mark key="'" line="85" column="9" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1546937817556">
+        <mark key="'" line="18" column="12" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1546853702484">
-        <mark key="'" line="34" column="28" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1546937722906">
+        <mark key="'" line="39" column="5" />
       </file>
       <file name="$FOUT_HOME$/tools/bidlog_parser.pl" timestamp="1545190795983">
         <mark key="'" line="69" column="60" />
@@ -471,8 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="69" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" />
-      <jump line="33" column="55" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" />
       <jump line="40" column="53" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" />
       <jump line="65" column="83" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" />
       <jump line="78" column="35" filename="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" />
@@ -571,6 +564,8 @@
       <jump line="89" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" />
       <jump line="71" column="34" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
       <jump line="128" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
+      <jump line="18" column="12" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
+      <jump line="39" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
