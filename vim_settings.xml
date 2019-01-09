@@ -136,7 +136,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileBoost.pm" timestamp="1545802110825">
         <mark key="'" line="168" column="16" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" timestamp="1546938409878" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" timestamp="1547028536663">
+        <mark key="'" line="75" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1546916641984">
         <mark key="'" line="71" column="34" />
       </file>
@@ -237,7 +239,7 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1545707175715">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1547028857568">
         <mark key="'" line="65" column="34" />
         <mark key="[" line="396" column="21" />
         <mark key="]" line="396" column="20" />
@@ -461,6 +463,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd2/manifests/init.pp" timestamp="1545209908331" />
       <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1545283962651" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1547028535276">
+        <mark key="'" line="49" column="29" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1542247005016">
         <mark key="'" line="0" column="0" />
       </file>
@@ -559,8 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="34" filename="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" />
-      <jump line="90" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="42" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="43" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="47" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
@@ -659,6 +662,8 @@
       <jump line="24" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment.pm" />
       <jump line="34" column="11" filename="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment.pm" />
       <jump line="40" column="6" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
+      <jump line="75" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" />
+      <jump line="49" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
