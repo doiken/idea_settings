@@ -198,6 +198,9 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="42" column="23" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" timestamp="1547088301002">
+        <mark key="'" line="202" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/ResponseUtil.pm" timestamp="1540347521064">
         <mark key="'" line="29" column="8" />
       </file>
@@ -259,7 +262,10 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1545190603001">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1547086595787">
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegmentCache.pm" timestamp="1547088121497">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Context.pm" timestamp="1547088934688">
         <mark key="'" line="1246" column="37" />
         <mark key="[" line="97" column="78" />
         <mark key="]" line="97" column="0" />
@@ -289,8 +295,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
         <mark key="'" line="262" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547086736591">
-        <mark key="'" line="80" column="15" />
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547088083648">
+        <mark key="'" line="285" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1546829617237">
         <mark key="'" line="42" column="14" />
@@ -510,7 +516,7 @@
         <mark key="'" line="310" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" timestamp="1545099184033" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1547086723884">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1547088900506">
         <mark key="'" line="726" column="16" />
         <mark key="[" line="322" column="4" />
         <mark key="]" line="322" column="3" />
@@ -535,6 +541,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" timestamp="1544499037495">
         <mark key="'" line="32" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1547088339579">
+        <mark key="'" line="2" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ExperimentId.pm" timestamp="1544514207424" />
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
@@ -564,13 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="43" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="47" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="51" column="73" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="55" column="75" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="59" column="78" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
-      <jump line="63" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="67" column="77" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="41" column="76" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
       <jump line="38" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" />
@@ -664,6 +666,13 @@
       <jump line="40" column="6" filename="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" />
       <jump line="75" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" />
       <jump line="49" column="29" filename="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
+      <jump line="318" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
+      <jump line="328" column="11" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
+      <jump line="280" column="5" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
+      <jump line="285" column="17" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
+      <jump line="1" column="0" filename="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegmentCache.pm" />
+      <jump line="202" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" />
+      <jump line="2" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -694,7 +703,7 @@
         <text encoding="base64">bXkg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbGF6eV9pbml0X3NlZ21lbnRfY29udGFpbmVyXD4=</text>
+        <text encoding="base64">XDxMT09LVVBfTlVNQkVSX01BWFw+</text>
       </register>
       <register name="0" type="4">
         <text>pctr_pcvr_percentile_of_cpn</text>
@@ -742,9 +751,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbGF6eV9pbml0X3NlZ21lbnRfY29udGFpbmVyXD4=</last-search>
+      <last-search encoding="base64">XDxMT09LVVBfTlVNQkVSX01BWFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbGF6eV9pbml0X3NlZ21lbnRfY29udGFpbmVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMT09LVVBfTlVNQkVSX01BWFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -821,6 +830,8 @@
         <entry encoding="base64">XDxhZ19pZ25vcmVfc2VnbWVudHNcPg==</entry>
         <entry encoding="base64">XDxoZGJcPg==</entry>
         <entry encoding="base64">XDxfbGF6eV9pbml0X3NlZ21lbnRfY29udGFpbmVyXD4=</entry>
+        <entry encoding="base64">XDxNQVhfU0VHTUVOVFNfUEVSX1ZFTkRPUlw+</entry>
+        <entry encoding="base64">XDxMT09LVVBfTlVNQkVSX01BWFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
