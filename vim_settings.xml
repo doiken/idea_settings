@@ -58,7 +58,7 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/MakeBidIndex.pm" timestamp="1547106595705" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl21.log.jp.fout.internal/nn" timestamp="1547106086752" />
       <file name="$USER_HOME$/Documents/apache/hadoop/README.txt" timestamp="1545030155149" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547101571321">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547114822302">
         <mark key="'" line="50" column="30" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" timestamp="1545723906667">
@@ -445,8 +445,8 @@
         <mark key="'" line="86" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd2/manifests/init.pp" timestamp="1545209908331" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1547104365092">
-        <mark key="'" line="83" column="35" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1547114783034">
+        <mark key="'" line="89" column="0" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/data/adgroup.t" timestamp="1545283962651" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1547028535276">
@@ -556,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="135" column="48" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="137" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="142" column="43" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
@@ -656,6 +655,7 @@
       <jump line="66" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="77" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="76" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
+      <jump line="89" column="0" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
