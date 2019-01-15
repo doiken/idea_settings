@@ -11,8 +11,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1545026908914">
         <mark key="'" line="231" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1547199674172">
-        <mark key="'" line="49" column="16" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1547523375433">
+        <mark key="'" line="57" column="4" />
         <mark key="[" line="61" column="4" />
         <mark key="]" line="61" column="21" />
         <mark key="." line="61" column="21" />
@@ -108,8 +108,8 @@
         <mark key="'" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20181220_53150_add_hour_partition.sql" timestamp="1545275397274" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1547106442368">
-        <mark key="'" line="47" column="0" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1547523390084">
+        <mark key="'" line="23" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
         <mark key="'" line="45" column="55" />
@@ -297,6 +297,7 @@
       <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
         <mark key="'" line="44" column="39" />
       </file>
+      <file name="$FOUT_HOME$/t/lib/Mock/Bid/IndexData.pm" timestamp="1547523574201" />
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" timestamp="1547027691745">
         <mark key="'" line="40" column="6" />
       </file>
@@ -304,12 +305,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/bin/streaming/etl/map.pl" timestamp="1547026803772" />
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" timestamp="1545203940969">
         <mark key="'" line="439" column="23" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/DlvPackages/Constants.pm" timestamp="1547105142256">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="3" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1542078806241">
         <mark key="'" line="40" column="4" />
@@ -384,23 +379,11 @@
       <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$FOUT_HOME$/config/common/science.yaml" timestamp="1544146345112">
-        <mark key="[" line="85" column="13" />
-        <mark key="]" line="85" column="17" />
-        <mark key="." line="85" column="17" />
-        <mark key="^" line="85" column="17" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/ScopedModels.pm" timestamp="1545880826722">
         <mark key="'" line="70" column="11" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
         <mark key="'" line="154" column="32" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-fixed-user-margin.t" timestamp="1544425352269">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="28" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
         <mark key="'" line="43" column="6" />
@@ -532,12 +515,6 @@
         <mark key="." line="544" column="16" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID.pm" timestamp="1547026780123" />
-      <file name="$FOUT_HOME$/t/fout/bid/cpc_line_lower_bound.t" timestamp="1544068909930">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="66" />
-        <mark key="^" line="13" column="66" />
-        <mark key="." line="13" column="66" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1546938089775">
         <mark key="'" line="18" column="12" />
       </file>
@@ -570,12 +547,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/summary_hive.sql" timestamp="1546916506290">
         <mark key="'" line="37" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/HashTableLoaderFactory.java" timestamp="1545203639777">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$FOUT_HOME$/t/fout/split_run/dummy_params.t" timestamp="1547177882061" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1547016000341">
         <mark key="'" line="43" column="44" />
@@ -594,8 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
-      <jump line="29" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="30" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="35" column="16" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
       <jump line="36" column="31" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
@@ -694,6 +663,8 @@
       <jump line="678" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1361" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="1370" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="23" column="60" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" />
+      <jump line="57" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
