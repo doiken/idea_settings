@@ -68,8 +68,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" timestamp="1542259652040">
         <mark key="'" line="481" column="10" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1547532972373">
-        <mark key="'" line="94" column="12" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1547618738648">
+        <mark key="'" line="88" column="36" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1541565215868">
         <mark key="'" line="30" column="8" />
@@ -102,8 +102,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1547523390084">
         <mark key="'" line="23" column="60" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1547543501557">
-        <mark key="'" line="157" column="37" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1547618760342">
+        <mark key="'" line="54" column="4" />
         <mark key="[" line="3" column="24" />
         <mark key="]" line="4" column="14" />
         <mark key="^" line="4" column="14" />
@@ -513,8 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="142" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
-      <jump line="25" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="26" column="63" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="30" column="71" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
       <jump line="31" column="86" filename="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" />
@@ -613,6 +611,8 @@
       <jump line="73" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="157" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
+      <jump line="88" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
+      <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -643,7 +643,7 @@
         <text>strict</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmV0Y2hfdGhyZXNob2xkXD4=</text>
+        <text encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIHN0cmljdDsK</text>
@@ -691,9 +691,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZmV0Y2hfdGhyZXNob2xkXD4=</last-search>
+      <last-search encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmV0Y2hfdGhyZXNob2xkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -725,6 +725,7 @@
         <entry encoding="base64">XDxjb2VmZmljaWVudFw+</entry>
         <entry encoding="base64">XDxfcHJlcGFyZV9mb3JfbV92YWx1ZVw+</entry>
         <entry encoding="base64">XDxfZmV0Y2hfdGhyZXNob2xkXD4=</entry>
+        <entry encoding="base64">XDxfZ2V0X21fdmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
