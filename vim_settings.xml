@@ -35,8 +35,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1547802957626">
         <mark key="'" line="19" column="57" />
       </file>
-      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1548057886423">
-        <mark key="'" line="908" column="64" />
+      <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1548142990517">
+        <mark key="'" line="3877" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1547713280206">
         <mark key="'" line="158" column="9" />
@@ -113,7 +113,7 @@
         <mark key="^" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" timestamp="1548058397438" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548058316914">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548143027285">
         <mark key="'" line="65" column="34" />
         <mark key="[" line="396" column="21" />
         <mark key="]" line="396" column="20" />
@@ -236,14 +236,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="37" column="30" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
-      <jump line="90" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="83" column="35" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" />
-      <jump line="666" column="39" filename="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" />
-      <jump line="1382" column="32" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1394" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1393" column="23" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
-      <jump line="1392" column="28" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1391" column="25" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1388" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1387" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
@@ -336,6 +328,14 @@
       <jump line="108" column="29" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="273" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="310" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="330" column="8" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="3872" column="17" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="3855" column="41" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="3759" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1056" column="38" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="3980" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="1210" column="23" filename="$FOUT_HOME$/sql/dsp.sql" />
+      <jump line="3877" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,7 +366,7 @@
         <text>all</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrc1w+</text>
+        <text>time_local</text>
       </register>
       <register name="0" type="4">
         <text>auto_bid_price,bidding_order</text>
@@ -414,12 +414,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrc1w+</last-search>
+      <last-search>time_local</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrc1w+</last-pattern>
+      <last-pattern>time_local</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -463,6 +463,8 @@
         <entry encoding="base64">XDxOT05fWkVST19QQURESU5HX1BBUlRJVElPTlNcPg==</entry>
         <entry encoding="base64">XDxBVVRPX0JJRF9CQVRDSEVTXD4=</entry>
         <entry encoding="base64">XDx0YXNrc1w+</entry>
+        <entry>unique</entry>
+        <entry>time_local</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
