@@ -12,11 +12,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1547609719946">
         <mark key="'" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/201810XX_53150_add_hour_partition.sql" timestamp="1545039283439">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
+      <file name="$FOUT_HOME$/tools/notify-slack" timestamp="1548215679417">
+        <mark key="'" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/airflow/Pipfile" timestamp="1548065231423" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1547802957626">
@@ -63,25 +60,8 @@
         <mark key="^" line="307" column="34" />
         <mark key="." line="307" column="34" />
       </file>
-      <file name="$FOUT_HOME$/t/fout/bid/adserver/adgeneration.t" timestamp="1547177660688">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="6" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/migrate/20180315_46569_cpn_pctr_percentiles_table.sql" timestamp="1545104771109">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/t/fout/logs/util/hive.t" timestamp="1547778792949">
-        <mark key="[" line="170" column="57" />
-        <mark key="]" line="170" column="57" />
-        <mark key="." line="170" column="57" />
-        <mark key="^" line="170" column="57" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" timestamp="1548058397438" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/files/etc/nagios/commands.cfg" timestamp="1548215245120" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548143027285">
         <mark key="'" line="65" column="34" />
         <mark key="[" line="396" column="21" />
@@ -98,7 +78,7 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/ConsumptionRateCalculator.scala" timestamp="1547708839577" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/collection/LinearSeqOptimized.scala" timestamp="1547783150805" />
-      <file name="/Dummy.txt" timestamp="1548212307259">
+      <file name="/Dummy.txt" timestamp="1548215371869">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/tools/akamai_content_purger.sh" timestamp="1548214028605">
@@ -176,17 +156,10 @@
         <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/cloudforecast/server_list.yaml" timestamp="1547607944309" />
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" timestamp="1547805807786">
-        <mark key="[" line="255" column="1" />
-        <mark key="]" line="255" column="1" />
-        <mark key="." line="255" column="1" />
-        <mark key="^" line="255" column="1" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Double.java" timestamp="1547800897650" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="1385" column="24" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1384" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="1383" column="72" filename="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" />
       <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" />
@@ -286,6 +259,7 @@
       <jump line="34" column="30" filename="$FOUT_HOME$/tools/akamai_content_purger.sh" />
       <jump line="35" column="23" filename="$FOUT_HOME$/tools/akamai_content_purger.sh" />
       <jump line="69" column="31" filename="$FOUT_HOME$/tools/akamai_content_purger.sh" />
+      <jump line="41" column="31" filename="$FOUT_HOME$/tools/notify-slack" />
     </jumps>
     <registers>
       <register name="a" type="4">
