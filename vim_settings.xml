@@ -150,6 +150,13 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1547629063931">
         <mark key="'" line="76" column="89" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1548230694071">
+        <mark key="'" line="219" column="8" />
+        <mark key="[" line="544" column="17" />
+        <mark key="]" line="544" column="16" />
+        <mark key="^" line="544" column="16" />
+        <mark key="." line="544" column="16" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PercentileUtil.pm" timestamp="1547609423665">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="50" />
@@ -161,7 +168,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="32" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="81" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="38" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="18" column="1" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
@@ -261,6 +267,7 @@
       <jump line="230" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="233" column="42" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="240" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="219" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -291,7 +298,7 @@
         <text encoding="base64">c3ByaW50ZiAkRk9fQ09ORi0+e2dyb3d0aGZvcmVjYXN0X3VybH0gLiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGl0X2NvZGVcPg==</text>
+        <text encoding="base64">XDxhdXRvX2JpZF9kYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>auto_bid_price,bidding_order</text>
@@ -339,9 +346,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGl0X2NvZGVcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRvX2JpZF9kYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGl0X2NvZGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvX2JpZF9kYXRhXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -396,6 +403,7 @@
         <entry encoding="base64">XDxhdXRvX2JpZF9jbWRfdG1wXD4=</entry>
         <entry encoding="base64">XDxjbWRcPg==</entry>
         <entry encoding="base64">XDxleGl0X2NvZGVcPg==</entry>
+        <entry encoding="base64">XDxhdXRvX2JpZF9kYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
