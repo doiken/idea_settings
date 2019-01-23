@@ -33,7 +33,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1548221217889">
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1548228198309">
         <mark key="[" line="25" column="162" />
         <mark key="]" line="25" column="190" />
         <mark key="." line="25" column="162" />
@@ -98,8 +98,8 @@
         <mark key="^" line="1421" column="76" />
         <mark key="." line="1421" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548224635995">
-        <mark key="'" line="27" column="20" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548227795022">
+        <mark key="'" line="240" column="36" />
         <mark key="[" line="316" column="16" />
         <mark key="]" line="316" column="15" />
         <mark key="." line="316" column="15" />
@@ -161,13 +161,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" />
-      <jump line="59" column="57" filename="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" />
-      <jump line="62" column="39" filename="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" />
-      <jump line="56" column="4" filename="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" />
-      <jump line="0" column="8" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
-      <jump line="239" column="20" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
-      <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="32" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="81" column="11" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
       <jump line="38" column="14" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
@@ -261,6 +254,13 @@
       <jump line="41" column="31" filename="$FOUT_HOME$/tools/notify-slack" />
       <jump line="117" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
       <jump line="27" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="59" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="226" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="227" column="5" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="228" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="230" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="233" column="42" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="240" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -291,7 +291,7 @@
         <text encoding="base64">c3ByaW50ZiAkRk9fQ09ORi0+e2dyb3d0aGZvcmVjYXN0X3VybH0gLiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBvcnRcPg==</text>
+        <text encoding="base64">XDxleGl0X2NvZGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>auto_bid_price,bidding_order</text>
@@ -339,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBvcnRcPg==</last-search>
+      <last-search encoding="base64">XDxleGl0X2NvZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBvcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleGl0X2NvZGVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -392,6 +392,10 @@
         <entry>time_local</entry>
         <entry encoding="base64">XDxQUk9QRVJUSUVTXD4=</entry>
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
+        <entry encoding="base64">XDxBVVRPX0JJRF9DT01NQU5EU1w+</entry>
+        <entry encoding="base64">XDxhdXRvX2JpZF9jbWRfdG1wXD4=</entry>
+        <entry encoding="base64">XDxjbWRcPg==</entry>
+        <entry encoding="base64">XDxleGl0X2NvZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
