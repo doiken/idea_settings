@@ -45,8 +45,8 @@
         <mark key="." line="25" column="162" />
         <mark key="^" line="26" column="199" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1547778938808">
-        <mark key="'" line="333" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1548383159344">
+        <mark key="'" line="175" column="9" />
         <mark key="[" line="310" column="20" />
         <mark key="]" line="310" column="39" />
         <mark key="." line="310" column="20" />
@@ -112,8 +112,8 @@
         <mark key="^" line="1421" column="76" />
         <mark key="." line="1421" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548380116100">
-        <mark key="'" line="65" column="21" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548383155249">
+        <mark key="'" line="26" column="37" />
         <mark key="[" line="138" column="30" />
         <mark key="]" line="138" column="7" />
         <mark key="." line="138" column="7" />
@@ -121,7 +121,7 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/manifests/init.pp" timestamp="1548307888035" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1548323974436" />
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1548323688271">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1548383222168">
         <mark key="'" line="66" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpnNetworkWisePerformance.pm" timestamp="1548043206476">
@@ -147,7 +147,7 @@
         <mark key="." line="25" column="1" />
         <mark key="^" line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1548381380408">
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1548383211937">
         <mark key="'" line="86" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1548323231707">
@@ -194,8 +194,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
-      <jump line="157" column="37" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" />
       <jump line="88" column="36" filename="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" />
       <jump line="54" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
@@ -294,6 +292,8 @@
       <jump line="65" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="86" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="26" column="37" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="175" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
