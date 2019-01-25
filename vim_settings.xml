@@ -113,8 +113,8 @@
         <mark key="^" line="1421" column="76" />
         <mark key="." line="1421" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548387757000">
-        <mark key="'" line="228" column="4" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548388622578">
+        <mark key="'" line="338" column="22" />
         <mark key="[" line="197" column="31" />
         <mark key="]" line="197" column="45" />
         <mark key="." line="197" column="45" />
@@ -161,8 +161,8 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1547608341257">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" timestamp="1548297737839">
-        <mark key="'" line="139" column="11" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" timestamp="1548388673594">
+        <mark key="'" line="128" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fout/templates/git-hooks/post-checkout" timestamp="1548214599377">
         <mark key="[" line="14" column="21" />
@@ -196,12 +196,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="80" column="17" filename="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Hive.pm" />
-      <jump line="791" column="14" filename="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.0-cdh5.5.1/spark-sql_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/sql/DataFrame.scala" />
-      <jump line="92" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" />
-      <jump line="69" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" />
-      <jump line="96" column="35" filename="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" />
       <jump line="0" column="0" filename="$FOUT_HOME$/lib/FOut/SplitRun/DAO.pm" />
       <jump line="19" column="57" filename="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" />
       <jump line="252" column="31" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" />
@@ -296,6 +290,12 @@
       <jump line="209" column="77" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="213" column="71" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="228" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="130" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
+      <jump line="133" column="52" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
+      <jump line="134" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
+      <jump line="336" column="21" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="338" column="22" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="128" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -326,7 +326,7 @@
         <text>pctr_boost_cut_params</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcnVuX2NtZFw+</text>
+        <text encoding="base64">XDxzZW5kX3JlcG9ydFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIHBjdHJfYm9vc3RfY3V0X3BhcmFtcyDjga8x5pmC6ZaT5YmN44Gu6Ieq6Lqr44Gu44OH44O844K/44KS6KaL44KLCiAgICAgICAgZWxzaWYgKCR0YWJsZV9uYW1lIGVxICdwY3RyX2Jvb3N0X2N1dF9wYXJhbXMnICYmICR0YXNrX25hbWUgZXEgJ1BDVFJCb29zdEN1dFBhcmFtc1VwZGF0ZXInKSB7CiAgICAgICAgICAgIG15ICgkeSwgJG0sICRkLCAkaCkgPSBzcGxpdCAvXHMrLywgVGltZTo6UGllY2UtPmxvY2FsdGltZSgkZnJvbV90cyAtIE9ORV9IT1VSKS0+c3RyZnRpbWUoIiVZICUtbSAlZSAlayIpOwogICAgICAgICAgICAkc2tpcCA9ICRzZWxmLT5fcnVuX2xvZ19jaGVja19jbWQoJGxvZ190aW1lLCAkbG9nX25hbWUsICR0YXNrX25hbWUsICR5LCAkbSwgJGQsICRoKTsKICAgICAgICB9Cg==</text>
@@ -374,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcnVuX2NtZFw+</last-search>
+      <last-search encoding="base64">XDxzZW5kX3JlcG9ydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcnVuX2NtZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX3JlcG9ydFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +385,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxuZXR3b3JrX2lkXD4=</entry>
-        <entry encoding="base64">XDxzZW5kX3JlcG9ydFw+</entry>
         <entry encoding="base64">XDxzcG90X3Njb3JlX2FkanVzdGVyXD4=</entry>
         <entry encoding="base64">XDxmdW5jXD4=</entry>
         <entry encoding="base64">XDxhZ19pZ25vcmVfc2VnbWVudHNcPg==</entry>
@@ -442,6 +441,8 @@
         <entry encoding="base64">XDxhdXRvX2JpZF9jbWRfdG1wXD4=</entry>
         <entry encoding="base64">XDxmcm9tX3RzXD4=</entry>
         <entry encoding="base64">XDxfcnVuX2NtZFw+</entry>
+        <entry encoding="base64">XDxhbGVydF9sdlw+</entry>
+        <entry encoding="base64">XDxzZW5kX3JlcG9ydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
