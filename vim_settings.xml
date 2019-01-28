@@ -80,7 +80,7 @@
         <mark key="]" line="90" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/files/etc/nagios/commands.cfg" timestamp="1548322808713" />
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_service_collector.conf" timestamp="1548390976113" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_service_collector.conf" timestamp="1548646396853" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548323192978">
         <mark key="'" line="355" column="14" />
         <mark key="[" line="396" column="21" />
@@ -137,17 +137,21 @@
       <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
         <mark key="'" line="408" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548391663314">
-        <mark key="'" line="59" column="33" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548648093044">
+        <mark key="'" line="100" column="12" />
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="56" column="18" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" timestamp="1547543985527" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/nodes.pp" timestamp="1548644931654" />
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/SparkAppLike.scala" timestamp="1547715993269" />
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/common_td3/etc/td-agent/config.d/fout_service.conf" timestamp="1548645114540" />
-      <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548391443995">
-        <mark key="'" line="94" column="27" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/common_td3/etc/td-agent/config.d/fout_service.conf" timestamp="1548646321017" />
+      <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548648021527">
+        <mark key="'" line="23" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1548211521949">
+      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1548647921599">
         <mark key="'" line="239" column="20" />
         <mark key="[" line="242" column="90" />
         <mark key="]" line="243" column="65" />
@@ -164,8 +168,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1548383211937">
         <mark key="'" line="86" column="17" />
       </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" timestamp="1548391577582">
-        <mark key="'" line="218" column="4" />
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" timestamp="1548647144640">
+        <mark key="'" line="219" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1548323231707">
         <mark key="'" line="21" column="27" />
@@ -185,8 +189,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-response.conf" timestamp="1548646186360" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1548145468783" />
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548645026594" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548646016493">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1547629063931">
         <mark key="'" line="76" column="89" />
       </file>
@@ -216,18 +223,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="237" column="2" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/monitoring/logic/TestSplitRunSummary.scala" />
-      <jump line="137" column="15" filename="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" />
-      <jump line="45" column="10" filename="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" />
-      <jump line="11" column="49" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="70" column="24" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="69" column="9" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="48" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="174" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="908" column="64" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="48" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpnNetworkWisePerformance.pm" />
-      <jump line="204" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="324" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="66" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
@@ -316,6 +311,18 @@
       <jump line="22" column="13" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
       <jump line="218" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
       <jump line="59" column="33" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="28" column="10" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" />
+      <jump line="41" column="33" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="90" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
+      <jump line="219" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
+      <jump line="18" column="12" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="83" column="0" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="19" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="52" column="46" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="36" column="4" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="23" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
+      <jump line="100" column="12" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -328,7 +335,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>LOGGER</text>
+        <text>japanese_goblin</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -343,13 +350,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin</text>
+        <text>japanese_goblin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcG9zdFw+</text>
+        <text encoding="base64">XDxsZXZlbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>LOGGER</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2UgJHsiOmphcGFuZXNlX2dvYmxpbjogcnVubmluZyAlcyBvbiAlcyBhdCAlcyAtICVzXG4lcyIgJSBbcmVjb3JkWydjb21tYW5kJ10gKyAocmVjb3JkWydsYWJlbCddID8gJ1snICsgcmVjb3JkWydsYWJlbCddLnRvX3MgKyAnXScgOiAnJyksIHJlY29yZFsnaG9zdG5hbWUnXSwgcmVjb3JkWydzdGFydF90aW1lJ10sIHJlY29yZFsnZmluaXNoX3RpbWUnXSwgcmVjb3JkWydtZXNzYWdlJ10uYnl0ZXNsaWNlKDAsOTUwMCldfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCaWRkaW5nT3JkZXIgICAgICAgICAgICAgICAgICAgID0+IFsgcXcvcHJlZGljdGlvbl9qcC5hdXRvX2JpZHNfcHJpY2UvIF0sCg==</text>
@@ -394,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcG9zdFw+</last-search>
+      <last-search encoding="base64">XDxsZXZlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcG9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsZXZlbFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -465,6 +472,9 @@
         <entry encoding="base64">XDxzZW5kX3JlcG9ydFw+</entry>
         <entry encoding="base64">XDxGT19DT05GXD4=</entry>
         <entry encoding="base64">XDxfcG9zdFw+</entry>
+        <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
+        <entry encoding="base64">XDx0YWdcPg==</entry>
+        <entry encoding="base64">XDxsZXZlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
