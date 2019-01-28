@@ -119,8 +119,8 @@
         <mark key="^" line="1421" column="76" />
         <mark key="." line="1421" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548388622578">
-        <mark key="'" line="338" column="22" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548668232557">
+        <mark key="'" line="334" column="20" />
         <mark key="[" line="197" column="31" />
         <mark key="]" line="197" column="45" />
         <mark key="." line="197" column="45" />
@@ -128,6 +128,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/manifests/init.pp" timestamp="1548307888035" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/dump_bidding_order.hql" timestamp="1548323974436" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fluentd_internal_collector.conf" timestamp="1548667477886">
+        <mark key="'" line="74" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1548383222168">
         <mark key="'" line="66" column="8" />
       </file>
@@ -137,12 +140,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
         <mark key="'" line="408" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548661293181">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="56" column="18" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548667756228">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="41" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" timestamp="1547543985527" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/nodes.pp" timestamp="1548644931654" />
@@ -168,7 +171,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1548383211937">
         <mark key="'" line="86" column="17" />
       </file>
-      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" timestamp="1548647144640">
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" timestamp="1548667729873">
         <mark key="'" line="219" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1548323231707">
@@ -223,9 +226,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="3759" column="4" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="1056" column="38" filename="$FOUT_HOME$/sql/dsp.sql" />
-      <jump line="3980" column="0" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="1210" column="23" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="3877" column="6" filename="$FOUT_HOME$/sql/dsp.sql" />
       <jump line="8" column="0" filename="$FOUT_HOME$/tools/akamai_content_purger.sh" />
@@ -299,7 +299,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" />
       <jump line="41" column="33" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
       <jump line="90" column="4" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
-      <jump line="219" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
       <jump line="18" column="12" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="83" column="0" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="19" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
@@ -323,6 +322,10 @@
       <jump line="215" column="4" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
       <jump line="217" column="17" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="74" column="10" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fluentd_internal_collector.conf" />
+      <jump line="219" column="16" filename="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Fluent/Logger.pm" />
+      <jump line="334" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -334,8 +337,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBnb29kCiAgZmx1c2hfaW50ZXJ2YWwgMXMKICB0aW1lX2tleSAgICAgICB0aW1lCiAgQGxvZ19sZXZlbCAgICAgd2Fybgo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -350,16 +353,16 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>japanese_goblin</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</text>
+        <text encoding="base64">XDx0YWdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzdGRvdXQK</text>
+      <register name="0" type="4">
+        <text>notification.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBnb29kCiAgZmx1c2hfaW50ZXJ2YWwgMXMKICB0aW1lX2tleSAgICAgICB0aW1lCiAgQGxvZ19sZXZlbCAgICAgd2Fybgo=</text>
+        <text encoding="base64">PG1hdGNoIGZvdXQuY2xpLioqPgogIEB0eXBlIHN1cHByZXNzCiAgaW50ZXJ2YWwgICAgIDYwCiAgbnVtICAgICAgICAgIDIKICBtYXhfc2xvdF9udW0gMTAwMAogIGF0dHJfa2V5cyBjb21tYW5kLGFyZ3YKICBhZGRfdGFnX3ByZWZpeCBzdXBwcmVzc2VkLgo8L21hdGNoPgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,40 +373,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEk6Ok91dAogIGNvbG9yICAgICAgICAgIHdhcm5pbmcKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBnb29kCiAgZmx1c2hfaW50ZXJ2YWwgMXMKICB0aW1lX2tleSAgICAgICB0aW1lCiAgQGxvZ19sZXZlbCAgICAgd2Fybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGFsZXJ0CiAgdXNlcm5hbWUgICAgICAgRk91dDo6Q0xJCiAgY29sb3IgICAgICAgICAgd2FybmluZwogIGZsdXNoX2ludGVydmFsIDFzCiAgdGltZV9rZXkgICAgICAgdGltZQogIEBsb2dfbGV2ZWwgICAgIHdhcm4K</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEk6Ok91dAogIGNvbG9yICAgICAgICAgIHdhcm5pbmcKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawo=</text>
+        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGFsZXJ0CiAgdXNlcm5hbWUgICAgICAgRk91dDo6Q0xJCiAgY29sb3IgICAgICAgICAgd2FybmluZwogIGZsdXNoX2ludGVydmFsIDFzCiAgdGltZV9rZXkgICAgICAgdGltZQogIEBsb2dfbGV2ZWwgICAgIHdhcm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGNyaXQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBkYW5nZXIKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8L3N0b3JlPgo=</text>
+        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGNyaXQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBkYW5nZXIKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAdHlwZSBjb3B5CiAgPHN0b3JlPgo=</text>
+        <text encoding="base64">ICA8L3N0b3JlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8c3RvcmU+CiAgICBAdHlwZSBlbGFzdGljc2VhcmNoCiAgICBob3N0IGxvY2FsaG9zdAogICAgcG9ydCA8JT0gc2NvcGUubG9va3VwdmFyKCc6Omdsb2JhbHBhcmFtczo6aGFwcm94eV9vcHNfcG9ydCcpICU+CiAgICByZWxvYWRfY29ubmVjdGlvbnMgZmFsc2UKICAgIHR5cGVfbmFtZSBmb3V0LWNsaV9qcAogICAgaW5jbHVkZV90YWdfa2V5IHRydWUKICAgIHRhZ19rZXkgdGFnCiAgICBsb2dzdGFzaF9mb3JtYXQgdHJ1ZQogICAgbG9nc3Rhc2hfcHJlZml4IGZvdXQtY2xpCiAgICBsb2dzdGFzaF9kYXRlZm9ybWF0ICVZLiVtLiVkCiAgICBmbHVzaF9pbnRlcnZhbCAxcwogIDwvc3RvcmU+Cg==</text>
+        <text encoding="base64">ICBAdHlwZSBjb3B5CiAgPHN0b3JlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCaWRkaW5nT3JkZXIgICAgICAgICAgICAgICAgICAgID0+IFsgcXcvcHJlZGljdGlvbl9qcC5hdXRvX2JpZHNfcHJpY2UvIF0sCg==</text>
+        <text encoding="base64">ICA8c3RvcmU+CiAgICBAdHlwZSBlbGFzdGljc2VhcmNoCiAgICBob3N0IGxvY2FsaG9zdAogICAgcG9ydCA8JT0gc2NvcGUubG9va3VwdmFyKCc6Omdsb2JhbHBhcmFtczo6aGFwcm94eV9vcHNfcG9ydCcpICU+CiAgICByZWxvYWRfY29ubmVjdGlvbnMgZmFsc2UKICAgIHR5cGVfbmFtZSBmb3V0LWNsaV9qcAogICAgaW5jbHVkZV90YWdfa2V5IHRydWUKICAgIHRhZ19rZXkgdGFnCiAgICBsb2dzdGFzaF9mb3JtYXQgdHJ1ZQogICAgbG9nc3Rhc2hfcHJlZml4IGZvdXQtY2xpCiAgICBsb2dzdGFzaF9kYXRlZm9ybWF0ICVZLiVtLiVkCiAgICBmbHVzaF9pbnRlcnZhbCAxcwogIDwvc3RvcmU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-search>
+      <last-search encoding="base64">XDx0YWdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YWdcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -472,12 +475,12 @@
         <entry encoding="base64">XDxGT19DT05GXD4=</entry>
         <entry encoding="base64">XDxfcG9zdFw+</entry>
         <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
-        <entry encoding="base64">XDx0YWdcPg==</entry>
         <entry encoding="base64">XDxsZXZlbFw+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxzZW5kX3JlcG9ydFw+</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</entry>
+        <entry encoding="base64">XDx0YWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
