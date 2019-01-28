@@ -137,8 +137,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
         <mark key="'" line="408" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548648093044">
-        <mark key="'" line="100" column="12" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548654345713">
+        <mark key="'" line="69" column="10" />
         <mark key="[" line="56" column="16" />
         <mark key="]" line="56" column="18" />
         <mark key="." line="56" column="18" />
@@ -223,7 +223,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="66" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="200" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -323,6 +322,7 @@
       <jump line="23" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="100" column="12" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
       <jump line="215" column="4" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
+      <jump line="69" column="10" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
