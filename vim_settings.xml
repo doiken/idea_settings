@@ -137,11 +137,11 @@
       <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
         <mark key="'" line="408" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548654345713">
-        <mark key="'" line="69" column="10" />
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="18" />
-        <mark key="." line="56" column="18" />
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548658861650">
+        <mark key="'" line="66" column="22" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="56" column="18" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/List/Util.pm" timestamp="1547543985527" />
@@ -223,14 +223,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
-      <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="200" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="41" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="196" column="32" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="19" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="106" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="107" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="108" column="29" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="273" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="310" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -323,6 +315,14 @@
       <jump line="100" column="12" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
       <jump line="215" column="4" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
       <jump line="69" column="10" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="11" column="25" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="1" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="10" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="26" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="35" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="44" column="3" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="0" column="2" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="66" column="22" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -334,8 +334,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>japanese_goblin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBnb29kCiAgZmx1c2hfaW50ZXJ2YWwgMXMKICB0aW1lX2tleSAgICAgICB0aW1lCiAgQGxvZ19sZXZlbCAgICAgd2Fybgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -353,13 +353,13 @@
         <text>japanese_goblin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</text>
+        <text encoding="base64">XDx0eXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UgJHsiOmphcGFuZXNlX2dvYmxpbjogcnVubmluZyAlcyBvbiAlcyBhdCAlcyAtICVzXG4lcyIgJSBbcmVjb3JkWydjb21tYW5kJ10gKyAocmVjb3JkWydsYWJlbCddID8gJ1snICsgcmVjb3JkWydsYWJlbCddLnRvX3MgKyAnXScgOiAnJyksIHJlY29yZFsnaG9zdG5hbWUnXSwgcmVjb3JkWydzdGFydF90aW1lJ10sIHJlY29yZFsnZmluaXNoX3RpbWUnXSwgcmVjb3JkWydtZXNzYWdlJ10uYnl0ZXNsaWNlKDAsOTUwMCldfQo=</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzdGRvdXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCaWRkaW5nT3JkZXIgICAgICAgICAgICAgICAgICAgID0+IFsgcXcvcHJlZGljdGlvbl9qcC5hdXRvX2JpZHNfcHJpY2UvIF0sCg==</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBnb29kCiAgZmx1c2hfaW50ZXJ2YWwgMXMKICB0aW1lX2tleSAgICAgICB0aW1lCiAgQGxvZ19sZXZlbCAgICAgd2Fybgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -370,40 +370,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawogIHRva2VuICAgICAgICAgIDwlPSBAc2xhY2tfYXBpX3Rva2VuICU+CiAgY2hhbm5lbCAgICAgICAgYWxlcnQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEk6Ok91dAogIGNvbG9yICAgICAgICAgIHdhcm5pbmcKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQb3RlbnRpYWxDb25zdW1wdGlvbiAgICAgICAgICAgID0+ICdzZXRsb2NrIC1uIHJ1bl9wb3RlbnRpYWxfY29uc3VtcHRpb24ubG9jayBwZXJsICR7Rk9VVF9MT0dTX0hPTUV9L2Jpbi9ydW5fcG90ZW50aWFsX2NvbnN1bXB0aW9uLnBsIC0tZnJvbSAkRlJPTV9FUE9DSCAtLXJlZ2lvbiBqcCAtLWJpZC1yZXNwb25zZS1kdXJhdGlvbiAxIC0tZ3Jvd3RoZm9yZWNhc3QgLS1nZi1sYWJlbCBwb3RlbnRpYWxfY29uc3VtcHRpb24nLAo=</text>
+        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGFsZXJ0CiAgdXNlcm5hbWUgICAgICAgRk91dDo6Q0xJCiAgY29sb3IgICAgICAgICAgd2FybmluZwogIGZsdXNoX2ludGVydmFsIDFzCiAgdGltZV9rZXkgICAgICAgdGltZQogIEBsb2dfbGV2ZWwgICAgIHdhcm4K</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQQ1RSQm9vc3RDdXRQYXJhbXNVcGRhdGVyICAgICAgID0+ICdzZXRsb2NrIC1uIHJ1bl9wY3RyX2Jvb3N0X2N1dF9wYXJhbXMubG9jayBwZXJsICR7Rk9VVF9MT0dTX0hPTUV9L2Jpbi9ydW5fcGN0cl9ib29zdF9jdXRfcGFyYW1zLnBsIC0tZnJvbSAkRlJPTV9FUE9DSCAtLWdyb3d0aGZvcmVjYXN0IC0tZ2YtbGFiZWwgcGN0cl9ib29zdF9jdXRfcGFyYW1zJywK</text>
+        <text encoding="base64">ICBAdHlwZSAgICAgICAgICBzbGFjawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDcG5OZXR3b3JrV2lzZVBlcmZvcm1hbmNlUnVubmVyID0+ICdzZXRsb2NrIC1uIHJ1bl9hdXRvX2JpZF9jcG5fbmV0d29ya19wZXJmb3JtYW5jZS5sb2NrIHBlcmwgJHtGT1VUX0xPR1NfSE9NRX0vYmluL3J1bl9hdXRvX2JpZF9jcG5fbmV0d29ya19wZXJmb3JtYW5jZS5wbCAtLWxhc3QtZGF0ZXRpbWUgJEZST01fRVBPQ0ggLS1ncm93dGhmb3JlY2FzdCAtLWdmLWxhYmVsIGF1dG9fYmlkX2Nwbl9uZXR3b3JrX3BlcmZvcm1hbmNlJywK</text>
+        <text encoding="base64">ICB0b2tlbiAgICAgICAgICA8JT0gQHNsYWNrX2FwaV90b2tlbiAlPgogIGNoYW5uZWwgICAgICAgIGNyaXQKICB1c2VybmFtZSAgICAgICBGT3V0OjpDTEkKICBjb2xvciAgICAgICAgICBkYW5nZXIKICBmbHVzaF9pbnRlcnZhbCAxcwogIHRpbWVfa2V5ICAgICAgIHRpbWUKICBAbG9nX2xldmVsICAgICB3YXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRvQmlkc1ByaWNlICAgICAgICAgICAgICAgICAgID0+ICdzZXRsb2NrIC1uIHJ1bl9hdXRvX2JpZHNfcHJpY2VfY2FsY3VsYXRvci5sb2NrIHBlcmwgJHtGT1VUX0xPR1NfSE9NRX0vYmluL3J1bl9hdXRvX2JpZHNfcHJpY2VfY2FsY3VsYXRvci5wbCAtLWZyb20gJEZST01fRVBPQ0ggLS1hZC1kdXJhdGlvbj0zIC0tcmVjb3JkLXRocmVzaG9sZD0xMDAwIC0tcmVnaW9uIGpwIC0tZ3Jvd3RoZm9yZWNhc3QnLAo=</text>
+        <text encoding="base64">ICA8L3N0b3JlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRvQmlkc1ByaWNlICAgICAgICAgICAgICAgICAgID0+ICdzZXRsb2NrIC1uIHJ1bl9hdXRvX2JpZHNfcHJpY2VfY2FsY3VsYXRvci5sb2NrIHBlcmwgJHtGT1VUX0xPR1NfSE9NRX0vYmluL3J1bl9hdXRvX2JpZHNfcHJpY2VfY2FsY3VsYXRvci5wbCAtLWZyb20gJEZST01fRVBPQ0ggLS1hZC1kdXJhdGlvbj0zIC0tcmVjb3JkLXRocmVzaG9sZD0xMDAwIC0tcmVnaW9uIGpwIC0tZ3Jvd3RoZm9yZWNhc3QnLAo=</text>
+        <text encoding="base64">ICBAdHlwZSBjb3B5CiAgPHN0b3JlPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHRlc3QuY29sbGVjdCkK</text>
+        <text encoding="base64">ICA8c3RvcmU+CiAgICBAdHlwZSBlbGFzdGljc2VhcmNoCiAgICBob3N0IGxvY2FsaG9zdAogICAgcG9ydCA8JT0gc2NvcGUubG9va3VwdmFyKCc6Omdsb2JhbHBhcmFtczo6aGFwcm94eV9vcHNfcG9ydCcpICU+CiAgICByZWxvYWRfY29ubmVjdGlvbnMgZmFsc2UKICAgIHR5cGVfbmFtZSBmb3V0LWNsaV9qcAogICAgaW5jbHVkZV90YWdfa2V5IHRydWUKICAgIHRhZ19rZXkgdGFnCiAgICBsb2dzdGFzaF9mb3JtYXQgdHJ1ZQogICAgbG9nc3Rhc2hfcHJlZml4IGZvdXQtY2xpCiAgICBsb2dzdGFzaF9kYXRlZm9ybWF0ICVZLiVtLiVkCiAgICBmbHVzaF9pbnRlcnZhbCAxcwogIDwvc3RvcmU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZkR1bW15Q29udiA9IFNlcVsoSW50LCBJbnQsIE9wdGlvbltTdHJpbmddKV0oCiAgICAgICgxLCAxLCBTb21lKCIyMDE4LTAyLTE4IDEwOjAwOjAwIikpLAogICAgICAoMiwgMSwgU29tZSgiMjAxOC0wMS0zMSAxMDowMDowMCIpKSwKICAgICAgKDMsIDEsIE5vbmUpCiAgICApLnRvREYoImlkIiwgImV4cGVyaW1lbnQiLCAiZmlyc3RfaW1wX3RpbWUiKQogICAgdmFsIGRmRXhwZXJpbWVudHMgPSBTZXFbKEludCwgU3RyaW5nKV0oCiAgICAgICgxLCAiMjAxOC0wMi0wMSAxMDowMDowMCIpCiAgICApLnRvREYoImlkIiwgInN0ZGF0ZXRpbWUiKQoKICAgIHZhbCBzdW1tYXJ5ID0gbmV3IFNwbGl0UnVuU3VtbWFyeQogICAgdmFsIGFjdHVhbCA9IHN1bW1hcnkucmVtb3ZlVG9vT2xkSW1wQ29udmVyc2lvbihkZkV4cGVyaW1lbnRzKShkZkR1bW15Q29udikKICAgIHZhbCBleHBlY3RlZCA9IEFycmF5W1Jvd10oUm93KDEsIDEsICIyMDE4LTAyLTE4IDEwOjAwOjAwIikpCiAgICBhY3R1YWwuY29sbGVjdCBzaG91bGQgY29udGFpbiB0aGVTYW1lRWxlbWVudHNBcyBleHBlY3RlZAo=</text>
+        <text encoding="base64">ICAgICAgICBCaWRkaW5nT3JkZXIgICAgICAgICAgICAgICAgICAgID0+IFsgcXcvcHJlZGljdGlvbl9qcC5hdXRvX2JpZHNfcHJpY2UvIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-search>
+      <last-search encoding="base64">XDx0eXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0eXBlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -476,6 +476,7 @@
         <entry encoding="base64">XDx0YWdcPg==</entry>
         <entry encoding="base64">XDxsZXZlbFw+</entry>
         <entry encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
