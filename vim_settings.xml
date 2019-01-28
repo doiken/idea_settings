@@ -151,8 +151,8 @@
       <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548648021527">
         <mark key="'" line="23" column="5" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1548647921599">
-        <mark key="'" line="239" column="20" />
+      <file name="$FOUT_HOME$/lib/FOut/CLI.pm" timestamp="1548653245934">
+        <mark key="'" line="215" column="4" />
         <mark key="[" line="242" column="90" />
         <mark key="]" line="243" column="65" />
         <mark key="^" line="243" column="65" />
@@ -223,7 +223,6 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/Double.scala" timestamp="1547801356623" />
     </filemarks>
     <jumps>
-      <jump line="14" column="5" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="66" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -323,6 +322,7 @@
       <jump line="36" column="4" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="23" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="100" column="12" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" />
+      <jump line="215" column="4" filename="$FOUT_HOME$/lib/FOut/CLI.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -353,7 +353,7 @@
         <text>japanese_goblin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZXZlbFw+</text>
+        <text encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2UgJHsiOmphcGFuZXNlX2dvYmxpbjogcnVubmluZyAlcyBvbiAlcyBhdCAlcyAtICVzXG4lcyIgJSBbcmVjb3JkWydjb21tYW5kJ10gKyAocmVjb3JkWydsYWJlbCddID8gJ1snICsgcmVjb3JkWydsYWJlbCddLnRvX3MgKyAnXScgOiAnJyksIHJlY29yZFsnaG9zdG5hbWUnXSwgcmVjb3JkWydzdGFydF90aW1lJ10sIHJlY29yZFsnZmluaXNoX3RpbWUnXSwgcmVjb3JkWydtZXNzYWdlJ10uYnl0ZXNsaWNlKDAsOTUwMCldfQo=</text>
@@ -401,9 +401,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZXZlbFw+</last-search>
+      <last-search encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZXZlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -475,6 +475,7 @@
         <entry encoding="base64">XDxwYWNrZXJcPg==</entry>
         <entry encoding="base64">XDx0YWdcPg==</entry>
         <entry encoding="base64">XDxsZXZlbFw+</entry>
+        <entry encoding="base64">XDxfc2VuZF9mbHVlbnRkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
