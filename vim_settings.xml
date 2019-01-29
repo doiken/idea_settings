@@ -301,8 +301,8 @@
       <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
         <mark key="'" line="44" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548746455639">
-        <mark key="'" line="173" column="28" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548754776612">
+        <mark key="'" line="237" column="36" />
         <mark key="[" line="193" column="66" />
         <mark key="]" line="193" column="88" />
         <mark key="." line="193" column="66" />
@@ -591,8 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$FOUT_HOME$/tools/fluent-logger" />
-      <jump line="19" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="52" column="46" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="36" column="4" filename="$FOUT_HOME$/tools/fluent-logger" />
       <jump line="23" column="5" filename="$FOUT_HOME$/tools/fluent-logger" />
@@ -677,7 +675,6 @@
       <jump line="17" column="5" filename="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" />
       <jump line="226" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="231" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="234" column="82" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="330" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="157" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="220" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -691,6 +688,9 @@
       <jump line="230" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="47" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="173" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="232" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="234" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="237" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -721,7 +721,7 @@
         <text>BiddingOrder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSRVFVSVJFRF9MT0dTXD4=</text>
+        <text encoding="base64">XDxjbWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>BiddingOrderCalculator</text>
@@ -769,9 +769,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSRVFVSVJFRF9MT0dTXD4=</last-search>
+      <last-search encoding="base64">XDxjbWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSRVFVSVJFRF9MT0dTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -817,7 +817,6 @@
         <entry>unique</entry>
         <entry>time_local</entry>
         <entry encoding="base64">XDxQUk9QRVJUSUVTXD4=</entry>
-        <entry encoding="base64">XDxjbWRcPg==</entry>
         <entry encoding="base64">XDxleGl0X2NvZGVcPg==</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9kYXRhXD4=</entry>
         <entry encoding="base64">XDxqcF9sb2dcPg==</entry>
@@ -861,6 +860,7 @@
         <entry>consu</entry>
         <entry encoding="base64">XDxBVVRPX0JJRF9DT01NQU5EU1w+</entry>
         <entry encoding="base64">XDxSRVFVSVJFRF9MT0dTXD4=</entry>
+        <entry encoding="base64">XDxjbWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
