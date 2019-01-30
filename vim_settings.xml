@@ -100,10 +100,6 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" timestamp="1545034307914">
         <mark key="'" line="70" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/_header.erb" timestamp="1548390155761">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="5" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1547523390084">
         <mark key="'" line="23" column="60" />
       </file>
@@ -129,8 +125,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" timestamp="1547085324626">
         <mark key="'" line="75" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1546916641984">
-        <mark key="'" line="71" column="34" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1548834591680">
+        <mark key="'" line="118" column="35" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" timestamp="1541139028160">
         <mark key="'" line="310" column="4" />
@@ -210,10 +206,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" timestamp="1545361021522">
         <mark key="'" line="78" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" timestamp="1548733975373">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="90" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/files/etc/nagios/commands.cfg" timestamp="1548322808713" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_service_collector.conf" timestamp="1548656138100" />
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
@@ -285,10 +277,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
       </file>
-      <file name="/AutoBidBatches.pm" timestamp="1548725747246">
-        <mark key="[" line="49" column="48" />
-        <mark key="]" line="49" column="78" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1548739300180">
         <mark key="'" line="42" column="9" />
       </file>
@@ -326,6 +314,7 @@
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
         <mark key="'" line="243" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl11.log.jp.fout.internal/nn" timestamp="1548834551920" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/manifests/init.pp" timestamp="1548307888035" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
         <mark key="'" line="309" column="15" />
@@ -594,8 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="92" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="295" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="310" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="311" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -694,6 +681,8 @@
       <jump line="374" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="408" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="208" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
+      <jump line="113" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="118" column="35" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -724,7 +713,7 @@
         <text>BiddingOrder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</text>
+        <text encoding="base64">XDx0YXNrc1w+</text>
       </register>
       <register name="0" type="4">
         <text>FOUT_LOGS_HOME</text>
@@ -772,9 +761,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</last-search>
+      <last-search encoding="base64">XDx0YXNrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0YXNrc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -816,7 +805,6 @@
         <entry encoding="base64">XDxyYXRlXD4=</entry>
         <entry encoding="base64">XDxaRVJPX1BBRERJTkdfUEFSVElUSU9OU1w+</entry>
         <entry encoding="base64">XDxOT05fWkVST19QQURESU5HX1BBUlRJVElPTlNcPg==</entry>
-        <entry encoding="base64">XDx0YXNrc1w+</entry>
         <entry>unique</entry>
         <entry>time_local</entry>
         <entry encoding="base64">XDxQUk9QRVJUSUVTXD4=</entry>
@@ -874,6 +862,7 @@
         <entry encoding="base64">XDxkZkFkZ3Jwc1w+</entry>
         <entry encoding="base64">XDxhZGROZXR3b3JrSW5mb0Zyb21BZElkXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDx0YXNrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
