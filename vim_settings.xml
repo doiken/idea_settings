@@ -289,8 +289,8 @@
       <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
         <mark key="'" line="44" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548819232859">
-        <mark key="'" line="228" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1548836695631">
+        <mark key="'" line="224" column="4" />
         <mark key="[" line="215" column="36" />
         <mark key="]" line="215" column="35" />
         <mark key="." line="215" column="35" />
@@ -485,6 +485,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" timestamp="1548819514401">
         <mark key="'" line="670" column="4" />
       </file>
+      <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Devel/StackTrace.pm" timestamp="1548837285968" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1544498235603">
         <mark key="'" line="40" column="24" />
       </file>
@@ -583,7 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="310" column="11" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="311" column="14" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="314" column="16" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -683,6 +683,7 @@
       <jump line="208" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="113" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
       <jump line="118" column="35" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="224" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -713,7 +714,7 @@
         <text>BiddingOrder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrc1w+</text>
+        <text encoding="base64">XDxfcnVuX2NtZFw+</text>
       </register>
       <register name="0" type="4">
         <text>FOUT_LOGS_HOME</text>
@@ -761,9 +762,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrc1w+</last-search>
+      <last-search encoding="base64">XDxfcnVuX2NtZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVuX2NtZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -842,7 +843,6 @@
         <entry encoding="base64">XDxyZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxyZXRyeV9udW1cPg==</entry>
         <entry encoding="base64">XDxNYXhfUmV0cnlfR2VuZXJhdGluZ1w+</entry>
-        <entry encoding="base64">XDxfcnVuX2NtZFw+</entry>
         <entry encoding="base64">XDxnZm9wdGlvblw+</entry>
         <entry encoding="base64">XDxzZW5kX2pvYl9yZXBvcnRcPg==</entry>
         <entry encoding="base64">XDxfdmFsaWRhdGVfdGFza19uYW1lXD4=</entry>
@@ -863,6 +863,7 @@
         <entry encoding="base64">XDxhZGROZXR3b3JrSW5mb0Zyb21BZElkXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDx0YXNrc1w+</entry>
+        <entry encoding="base64">XDxfcnVuX2NtZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
