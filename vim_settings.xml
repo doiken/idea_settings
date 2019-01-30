@@ -167,8 +167,8 @@
         <mark key="^" line="77" column="180" />
         <mark key="." line="77" column="180" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" timestamp="1548819853181">
-        <mark key="'" line="69" column="6" />
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" timestamp="1548820730649">
+        <mark key="'" line="157" column="16" />
         <mark key="[" line="307" column="30" />
         <mark key="]" line="307" column="34" />
         <mark key="^" line="307" column="34" />
@@ -219,7 +219,7 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548323192978">
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548820478467">
         <mark key="'" line="355" column="14" />
         <mark key="[" line="396" column="21" />
         <mark key="]" line="396" column="20" />
@@ -594,8 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="28" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="98" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="99" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="100" column="17" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -694,6 +692,8 @@
       <jump line="132" column="34" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="133" column="38" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="69" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
+      <jump line="348" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
+      <jump line="157" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -724,7 +724,7 @@
         <text>BiddingOrder</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</text>
+        <text encoding="base64">XDxhZGROZXR3b3JrVHlwZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG15ICRnZm9wdGlvbiA9ICcnOwo=</text>
@@ -772,9 +772,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-search>
+      <last-search encoding="base64">XDxhZGROZXR3b3JrVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhZGROZXR3b3JrVHlwZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -870,6 +870,7 @@
         <entry encoding="base64">XDx0YWJsZV9uYW1lXD4=</entry>
         <entry encoding="base64">XDxSRVFVSVJFRF9DT0xVTU5TXD4=</entry>
         <entry encoding="base64">XDxyZnBfbmV0d29ya19pZFw+</entry>
+        <entry encoding="base64">XDxhZGROZXR3b3JrVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
