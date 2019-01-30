@@ -135,10 +135,10 @@
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" timestamp="1541139028160">
         <mark key="'" line="310" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1548746577951">
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" timestamp="1548829627767">
         <mark key="'" line="24" column="220" />
-        <mark key="[" line="24" column="301" />
-        <mark key="]" line="24" column="310" />
+        <mark key="[" line="24" column="109" />
+        <mark key="]" line="24" column="122" />
         <mark key="." line="24" column="310" />
         <mark key="^" line="24" column="310" />
       </file>
@@ -705,8 +705,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15ICRnZm9wdGlvbiA9ICcnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>FOUT_LOGS_HOME</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -726,8 +726,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVUb29PbGRJbXBDb252ZXJzaW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG15ICRnZm9wdGlvbiA9ICcnOwo=</text>
+      <register name="0" type="4">
+        <text>FOUT_LOGS_HOME</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBqcCBob3VybHkgYmlkZGluZ19vcmRlciBjYWxjdWxhdGlvbgo0MCAqICogKiAqIGNkIC90bXA7IEZST01fRVBPQ0g9YGRhdGUgLWQgJy0xIGRheSArMSBob3VyJyArXCVzYDsgcGVybCAke0ZPVVRfTE9HU19IT01FfS9iaW4vcnVuX2JpZGRpbmdfb3JkZXJfY2FsY3VsYXRvci5wbCAtLWZyb20gJEZST01fRVBPQ0ggLS1wb29sIHByb2R1Y3Rpb24gLS1ncm93dGhmb3JlY2FzdAoK</text>
