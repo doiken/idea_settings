@@ -29,6 +29,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1548742605872">
         <mark key="'" line="207" column="28" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Cache/VastStatus.pm" timestamp="1548919304629">
+        <mark key="'" line="50" column="8" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment/Generator.pm" timestamp="1545190169434">
         <mark key="'" line="119" column="8" />
       </file>
@@ -257,6 +260,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1544091074490">
         <mark key="'" line="14" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1548919258451">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
         <mark key="'" line="262" column="0" />
       </file>
@@ -279,6 +285,9 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/manifests/templates.pp" timestamp="1548644964618" />
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/elasticsearch/files/etc/elasticsearch/templates/adserver_report_region_template.json" timestamp="1545360978119">
         <mark key="'" line="122" column="35" />
+      </file>
+      <file name="/fragment.java" timestamp="1547805355258">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1541147942448">
         <mark key="'" line="38" column="8" />
@@ -600,8 +609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="282" column="43" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="17" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="109" column="24" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="110" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -700,6 +707,8 @@
       <jump line="190" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="163" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="320" column="20" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="25" column="4" filename="$FOUT_HOME$/lib/FOut/Cache/VastStatus.pm" />
+      <jump line="50" column="8" filename="$FOUT_HOME$/lib/FOut/Cache/VastStatus.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -730,7 +739,7 @@
         <text>$y, $m, $d, $h</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHNraXAgPSAkc2VsZi0+X3J1bl9sb2dfY2hlY2tfY21kKCRsb2dfdGltZSwgJGxvZ19uYW1lLCAkdGFza19uYW1lLCAkeXl5eSwgJG1tLCAkZGQsICRoaCk7Cg==</text>
@@ -778,9 +787,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -882,6 +891,8 @@
         <entry encoding="base64">XDxfcnVuX2NtZFw+</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</entry>
+        <entry encoding="base64">XDxfc3RhdHVzX2tleVw+</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
