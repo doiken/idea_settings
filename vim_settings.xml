@@ -439,6 +439,9 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java" timestamp="1545366758038">
         <mark key="'" line="1532" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/AutoBidRandomRejectCoef.scala" timestamp="1549354963825">
+        <mark key="'" line="25" column="64" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
       </file>
@@ -542,8 +545,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/VastTrack/App.pm" timestamp="1542018137897">
         <mark key="'" line="310" column="8" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1548934662531">
-        <mark key="'" line="788" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match.pm" timestamp="1549354831089">
+        <mark key="'" line="240" column="27" />
         <mark key="[" line="59" column="5" />
         <mark key="]" line="59" column="5" />
         <mark key="^" line="59" column="5" />
@@ -610,14 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="231" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="330" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="157" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="220" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="313" column="19" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="270" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="219" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/CLI.pm" />
       <jump line="202" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="24" column="220" filename="$USER_HOME$/Documents/fout_infra/puppet/modules/crontab/templates/etl12.log.jp.fout.internal/nn" />
       <jump line="45" column="7" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -710,6 +705,14 @@
       <jump line="247" column="10" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
       <jump line="205" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
       <jump line="234" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
+      <jump line="227" column="34" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="228" column="13" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="232" column="40" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="233" column="9" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="238" column="5" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="240" column="27" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
+      <jump line="7" column="11" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/AutoBidRandomRejectCoef.scala" />
+      <jump line="25" column="64" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/predictionjp/AutoBidRandomRejectCoef.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,7 +743,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1ZGZJc0FkanVzdGVkVGFyZ2V0XD4=</text>
+        <text encoding="base64">XDxBdXRvQmlkUmFuZG9tUmVqZWN0Q29lZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgKDEsIDY5MjMsIDEyLCAgMS4xLCAiIiJ7ImFscGhhIiA6IDEuMCwgImJldGEiIDogOTkuMCwgImdhbW1hIiA6IDk5LjB9IiIiLCAiIiJ7ImFscGhhX21heCIgOiAzLjAsICJhbHBoYV9taW4iIDogMS4wLCAiZ2FtbWFfbWF4IiA6IDk5LjAsICJnYW1tYV9taW4iIDogMC4wLCAiYmV0YV9taW4iIDogMC4wLCAiYmV0YV9tYXgiIDogOTkuMH0iIiIsIDAuMTAsIDEuMDAsIDYsIDYpCg==</text>
@@ -788,13 +791,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1ZGZJc0FkanVzdGVkVGFyZ2V0XD4=</last-search>
+      <last-search encoding="base64">XDxBdXRvQmlkUmFuZG9tUmVqZWN0Q29lZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1ZGZJc0FkanVzdGVkVGFyZ2V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdXRvQmlkUmFuZG9tUmVqZWN0Q29lZlw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -818,6 +821,8 @@
         <entry encoding="base64">XDxhY3R1YWxcPg==</entry>
         <entry encoding="base64">XDx1ZGZDb2VmQWRqdXN0VmFsdWVcPg==</entry>
         <entry encoding="base64">XDx1ZGZJc0FkanVzdGVkVGFyZ2V0XD4=</entry>
+        <entry encoding="base64">XDxhZ19kbHZfdHlwZVw+</entry>
+        <entry encoding="base64">XDxBdXRvQmlkUmFuZG9tUmVqZWN0Q29lZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
