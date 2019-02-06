@@ -362,8 +362,8 @@
       <file name="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" timestamp="1545202157724">
         <mark key="'" line="637" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1548918536424">
-        <mark key="'" line="66" column="8" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
+        <mark key="'" line="90" column="10" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1548916409397">
         <mark key="'" line="40" column="12" />
@@ -524,7 +524,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Buying.pm" timestamp="1549358720816">
         <mark key="'" line="78" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1549432466620" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1549445589957">
+        <mark key="'" line="23" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/apache/hive/bin/hive" timestamp="1545187278889">
         <mark key="'" line="291" column="3" />
       </file>
@@ -611,8 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="263" column="70" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="228" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="96" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="84" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" />
       <jump line="168" column="8" filename="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" />
@@ -711,6 +711,8 @@
       <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="30" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="90" column="10" filename="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" />
+      <jump line="23" column="19" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
