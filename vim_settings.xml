@@ -531,7 +531,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1545026978236">
         <mark key="'" line="37" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549360631734">
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549440825214">
         <mark key="'" line="68" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
@@ -562,8 +562,8 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" timestamp="1542086866189">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" timestamp="1544499037495">
-        <mark key="'" line="32" column="4" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" timestamp="1549441133871">
+        <mark key="'" line="51" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1547088339579">
         <mark key="'" line="2" column="13" />
@@ -607,7 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="245" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="258" column="110" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="263" column="70" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -707,6 +706,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="55" column="28" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -737,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE8g44Ko44Op44O844Gn44KI44GE44GLKGlmYeOBjOOBqOOCjOOBquOBhOOBn+OCgSnvvJ8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlc1w+</text>
+        <text encoding="base64">XDxfa2V5X25hbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRwcmljaW5nICogMTAgaWYgJHNlbGYtPmNvbnRleHQtPntzdGFzaH17YXV0b19iaWRfZ2FtZV9hdWRpZW5jZXN9eyRjcG5faWR9Owo=</text>
@@ -785,9 +785,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlc1w+</last-search>
+      <last-search encoding="base64">XDxfa2V5X25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5X25hbWVcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -821,6 +821,7 @@
         <entry encoding="base64">XDxfZ2V0X2NwY19pbmZlZWRfYWNjZWxlcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxhZGp1c3Rvclw+</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
+        <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
