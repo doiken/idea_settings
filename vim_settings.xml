@@ -531,8 +531,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1545026978236">
         <mark key="'" line="37" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549440825214">
-        <mark key="'" line="68" column="17" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549442281774">
+        <mark key="'" line="30" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
         <mark key="'" line="0" column="0" />
@@ -607,8 +607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="258" column="110" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="263" column="70" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="228" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="96" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
@@ -707,6 +705,8 @@
       <jump line="55" column="28" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
+      <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="30" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -737,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE8g44Ko44Op44O844Gn44KI44GE44GLKGlmYeOBjOOBqOOCjOOBquOBhOOBn+OCgSnvvJ8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfa2V5X25hbWVcPg==</text>
+        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRwcmljaW5nICogMTAgaWYgJHNlbGYtPmNvbnRleHQtPntzdGFzaH17YXV0b19iaWRfZ2FtZV9hdWRpZW5jZXN9eyRjcG5faWR9Owo=</text>
@@ -785,9 +785,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfa2V5X25hbWVcPg==</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfa2V5X25hbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -822,6 +822,7 @@
         <entry encoding="base64">XDxhZGp1c3Rvclw+</entry>
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
+        <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
