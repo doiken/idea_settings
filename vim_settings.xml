@@ -531,8 +531,12 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1545026978236">
         <mark key="'" line="37" column="32" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549442281774">
-        <mark key="'" line="30" column="22" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549444594680">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="59" column="97" />
+        <mark key="]" line="59" column="97" />
+        <mark key="^" line="59" column="97" />
+        <mark key="." line="59" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
         <mark key="'" line="0" column="0" />
@@ -706,7 +710,7 @@
       <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
       <jump line="51" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" />
       <jump line="43" column="4" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
-      <jump line="30" column="22" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="30" column="8" filename="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -719,7 +723,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8g44Ko44Op44O844Gn44KI44GE44GLKGlmYeOBjOOBqOOCjOOBquOBhOOBn+OCgSnvvJ8=</text>
+        <text>$coef</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -737,10 +741,10 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE8g44Ko44Op44O844Gn44KI44GE44GLKGlmYeOBjOOBqOOCjOOBquOBhOOBn+OCgSnvvJ8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</text>
+        <text encoding="base64">XDxjb2VmXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICRwcmljaW5nICogMTAgaWYgJHNlbGYtPmNvbnRleHQtPntzdGFzaH17YXV0b19iaWRfZ2FtZV9hdWRpZW5jZXN9eyRjcG5faWR9Owo=</text>
+      <register name="0" type="4">
+        <text>$coef</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IC8vPSBkbyB7CiAgICAgICAgIyDlr77osaHjga5jcG7jgYsKICAgICAgICAjIOODleODqeOCsOOBjOacieWKueWMlgogICAgfQ==</text>
@@ -785,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</last-search>
+      <last-search encoding="base64">XDxjb2VmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb2VmXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -802,7 +806,6 @@
         <entry encoding="base64">XDxfc3RhdHVzX2tleVw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9yYW5kb21fcmVqZWN0XD4=</entry>
-        <entry encoding="base64">XDxjb2VmXD4=</entry>
         <entry encoding="base64">XDxtYXRjaGVkX3VzZXJzXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJpbmdzX3doaXRlbGlzdHNcPg==</entry>
         <entry encoding="base64">XDxjYWxjQWRqdXRlZENvZWZcPg==</entry>
@@ -823,6 +826,7 @@
         <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxfa2V5X25hbWVcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</entry>
+        <entry encoding="base64">XDxjb2VmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
