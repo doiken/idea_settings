@@ -418,8 +418,8 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" timestamp="1545038123651">
         <mark key="'" line="3337" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1549424442076">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1549431614059">
+        <mark key="'" line="30" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" timestamp="1547104904577">
         <mark key="'" line="56" column="4" />
@@ -610,8 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="8" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="234" column="9" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="237" column="36" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="245" column="13" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="258" column="110" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
@@ -710,6 +708,8 @@
       <jump line="18" column="20" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
       <jump line="63" column="28" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="55" column="28" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
+      <jump line="30" column="4" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,7 +740,7 @@
         <text>True</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGp1c3Rvclw+</text>
+        <text encoding="base64">XDxmZWF0dXJlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRwcmljaW5nICogMTAgaWYgJHNlbGYtPmNvbnRleHQtPntzdGFzaH17YXV0b19iaWRfZ2FtZV9hdWRpZW5jZXN9eyRjcG5faWR9Owo=</text>
@@ -788,9 +788,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGp1c3Rvclw+</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGp1c3Rvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxmZWF0dXJlc1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -823,6 +823,7 @@
         <entry encoding="base64">XDxjcG5faWRcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X2NwY19pbmZlZWRfYWNjZWxlcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxhZGp1c3Rvclw+</entry>
+        <entry encoding="base64">XDxmZWF0dXJlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
