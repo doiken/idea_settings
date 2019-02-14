@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1541147942448">
+        <mark key="'" line="38" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
+        <mark key="'" line="45" column="2" />
+      </file>
       <file name="$FOUT_HOME$/bid/config.yaml" timestamp="1548931071816">
         <mark key="'" line="0" column="0" />
       </file>
@@ -12,12 +18,23 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1545026908914">
         <mark key="'" line="231" column="24" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AdGroup.pm" timestamp="1549510208104" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1548739300180">
+        <mark key="'" line="42" column="9" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1539844493768">
         <mark key="'" line="117" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/HiveClient2.pm" timestamp="1548840590980">
         <mark key="'" line="17" column="4" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" timestamp="1542248042094">
+        <mark key="'" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/DBIx/Sunny.pm" timestamp="1543482441803">
+        <mark key="'" line="42" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
+        <mark key="'" line="44" column="39" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" timestamp="1540882118789">
         <mark key="'" line="11" column="21" />
@@ -27,6 +44,20 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1547802665821">
         <mark key="'" line="138" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/config.yaml" timestamp="1548933940078">
+        <mark key="'" line="1420" column="41" />
+        <mark key="[" line="1420" column="41" />
+        <mark key="]" line="1420" column="76" />
+        <mark key="^" line="1420" column="76" />
+        <mark key="." line="1420" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1550116001691">
+        <mark key="'" line="185" column="31" />
+        <mark key="[" line="320" column="20" />
+        <mark key="]" line="320" column="18" />
+        <mark key="^" line="320" column="18" />
+        <mark key="." line="320" column="18" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Models.pm" timestamp="1548742605872">
         <mark key="'" line="207" column="28" />
@@ -40,8 +71,14 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegment.pm" timestamp="1547025744965">
         <mark key="'" line="34" column="11" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" timestamp="1547027691745">
+        <mark key="'" line="40" column="6" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Log/Analyzer/Conv.pm" timestamp="1541152210818">
         <mark key="'" line="74" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" timestamp="1545203940969">
+        <mark key="'" line="439" column="23" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1546853064873">
         <mark key="'" line="74" column="51" />
@@ -55,8 +92,14 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1547609719946">
         <mark key="'" line="25" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1542078806241">
+        <mark key="'" line="40" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547114822302">
         <mark key="'" line="50" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1548819566556">
+        <mark key="'" line="49" column="9" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/science/percentile_boost.t" timestamp="1545723906667">
         <mark key="'" line="164" column="54" />
@@ -64,14 +107,32 @@
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Parallel/ForkManager.pm" timestamp="1542259652040">
         <mark key="'" line="481" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1548840567232">
+        <mark key="'" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
+        <mark key="'" line="243" column="18" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1547618738648">
         <mark key="'" line="88" column="36" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
+        <mark key="'" line="309" column="15" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1545892546963">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/CLI/SegmentExpander.pm" timestamp="1541565215868">
         <mark key="'" line="30" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1543992095798">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$FOUT_HOME$/tools/notify-slack" timestamp="1548215679417">
         <mark key="'" line="41" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1541411387332">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/tools/job_task_summary.pl" timestamp="1548323197152">
         <mark key="'" line="32" column="28" />
@@ -82,9 +143,11 @@
       <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-auto_bids_tac_rate.t" timestamp="1544068122306">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$FOUT_HOME$/tools/circleci_artifact.pl" timestamp="1549334028961" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1547802957626">
         <mark key="'" line="19" column="57" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1542080388669">
+        <mark key="'" line="61" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1545708093207">
         <mark key="'" line="39" column="31" />
@@ -92,14 +155,32 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRWebPCModFMPrediction.pm" timestamp="1547532963030">
         <mark key="'" line="44" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fluentd_internal_collector.conf" timestamp="1548667477886">
+        <mark key="'" line="74" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
+        <mark key="'" line="31" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java" timestamp="1545202972274">
         <mark key="'" line="661" column="9" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
+        <mark key="'" line="61" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1542102204470">
+        <mark key="'" line="136" column="4" />
       </file>
       <file name="$FOUT_HOME$/sql/dsp.sql" timestamp="1548934651038">
         <mark key="'" line="3877" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1548214411495">
         <mark key="'" line="512" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" timestamp="1545202157724">
+        <mark key="'" line="637" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
+        <mark key="'" line="90" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/util/ToolRunner.java" timestamp="1545034307914">
         <mark key="'" line="70" column="42" />
@@ -114,11 +195,27 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1548916409397">
+        <mark key="'" line="40" column="12" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="80" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/marginboostparams/parameters_margin_boost.hql" timestamp="1539938372152">
         <mark key="'" line="45" column="55" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1548742831252">
+        <mark key="'" line="17" column="5" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/DBI.pm" timestamp="1539761432653">
         <mark key="'" line="1623" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1545202132962">
+        <mark key="'" line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpnNetworkWisePerformance.pm" timestamp="1548043206476">
+        <mark key="'" line="48" column="8" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/x86_64-linux/Crypt/PRNG/Fortuna.pm" timestamp="1540456177119">
         <mark key="'" line="69" column="36" />
@@ -129,8 +226,30 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" timestamp="1547085324626">
         <mark key="'" line="75" column="28" />
       </file>
+      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544517276848">
+        <mark key="'" line="90" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1548834591680">
         <mark key="'" line="118" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
+        <mark key="'" line="408" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548667756228">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="41" />
+      </file>
+      <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
+        <mark key="'" line="19" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/ScopedModels.pm" timestamp="1545880826722">
+        <mark key="'" line="70" column="11" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
+        <mark key="'" line="154" column="32" />
       </file>
       <file name="$FOUT_HOME$/t/fout/bid/algorithm/drop_rate/l_drop_rate_predictor.t" timestamp="1541139028160">
         <mark key="'" line="310" column="4" />
@@ -147,6 +266,12 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/ContinuousBidInhibitor.pm" timestamp="1542079508933">
         <mark key="'" line="0" column="8" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
+        <mark key="'" line="43" column="6" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
+        <mark key="'" line="25" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1548840682006">
         <mark key="'" line="175" column="9" />
@@ -171,246 +296,6 @@
         <mark key="^" line="77" column="180" />
         <mark key="." line="77" column="180" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" timestamp="1548826213267">
-        <mark key="'" line="208" column="16" />
-        <mark key="[" line="307" column="30" />
-        <mark key="]" line="307" column="34" />
-        <mark key="^" line="307" column="34" />
-        <mark key="." line="307" column="34" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1544083221160">
-        <mark key="'" line="143" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1549422517964">
-        <mark key="'" line="63" column="28" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1544083692643">
-        <mark key="'" line="29" column="32" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.0-cdh5.5.1/spark-sql_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/sql/DataFrame.scala" timestamp="1547782898553">
-        <mark key="'" line="791" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" timestamp="1545034643741">
-        <mark key="'" line="31" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/Time/Piece.pm" timestamp="1549516826856" />
-      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" timestamp="1547088301002">
-        <mark key="'" line="202" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Summarize.pm" timestamp="1548741459380">
-        <mark key="'" line="244" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/ResponseUtil.pm" timestamp="1540347521064">
-        <mark key="'" line="29" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
-        <mark key="'" line="48" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" timestamp="1548310745991">
-        <mark key="'" line="269" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/protocolPB/ClientNamenodeProtocolTranslatorPB.java" timestamp="1545031062310">
-        <mark key="'" line="253" column="33" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/CacheMemcached.pm" timestamp="1548742611143">
-        <mark key="'" line="42" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" timestamp="1545361021522">
-        <mark key="'" line="78" column="35" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
-        <mark key="'" line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB/HiveServer2.pm" timestamp="1548840709659">
-        <mark key="'" line="21" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548936115299">
-        <mark key="'" line="355" column="14" />
-        <mark key="[" line="396" column="21" />
-        <mark key="]" line="396" column="20" />
-        <mark key="^" line="396" column="20" />
-        <mark key="." line="396" column="20" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
-        <mark key="'" line="19" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1547607705215">
-        <mark key="'" line="1151" column="14" />
-        <mark key="[" line="548" column="11" />
-        <mark key="]" line="549" column="0" />
-        <mark key="^" line="549" column="0" />
-        <mark key="." line="549" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1545190603001">
-        <mark key="'" line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/common/etc/td-agent/td-agent-service.conf" timestamp="1548644641724">
-        <mark key="'" line="23" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegmentCache.pm" timestamp="1547088121497">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
-        <mark key="'" line="229" column="22" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
-        <mark key="'" line="53" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSDirConcatOp.java" timestamp="1545366582443">
-        <mark key="'" line="241" column="16" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1544091074490">
-        <mark key="'" line="14" column="4" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
-        <mark key="'" line="262" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/tools/akamai_content_purger.sh" timestamp="1548214028605">
-        <mark key="'" line="69" column="31" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1547533000022">
-        <mark key="'" line="46" column="7" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547104696235">
-        <mark key="'" line="666" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1546829617237">
-        <mark key="'" line="42" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1548840893582">
-        <mark key="'" line="68" column="10" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Decision.pm" timestamp="1549358918763" />
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/elasticsearch/files/etc/elasticsearch/templates/adserver_report_region_template.json" timestamp="1545360978119">
-        <mark key="'" line="122" column="35" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1541147942448">
-        <mark key="'" line="38" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
-        <mark key="'" line="45" column="2" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1548739300180">
-        <mark key="'" line="42" column="9" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/AutoBid.pm" timestamp="1542248042094">
-        <mark key="'" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/DBIx/Sunny.pm" timestamp="1543482441803">
-        <mark key="'" line="42" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
-        <mark key="'" line="44" column="39" />
-      </file>
-      <file name="$FOUT_HOME$/config.yaml" timestamp="1548933940078">
-        <mark key="'" line="1420" column="41" />
-        <mark key="[" line="1420" column="41" />
-        <mark key="]" line="1420" column="76" />
-        <mark key="^" line="1420" column="76" />
-        <mark key="." line="1420" column="76" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1549516758383">
-        <mark key="'" line="327" column="15" />
-        <mark key="[" line="320" column="20" />
-        <mark key="]" line="320" column="18" />
-        <mark key="^" line="320" column="18" />
-        <mark key="." line="320" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Logger.pm" timestamp="1547027691745">
-        <mark key="'" line="40" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" timestamp="1545203940969">
-        <mark key="'" line="439" column="23" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/RFP.pm" timestamp="1542078806241">
-        <mark key="'" line="40" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1548819566556">
-        <mark key="'" line="49" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1548840567232">
-        <mark key="'" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/parse/BaseSemanticAnalyzer.java" timestamp="1545203005039">
-        <mark key="'" line="243" column="18" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Generator.pm" timestamp="1545189922486">
-        <mark key="'" line="309" column="15" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/Hike.pm" timestamp="1545892546963">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1543992095798">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1541411387332">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer.pm" timestamp="1542080388669">
-        <mark key="'" line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fluentd_internal_collector.conf" timestamp="1548667477886">
-        <mark key="'" line="74" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
-        <mark key="'" line="31" column="20" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
-        <mark key="'" line="61" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Log/Bid/SegmentExpander.pm" timestamp="1542102204470">
-        <mark key="'" line="136" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hive/cli/src/java/org/apache/hadoop/hive/cli/CliDriver.java" timestamp="1545202157724">
-        <mark key="'" line="637" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
-        <mark key="'" line="90" column="10" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Buying/BaseTacRate/CPC.pm" timestamp="1548916409397">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="80" column="54" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1548742831252">
-        <mark key="'" line="17" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/metadata/Hive.java" timestamp="1545202132962">
-        <mark key="'" line="132" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/CpnNetworkWisePerformance.pm" timestamp="1548043206476">
-        <mark key="'" line="48" column="8" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/bid/buying/get_base_tac_rate-cpc_tac_rate.t" timestamp="1544517276848">
-        <mark key="'" line="90" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_logs/airflow/dags/etl.py" timestamp="1548058608635">
-        <mark key="'" line="408" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fout_cli_collector.conf" timestamp="1548667756228">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="42" />
-        <mark key="^" line="11" column="41" />
-      </file>
-      <file name="$FOUT_HOME$/t/fout/split_run/params.t" timestamp="1540371605308">
-        <mark key="'" line="19" column="0" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/ScopedModels.pm" timestamp="1545880826722">
-        <mark key="'" line="70" column="11" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
-        <mark key="'" line="154" column="32" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
-        <mark key="'" line="43" column="6" />
-      </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
-        <mark key="'" line="25" column="55" />
-      </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
       </file>
@@ -426,6 +311,13 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" timestamp="1545038123651">
         <mark key="'" line="3337" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" timestamp="1548826213267">
+        <mark key="'" line="208" column="16" />
+        <mark key="[" line="307" column="30" />
+        <mark key="]" line="307" column="34" />
+        <mark key="^" line="307" column="34" />
+        <mark key="." line="307" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dump_app_l_interest_v2_ctr_training.hql" timestamp="1549951293400">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="22" column="38" />
@@ -433,8 +325,17 @@
         <mark key="^" line="7" column="64" />
         <mark key="." line="22" column="40" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1544083221160">
+        <mark key="'" line="143" column="26" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" timestamp="1547104904577">
         <mark key="'" line="56" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" timestamp="1549422517964">
+        <mark key="'" line="63" column="28" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1544083692643">
+        <mark key="'" line="29" column="32" />
       </file>
       <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548648021527">
         <mark key="'" line="23" column="5" />
@@ -446,8 +347,14 @@
         <mark key="^" line="243" column="65" />
         <mark key="." line="243" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.5.0-cdh5.5.1/spark-sql_2.10-1.5.0-cdh5.5.1-sources.jar!/org/apache/spark/sql/DataFrame.scala" timestamp="1547782898553">
+        <mark key="'" line="791" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1548740067053">
         <mark key="'" line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/bin/hdfs" timestamp="1545034643741">
+        <mark key="'" line="31" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DFSClient.java" timestamp="1545366758038">
         <mark key="'" line="1532" column="31" />
@@ -458,8 +365,17 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator.pm" timestamp="1547088301002">
+        <mark key="'" line="202" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Summarize.pm" timestamp="1548741459380">
+        <mark key="'" line="244" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" timestamp="1545034364315">
         <mark key="'" line="389" column="23" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/ResponseUtil.pm" timestamp="1540347521064">
+        <mark key="'" line="29" column="8" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1548040190402">
         <mark key="'" line="45" column="10" />
@@ -468,11 +384,26 @@
         <mark key="." line="25" column="1" />
         <mark key="^" line="25" column="1" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
+        <mark key="'" line="48" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1548918509453">
         <mark key="'" line="92" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" timestamp="1548310745991">
+        <mark key="'" line="269" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/protocolPB/ClientNamenodeProtocolTranslatorPB.java" timestamp="1545031062310">
+        <mark key="'" line="253" column="33" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/CacheMemcached.pm" timestamp="1548742611143">
+        <mark key="'" line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/AdserverReport" timestamp="1545361021522">
+        <mark key="'" line="78" column="35" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Stub.pm" timestamp="1547016168331">
         <mark key="'" line="13" column="8" />
@@ -499,6 +430,9 @@
       <file name="/System/Library/Perl/5.18/Exporter.pm" timestamp="1543570835276">
         <mark key="'" line="205" column="39" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
+        <mark key="'" line="161" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1548323231707">
         <mark key="'" line="21" column="27" />
       </file>
@@ -511,14 +445,37 @@
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params/AutoBid.pm" timestamp="1547608341257">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB/HiveServer2.pm" timestamp="1548840709659">
+        <mark key="'" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/prediction_hive.sql" timestamp="1548936115299">
+        <mark key="'" line="355" column="14" />
+        <mark key="[" line="396" column="21" />
+        <mark key="]" line="396" column="20" />
+        <mark key="^" line="396" column="20" />
+        <mark key="." line="396" column="20" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
+        <mark key="'" line="19" column="9" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/aws/aws_jp.sql" timestamp="1548819514401">
         <mark key="'" line="670" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/sql/hive.sql" timestamp="1547607705215">
+        <mark key="'" line="1151" column="14" />
+        <mark key="[" line="548" column="11" />
+        <mark key="]" line="549" column="0" />
+        <mark key="^" line="549" column="0" />
+        <mark key="." line="549" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Index/HDB/AG.pm" timestamp="1545190603001">
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" timestamp="1549360585762">
         <mark key="'" line="18" column="20" />
@@ -533,12 +490,17 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" timestamp="1549516632141">
         <mark key="'" line="54" column="30" />
       </file>
-      <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/MoPubJP.pm" timestamp="1549938563014" />
       <file name="$USER_HOME$/Documents/apache/hive/bin/hive" timestamp="1545187278889">
         <mark key="'" line="291" column="3" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1545026978236">
         <mark key="'" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/common/etc/td-agent/td-agent-service.conf" timestamp="1548644641724">
+        <mark key="'" line="23" column="15" />
+      </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/RestoredSegmentCache.pm" timestamp="1547088121497">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1549444594680">
         <mark key="'" line="30" column="8" />
@@ -546,6 +508,9 @@
         <mark key="]" line="59" column="97" />
         <mark key="^" line="59" column="97" />
         <mark key="." line="59" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
+        <mark key="'" line="229" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
         <mark key="'" line="0" column="0" />
@@ -563,10 +528,18 @@
         <mark key="^" line="251" column="42" />
         <mark key="." line="251" column="42" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
+        <mark key="'" line="53" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSDirConcatOp.java" timestamp="1545366582443">
+        <mark key="'" line="241" column="16" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRPCVRBoost.pm" timestamp="1546938089775">
         <mark key="'" line="18" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/fout_logs/tools/switch_dev_branch.pl" timestamp="1549334211009" />
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Science/LCPCTacRateCoef.pm" timestamp="1544091074490">
+        <mark key="'" line="14" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1546937722906">
         <mark key="'" line="39" column="5" />
       </file>
@@ -576,17 +549,35 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" timestamp="1545725688659">
         <mark key="'" line="157" column="73" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
+        <mark key="'" line="262" column="0" />
+      </file>
+      <file name="$FOUT_HOME$/tools/akamai_content_purger.sh" timestamp="1548214028605">
+        <mark key="'" line="69" column="31" />
+      </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/IO/String.pm" timestamp="1542086866189">
         <mark key="'" line="179" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/Pricing/PriceControlRole.pm" timestamp="1549441133871">
         <mark key="'" line="51" column="4" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1547533000022">
+        <mark key="'" line="46" column="7" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/CrossDevice/AudienceIterator/Iter.pm" timestamp="1547088339579">
         <mark key="'" line="2" column="13" />
       </file>
+      <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547104696235">
+        <mark key="'" line="666" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1546829617237">
+        <mark key="'" line="42" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1548739931916">
         <mark key="'" line="66" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1548840893582">
+        <mark key="'" line="68" column="10" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
         <mark key="'" line="338" column="4" />
@@ -613,6 +604,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" timestamp="1541403210028">
         <mark key="'" line="147" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/elasticsearch/files/etc/elasticsearch/templates/adserver_report_region_template.json" timestamp="1545360978119">
+        <mark key="'" line="122" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoDelete.pm" timestamp="1545209079378">
         <mark key="'" line="198" column="37" />
       </file>
@@ -624,9 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="28" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
-      <jump line="132" column="34" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
-      <jump line="133" column="38" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="69" column="6" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="348" column="21" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
       <jump line="157" column="16" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/monitoring/logic/SplitRunSummary.scala" />
@@ -724,6 +715,9 @@
       <jump line="239" column="64" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="242" column="7" filename="$FOUT_HOME$/lib/FOut/Bid/Match.pm" />
       <jump line="54" column="30" filename="$USER_HOME$/Documents/fout_logs/sql/ctrfmpredict/dataset_app_l_interest_v2_ctr.hql" />
+      <jump line="191" column="27" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="136" column="4" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
+      <jump line="185" column="31" filename="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -754,7 +748,7 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE8g44Ko44Op44O844Gn44KI44GE44GLKGlmYeOBjOOBqOOCjOOBquOBhOOBn+OCgSnvvJ8=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRfZGF0YVw+</text>
+        <text encoding="base64">XDxfcnVuX2xvZ19jaGVja19jbWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>,</text>
@@ -802,9 +796,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRfZGF0YVw+</last-search>
+      <last-search encoding="base64">XDxfcnVuX2xvZ19jaGVja19jbWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRfZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVuX2xvZ19jaGVja19jbWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -812,18 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrc1w+</entry>
-        <entry encoding="base64">XDxfcnVuX2NtZFw+</entry>
-        <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
-        <entry encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</entry>
-        <entry encoding="base64">XDxfc3RhdHVzX2tleVw+</entry>
-        <entry encoding="base64">XDxrZXlcPg==</entry>
-        <entry encoding="base64">XDxhdXRvX2JpZF9yYW5kb21fcmVqZWN0XD4=</entry>
-        <entry encoding="base64">XDxtYXRjaGVkX3VzZXJzXD4=</entry>
-        <entry encoding="base64">XDxmaWx0ZXJpbmdzX3doaXRlbGlzdHNcPg==</entry>
-        <entry encoding="base64">XDxjYWxjQWRqdXRlZENvZWZcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry encoding="base64">XDxuZXh0X2NvZWZcPg==</entry>
         <entry encoding="base64">XDxjb2VmX2Fkal92YWx1ZVw+</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29lZkFkanVzdGVyTGltaXRcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVVcGRhdGVyXD4=</entry>
@@ -844,6 +826,7 @@
         <entry encoding="base64">XDxfZXh0cmFjdF9hdXRvX2JpZF9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfY3JlYXRlX2F1dG9fYmlkX3BhcmFtc1w+</entry>
         <entry encoding="base64">XDxiaWRfZGF0YVw+</entry>
+        <entry encoding="base64">XDxfcnVuX2xvZ19jaGVja19jbWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
