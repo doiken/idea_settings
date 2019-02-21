@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/HiveClient2.pm" timestamp="1548840590980">
         <mark key="'" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1550720530934">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1550721676012">
         <mark key="'" line="55" column="23" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" timestamp="1540882118789">
@@ -389,6 +389,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
         <mark key="'" line="25" column="55" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1550721747088">
+        <mark key="'" line="109" column="60" />
+      </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
       </file>
@@ -563,7 +566,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="25" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" />
       <jump line="105" column="30" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" />
       <jump line="155" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" />
       <jump line="151" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidPhaseCheck.pm" />
@@ -663,6 +665,7 @@
       <jump line="45" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="32" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="55" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="109" column="60" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -693,7 +696,7 @@
         <text>auto_cutboost_params</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2VmXD4=</text>
+        <text encoding="base64">XDxBUFBfQ1RSX0xfSU5URVJFU1RfVjJfTU9ERUxfRk1cPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -741,9 +744,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2VmXD4=</last-search>
+      <last-search encoding="base64">XDxBUFBfQ1RSX0xfSU5URVJFU1RfVjJfTU9ERUxfRk1cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2VmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBUFBfQ1RSX0xfSU5URVJFU1RfVjJfTU9ERUxfRk1cPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -789,6 +792,7 @@
         <entry encoding="base64">XDxST0xMQkFDS19DT0VGXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9fYmlkX3JhbmRvbV9yZWplY3RfY29lZlw+</entry>
         <entry encoding="base64">XDxjb2VmXD4=</entry>
+        <entry encoding="base64">XDxBUFBfQ1RSX0xfSU5URVJFU1RfVjJfTU9ERUxfRk1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
