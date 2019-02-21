@@ -106,7 +106,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRWebPCModFMPrediction.pm" timestamp="1547532963030">
         <mark key="'" line="44" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1550569471151">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1550716400162">
         <mark key="'" line="48" column="72" />
         <mark key="[" line="77" column="33" />
         <mark key="]" line="77" column="33" />
@@ -226,6 +226,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1550716445145">
+        <mark key="'" line="1584" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" timestamp="1548310745991">
         <mark key="'" line="269" column="25" />
@@ -674,9 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="10" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
-      <jump line="260" column="10" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AutoBidRandomRejectCoefUpdater.scala" />
-      <jump line="182" column="8" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/TestAutoBidRandomRejectCoef.scala" />
       <jump line="202" column="12" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/TestAutoBidRandomRejectCoef.scala" />
       <jump line="163" column="2" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/TestAutoBidRandomRejectCoef.scala" />
       <jump line="165" column="2" filename="$USER_HOME$/Documents/fout_logs/hadoop/spark/src/test/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/TestAutoBidRandomRejectCoef.scala" />
@@ -774,6 +774,9 @@
       <jump line="34" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidAllocatedBudgetCalculator.pm" />
       <jump line="267" column="14" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidAllocatedBudgetCalculator.pm" />
       <jump line="55" column="41" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/logic/AllocatedBudgetCalculator.scala" />
+      <jump line="1525" column="89" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1577" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1584" column="93" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -804,7 +807,7 @@
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBfYXJnc1w+</text>
+        <text encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -852,9 +855,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBfYXJnc1w+</last-search>
+      <last-search encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBfYXJnc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxwa2dcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -885,6 +888,7 @@
         <entry encoding="base64">XDxjdHJfcHJlZGljdGlvblw+</entry>
         <entry encoding="base64">XDxwY3RyXD4=</entry>
         <entry encoding="base64">XDxhcHBfYXJnc1w+</entry>
+        <entry encoding="base64">XDxiaWRkaW5nX29yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
