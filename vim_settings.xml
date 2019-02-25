@@ -33,6 +33,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1543979766329">
         <mark key="'" line="79" column="12" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0016_fm_web_ctr_prediction.yml" timestamp="1551076817557" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1547802665821">
         <mark key="'" line="138" column="0" />
       </file>
@@ -237,8 +238,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1550730465045">
-        <mark key="'" line="8" column="15" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1551076919349">
+        <mark key="'" line="871" column="56" />
+        <mark key="[" line="871" column="55" />
+        <mark key="]" line="871" column="54" />
+        <mark key="." line="871" column="54" />
+        <mark key="^" line="871" column="54" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
@@ -592,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1525" column="89" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1577" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1584" column="93" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="104" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
@@ -692,6 +696,7 @@
       <jump line="11" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/WebPCModFMPrediction.pm" />
       <jump line="8" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CTRWebPCModFMPrediction.pm" />
       <jump line="3" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CTRWebPCModFMPrediction.pm" />
+      <jump line="871" column="56" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -704,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>is_pre_site</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -719,7 +724,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>auto_cutboost_params</text>
+        <text>is_pre_site</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWdtZW50XD4=</text>
