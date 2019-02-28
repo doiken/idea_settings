@@ -41,7 +41,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0016_fm_web_ctr_prediction.yml" timestamp="1551238367194" />
+      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0016_fm_web_ctr_prediction.yml" timestamp="1551324211107" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1547802665821">
         <mark key="'" line="138" column="0" />
       </file>
@@ -469,6 +469,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" timestamp="1551324031583">
+        <mark key="'" line="58" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" timestamp="1545038123651">
         <mark key="'" line="3337" column="39" />
       </file>
@@ -642,6 +645,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/jp-fout-log-hadoop-spark.iml" timestamp="1547714048699">
         <mark key="'" line="157" column="50" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" timestamp="1551324680625">
+        <mark key="'" line="73" column="29" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1547016000341">
         <mark key="'" line="43" column="44" />
       </file>
@@ -659,8 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
-      <jump line="74" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" />
       <jump line="99" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="52" column="52" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" />
       <jump line="1633" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -759,6 +763,8 @@
       <jump line="536" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="74" column="45" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
       <jump line="10" column="27" filename="$USER_HOME$/Repositories/fout_logs/bin/train_app_ctrfm_model.pl" />
+      <jump line="58" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
+      <jump line="73" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
