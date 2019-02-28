@@ -264,8 +264,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1551233163182">
-        <mark key="'" line="523" column="16" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1551319049916">
+        <mark key="'" line="536" column="16" />
         <mark key="[" line="518" column="0" />
         <mark key="]" line="518" column="0" />
         <mark key="." line="518" column="0" />
@@ -304,12 +304,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/MarginBoostParamsUpdater.pm" timestamp="1546829617237">
         <mark key="'" line="42" column="14" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/t/fout/bid/adserver/adgeneration.t" timestamp="1551151308245">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="36" />
-        <mark key="." line="11" column="36" />
-        <mark key="^" line="11" column="36" />
-      </file>
+      <file name="$USER_HOME$/Repositories/fout/t/fout/bid/adserver/adgeneration.t" timestamp="1551151308245" />
       <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1548840893582">
         <mark key="'" line="68" column="10" />
       </file>
@@ -589,6 +584,12 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/t/fout/bid/decision/memd_bid.t" timestamp="1551319176927">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1547629063931">
         <mark key="'" line="76" column="89" />
       </file>
@@ -653,7 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="36" filename="$USER_HOME$/Repositories/fout_infra/nagios/jp-services.cfg" />
       <jump line="148" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/AutoBidPercentileCut.pm" />
       <jump line="63" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" />
       <jump line="1" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" />
@@ -753,6 +753,7 @@
       <jump line="1121" column="52" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="35" column="0" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/jp/Click.scala" />
       <jump line="523" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="536" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -764,8 +765,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG15ICRtYXRjaCA9IEZPdXQ6OkJpZDo6TWF0Y2gtPm5ldyhjb250ZXh0ID0+ICRzZWxmLT5jb250ZXh0KTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>get_instance</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -780,13 +781,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>get_instance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFN1cGVyQnJvYWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGNvbnRhaW5lci0+cHVzaCh7YmlkZGluZ19vcmRlciA9PiAxMDAsIH0pOwo=</text>
+        <text encoding="base64">bG9jYWwgKkZPdXQ6OkJpZDo6QWxnb3JpdGhtOjpTcG90U2NvcmU6OkxvZ2ljYWxGbG93OjpnZXRfaW5zdGFuY2UgPSBzdWIgewogICAgRk91dDo6QmlkOjpBbGdvcml0aG06OlNwb3RTY29yZTo6RGVmYXVsdC0+bmV3Owp9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG15ICRtYXRjaCA9IEZPdXQ6OkJpZDo6TWF0Y2gtPm5ldyhjb250ZXh0ID0+ICRzZWxmLT5jb250ZXh0KTsKCg==</text>
