@@ -365,6 +365,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelTL.pm" timestamp="1551081451421">
         <mark key="'" line="68" column="38" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" timestamp="1551334970098">
+        <mark key="'" line="60" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1548819566556">
         <mark key="'" line="49" column="9" />
       </file>
@@ -469,8 +472,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/Infeed.pm" timestamp="1541055768491">
         <mark key="'" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" timestamp="1551325436724">
-        <mark key="'" line="54" column="18" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" timestamp="1551334953791">
+        <mark key="'" line="60" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java/org/apache/hadoop/hdfs/DistributedFileSystem.java" timestamp="1545038123651">
         <mark key="'" line="3337" column="39" />
@@ -645,8 +648,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/hadoop/spark/jp-fout-log-hadoop-spark.iml" timestamp="1547714048699">
         <mark key="'" line="157" column="50" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" timestamp="1551332326841">
-        <mark key="'" line="73" column="29" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" timestamp="1551334976076">
+        <mark key="'" line="65" column="39" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/SpotScore/CTRPredRole.pm" timestamp="1547016000341">
         <mark key="'" line="43" column="44" />
@@ -665,9 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="52" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" />
-      <jump line="1633" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="54" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="7" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="31" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="134" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
@@ -763,8 +763,11 @@
       <jump line="74" column="45" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AppCTRFMPrediction.pm" />
       <jump line="10" column="27" filename="$USER_HOME$/Repositories/fout_logs/bin/train_app_ctrfm_model.pl" />
       <jump line="58" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
-      <jump line="73" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" />
       <jump line="54" column="18" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
+      <jump line="60" column="12" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
+      <jump line="73" column="26" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" />
+      <jump line="60" column="44" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CTRFMPrediction.pm" />
+      <jump line="65" column="39" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DeviceCTRFMPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
