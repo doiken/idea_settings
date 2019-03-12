@@ -297,8 +297,8 @@
         <mark key="." line="518" column="0" />
         <mark key="^" line="518" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1552354815341">
-        <mark key="'" line="46" column="24" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" timestamp="1552359991262">
+        <mark key="'" line="54" column="19" />
         <mark key="[" line="46" column="19" />
         <mark key="]" line="46" column="19" />
         <mark key="." line="46" column="19" />
@@ -701,8 +701,8 @@
         <mark key="'" line="46" column="1" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCTRPercentile.pm" timestamp="1551867736904" />
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1552354705479">
-        <mark key="'" line="40" column="6" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1552360046767">
+        <mark key="'" line="45" column="107" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1548739931916">
         <mark key="'" line="66" column="30" />
@@ -739,9 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/orm/jp/Click.scala" />
-      <jump line="523" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="536" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="58" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
       <jump line="54" column="18" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
       <jump line="60" column="12" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/WebCTRFMPrediction.pm" />
@@ -838,7 +835,10 @@
       <jump line="41" column="57" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
       <jump line="33" column="38" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
       <jump line="32" column="35" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" />
-      <jump line="46" column="24" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" />
+      <jump line="46" column="19" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" />
+      <jump line="54" column="19" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" />
+      <jump line="86" column="14" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" />
+      <jump line="45" column="107" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -869,7 +869,7 @@
         <text>DFJoi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZGRPdXRcPg==</text>
+        <text encoding="base64">XDxzaHVmZmxlT3JkZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">fCAkaGRiLT5PTk9MQ0s=</text>
@@ -917,9 +917,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZGRPdXRcPg==</last-search>
+      <last-search encoding="base64">XDxzaHVmZmxlT3JkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZGRPdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzaHVmZmxlT3JkZXJcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -978,6 +978,7 @@
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxkb1N1YlNhbXBsaW5nXD4=</entry>
         <entry encoding="base64">XDxyZGRPdXRcPg==</entry>
+        <entry encoding="base64">XDxzaHVmZmxlT3JkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
