@@ -248,8 +248,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1552463161495">
-        <mark key="'" line="89" column="27" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1552467426243">
+        <mark key="'" line="2181" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/nagios/templates/etc/nagios/nrpe.cfg" timestamp="1548310745991">
         <mark key="'" line="269" column="25" />
@@ -770,12 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="36" filename="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" />
-      <jump line="100" column="8" filename="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" />
-      <jump line="19" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket177.pm" />
-      <jump line="52" column="36" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket177.pm" />
-      <jump line="360" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
-      <jump line="20" column="54" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Util.pm" />
       <jump line="26" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Index.pm" />
       <jump line="179" column="29" filename="$USER_HOME$/Repositories/fout/t/lib/t/Utils.pm" />
       <jump line="163" column="4" filename="$USER_HOME$/Repositories/fout/t/lib/t/Utils.pm" />
@@ -870,6 +864,12 @@
       <jump line="96" column="39" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="32" column="35" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
       <jump line="52" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="1210" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1211" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1316" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1770" column="44" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1737" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2181" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -900,7 +900,7 @@
         <text>Double</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2F1dG9tYXRlZF9jcG5faWRzXD4=</text>
+        <text encoding="base64">XDxfZHVtcF9iaWRzX3RhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dXNlIFRlc3Q6OkRvdWJsZTsK</text>
@@ -948,9 +948,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2F1dG9tYXRlZF9jcG5faWRzXD4=</last-search>
+      <last-search encoding="base64">XDxfZHVtcF9iaWRzX3RhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2F1dG9tYXRlZF9jcG5faWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZHVtcF9iaWRzX3RhYmxlXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1021,6 +1021,7 @@
         <entry encoding="base64">XDxBcHBzQ2hhcmdlc0NhbGN1bGF0b3JcPg==</entry>
         <entry encoding="base64">XDxzb3J0XD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2F1dG9tYXRlZF9jcG5faWRzXD4=</entry>
+        <entry encoding="base64">XDxfZHVtcF9iaWRzX3RhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
