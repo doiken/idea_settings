@@ -29,8 +29,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/HiveClient2.pm" timestamp="1548840590980">
         <mark key="'" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1550721676012">
-        <mark key="'" line="55" column="23" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1552466267403">
+        <mark key="'" line="52" column="34" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Test/Double/Mock.pm" timestamp="1540882118789">
         <mark key="'" line="11" column="21" />
@@ -770,8 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="34" filename="$USER_HOME$/Repositories/fout/t/fout/bid/algorithm/percentile_cut/percentile_cut.t" />
-      <jump line="49" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/DAO.pm" />
       <jump line="66" column="36" filename="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" />
       <jump line="100" column="8" filename="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" />
       <jump line="19" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Bucket177.pm" />
@@ -870,6 +868,8 @@
       <jump line="89" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="133" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="96" column="39" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
+      <jump line="32" column="35" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
+      <jump line="52" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
