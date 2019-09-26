@@ -122,7 +122,6 @@
       <file name="$FOUT_HOME$/tools/notify-slack" timestamp="1548215679417">
         <mark key="'" line="41" column="31" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0013_fm_line_cpc_ctr_video.yml" timestamp="1553049409117" />
       <file name="$USER_HOME$/Documents/fout_logs/tools/job_task_summary.pl" timestamp="1548323197152">
         <mark key="'" line="32" column="28" />
       </file>
@@ -225,7 +224,6 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" timestamp="1552894320488">
         <mark key="'" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0012_fm_line_cpc_ctr_image.yml" timestamp="1553050222388" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" timestamp="1552447978498">
         <mark key="'" line="606" column="50" />
       </file>
@@ -302,6 +300,9 @@
         <mark key="]" line="54" column="5" />
         <mark key="." line="54" column="5" />
         <mark key="^" line="54" column="5" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" timestamp="1569485972884">
+        <mark key="'" line="78" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/DB/HiveServer2.pm" timestamp="1548840709659">
         <mark key="'" line="21" column="13" />
@@ -382,6 +383,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" timestamp="1552893036384">
         <mark key="'" line="32" column="35" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" timestamp="1569485538841">
+        <mark key="'" line="157" column="57" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547104696235">
         <mark key="'" line="666" column="39" />
       </file>
@@ -418,6 +422,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/bin/train_segment_expansion_model.pl" timestamp="1569485176697">
+        <mark key="'" line="10" column="31" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1548739300180">
         <mark key="'" line="42" column="9" />
@@ -520,6 +527,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
         <mark key="'" line="90" column="10" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/SegmentExpansionModelTrainer.pm" timestamp="1569485269697">
+        <mark key="'" line="121" column="48" />
+        <mark key="[" line="121" column="47" />
+        <mark key="]" line="121" column="47" />
+        <mark key="." line="121" column="47" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout_logs/bin/run_auto_bid_allocated_budget_calculator.pl" timestamp="1550568668440">
         <mark key="'" line="9" column="27" />
       </file>
@@ -567,6 +580,9 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
         <mark key="'" line="154" column="32" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" timestamp="1569485540661">
+        <mark key="'" line="100" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
         <mark key="'" line="43" column="6" />
@@ -762,11 +778,20 @@
       <file name="$USER_HOME$/Repositories/fout_logs/t/fout/logs/auto_bid_batches.t" timestamp="1551867538553">
         <mark key="'" line="46" column="1" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" timestamp="1569485892711">
+        <mark key="'" line="116" column="66" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/FeaturePostProcessor.scala" timestamp="1552373665513">
         <mark key="'" line="45" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1548739931916">
         <mark key="'" line="66" column="30" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/t/utils/MakeHelper.pm" timestamp="1569485083223">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$FOUT_HOME$/extlibs/centos7_perl-5.24.3/lib/perl5/Module/Pluggable/Object.pm" timestamp="1540795415764">
         <mark key="'" line="338" column="4" />
@@ -800,44 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="12" filename="$USER_HOME$/Repositories/fout/extlib/lib/perl5/Test/Double/Mock/Expectation.pm" />
-      <jump line="44" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/AppsPlus/AppsChargesCalculator.pm" />
-      <jump line="93" column="6" filename="$USER_HOME$/Repositories/fout/lib/FOut/AppsPlus/AppsChargesCalculator.pm" />
-      <jump line="5" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="607" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="608" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="614" column="14" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="368" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="378" column="90" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="606" column="50" filename="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" />
-      <jump line="6" column="20" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" />
-      <jump line="63" column="47" filename="$USER_HOME$/Repositories/fout/lib/FOut/Log/Analyzer/Click.pm" />
-      <jump line="29" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
-      <jump line="140" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="180" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="182" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="194" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="64" column="10" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/BidCandidates.pm" />
-      <jump line="89" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="133" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="96" column="39" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="32" column="35" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
-      <jump line="52" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" />
-      <jump line="1210" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1211" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1316" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1770" column="44" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1737" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2181" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1582" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1218" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1309" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1716" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1960" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1905" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="137" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="9" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" />
-      <jump line="10" column="27" filename="$USER_HOME$/Repositories/fout_logs/bin/train_cpc_cvr_fm_model.pl" />
       <jump line="22" column="7" filename="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" />
       <jump line="23" column="0" filename="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" />
       <jump line="14" column="19" filename="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" />
@@ -900,6 +887,44 @@
       <jump line="80" column="54" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="28" column="49" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="4" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CVRMFM.pm" />
+      <jump line="65" column="12" filename="$USER_HOME$/Repositories/fout/t/utils/MakeHelper.pm" />
+      <jump line="56" column="0" filename="$USER_HOME$/Repositories/fout/t/utils/MakeHelper.pm" />
+      <jump line="8" column="31" filename="$USER_HOME$/Repositories/fout_logs/bin/train_segment_expansion_model.pl" />
+      <jump line="10" column="31" filename="$USER_HOME$/Repositories/fout_logs/bin/train_segment_expansion_model.pl" />
+      <jump line="121" column="48" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/SegmentExpansionModelTrainer.pm" />
+      <jump line="26" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="103" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="102" column="24" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="94" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="142" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="16" column="39" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="145" column="57" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="45" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="165" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="83" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="76" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="58" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="60" column="32" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="157" column="57" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="0" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="100" column="30" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="18" column="26" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="235" column="49" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="107" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="126" column="44" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="118" column="56" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="112" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="89" column="19" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="79" column="32" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="125" column="35" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
+      <jump line="119" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
+      <jump line="146" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
+      <jump line="116" column="66" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
+      <jump line="75" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="71" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="57" column="35" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="60" column="35" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
+      <jump line="78" column="35" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -911,8 +936,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0tCnNhbXBsZV90eXBlOiBjbGljay1jdiAgICAgICAgICAgICAgICAgICAjIOWQhOOCteODs+ODl+ODq+OBruODmeODvOOCueOBqOOBmeOCi+ODreOCsOOBqOato+S+i+OBqOOBmeOCi+ODreOCsOOCkuekuuOBmSAoaW1wLWNsaWNrIG9yIGltcC1jdiBvciBjbGljay1jdikKbG9nX3RhYmxlczoKICBjbGljazoKICAgIGR1cmF0aW9uX2hvdXI6IDEwMDgKICAgIGNvbmRpdGlvbnM6CiAgICAtICJjbGlja19zdGF0dXMgPSAwIgogICAgLSAiYWRfaWQgIT0gMCIKICAgIC0gImFkc2VydmVyX2lkICE9IDAiCiAgICAtICJ1c2VyX2lkICE9IDAiCiAgICAtICJpbmZlZWRfZnJhbWVfdHlwZSA9IDIgb3IgaW5mZWVkX2ZyYW1lX3R5cGUgaXMgbnVsbCIKICAgIC0gImlzX2xpbmVfc3BvdCA9IDAiCiAgY29udmVyc2lvbjoKICAgIGR1cmF0aW9uX2hvdXI6IDEwMDgKICAgIGNvbmRpdGlvbnM6CiAgICAtICJhZHNlcnZlcl9pZCAhPSAwIgogICAgLSAiYWRfaWQgIT0gMCIKICAgIC0gImlzX3ZhbGlkID0gMSIKICAgIC0gImNvbnZfdHlwZWEgaW4gKDAsIDIpIgogICAgZmlsdGVyX2J5X2N1c3RvbV90eXBlOiB0cnVlICAgICAgICAgIyBqcC5jb252ZXJzaW9uIOOBruOBv+OBruioreWumumgheebrgpmZWF0dXJlczogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDmir3lh7rjgZfjgZ/jgYTnibnlvrTjga7lkI3np7DjgpLliJfmjJkgKOOCq+ODqeODoOWQjSBvciDnibnlvrTjgajjgZfjgaboqLHlj6/jgZXjgozjgabjgYTjgovlkI3liY0pCgo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -927,10 +952,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>https://redmine.fout.jp/issues/37669#note-16</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDVlJGTV9OT1RMSU5FX1BSRURJQ1RJT05cPg==</text>
+        <text encoding="base64">XDxfcnVuX2Vtcl9jbHVzdGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -978,9 +1003,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDVlJGTV9OT1RMSU5FX1BSRURJQ1RJT05cPg==</last-search>
+      <last-search encoding="base64">XDxfcnVuX2Vtcl9jbHVzdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDVlJGTV9OT1RMSU5FX1BSRURJQ1RJT05cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcnVuX2Vtcl9jbHVzdGVyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -988,10 +1013,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWhhdmlvclw+</entry>
-        <entry encoding="base64">XDxleHBlY3RzXD4=</entry>
-        <entry encoding="base64">XDx3aXRoX2FyZ3NcPg==</entry>
-        <entry encoding="base64">XDx3aXRoaG9sZF9jaGFyZ2VzX2Zyb21fcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxkZXNlcmlhbGl6ZV9hcHBzX2NoYXJnZXNcPg==</entry>
         <entry encoding="base64">XDxjaGFyZ2VzXD4=</entry>
         <entry encoding="base64">XDxhcHBzX2NoYXJnZXNcPg==</entry>
@@ -1012,6 +1033,13 @@
         <entry encoding="base64">XDxfYXBwX3VzZXJfaWRzX2Zyb21fbXlzcWxcPg==</entry>
         <entry encoding="base64">XDxfZ2V0X3doaXRlbGlzdF91c2VyX2lkc1w+</entry>
         <entry encoding="base64">XDxDVlJGTV9OT1RMSU5FX1BSRURJQ1RJT05cPg==</entry>
+        <entry encoding="base64">XDxmdW5jX25hbWVcPg==</entry>
+        <entry encoding="base64">XDxfdXBsb2FkX2FjdGl2ZV9zb3VyY2Vfc2VnbWVudHNcPg==</entry>
+        <entry encoding="base64">XDxfbWFrZV9xdWVyeVw+</entry>
+        <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry encoding="base64">XDxlbXJfb3B0aW9uc1w+</entry>
+        <entry encoding="base64">XDxfZXhlY3V0ZV9hd3NfY29tbWFuZFw+</entry>
+        <entry encoding="base64">XDxfcnVuX2Vtcl9jbHVzdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
