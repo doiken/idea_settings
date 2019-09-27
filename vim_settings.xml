@@ -339,8 +339,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1552555042418">
-        <mark key="'" line="356" column="36" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1569553772164">
+        <mark key="'" line="514" column="44" />
         <mark key="[" line="518" column="0" />
         <mark key="]" line="518" column="0" />
         <mark key="." line="518" column="0" />
@@ -623,7 +623,9 @@
       <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548648021527">
         <mark key="'" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" timestamp="1569552234468" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" timestamp="1569553558283">
+        <mark key="'" line="232" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/MarginBoostParams/OptimalControlUpdater.pm" timestamp="1548740067053">
         <mark key="'" line="16" column="5" />
       </file>
@@ -712,8 +714,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1551867769970">
-        <mark key="'" line="360" column="32" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1569553736664">
+        <mark key="'" line="1019" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
@@ -832,16 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="25" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" />
-      <jump line="36" column="17" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" />
-      <jump line="32" column="48" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" />
-      <jump line="58" column="10" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFJoiner.scala" />
-      <jump line="55" column="48" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFJoiner.scala" />
-      <jump line="70" column="13" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFJoiner.scala" />
-      <jump line="42" column="35" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/ExtractionRDDFactory.scala" />
-      <jump line="83" column="78" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
-      <jump line="14" column="13" filename="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0014_fm_notline_cvr.yml" />
-      <jump line="68" column="22" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="89" column="31" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" />
       <jump line="37" column="10" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/table/JpTable.scala" />
       <jump line="31" column="52" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/AbnormalCVRFilter.scala" />
@@ -932,6 +924,16 @@
       <jump line="2182" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2186" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
+      <jump line="226" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="227" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="190" column="59" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="170" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="45" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="154" column="15" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="232" column="34" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
+      <jump line="174" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="1019" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="514" column="44" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,7 +964,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRleFw+</text>
+        <text encoding="base64">XDx0cmFpbmluZ19kYXRhX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -1010,9 +1012,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRleFw+</last-search>
+      <last-search encoding="base64">XDx0cmFpbmluZ19kYXRhX3BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRleFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFpbmluZ19kYXRhX3BhdGhcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,6 +1058,9 @@
         <entry encoding="base64">XDxfc291cmNlX3NlZ21lbnRfY2xhc3NpZmllclw+</entry>
         <entry encoding="base64">XDxhZXhfaW5kZXhcPg==</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
+        <entry encoding="base64">XDxfY291bnRfZWFjaF9zZWdtZW50X2lkXD4=</entry>
+        <entry encoding="base64">XDxyYXdfc2VnbWVudHNcPg==</entry>
+        <entry encoding="base64">XDx0cmFpbmluZ19kYXRhX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
