@@ -80,8 +80,8 @@
       <file name="$USER_HOME$/Repositories/fout_logs/sql/ldemographicpredict/l_demographic_train_data.hql" timestamp="1569815489227">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/ModelProcessManager.scala" timestamp="1569486564624">
-        <mark key="'" line="24" column="51" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/ModelProcessManager.scala" timestamp="1569825537286">
+        <mark key="'" line="77" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/PercentileCut.pm" timestamp="1546853064873">
         <mark key="'" line="74" column="51" />
@@ -224,8 +224,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" timestamp="1552447978498">
         <mark key="'" line="606" column="50" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" timestamp="1569486966681">
-        <mark key="'" line="50" column="8" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" timestamp="1569826195849">
+        <mark key="'" line="37" column="6" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Logger.pm" timestamp="1544083221160">
         <mark key="'" line="143" column="26" />
@@ -520,7 +520,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
         <mark key="'" line="90" column="10" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/SegmentExpansionModelTrainer.pm" timestamp="1569485269697">
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/SegmentExpansionModelTrainer.pm" timestamp="1569825166791">
         <mark key="'" line="121" column="48" />
         <mark key="[" line="121" column="47" />
         <mark key="]" line="121" column="47" />
@@ -604,11 +604,12 @@
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/SegmentContainer.pm" timestamp="1547104904577">
         <mark key="'" line="56" column="4" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" timestamp="1569486877176">
-        <mark key="'" line="126" column="46" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" timestamp="1569825575986">
+        <mark key="'" line="126" column="50" />
+        <mark key="[" line="126" column="8" />
+        <mark key="]" line="126" column="7" />
+        <mark key="." line="126" column="7" />
+        <mark key="^" line="126" column="7" />
       </file>
       <file name="$FOUT_HOME$/tools/fluent-logger" timestamp="1548648021527">
         <mark key="'" line="23" column="5" />
@@ -807,29 +808,15 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569824692110">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569825146958">
         <mark key="'" line="180" column="0" />
         <mark key="[" line="321" column="16" />
-        <mark key="]" line="321" column="16" />
-        <mark key="." line="321" column="16" />
+        <mark key="]" line="306" column="18" />
+        <mark key="." line="306" column="18" />
+        <mark key="^" line="306" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="8" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" />
-      <jump line="45" column="8" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" />
-      <jump line="125" column="17" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" />
-      <jump line="126" column="46" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" />
-      <jump line="37" column="8" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
-      <jump line="50" column="8" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
-      <jump line="1694" column="20" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="291" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="2392" column="37" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="272" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="1" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
-      <jump line="227" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="45" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="154" column="15" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="174" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="226" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="170" column="37" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="77" column="36" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
@@ -915,6 +902,21 @@
       <jump line="134" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
       <jump line="315" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
       <jump line="180" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="121" column="48" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/SegmentExpansionModelTrainer.pm" />
+      <jump line="26" column="17" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="125" column="7" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" />
+      <jump line="77" column="27" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/ModelProcessManager.scala" />
+      <jump line="5" column="65" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" />
+      <jump line="126" column="50" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/entry/ModelTrainingRunner.scala" />
+      <jump line="35" column="30" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="81" column="25" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="49" column="7" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="95" column="7" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="157" column="7" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="36" column="31" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="106" column="14" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="124" column="36" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="37" column="6" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -927,7 +929,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>https://redmine.fout.jp/issues/54344</text>
+        <text>ModelProcessUnit</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -942,10 +944,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>https://redmine.fout.jp/issues/54344</text>
+        <text>ModelProcessUnit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaF9kbXBfc2VnbWVudF9hZXhfdGFyZ2V0XD4=</text>
+        <text encoding="base64">XDxjYWxjQ29uZGl0aW9uYWxPY2N1cnJlbmNlUHJvYmFiaWxpdHlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -993,9 +995,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaF9kbXBfc2VnbWVudF9hZXhfdGFyZ2V0XD4=</last-search>
+      <last-search encoding="base64">XDxjYWxjQ29uZGl0aW9uYWxPY2N1cnJlbmNlUHJvYmFiaWxpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaF9kbXBfc2VnbWVudF9hZXhfdGFyZ2V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjQ29uZGl0aW9uYWxPY2N1cnJlbmNlUHJvYmFiaWxpdHlcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1056,6 +1058,11 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDx0cmFpbmVkX3NyY19zZWdtZW50c1w+</entry>
         <entry encoding="base64">XDxtYXRjaF9kbXBfc2VnbWVudF9hZXhfdGFyZ2V0XD4=</entry>
+        <entry encoding="base64">XDxtb2RlbFByb2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxQTUlFc3RpbWF0b3JcPg==</entry>
+        <entry encoding="base64">XDxjb3VudENvT2NjdXJyZW5jZVw+</entry>
+        <entry encoding="base64">XDxncm91cEJ5XD4=</entry>
+        <entry encoding="base64">XDxjYWxjQ29uZGl0aW9uYWxPY2N1cnJlbmNlUHJvYmFiaWxpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
