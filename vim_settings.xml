@@ -249,7 +249,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1569808630166">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1569810793343">
         <mark key="'" line="2186" column="17" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1552557946777">
@@ -275,6 +275,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" timestamp="1552898632689">
         <mark key="'" line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" timestamp="1569811621958">
+        <mark key="'" line="62" column="11" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
         <mark key="'" line="161" column="0" />
@@ -425,8 +428,12 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" timestamp="1552463358037">
         <mark key="'" line="96" column="39" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/sql/docomo_demographicpredict/app/load_data.hql" timestamp="1569811432633" />
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Driver.java" timestamp="1545203940969">
         <mark key="'" line="439" column="23" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1569811837678">
+        <mark key="'" line="175" column="41" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFCombinedFilter.scala" timestamp="1552898299612">
         <mark key="'" line="19" column="47" />
@@ -440,8 +447,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1548819566556">
         <mark key="'" line="49" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" timestamp="1569809580724">
-        <mark key="'" line="85" column="29" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" timestamp="1569812018547">
+        <mark key="'" line="159" column="18" />
         <mark key="[" line="65" column="3" />
         <mark key="]" line="65" column="3" />
         <mark key="." line="65" column="3" />
@@ -653,6 +660,9 @@
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/auto_bids_price.hql" timestamp="1548323231707">
         <mark key="'" line="21" column="27" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/Web.pm" timestamp="1569811603756">
+        <mark key="'" line="24" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/PCTRPCVRPercentile.pm" timestamp="1547114783034">
         <mark key="'" line="89" column="0" />
       </file>
@@ -779,14 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="26" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="235" column="49" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="107" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="126" column="44" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="118" column="56" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="112" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="89" column="19" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="79" column="32" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
       <jump line="125" column="35" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
       <jump line="119" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
       <jump line="146" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/TaskRole.pm" />
@@ -879,6 +881,14 @@
       <jump line="70" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
       <jump line="77" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
       <jump line="85" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="354" column="64" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="74" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="24" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/Web.pm" />
+      <jump line="62" column="11" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" />
+      <jump line="192" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="189" column="11" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="159" column="18" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="175" column="41" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -909,7 +919,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxocWxfZGlyXD4=</text>
+        <text encoding="base64">XDxocWxfdHJhaW5pbmdfZmlsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -957,9 +967,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxocWxfZGlyXD4=</last-search>
+      <last-search encoding="base64">XDxocWxfdHJhaW5pbmdfZmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxocWxfZGlyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxocWxfdHJhaW5pbmdfZmlsZVw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,6 +1024,7 @@
         <entry>segment</entry>
         <entry encoding="base64">XDxocWxfZGlyX3Jvb3RcPg==</entry>
         <entry encoding="base64">XDxocWxfZGlyXD4=</entry>
+        <entry encoding="base64">XDxocWxfdHJhaW5pbmdfZmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
