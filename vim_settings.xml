@@ -440,6 +440,12 @@
       <file name="$USER_HOME$/Documents/fout_logs/bin/summarise/ExportAdserverReport" timestamp="1548819566556">
         <mark key="'" line="49" column="9" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" timestamp="1569809580724">
+        <mark key="'" line="85" column="29" />
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="65" column="3" />
+        <mark key="." line="65" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/fout_logs/config.yaml" timestamp="1548840567232">
         <mark key="'" line="41" column="6" />
       </file>
@@ -773,10 +779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="32" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
-      <jump line="157" column="57" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
-      <jump line="0" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
-      <jump line="100" column="30" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
       <jump line="18" column="26" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
       <jump line="235" column="49" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
       <jump line="107" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/EMRClusterRunner.pm" />
@@ -873,6 +875,10 @@
       <jump line="1336" column="71" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="506" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="497" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="65" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="70" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="77" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
+      <jump line="85" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -884,8 +890,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyDlrp/ooYwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -900,10 +906,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>segment</text>
+        <text encoding="base64">XDxocWxfZGlyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -951,12 +957,12 @@
       </register>
     </registers>
     <search>
-      <last-search>segment</last-search>
+      <last-search encoding="base64">XDxocWxfZGlyXD4=</last-search>
       <last-offset />
-      <last-pattern>segment</last-pattern>
+      <last-pattern encoding="base64">XDxocWxfZGlyXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1006,6 +1012,8 @@
         <entry encoding="base64">XDxzZWdtZW50X2RlbGltaXRlclw+</entry>
         <entry encoding="base64">XDxzZWdtZW50X2luZm9fZGVsaW1pdGVyXD4=</entry>
         <entry>segment</entry>
+        <entry encoding="base64">XDxocWxfZGlyX3Jvb3RcPg==</entry>
+        <entry encoding="base64">XDxocWxfZGlyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
