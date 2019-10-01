@@ -155,6 +155,9 @@
       <file name="$USER_HOME$/Documents/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/QueryPlan.java" timestamp="1545202972274">
         <mark key="'" line="661" column="9" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/SegmentContainer.pm" timestamp="1569909870296">
+        <mark key="'" line="74" column="28" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1548214411495">
         <mark key="'" line="512" column="4" />
       </file>
@@ -714,8 +717,11 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1569558343673">
-        <mark key="'" line="1019" column="31" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1569910129651">
+        <mark key="'" line="71" column="33" />
+        <mark key="[" line="264" column="44" />
+        <mark key="]" line="264" column="44" />
+        <mark key="." line="264" column="44" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
@@ -832,11 +838,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="54" column="73" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Logger.pm" />
-      <jump line="162" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="126" column="9" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="129" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="130" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="131" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="132" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
@@ -932,6 +933,11 @@
       <jump line="8" column="21" filename="$USER_HOME$/Repositories/fout/log/cron/watch_service_log.pl" />
       <jump line="110" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/WatchServiceLog.pm" />
       <jump line="333" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/WatchServiceLog.pm" />
+      <jump line="74" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/SegmentContainer.pm" />
+      <jump line="1267" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="63" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="68" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="71" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -962,7 +968,7 @@
         <text>ModelProcessUnit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTa2lwUGF0dGVyblw+</text>
+        <text encoding="base64">XDx0aW1lX2xpbWl0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -1010,9 +1016,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTa2lwUGF0dGVyblw+</last-search>
+      <last-search encoding="base64">XDx0aW1lX2xpbWl0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTa2lwUGF0dGVyblw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lX2xpbWl0XD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1082,6 +1088,7 @@
         <entry encoding="base64">XDxuVGlsZVw+</entry>
         <entry encoding="base64">XDxjYWxjU2NvcmVEaXN0cmlidXRpb25cPg==</entry>
         <entry encoding="base64">XDxTa2lwUGF0dGVyblw+</entry>
+        <entry encoding="base64">XDx0aW1lX2xpbWl0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
