@@ -816,20 +816,15 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569825146958">
-        <mark key="'" line="180" column="0" />
-        <mark key="[" line="321" column="16" />
-        <mark key="]" line="306" column="18" />
-        <mark key="." line="306" column="18" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569923891670">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="145" column="74" />
+        <mark key="]" line="145" column="74" />
+        <mark key="." line="145" column="74" />
         <mark key="^" line="306" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="132" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="134" column="10" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="135" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="138" column="14" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="144" column="46" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="145" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
       <jump line="146" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
@@ -925,6 +920,11 @@
       <jump line="68" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="71" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="58" column="23" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="305" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="124" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="145" column="74" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="113" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="74" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -937,7 +937,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ModelProcessUnit</text>
+        <text>UNTRAINED_SEGMEN</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -952,10 +952,10 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>ModelProcessUnit</text>
+        <text>UNTRAINED_SEGMEN</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lX2xpbWl0XD4=</text>
+        <text encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -1003,13 +1003,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lX2xpbWl0XD4=</last-search>
+      <last-search encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lX2xpbWl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1033,6 +1033,10 @@
         <entry encoding="base64">XDxjYWxjU2NvcmVEaXN0cmlidXRpb25cPg==</entry>
         <entry encoding="base64">XDxTa2lwUGF0dGVyblw+</entry>
         <entry encoding="base64">XDx0aW1lX2xpbWl0XD4=</entry>
+        <entry encoding="base64">XDx1bnRyYWluZWRfc3JjX3NlZ21lbnRzXD4=</entry>
+        <entry encoding="base64">XDxVTlRSQUlORURfU0VHTUVOZ19TQ09SRVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2RlbGl2ZXJhYmxlX3NyY19zZWdtZW50X3Njb3JlX21hcFw+</entry>
+        <entry encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
