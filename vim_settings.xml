@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/DFGenerator.scala" timestamp="1552893136974">
         <mark key="'" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" timestamp="1569486706294">
-        <mark key="'" line="45" column="8" />
+      <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" timestamp="1569894818463">
+        <mark key="'" line="79" column="30" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Params.pm" timestamp="1547802957626">
         <mark key="'" line="19" column="57" />
@@ -284,7 +284,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0010_fm_notline_cpc_cvr.yml" timestamp="1552898632689">
         <mark key="'" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" timestamp="1569811621958">
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" timestamp="1569895012998">
         <mark key="'" line="62" column="11" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/UserData.pm" timestamp="1541151633319">
@@ -632,6 +632,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Log/Bid/NewSpotTracker.pm" timestamp="1539941487300">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DocomoDemographicPrediction.pm" timestamp="1569895274266">
+        <mark key="'" line="83" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/fs/FsShell.java" timestamp="1545034364315">
         <mark key="'" line="389" column="23" />
       </file>
@@ -817,8 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="170" column="37" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="77" column="36" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logger.pm" />
       <jump line="91" column="0" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logger.pm" />
@@ -917,6 +918,8 @@
       <jump line="106" column="14" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
       <jump line="124" column="36" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
       <jump line="37" column="6" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
+      <jump line="79" column="30" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" />
+      <jump line="83" column="56" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DocomoDemographicPrediction.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
