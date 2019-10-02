@@ -207,6 +207,9 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Log/Analyzer/Click.pm" timestamp="1552448788707">
         <mark key="'" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/x86_64-linux/Time/Piece.pm" timestamp="1569980671639">
+        <mark key="'" line="460" column="4" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidRandomRejectCoefUpdater.pm" timestamp="1550567620551">
         <mark key="'" line="39" column="33" />
       </file>
@@ -386,8 +389,8 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/entry/FeatureExtractionRunner.scala" timestamp="1552893036384">
         <mark key="'" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" timestamp="1569485538841">
-        <mark key="'" line="157" column="57" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" timestamp="1569979519177">
+        <mark key="'" line="28" column="34" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547104696235">
         <mark key="'" line="666" column="39" />
@@ -415,6 +418,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/UserData/Touch.pm" timestamp="1551345037560">
         <mark key="'" line="143" column="4" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" timestamp="1569980669040">
+        <mark key="'" line="25" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/Carp.pm" timestamp="1541400395194">
         <mark key="'" line="45" column="2" />
@@ -572,8 +578,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
         <mark key="'" line="154" column="32" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" timestamp="1569920546312">
-        <mark key="'" line="58" column="23" />
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" timestamp="1569979679711">
+        <mark key="'" line="111" column="62" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
         <mark key="'" line="43" column="6" />
@@ -648,6 +654,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1569979330822" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
       </file>
@@ -825,18 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="46" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="145" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="146" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="148" column="6" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="150" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="155" column="9" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="156" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="157" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID.pm" />
-      <jump line="230" column="19" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="116" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="242" column="26" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
-      <jump line="120" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="186" column="50" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="190" column="50" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/DocomoDemographicPrediction.pm" />
       <jump line="1019" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
@@ -925,6 +920,18 @@
       <jump line="145" column="74" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
       <jump line="113" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
       <jump line="74" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" />
+      <jump line="102" column="32" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="20" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="111" column="62" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" />
+      <jump line="28" column="34" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" />
+      <jump line="42" column="38" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" />
+      <jump line="26" column="20" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" />
+      <jump line="65" column="25" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" />
+      <jump line="461" column="11" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="91" column="23" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/x86_64-linux/Time/Piece.pm" />
+      <jump line="27" column="12" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" />
+      <jump line="25" column="8" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/Time/Piece/MySQL.pm" />
+      <jump line="460" column="4" filename="$USER_HOME$/Repositories/fout_logs/extlib/lib/perl5/x86_64-linux/Time/Piece.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -955,7 +962,7 @@
         <text>UNTRAINED_SEGMEN</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</text>
+        <text encoding="base64">XDx5bWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -1003,9 +1010,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</last-search>
+      <last-search encoding="base64">XDx5bWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx5bWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,6 +1044,9 @@
         <entry encoding="base64">XDxVTlRSQUlORURfU0VHTUVOZ19TQ09SRVw+</entry>
         <entry encoding="base64">XDxfZ2V0X2RlbGl2ZXJhYmxlX3NyY19zZWdtZW50X3Njb3JlX21hcFw+</entry>
         <entry encoding="base64">XDxkZWxpdmVyYWJsZV9zcmNfc2VnbWVudF9zY29yZV9tYXBcPg==</entry>
+        <entry encoding="base64">XDxjcG5fbG9va3VwX3BlcmlvZFw+</entry>
+        <entry encoding="base64">XDxfc3RyZnRpbWVcPg==</entry>
+        <entry encoding="base64">XDx5bWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
