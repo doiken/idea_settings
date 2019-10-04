@@ -264,8 +264,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1569824208572">
-        <mark key="'" line="102" column="8" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1570183142914">
+        <mark key="'" line="1892" column="23" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1552557946777">
         <mark key="'" line="58" column="33" />
@@ -584,7 +584,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DynamicMargin/DynamicMargin.pm" timestamp="1543396038561">
         <mark key="'" line="154" column="32" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" timestamp="1569979679711">
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ActiveSourceSegmentsUploader.pm" timestamp="1570182948306">
         <mark key="'" line="111" column="62" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/AdServer/AdGeneration.pm" timestamp="1539843893662">
@@ -843,10 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1336" column="71" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="506" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="497" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="65" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
       <jump line="70" column="5" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
       <jump line="77" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
       <jump line="85" column="29" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction.pm" />
@@ -943,6 +939,10 @@
       <jump line="92" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="118" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="132" column="53" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="182" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="520" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="867" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1892" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -973,7 +973,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxob3VybHlfYnVkZ2V0XD4=</text>
+        <text encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSBhZHNlcnZlcl9pZAotIFthZHNlcnZlcl9pZCwgYWRzcG90c19zcG90X2lkXSAgICAgICAgIyDnibnlvrTjga7ntYTjgb/lkIjjgo/jgZvjgpLkvb/jgYbloLTlkIjjga/jg6rjgrnjg4jjgafliJfmjJkKLSB1c2VyX2lkCi0gYmlkX2lkCi0gYWRfaWQKLSBjb3VudHJ5Ci0gaXAKLSB1YQotIHVybAotIGZyYW1lX3NpemUKLSBwb3NpdGlvbgotIGlzX2FwcGxpY2F0aW9uCi0gZG9tYWluX3R5cGUKLSBkZXZpY2VfdHlwZQotIGJpZF90eXBlCi0gb3MKLSByZWdpb24KLSBzZWdtZW50X2lkCi0gaG91cgotIGFnX2RhaWx5X2ZyZXF1ZW5jeQotIHNlZ21lbnRfcmVjZW5jeQotIGFkZ3JwX2lkCi0gYWR2ZXJ0aXNlcl9jYXRlZ29yeV9pZCAgICAgICAgICAgICAgICAjIOOBk+OBrueJueW+tOOBr+ODhuODvOODluODqyBtYXN0ZXJfanAudXNlcnMg55Sx5p2l44Gg44GM44CB6Ieq5YuV55qE44Gr5b2T6Kmy44OG44O844OW44Or44KC5Y+C54Wn44GZ44KLCi0gY3BuX2lkCg==</text>
@@ -1021,9 +1021,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxob3VybHlfYnVkZ2V0XD4=</last-search>
+      <last-search encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxob3VybHlfYnVkZ2V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1063,6 +1063,7 @@
         <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
         <entry encoding="base64">XDxjcG5zX2hvdXJseV9idWRnZXRcPg==</entry>
         <entry encoding="base64">XDxob3VybHlfYnVkZ2V0XD4=</entry>
+        <entry encoding="base64">XDxfbGlzdF9hZHNfb2ZfYWRncnBfYW5kX3NpemVfYW5kX25ldHdvcmtfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
