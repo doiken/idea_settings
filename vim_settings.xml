@@ -38,7 +38,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1552466267403">
         <mark key="'" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1570441177047">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1570441634168">
         <mark key="'" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1552542984419">
@@ -585,7 +585,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
         <mark key="'" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570441131092">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570441533049">
         <mark key="'" line="51" column="43" />
       </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
@@ -657,8 +657,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1550727940882">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" timestamp="1570439620415">
-        <mark key="'" line="136" column="0" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" timestamp="1570441699219">
+        <mark key="'" line="149" column="36" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidAllocatedBudgetCalculator.pm" timestamp="1550568812858">
         <mark key="'" line="267" column="14" />
@@ -741,6 +741,7 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/bid/etc/td-agent/td-agent-bid-location.conf" timestamp="1548655516071">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/Default.pm" timestamp="1570441824558" />
       <file name="$USER_HOME$/Documents/fout_logs/sql/pctrpercentiles/pctr_percentiles_estimation.hql" timestamp="1547629063931">
         <mark key="'" line="76" column="89" />
       </file>
@@ -830,7 +831,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1570439195615" />
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/SegmentExpansionModel.pm" />
       <jump line="33" column="58" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid/SourceSegmentClassifier.pm" />
       <jump line="2186" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2188" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -930,6 +930,7 @@
       <jump line="40" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="26" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="57" column="39" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" />
+      <jump line="149" column="36" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
