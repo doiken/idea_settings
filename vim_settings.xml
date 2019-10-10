@@ -268,7 +268,7 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1570600010257">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1570692352773">
         <mark key="'" line="547" column="26" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1552557946777">
@@ -591,8 +591,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
         <mark key="'" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570604200716">
-        <mark key="'" line="48" column="45" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570691406095">
+        <mark key="'" line="49" column="33" />
       </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
@@ -651,7 +651,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1570503670224">
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1570692311235">
         <mark key="'" line="2592" column="13" />
         <mark key="[" line="2591" column="0" />
         <mark key="]" line="2591" column="0" />
@@ -663,7 +663,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/CTRFMPrediction.pm" timestamp="1550727940882">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" timestamp="1570690031191">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/CpnTypeUtil.pm" timestamp="1570692380591" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" timestamp="1570691297565">
         <mark key="'" line="77" column="55" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidAllocatedBudgetCalculator.pm" timestamp="1550568812858">
@@ -842,7 +843,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1570439195615" />
     </filemarks>
     <jumps>
-      <jump line="37" column="6" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" />
       <jump line="79" column="30" filename="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/SegmentFeatureExtractor.scala" />
       <jump line="83" column="56" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/DocomoDemographicPrediction.pm" />
       <jump line="133" column="14" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" />
@@ -942,6 +942,7 @@
       <jump line="133" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" />
       <jump line="424" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" />
       <jump line="77" column="55" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Buying.pm" />
+      <jump line="49" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
