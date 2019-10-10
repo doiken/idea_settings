@@ -38,8 +38,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match/AutoBidRandomReject.pm" timestamp="1552466267403">
         <mark key="'" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1570441634168">
-        <mark key="'" line="26" column="40" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" timestamp="1570696155290">
+        <mark key="'" line="28" column="34" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CVRFMNotLine.pm" timestamp="1570694087899">
         <mark key="'" line="4" column="31" />
@@ -522,7 +522,7 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1570441191828">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1570696187214">
         <mark key="'" line="57" column="39" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
@@ -601,8 +601,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/DBoost.pm" timestamp="1543463708325">
         <mark key="'" line="25" column="55" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570691406095">
-        <mark key="'" line="49" column="33" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" timestamp="1570696147874">
+        <mark key="'" line="51" column="47" />
       </file>
       <file name="/System/Library/Perl/5.18/constant.pm" timestamp="1540362307086">
         <mark key="'" line="44" column="21" />
@@ -859,7 +859,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1570439195615" />
     </filemarks>
     <jumps>
-      <jump line="1267" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="63" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="68" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="71" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
@@ -903,7 +902,6 @@
       <jump line="406" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="1186" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
       <jump line="57" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
-      <jump line="51" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
       <jump line="44" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="51" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
       <jump line="41" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
@@ -959,6 +957,8 @@
       <jump line="13" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="108" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
       <jump line="116" column="49" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" />
+      <jump line="51" column="47" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
+      <jump line="28" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/PCVRBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
