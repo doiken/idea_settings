@@ -246,7 +246,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/general/Implicits.scala" timestamp="1552894320488">
         <mark key="'" line="89" column="31" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" timestamp="1571298684659">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Click/Redirect.pm" timestamp="1571391991746">
         <mark key="'" line="606" column="50" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/estimator/PMIEstimator.scala" timestamp="1569834658581">
@@ -325,13 +325,6 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1551081445418">
         <mark key="'" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" timestamp="1571220505811">
-        <mark key="'" line="1029" column="36" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="5" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="54" column="5" />
-      </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid/SourceSegmentClassifier.pm" timestamp="1569824117172">
         <mark key="'" line="33" column="58" />
       </file>
@@ -377,20 +370,6 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/CTRPrediction.pm" timestamp="1571217256227">
-        <mark key="'" line="32" column="44" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-      </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1571212615915">
-        <mark key="'" line="817" column="47" />
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="518" column="0" />
-        <mark key="." line="518" column="0" />
-        <mark key="^" line="518" column="0" />
-      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
       </file>
@@ -426,6 +405,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/SegmentExpansion/ModelTrainer.pm" timestamp="1569979519177">
         <mark key="'" line="28" column="34" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" timestamp="1571392320181">
+        <mark key="'" line="73" column="4" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/UniqueID/Audience.pm" timestamp="1547104696235">
         <mark key="'" line="666" column="39" />
@@ -898,18 +880,9 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569923891670">
-        <mark key="'" line="74" column="8" />
-        <mark key="[" line="145" column="74" />
-        <mark key="]" line="145" column="74" />
-        <mark key="." line="145" column="74" />
-        <mark key="^" line="306" column="18" />
-      </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/Index/DelayCheckerNrpe.pm" timestamp="1570439195615" />
     </filemarks>
     <jumps>
-      <jump line="224" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="228" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="389" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="407" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="145" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer.pm" />
@@ -1008,6 +981,8 @@
       <jump line="30" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
       <jump line="63" column="42" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="34" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
+      <jump line="19" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
+      <jump line="73" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
