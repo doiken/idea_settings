@@ -102,9 +102,11 @@
   </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -115,9 +117,7 @@
   <action id="EditorScrollUpAndMove">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt v" />
-  </action>
+  <action id="EditorSelectWord" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />
