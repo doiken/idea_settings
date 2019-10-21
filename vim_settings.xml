@@ -36,8 +36,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1571396357775">
         <mark key="'" line="48" column="51" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" timestamp="1571644004368">
-        <mark key="'" line="185" column="4" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" timestamp="1571644536421">
+        <mark key="'" line="279" column="8" />
         <mark key="[" line="255" column="25" />
         <mark key="]" line="256" column="1" />
         <mark key="^" line="256" column="1" />
@@ -778,7 +778,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1569898703775">
         <mark key="'" line="133" column="14" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" timestamp="1571641256189">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" timestamp="1571644452706">
         <mark key="'" line="29" column="17" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
@@ -920,10 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
-      <jump line="12" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
-      <jump line="13" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
-      <jump line="19" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="29" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="27" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="50" column="56" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
@@ -996,7 +992,6 @@
       <jump line="449" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="8" column="21" filename="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" />
       <jump line="34" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" />
-      <jump line="29" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" />
       <jump line="30" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
       <jump line="237" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="109" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -1020,6 +1015,11 @@
       <jump line="189" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="92" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="185" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="29" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" />
+      <jump line="257" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="270" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="271" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="279" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1050,7 +1050,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</text>
+        <text encoding="base64">XDx0aW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text>1入札あたりのCPC</text>
@@ -1098,9 +1098,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</last-search>
+      <last-search encoding="base64">XDx0aW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1141,6 +1141,7 @@
         <entry encoding="base64">XDxfZ2V0X3NwZW50X2J1ZGdldF9mcm9tX2NhY2hlXD4=</entry>
         <entry encoding="base64">XDxkYWlseV9jdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
+        <entry encoding="base64">XDx0aW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
