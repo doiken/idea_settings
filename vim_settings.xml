@@ -500,8 +500,11 @@
       <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
         <mark key="'" line="44" column="39" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" timestamp="1571218353215">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" timestamp="1571627971054">
         <mark key="'" line="154" column="24" />
+        <mark key="[" line="143" column="5" />
+        <mark key="]" line="143" column="5" />
+        <mark key="." line="143" column="5" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/SpentByRequest.pm" timestamp="1571625163477">
         <mark key="'" line="8" column="40" />
@@ -717,6 +720,12 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1571299245909">
+        <mark key="'" line="2592" column="13" />
+        <mark key="[" line="2591" column="0" />
+        <mark key="]" line="2591" column="0" />
+        <mark key="." line="2591" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
       </file>
@@ -775,6 +784,12 @@
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1570440977614">
+        <mark key="'" line="1186" column="33" />
+        <mark key="[" line="264" column="44" />
+        <mark key="]" line="264" column="44" />
+        <mark key="." line="264" column="44" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
@@ -1023,8 +1038,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnN1YiBfc3BvdF9zY29yZV9jdnIgewo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1039,7 +1054,7 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text>CTR</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0X3NwZW50X2J1ZGdldF9mcm9tX2NhY2hlXD4=</text>
