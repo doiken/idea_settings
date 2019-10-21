@@ -36,8 +36,12 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1571396357775">
         <mark key="'" line="48" column="51" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" timestamp="1571639864131">
-        <mark key="'" line="246" column="40" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" timestamp="1571641901732">
+        <mark key="'" line="376" column="4" />
+        <mark key="[" line="255" column="25" />
+        <mark key="]" line="256" column="1" />
+        <mark key="^" line="256" column="1" />
+        <mark key="." line="256" column="1" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/MemdBid.pm" timestamp="1539844493768">
         <mark key="'" line="117" column="48" />
@@ -112,7 +116,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1547609719946">
         <mark key="'" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" timestamp="1552457593372">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" timestamp="1571641960895">
         <mark key="'" line="29" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547114822302">
@@ -250,6 +254,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/extraction/FactorizationMachinesDataExtractable.scala" timestamp="1552892867006">
         <mark key="'" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/log_active/nn" timestamp="1571641225711" />
       <file name="$USER_HOME$/Repositories/fout_logs/bin/run_pctr_boost_cut_params.pl" timestamp="1550718215258">
         <mark key="'" line="9" column="27" />
       </file>
@@ -393,6 +398,9 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="34" column="45" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" timestamp="1571641236449">
+        <mark key="'" line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1571212615915">
         <mark key="'" line="817" column="47" />
         <mark key="[" line="518" column="0" />
@@ -406,6 +414,7 @@
       <file name="$USER_HOME$/Documents/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSDirConcatOp.java" timestamp="1545366582443">
         <mark key="'" line="241" column="16" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/t/fout/cache/budget/current_time.t" timestamp="1571641793301" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/AutoCutBoostParams.pm" timestamp="1550718758468">
         <mark key="'" line="115" column="0" />
       </file>
@@ -448,8 +457,8 @@
       <file name="$USER_HOME$/Repositories/fout/t/fout/bid/adserver/adgeneration.t" timestamp="1552383736549">
         <mark key="'" line="1031" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" timestamp="1571629536592">
-        <mark key="'" line="27" column="31" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" timestamp="1571641334782">
+        <mark key="'" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1548840893582">
         <mark key="'" line="68" column="10" />
@@ -496,7 +505,7 @@
       <file name="$USER_HOME$/Documents/perl/tokyo_cabinet_trial.pl" timestamp="1545295909018">
         <mark key="'" line="44" column="39" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" timestamp="1571636675427">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" timestamp="1571639892019">
         <mark key="'" line="176" column="4" />
         <mark key="[" line="143" column="5" />
         <mark key="]" line="143" column="5" />
@@ -769,6 +778,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/LDemographicPrediction.pm" timestamp="1569898703775">
         <mark key="'" line="133" column="14" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" timestamp="1571641256189">
+        <mark key="'" line="29" column="17" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
       </file>
@@ -796,8 +808,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Dao/AppsCharges.pm" timestamp="1545026978236">
         <mark key="'" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" timestamp="1571636891305">
-        <mark key="'" line="25" column="32" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" timestamp="1571641657448">
+        <mark key="'" line="25" column="41" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="12" />
         <mark key="^" line="22" column="12" />
@@ -908,23 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
-      <jump line="132" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/Pricing/LogicalFlow/Default.pm" />
-      <jump line="20" column="59" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="81" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="11" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="34" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
-      <jump line="19" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
-      <jump line="73" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/PCTRPercentile.pm" />
-      <jump line="63" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="30" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Default.pm" />
-      <jump line="23" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="59" column="37" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="67" column="47" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
-      <jump line="73" column="37" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
-      <jump line="49" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
-      <jump line="56" column="41" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
-      <jump line="60" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="25" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="69" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="57" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
@@ -977,8 +972,6 @@
       <jump line="145" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="152" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="138" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="109" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="237" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="248" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="252" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="233" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -997,17 +990,36 @@
       <jump line="1169" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1303" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="544" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
-      <jump line="132" column="54" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="90" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="246" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="178" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
       <jump line="176" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
       <jump line="169" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Abstract.pm" />
       <jump line="44" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Abstract.pm" />
       <jump line="102" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
       <jump line="22" column="14" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
-      <jump line="27" column="62" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
-      <jump line="25" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
+      <jump line="142" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
+      <jump line="65" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
+      <jump line="27" column="39" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
+      <jump line="189" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="449" column="34" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="8" column="21" filename="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" />
+      <jump line="34" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" />
+      <jump line="29" column="17" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetResetter.pm" />
+      <jump line="30" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
+      <jump line="237" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="109" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="111" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="185" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="90" column="61" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="246" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="25" column="41" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
+      <jump line="117" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="119" column="50" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="132" column="57" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="136" column="39" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="264" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="376" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="28" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
+      <jump line="29" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1038,7 +1050,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc3BlbnRfYnVkZ2V0X2Zyb21fY2FjaGVfbXVsdGlcPg==</text>
+        <text encoding="base64">XDx1cGRhdGVfY3VycmVudF9idWRnZXRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>1入札あたりのCPC</text>
@@ -1086,9 +1098,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc3BlbnRfYnVkZ2V0X2Zyb21fY2FjaGVfbXVsdGlcPg==</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVfY3VycmVudF9idWRnZXRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc3BlbnRfYnVkZ2V0X2Zyb21fY2FjaGVfbXVsdGlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVfY3VycmVudF9idWRnZXRzXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,15 +1126,20 @@
         <entry encoding="base64">XDxzZXRfZmxvd19yYXRlX211bHRpXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVfYnVkZ2V0XD4=</entry>
         <entry encoding="base64">XDxuZXdfbW9udGhseV9zdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxjYXBfY2FjaGVfYnlfY3BuXD4=</entry>
         <entry encoding="base64">XDxfZ2V0X3NwZW50X2J1ZGdldF9mcm9tX2NhY2hlXD4=</entry>
         <entry encoding="base64">XDxfaXNfY3BjX2F1Y3Rpb25faWRfY2hlY2tcPg==</entry>
         <entry encoding="base64">XDxTTE9XX0RPV05fRkxPV19SQVRFXD4=</entry>
-        <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxnZXRfZmxvd19yYXRlXD4=</entry>
         <entry encoding="base64">XDxidWRnZXRfaXNfb2tcPg==</entry>
         <entry encoding="base64">XDxnZXRfbXVsdGlcPg==</entry>
         <entry encoding="base64">XDxnZXRfc3BlbnRfYnVkZ2V0X2Zyb21fY2FjaGVfbXVsdGlcPg==</entry>
+        <entry encoding="base64">XDxfY3VycmVudF9yYW5nZV90aW1lc1w+</entry>
+        <entry encoding="base64">XDxyb3dzXD4=</entry>
+        <entry encoding="base64">XDxjYXBfY2FjaGVfYnlfY3BuXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZVw+</entry>
+        <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
+        <entry encoding="base64">XDxkYWlseV9jdXJyZW50XD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVfY3VycmVudF9idWRnZXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
