@@ -5,13 +5,6 @@
       <mark key="V" line="21" column="12" filename="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0016_fm_web_ctr_prediction.yml" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" timestamp="1571396566968">
-        <mark key="'" line="41" column="28" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="3" />
-        <mark key="." line="36" column="3" />
-        <mark key="^" line="36" column="3" />
-      </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Prediction/CVRMFM.pm" timestamp="1553048049590">
         <mark key="'" line="4" column="28" />
       </file>
@@ -33,8 +26,8 @@
       <file name="$FOUT_HOME$/lib/FOut/AppsPlus/Index/Charge.pm" timestamp="1545026908914">
         <mark key="'" line="231" column="24" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1571396357775">
-        <mark key="'" line="48" column="51" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" timestamp="1571648926257">
+        <mark key="'" line="21" column="8" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" timestamp="1571644702744">
         <mark key="'" line="400" column="30" />
@@ -300,7 +293,10 @@
       <file name="$FOUT_HOME$/lib/FOut/AdEvent/Logger.pm" timestamp="1542018130197">
         <mark key="'" line="48" column="6" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1571647943182">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket187.pm" timestamp="1571648794305">
+        <mark key="'" line="45" column="56" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1571648687717">
         <mark key="'" line="754" column="18" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1571215608103">
@@ -338,13 +334,6 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1551081445418">
         <mark key="'" line="32" column="19" />
-      </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" timestamp="1571624553801">
-        <mark key="'" line="1095" column="23" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="5" />
-        <mark key="." line="54" column="5" />
-        <mark key="^" line="54" column="5" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid/SourceSegmentClassifier.pm" timestamp="1569824117172">
         <mark key="'" line="33" column="58" />
@@ -391,22 +380,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/DBD/mysql.pm" timestamp="1543541865021">
         <mark key="'" line="229" column="22" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/CTRPrediction.pm" timestamp="1571217256227">
-        <mark key="'" line="32" column="44" />
-        <mark key="[" line="34" column="10" />
-        <mark key="]" line="34" column="45" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-      </file>
       <file name="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" timestamp="1571641236449">
         <mark key="'" line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1571212615915">
-        <mark key="'" line="817" column="47" />
-        <mark key="[" line="518" column="0" />
-        <mark key="]" line="518" column="0" />
-        <mark key="." line="518" column="0" />
-        <mark key="^" line="518" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
@@ -775,6 +750,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1571366807215">
         <mark key="'" line="53" column="12" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/sql/hive.sql" timestamp="1571649914480" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1547609431666">
         <mark key="'" line="49" column="29" />
       </file>
@@ -920,17 +896,8 @@
       <file name="$FOUT_HOME$/lib/FOut/CLI/DbChecker.pm" timestamp="1540371080021">
         <mark key="'" line="43" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SegmentExpansion/PointwiseMutualInformation.pm" timestamp="1569923891670">
-        <mark key="'" line="74" column="8" />
-        <mark key="[" line="145" column="74" />
-        <mark key="]" line="145" column="74" />
-        <mark key="." line="145" column="74" />
-        <mark key="^" line="306" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
-      <jump line="31" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="48" column="51" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
       <jump line="48" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="43" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
@@ -1029,6 +996,8 @@
       <jump line="27" column="36" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
       <jump line="1935" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="754" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="45" column="56" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket187.pm" />
+      <jump line="21" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1059,7 +1028,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2FsY19zcGVudF9idWRnZXRfaW1wbFw+</text>
+        <text encoding="base64">XDxpc19jcG1fYmlsbGluZ1w+</text>
       </register>
       <register name="0" type="4">
         <text>1入札あたりのCPC</text>
@@ -1107,9 +1076,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2FsY19zcGVudF9idWRnZXRfaW1wbFw+</last-search>
+      <last-search encoding="base64">XDxpc19jcG1fYmlsbGluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2FsY19zcGVudF9idWRnZXRfaW1wbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc19jcG1fYmlsbGluZ1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1153,6 +1122,7 @@
         <entry encoding="base64">XDx0aW1lXD4=</entry>
         <entry encoding="base64">XDxjYXBcPg==</entry>
         <entry encoding="base64">XDxfY2FsY19zcGVudF9idWRnZXRfaW1wbFw+</entry>
+        <entry encoding="base64">XDxpc19jcG1fYmlsbGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put =range(11,15)</entry>
