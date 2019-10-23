@@ -109,7 +109,7 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/BidPriceAdjustor/AutoBidFloorPrice.pm" timestamp="1547609719946">
         <mark key="'" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" timestamp="1571641960895">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" timestamp="1571801423707">
         <mark key="'" line="29" column="13" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547114822302">
@@ -295,8 +295,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket187.pm" timestamp="1571648794305">
         <mark key="'" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1571648687717">
-        <mark key="'" line="754" column="18" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1571801421191">
+        <mark key="'" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1571215608103">
         <mark key="'" line="1" column="0" />
@@ -430,8 +430,8 @@
       <file name="$USER_HOME$/Repositories/fout/t/fout/bid/adserver/adgeneration.t" timestamp="1552383736549">
         <mark key="'" line="1031" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" timestamp="1571645805300">
-        <mark key="'" line="27" column="36" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" timestamp="1571801058151">
+        <mark key="'" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/config_local.yaml" timestamp="1548840893582">
         <mark key="'" line="68" column="10" />
@@ -896,7 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="51" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
       <jump line="48" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="43" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
       <jump line="76" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
@@ -965,7 +964,6 @@
       <jump line="264" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="376" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="28" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
-      <jump line="29" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
       <jump line="202" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="203" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="233" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -991,11 +989,13 @@
       <jump line="75" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
       <jump line="45" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
       <jump line="30" column="19" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
-      <jump line="27" column="36" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
       <jump line="1935" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="754" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="45" column="56" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket187.pm" />
       <jump line="21" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Default.pm" />
+      <jump line="27" column="35" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
+      <jump line="32" column="20" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="29" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
