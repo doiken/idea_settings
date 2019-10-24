@@ -127,6 +127,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1552357512531">
         <mark key="'" line="13" column="101" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/sql/prediction_hive.sql" timestamp="1571895411950">
+        <mark key="'" line="180" column="0" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1547618738648">
         <mark key="'" line="88" column="36" />
       </file>
@@ -214,7 +217,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer.pm" timestamp="1570689541081">
         <mark key="'" line="135" column="37" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/config/common/science.yaml" timestamp="1571809936096" />
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/CLI.pm" timestamp="1551151900624">
         <mark key="'" line="197" column="35" />
       </file>
@@ -749,7 +751,13 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" timestamp="1571366807215">
         <mark key="'" line="53" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/sql/hive.sql" timestamp="1571798678377" />
+      <file name="$USER_HOME$/Repositories/fout_logs/sql/hive.sql" timestamp="1571895384659">
+        <mark key="'" line="1195" column="18" />
+        <mark key="[" line="1195" column="18" />
+        <mark key="]" line="1195" column="20" />
+        <mark key="^" line="1195" column="20" />
+        <mark key="." line="1195" column="20" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/AutoBidPercentileBoost.pm" timestamp="1547609431666">
         <mark key="'" line="49" column="29" />
       </file>
@@ -897,8 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
-      <jump line="43" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/PCVRPercentile.pm" />
       <jump line="76" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/PercentileCut.pm" />
       <jump line="41" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/MFMPrediction.pm" />
       <jump line="16" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PercentileUtil.pm" />
@@ -997,6 +1003,8 @@
       <jump line="27" column="35" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
       <jump line="32" column="20" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="29" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
+      <jump line="1195" column="18" filename="$USER_HOME$/Repositories/fout_logs/sql/hive.sql" />
+      <jump line="180" column="0" filename="$USER_HOME$/Repositories/fout_logs/sql/prediction_hive.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
