@@ -60,7 +60,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1543979766329">
         <mark key="'" line="79" column="12" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/config/feature_extraction_runner/0016_fm_web_ctr_prediction.yml" timestamp="1572334627197" />
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1547802665821">
         <mark key="'" line="138" column="0" />
       </file>
@@ -401,8 +400,8 @@
       <file name="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" timestamp="1571641236449">
         <mark key="'" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572418381147">
-        <mark key="'" line="286" column="36" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572504045445">
+        <mark key="'" line="832" column="62" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
@@ -619,6 +618,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/bin/run_auto_bid_allocated_budget_calculator.pl" timestamp="1550568668440">
         <mark key="'" line="9" column="27" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" timestamp="1572504117222">
+        <mark key="'" line="127" column="12" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/AD/ClickURL.pm" timestamp="1548742831252">
         <mark key="'" line="17" column="5" />
       </file>
@@ -651,6 +653,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/ResponseUtil.pm" timestamp="1570689592111">
         <mark key="'" line="32" column="4" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/RestoredSegmentCache.pm" timestamp="1572504138790">
+        <mark key="'" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/DAO.pm" timestamp="1551867654736">
         <mark key="'" line="49" column="12" />
@@ -805,6 +810,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1572504125281">
+        <mark key="'" line="228" column="32" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
       </file>
@@ -940,12 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="35" filename="$USER_HOME$/Repositories/fout_logs/bin/summarise/MR_AudienceDB" />
-      <jump line="57" column="8" filename="$USER_HOME$/Repositories/fout_logs/bin/summarise/MR_AudienceDB" />
-      <jump line="59" column="8" filename="$USER_HOME$/Repositories/fout_logs/bin/summarise/MR_AudienceDB" />
-      <jump line="94" column="23" filename="$USER_HOME$/Repositories/fout_logs/bin/summarise/MR_AudienceDB" />
-      <jump line="435" column="41" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="109" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="117" column="16" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="61" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="36" column="5" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -1040,6 +1042,12 @@
       <jump line="174" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="96" column="67" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="26" column="0" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/log_active/nn" />
+      <jump line="832" column="62" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="157" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
+      <jump line="160" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
+      <jump line="127" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
+      <jump line="228" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="27" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/RestoredSegmentCache.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1070,7 +1078,7 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</text>
+        <text encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text>@minutely_consumption_rates</text>
@@ -1118,9 +1126,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</last-search>
+      <last-search encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1163,6 +1171,7 @@
         <entry encoding="base64">XDxfY3VycmVudF9yYW5nZV90aW1lc1w+</entry>
         <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</entry>
+        <entry encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
