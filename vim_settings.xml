@@ -373,8 +373,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
         <mark key="'" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" timestamp="1571298767647">
-        <mark key="'" line="78" column="11" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" timestamp="1572518823369">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" timestamp="1551867702892">
         <mark key="'" line="100" column="8" />
@@ -403,8 +403,8 @@
       <file name="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" timestamp="1571641236449">
         <mark key="'" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572514440840">
-        <mark key="'" line="832" column="62" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572519051634">
+        <mark key="'" line="1247" column="27" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
@@ -520,6 +520,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Click/DataFromAD/MemdADToClick.pm" timestamp="1572518476048" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Budget/SpentByRequest.pm" timestamp="1571625163477">
         <mark key="'" line="8" column="40" />
       </file>
@@ -955,8 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
-      <jump line="189" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="132" column="73" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="118" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="190" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -1055,6 +1054,8 @@
       <jump line="8" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
       <jump line="85" column="26" filename="$USER_HOME$/Repositories/fout/t/fout/ad/request/is_valid.t" />
       <jump line="27" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer.pm" />
+      <jump line="0" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="1247" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1085,7 +1086,7 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</text>
+        <text encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</text>
       </register>
       <register name="0" type="4">
         <text>@minutely_consumption_rates</text>
@@ -1133,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</last-search>
+      <last-search encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1179,6 +1180,7 @@
         <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</entry>
         <entry encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</entry>
+        <entry encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
