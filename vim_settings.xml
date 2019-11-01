@@ -373,8 +373,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Index.pm" timestamp="1540793781213">
         <mark key="'" line="19" column="9" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" timestamp="1572518823369">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" timestamp="1572588464201">
+        <mark key="'" line="292" column="12" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/t/lib/Mock/Bid/IndexData.pm" timestamp="1551867702892">
         <mark key="'" line="100" column="8" />
@@ -403,8 +403,8 @@
       <file name="$USER_HOME$/Repositories/fout/log/cron/budget_reset.pl" timestamp="1571641236449">
         <mark key="'" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572519051634">
-        <mark key="'" line="1247" column="27" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" timestamp="1572588901338">
+        <mark key="'" line="342" column="53" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/Downloader.pm" timestamp="1545014324081">
         <mark key="'" line="53" column="5" />
@@ -956,29 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="73" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="118" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="190" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="92" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="171" column="49" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="78" column="40" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="79" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="82" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="83" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="91" column="68" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="98" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="99" column="45" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="100" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="101" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="102" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="103" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="104" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="106" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="107" column="43" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="98" column="38" filename="$USER_HOME$/Repositories/fout/sql/dsp.sql" />
-      <jump line="172" column="42" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="183" column="81" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="86" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="1532" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1546" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1550" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
@@ -1056,6 +1033,29 @@
       <jump line="27" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer.pm" />
       <jump line="0" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
       <jump line="1247" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="33" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="108" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="145" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="150" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="151" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="238" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="292" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
+      <jump line="348" column="55" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="333" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="304" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="931" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="230" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="355" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="362" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="371" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="374" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="378" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="382" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="334" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="340" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="930" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="228" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="342" column="53" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1086,7 +1086,7 @@
         <text>%</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</text>
+        <text encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</text>
       </register>
       <register name="0" type="4">
         <text>@minutely_consumption_rates</text>
@@ -1134,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-search>
+      <last-search encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1180,7 +1180,12 @@
         <entry encoding="base64">XDxfZ2V0X2NwbnNfaG91cmx5X2J1ZGdldFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50X2hvdXJseV9idWRnZXRzXD4=</entry>
         <entry encoding="base64">XDxyZXN0b3JlZF9zZWdtZW50XD4=</entry>
+        <entry>response</entry>
         <entry encoding="base64">XDxiaWRfYXVjdGlvbl9pZFw+</entry>
+        <entry encoding="base64">XDxpc19ub19iaWRcPg==</entry>
+        <entry encoding="base64">XDxyZWFkeV90b19iaWRcPg==</entry>
+        <entry encoding="base64">XDxfb2ZmZXJfYmlkc1w+</entry>
+        <entry encoding="base64">XDxsb2dnaW5nX3Jlc3BvbnNlX2RhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
