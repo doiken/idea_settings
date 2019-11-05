@@ -138,8 +138,10 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/data/configuration/ExtractionConfigDeserializer.scala" timestamp="1552357512531">
         <mark key="'" line="13" column="101" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/sql/prediction_hive.sql" timestamp="1572935085332">
+      <file name="$USER_HOME$/Repositories/fout_logs/sql/prediction_hive.sql" timestamp="1572939893319">
         <mark key="'" line="334" column="0" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="334" column="1" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Prediction/CTRFMPrediction.pm" timestamp="1547618738648">
         <mark key="'" line="88" column="36" />
@@ -777,6 +779,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1572940552181" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
       </file>
@@ -1092,8 +1095,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>production</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3JlYXRlIGV4dGVybmFsIHRhYmxlIGlmIG5vdCBleGlzdHMgY29uc3VtcHRpb25fcmF0ZSAoCiAgICBuZXR3b3JrX2lkIGludCwKICAgIGNhbXBhaWduX2lkIGludCwKICAgIGRhaWx5X2J1ZGdldCBpbnQsCiAgICBidWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGFsbG9jYXRlZF9idWRnZXQgaW50LAogICAgY29uc3VtcHRpb24gZG91YmxlLAogICAgaG91cmx5X2NvbnN1bXB0aW9uX3JhdGUgZG91YmxlLAogICAgY29uc3VtcHRpb25fcmF0ZSBkb3VibGUsCiAgICBiaWRfdHlwZSBpbnQsCiAgICBob3VyXyBpbnQsCiAgICBkYWlseV9idWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGRhaWx5X2FsbG9jYXRlZF9idWRnZXQgaW50LAogICAgZGFpbHlfY29uc3VtcHRpb24gZG91YmxlLAogICAgZGFpbHlfY29uc3VtcHRpb25fcmF0ZSBkb3VibGUKKQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1113,8 +1116,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>default</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3JlYXRlIGV4dGVybmFsIHRhYmxlIGlmIG5vdCBleGlzdHMgY29uc3VtcHRpb25fcmF0ZSAoCiAgICBuZXR3b3JrX2lkIGludCwKICAgIGNhbXBhaWduX2lkIGludCwKICAgIGRhaWx5X2J1ZGdldCBpbnQsCiAgICBidWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGFsbG9jYXRlZF9idWRnZXQgaW50LAogICAgY29uc3VtcHRpb24gZG91YmxlLAogICAgaG91cmx5X2NvbnN1bXB0aW9uX3JhdGUgZG91YmxlLAogICAgY29uc3VtcHRpb25fcmF0ZSBkb3VibGUsCiAgICBiaWRfdHlwZSBpbnQsCiAgICBob3VyXyBpbnQsCiAgICBkYWlseV9idWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGRhaWx5X2FsbG9jYXRlZF9idWRnZXQgaW50LAogICAgZGFpbHlfY29uc3VtcHRpb24gZG91YmxlLAogICAgZGFpbHlfY29uc3VtcHRpb25fcmF0ZSBkb3VibGUKKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxpa2UgJGxvZywgcXIvcnVuIGxvYWQgcXVlcnk6IExPQUQgREFUQSBMT0NBTCBJTkZJTEUgJy4rJyBSRVBMQUNFIElOVE8gVEFCTEUgYmlkZGluZ19vcmRlciBGSUVMRFMgVEVSTUlOQVRFRCBCWSAnXHQnLzsK</text>
