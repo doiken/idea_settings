@@ -781,7 +781,10 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1572945736699" />
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1573008325480">
+        <mark key="[" line="803" column="2" />
+        <mark key="]" line="803" column="9" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
       </file>
@@ -1098,7 +1101,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IEFTIGFnZW5jeV9pZA==</text>
+        <text>pricesum</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1118,8 +1121,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y3JlYXRlIGV4dGVybmFsIHRhYmxlIGlmIG5vdCBleGlzdHMgY29uc3VtcHRpb25fcmF0ZSAoCiAgICBuZXR3b3JrX2lkIGludCwKICAgIGNhbXBhaWduX2lkIGludCwKICAgIGRhaWx5X2J1ZGdldCBpbnQsCiAgICBidWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGFsbG9jYXRlZF9idWRnZXQgaW50LAogICAgY29uc3VtcHRpb24gZG91YmxlLAogICAgaG91cmx5X2NvbnN1bXB0aW9uX3JhdGUgZG91YmxlLAogICAgY29uc3VtcHRpb25fcmF0ZSBkb3VibGUsCiAgICBiaWRfdHlwZSBpbnQsCiAgICBob3VyXyBpbnQsCiAgICBkYWlseV9idWRnZXRfd2VpZ2h0IGRvdWJsZSwKICAgIGRhaWx5X2FsbG9jYXRlZF9idWRnZXQgaW50LAogICAgZGFpbHlfY29uc3VtcHRpb24gZG91YmxlLAogICAgZGFpbHlfY29uc3VtcHRpb25fcmF0ZSBkb3VibGUKKQo=</text>
+      <register name="0" type="4">
+        <text>pricesum</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjICRjdXJyZW50X2hvdXJseV9idWRnZXRzID0g54++5Zyo5pmC5Yi744GuaG91cmx5Cg==</text>
