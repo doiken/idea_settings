@@ -325,8 +325,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/LogicalFlow/Bucket187.pm" timestamp="1571648794305">
         <mark key="'" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1571907961954">
-        <mark key="'" line="1550" column="31" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" timestamp="1573010473098">
+        <mark key="'" line="1908" column="27" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/AutoBidsPriceCalculator.pm" timestamp="1571215608103">
         <mark key="'" line="1" column="0" />
@@ -369,6 +369,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1551081445418">
         <mark key="'" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" timestamp="1573010019415">
+        <mark key="'" line="177" column="23" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid/SourceSegmentClassifier.pm" timestamp="1569824117172">
         <mark key="'" line="33" column="58" />
@@ -989,11 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Log/Collector.pm" />
-      <jump line="49" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Log/Collector.pm" />
-      <jump line="42" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Log/Collector.pm" />
-      <jump line="40" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/LogCollector.pm" />
-      <jump line="55" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Log/Collector.pm" />
       <jump line="8" column="21" filename="$USER_HOME$/Repositories/fout/log/cron/analyze_logs.pl" />
       <jump line="36" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/LogAnalyzer.pm" />
       <jump line="8" column="25" filename="$USER_HOME$/Repositories/fout/log/cron/current_budget_updater.pl" />
@@ -1089,6 +1087,11 @@
       <jump line="27" column="8" filename="$USER_HOME$/Repositories/fout_logs/t/fout/logs/bidding_order_calculator.t" />
       <jump line="9" column="46" filename="$USER_HOME$/Repositories/fout_logs/bin/run_bidding_order_calculator.pl" />
       <jump line="27" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
+      <jump line="148" column="30" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" />
+      <jump line="177" column="23" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" />
+      <jump line="901" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="2281" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="1908" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,7 +1122,7 @@
         <text encoding="base64">IEFTIGFnZW5jeV9pZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lc3RhbXBcPg==</text>
+        <text encoding="base64">XDx3cml0ZV9pbmRleF9CSURfRE1QU0VHXD4=</text>
       </register>
       <register name="0" type="4">
         <text>pricesum</text>
@@ -1167,13 +1170,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lc3RhbXBcPg==</last-search>
+      <last-search encoding="base64">XDx3cml0ZV9pbmRleF9CSURfRE1QU0VHXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3cml0ZV9pbmRleF9CSURfRE1QU0VHXD4=</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1197,6 +1200,7 @@
         <entry encoding="base64">XDx2YXJpYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZV9pbmRleF9CSURfRE1QU0VHXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
