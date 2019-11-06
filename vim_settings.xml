@@ -358,6 +358,9 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket183.pm" timestamp="1571209907816">
         <mark key="'" line="33" column="61" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" timestamp="1573018577705">
+        <mark key="'" line="76" column="13" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" timestamp="1569895012998">
         <mark key="'" line="62" column="11" />
       </file>
@@ -784,7 +787,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1573017716590">
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1573018508268">
         <mark key="[" line="803" column="2" />
         <mark key="]" line="803" column="9" />
       </file>
@@ -900,12 +903,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Data/Prediction/FMPredictionRole.pm" timestamp="1570693970414">
         <mark key="'" line="116" column="49" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CVRMFMPrediction.pm" timestamp="1572931796599">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="41" />
-        <mark key="." line="217" column="7" />
-        <mark key="^" line="217" column="7" />
-      </file>
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark2/src/main/scala/jp/fout/log/hadoop/spark/segmentexpansion/logic/predictor/Predictor.scala" timestamp="1569901619020">
         <mark key="'" line="30" column="30" />
       </file>
@@ -992,7 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="21" filename="$USER_HOME$/Repositories/fout/log/cron/analyze_logs.pl" />
       <jump line="36" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/LogAnalyzer.pm" />
       <jump line="8" column="25" filename="$USER_HOME$/Repositories/fout/log/cron/current_budget_updater.pl" />
       <jump line="29" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/CurrentBudgetUpdater.pm" />
@@ -1092,6 +1088,7 @@
       <jump line="901" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="2281" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
       <jump line="1908" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/RTBIndex/Bid.pm" />
+      <jump line="76" column="13" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
