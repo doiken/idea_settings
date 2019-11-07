@@ -358,8 +358,8 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket183.pm" timestamp="1571209907816">
         <mark key="'" line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" timestamp="1573018577705">
-        <mark key="'" line="76" column="13" />
+      <file name="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" timestamp="1573107409775">
+        <mark key="'" line="61" column="74" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Prediction/DocomoDemographicPrediction/App.pm" timestamp="1569895012998">
         <mark key="'" line="62" column="11" />
@@ -576,6 +576,9 @@
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Util/Hive.pm" timestamp="1572931731568">
         <mark key="'" line="148" column="28" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" timestamp="1573107280765">
+        <mark key="'" line="32" column="123" />
       </file>
       <file name="$USER_HOME$/Repositories/fout/log/cron/watch_service_log.pl" timestamp="1569905642451">
         <mark key="'" line="8" column="21" />
@@ -989,37 +992,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="9" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/CapType/Fee.pm" />
-      <jump line="297" column="6" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="478" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="486" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="416" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="491" column="82" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="60" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Cache/Budget.pm" />
-      <jump line="24" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="214" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="174" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="96" column="67" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="26" column="0" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/log_active/nn" />
-      <jump line="832" column="62" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="157" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
-      <jump line="160" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
-      <jump line="127" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context/DemoPrediction.pm" />
-      <jump line="228" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
-      <jump line="27" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/RestoredSegmentCache.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
-      <jump line="87" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
-      <jump line="8" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer/GoogleAdExchangeSP.pm" />
-      <jump line="85" column="26" filename="$USER_HOME$/Repositories/fout/t/fout/ad/request/is_valid.t" />
-      <jump line="27" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/AdServer.pm" />
-      <jump line="0" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="1247" column="27" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
-      <jump line="33" column="8" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="108" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="145" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="150" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="151" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
-      <jump line="238" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
       <jump line="292" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
       <jump line="348" column="55" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="333" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
@@ -1089,6 +1061,37 @@
       <jump line="151" column="4" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="327" column="11" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
       <jump line="93" column="41" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
+      <jump line="109" column="45" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="115" column="4" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="6" column="182" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="20" column="154" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="34" column="115" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="35" column="127" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="26" column="109" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="27" column="115" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="29" column="120" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="31" column="119" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="32" column="123" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
+      <jump line="33" column="14" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="31" column="8" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="70" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="17" column="12" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="30" column="34" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="32" column="49" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="34" column="17" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="36" column="27" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="43" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="45" column="17" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="46" column="40" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="68" column="18" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="69" column="36" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="73" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="81" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="116" column="90" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="60" column="77" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="55" column="5" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="49" column="4" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
+      <jump line="61" column="74" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,7 +1122,7 @@
         <text encoding="base64">IEFTIGFnZW5jeV9pZA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</text>
+        <text encoding="base64">XDxob3dfbG9uZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGluZGV4ICh1c2VyX2lkKSwK</text>
@@ -1167,9 +1170,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</last-search>
+      <last-search encoding="base64">XDxob3dfbG9uZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob3dfbG9uZ1w+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1201,6 +1204,12 @@
         <entry encoding="base64">XDxBVVRPX0JJRF9DT01NQU5EU1w+</entry>
         <entry encoding="base64">XDxhdXRvX2JpZF9jbWRfdG1wXD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tfc2tpcF9sb2dcPg==</entry>
+        <entry encoding="base64">XDxkcm9wUGFydGl0aW9uXD4=</entry>
+        <entry encoding="base64">XDxhZF90aW1lZF9sb2dzXD4=</entry>
+        <entry encoding="base64">XDxzY3JpcHRfbmFtZVw+</entry>
+        <entry encoding="base64">XDxkYXRlXD4=</entry>
+        <entry encoding="base64">XDxkcm9wXD4=</entry>
+        <entry encoding="base64">XDxob3dfbG9uZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
