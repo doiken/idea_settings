@@ -368,6 +368,7 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1551081445418">
         <mark key="'" line="32" column="19" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_infra/puppet/manifests/nodes.pp" timestamp="1573438170658" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" timestamp="1573010019415">
         <mark key="'" line="177" column="23" />
       </file>
@@ -768,9 +769,11 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Audience.pm" timestamp="1550727569103">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1573034131830">
-        <mark key="[" line="2274" column="0" />
-        <mark key="]" line="2274" column="20" />
+      <file name="$USER_HOME$/Repositories/fout/sql/dsp.sql" timestamp="1573438533221">
+        <mark key="'" line="3820" column="1" />
+        <mark key="[" line="2597" column="2" />
+        <mark key="]" line="2597" column="3" />
+        <mark key="." line="2597" column="3" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/WMDropMapping.pm" timestamp="1543468807581">
         <mark key="'" line="20" column="30" />
@@ -963,7 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="334" column="28" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="340" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="930" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
@@ -1063,6 +1065,7 @@
       <jump line="426" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="489" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="4" column="21" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" />
+      <jump line="3820" column="1" filename="$USER_HOME$/Repositories/fout/sql/dsp.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
