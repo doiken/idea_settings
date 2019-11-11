@@ -124,6 +124,9 @@
         <mark key="'" line="29" column="27" />
         <mark key="g" line="29" column="28" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1573458406153">
+        <mark key="'" line="176" column="16" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/PCTRPCVRPercentile.pm" timestamp="1547114822302">
         <mark key="'" line="50" column="30" />
       </file>
@@ -517,6 +520,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoCutBoostParams.pm" timestamp="1548739300180">
         <mark key="'" line="42" column="9" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/bin/run_etl.pl" timestamp="1573458390910">
+        <mark key="'" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/Logger.pm" timestamp="1569555788225">
         <mark key="'" line="54" column="73" />
       </file>
@@ -644,6 +650,9 @@
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/sql/auto_bidding/bidding_order.hql" timestamp="1549445576115">
         <mark key="'" line="90" column="10" />
+      </file>
+      <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Etl/Load.pm" timestamp="1573458336876">
+        <mark key="'" line="49" column="28" />
       </file>
       <file name="$USER_HOME$/Repositories/fout_logs/bin/run_auto_bid_allocated_budget_calculator.pl" timestamp="1550568668440">
         <mark key="'" line="9" column="27" />
@@ -984,11 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="27" filename="$USER_HOME$/Repositories/fout_logs/bin/run_consumption_rate_calculator.pl" />
-      <jump line="112" column="17" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
-      <jump line="146" column="38" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="148" column="28" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Util/Hive.pm" />
-      <jump line="38" column="33" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/ConsumptionRateCalculator.pm" />
       <jump line="121" column="21" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/ConsumptionRateCalculator.pm" />
       <jump line="177" column="11" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
       <jump line="26" column="37" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/BiddingOrderCalculator.pm" />
@@ -1084,6 +1088,11 @@
       <jump line="110" column="0" filename="$USER_HOME$/Repositories/fout_logs/oozie/coordinators/export-conversion_activity_logs/hive-site.xml" />
       <jump line="140" column="0" filename="$USER_HOME$/Repositories/fout_logs/sql/master_hive.sql" />
       <jump line="1580" column="0" filename="$USER_HOME$/Repositories/fout_logs/sql/hive.sql" />
+      <jump line="116" column="14" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
+      <jump line="30" column="8" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Etl/Load.pm" />
+      <jump line="49" column="28" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/Etl/Load.pm" />
+      <jump line="10" column="27" filename="$USER_HOME$/Repositories/fout_logs/bin/run_etl.pl" />
+      <jump line="176" column="16" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/Etl.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
