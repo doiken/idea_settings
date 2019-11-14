@@ -63,6 +63,9 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/Ad.pm" timestamp="1543979766329">
         <mark key="'" line="79" column="12" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Params.pm" timestamp="1573696241893">
+        <mark key="'" line="6" column="4" />
+      </file>
       <file name="$FOUT_HOME$/lib/FOut/SplitRun/Cache.pm" timestamp="1547802665821">
         <mark key="'" line="138" column="0" />
       </file>
@@ -220,7 +223,6 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/Science/PCTRBoost.pm" timestamp="1547085324626">
         <mark key="'" line="75" column="28" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/config.yaml" timestamp="1573109640071" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/Etl.pm" timestamp="1548834591680">
         <mark key="'" line="118" column="35" />
       </file>
@@ -254,7 +256,6 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidRandomRejectCoefUpdater.pm" timestamp="1550567620551">
         <mark key="'" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/oozie/coordinators/export-conversion_activity_logs/workflow.xml" timestamp="1573460771248" />
       <file name="$FOUT_HOME$/lib/FOut/Bid/Algorithm/DropRate/LogicalFlow/Default.pm" timestamp="1542598863948">
         <mark key="'" line="12" column="8" />
       </file>
@@ -354,6 +355,9 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/PercentileCut/LogicalFlow/Bucket183.pm" timestamp="1571209907816">
         <mark key="'" line="33" column="61" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector/ConsistentHash.pm" timestamp="1573695286593">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" timestamp="1573451742034">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="0" column="0" />
@@ -373,7 +377,6 @@
       <file name="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/FMModelETL.pm" timestamp="1551081445418">
         <mark key="'" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_infra/puppet/manifests/nodes.pp" timestamp="1573438170658" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Match.pm" timestamp="1573527458390">
         <mark key="'" line="165" column="33" />
       </file>
@@ -458,8 +461,8 @@
       <file name="$FOUT_HOME$/tools/akamai_content_purger.sh" timestamp="1548214028605">
         <mark key="'" line="69" column="31" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1573625334068">
-        <mark key="'" line="4" column="21" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" timestamp="1573695291370">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Bid/Data/CTRFMPrediction.pm" timestamp="1547533000022">
         <mark key="'" line="46" column="7" />
@@ -582,6 +585,9 @@
       <file name="$USER_HOME$/Repositories/fout_logs/hadoop/spark/src/main/scala/jp/fout/log/hadoop/spark/auto_bidding/entry/AutoBidRandomRejectCoefUpdaterRunner.scala" timestamp="1550568502265">
         <mark key="'" line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" timestamp="1573695646987">
+        <mark key="'" line="57" column="82" />
+      </file>
       <file name="$USER_HOME$/Repositories/fout/log/cron/collect_logs.pl" timestamp="1572423411643">
         <mark key="'" line="8" column="21" />
       </file>
@@ -609,8 +615,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/UpdateMarginBoostParams.pm" timestamp="1543992095798">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" timestamp="1551866266331">
-        <mark key="'" line="15" column="38" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" timestamp="1573695335229">
+        <mark key="'" line="39" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/fout_logs/extlib/lib/perl5/x86_64-linux/JSON/XS.pm" timestamp="1541411387332">
         <mark key="'" line="0" column="0" />
@@ -624,7 +630,6 @@
       <file name="$USER_HOME$/Documents/fout_infra/puppet/modules/fluentd/templates/gw/etc/td-agent/config.d/fluentd_internal_collector.conf" timestamp="1548667477886">
         <mark key="'" line="74" column="10" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/oozie/coordinators/export-conversion_activity_logs/conversion_activity_logs.hql" timestamp="1573456739169" />
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
       </file>
@@ -697,7 +702,6 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/UniqueID/RestoredSegmentCache.pm" timestamp="1572504138790">
         <mark key="'" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout_logs/oozie/coordinators/export-conversion_activity_logs/coordinator.xml" timestamp="1573460749766" />
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/DAO.pm" timestamp="1551867654736">
         <mark key="'" line="49" column="12" />
       </file>
@@ -855,8 +859,8 @@
       <file name="$FOUT_HOME$/lib/FOut/Bid/RTBIndex/AutoBidRandomRejectCoef.pm" timestamp="1548934431987">
         <mark key="'" line="52" column="80" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1572504125281">
-        <mark key="'" line="228" column="32" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" timestamp="1573695368812">
+        <mark key="'" line="386" column="31" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Conv/NativeApp/Register.pm" timestamp="1540432376799">
         <mark key="'" line="55" column="29" />
@@ -986,26 +990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="11" filename="$USER_HOME$/Repositories/fout_logs/lib/FOut/Logs/CLI/AutoBidBatches.pm" />
-      <jump line="109" column="45" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="115" column="4" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="6" column="182" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="20" column="154" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="34" column="115" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="35" column="127" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="26" column="109" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="27" column="115" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="29" column="120" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="31" column="119" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="32" column="123" filename="$USER_HOME$/Repositories/fout_infra/puppet/modules/crontab/templates/db/nn" />
-      <jump line="33" column="14" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="31" column="8" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="70" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="17" column="12" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="30" column="34" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="32" column="49" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="45" column="17" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
-      <jump line="68" column="18" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
       <jump line="69" column="36" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
       <jump line="73" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
       <jump line="81" column="11" filename="$USER_HOME$/Repositories/fout/db/cron/rotate_logs_table.pl" />
@@ -1086,6 +1070,26 @@
       <jump line="329" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
       <jump line="126" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Logger.pm" />
       <jump line="27" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
+      <jump line="74" column="18" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" />
+      <jump line="53" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" />
+      <jump line="13" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" />
+      <jump line="42" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector.pm" />
+      <jump line="45" column="0" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/BucketSelector/ConsistentHash.pm" />
+      <jump line="4" column="20" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="40" column="48" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="117" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="119" column="15" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="122" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="39" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Cache.pm" />
+      <jump line="1193" column="11" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="1192" column="25" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="386" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Context.pm" />
+      <jump line="53" column="41" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="15" column="22" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="21" column="26" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="17" column="65" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="57" column="82" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/ParamsSet.pm" />
+      <jump line="6" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/SplitRun/Params.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1116,7 +1120,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWlseVw+</text>
+        <text encoding="base64">XDxhdWRpZW5jZV9pZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3ViIHVwZGF0ZV9hbGwgewogICAgbXkgKCRzZWxmKSA9IEBfOwoKICAgIG15ICRzcWwgPSA8PF9fU1FMX187ClNFTEVDVCBjcG5zLiosIHVzZXJzLmFnZW5jeV9pZCBBUyBhZ2VuY3lfaWQKRlJPTSBjcG5zCklOTkVSIEpPSU4gdXNlcnMgT04gY3Bucy51c2VyX2lkID0gdXNlcnMuaWQKV0hFUkUgY3Bucy5zdGF0dXMgPSAxCk9SREVSIEJZIGNwbnMuZGFpbHlfYnVkZ2V0IEFTQwpfX1NRTF9fCiAgICBteSAkaXRlciA9IG1vZGVscygnZHNwX2RiX21hc3RlcicpLT5zZWFyY2hfYnlfc3FsKCRzcWwpOwoKICAgICMg6YGp5b2T44Gq5Lu25pWw44Ga44Gk5Yem55CG44GZ44KLCiAgICBteSBAY3BucyA9ICRpdGVyLT5hbGwoKTsKICAgIHdoaWxlIChteSBAcHJvY2Vzc191bml0X2NwbnMgPSBzcGxpY2UgQGNwbnMsIDAsICRzZWxmLT51cGRhdGVfYWxsX3RyYW5zYWN0aW9uX2NvdW50KSB7CgogICAgICAgICMgZGLjgpLmm7TmlrDjgZnjgovlv4XopoHjgYzjgYLjgotjcG5z44Gucm93cwogICAgICAgIG15IEB1cGRhdGVfY3Buc19kYXRhID0gKCk7CiAgICAgICAgIyDmtojljJbnjofjgpJkYuOBq+agvOe0jeOBmeOCi+W/heimgeOBjOOBguOCi2NwbnMKICAgICAgICBteSBAbWludXRlbHlfY29uc3VtcHRpb25fcmF0ZXMgPSArKCk7CiAgICAgICAgIyBtZW1jYWNoZWTjgavkv53lrZjjgZnjgovnlKjjga7jg6rjgrnjg4gKICAgICAgICBteSAlY3BuX2Zsb3dfcmF0ZSA9ICsgKCk7CgogICAgICAgICMg5Yem55CG5a++6LGh44GuY3Bu44Gr5a++44GX44GmY2FjaGXjgpLjgb7jgajjgoHjgablj5blvpfjgZnjgosKICAgICAgICBteSAlY2FwX2NhY2hlX2J5X2NwbiA9ICRzZWxmLT5fZ2V0X3NwZW50X2J1ZGdldF9mcm9tX2NhY2hlKEBwcm9jZXNzX3VuaXRfY3Bucyk7Cg==</text>
@@ -1160,13 +1164,13 @@
         <text encoding="base64">ICAgIG15ICR0eG4gPSAkc2VsZi0+ZGItPntEQkh9LT50eG5fc2NvcGU7CiAgICAkc2VsZi0+ZGItPmRvKCRkZWxldGVfc3FsKTsKICAgICRzZWxmLT5kYi0+ZG8oJGxvYWRfc3FsKTsKICAgICR0eG4tPmNvbW1pdCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gVG9vbF9FeHRlcm5hbCBUb29sc19vcGVuIGluIGJyb3dzZXI=</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWlseVw+</last-search>
+      <last-search encoding="base64">XDxhdWRpZW5jZV9pZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWlseVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpZW5jZV9pZFw+</last-pattern>
       <last-replace>as</last-replace>
       <last-substitute encoding="base64">XDxsb2dnZWRfdmFsdWVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1220,6 +1224,10 @@
         <entry encoding="base64">XDxuZXdfZGFpbHlfc3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxjcG5zX2hvdXJseV9idWRnZXRcPg==</entry>
         <entry encoding="base64">XDxkYWlseVw+</entry>
+        <entry encoding="base64">XDxCdWNrZXRTZWxlY3Rvclw+</entry>
+        <entry encoding="base64">XDxfYnVja2V0X3NlbGVjdG9yc1w+</entry>
+        <entry encoding="base64">XDxTUExJVFJVTl9QQVJBTVNfTU9EVUxFU1w+</entry>
+        <entry encoding="base64">XDxhdWRpZW5jZV9pZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>put a</entry>
@@ -1240,8 +1248,8 @@
         <entry>E</entry>
         <entry>w</entry>
         <entry>set paste</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gVG9vbF9FeHRlcm5hbCBUb29sc19vcGVuIGluIGJyb3dzZXI=</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
