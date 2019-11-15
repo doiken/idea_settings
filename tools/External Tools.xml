@@ -8,8 +8,8 @@
   </tool>
   <tool name="copy for redmine" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/bin/extract_source.pl" />
-      <option name="PARAMETERS" value="&quot;$FilePath$&quot; $SelectionStartLine$ $SelectionEndLine$" />
+      <option name="COMMAND" value="$USER_HOME$/bin/run_copy.sh" />
+      <option name="PARAMETERS" value="$USER_HOME$/bin/extract_source.pl &quot;$FilePath$&quot; $SelectionStartLine$ $SelectionEndLine$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
