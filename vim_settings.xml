@@ -476,7 +476,7 @@
       <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Algorithm/SpotScore/WebPCModFMPrediction.pm" timestamp="1551074113380">
         <mark key="'" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/MemdBid.pm" timestamp="1573700206623">
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/MemdBid.pm" timestamp="1574314303347">
         <mark key="'" line="137" column="0" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Currency.pm" timestamp="1540346570348">
@@ -685,8 +685,8 @@
       <file name="$USER_HOME$/Documents/fout_logs/lib/FOut/Logs/CLI/PCTRPCVRPercentilesEstimation.pm" timestamp="1540358614365">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1571212275329">
-        <mark key="'" line="25" column="22" />
+      <file name="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" timestamp="1574314222213">
+        <mark key="'" line="55" column="33" />
       </file>
       <file name="$FOUT_HOME$/lib/FOut/Cache/DailyFrequency.pm" timestamp="1541063224253">
         <mark key="'" line="61" column="0" />
@@ -1061,8 +1061,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="24" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
-      <jump line="166" column="50" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="27" column="31" filename="$USER_HOME$/Repositories/fout/lib/FOut/CLI/BudgetUpdater.pm" />
       <jump line="277" column="12" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
       <jump line="265" column="4" filename="$USER_HOME$/Repositories/fout/lib/FOut/Budget/Updater.pm" />
@@ -1161,6 +1159,8 @@
       <jump line="1242" column="38" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
       <jump line="13" column="13" filename="$USER_HOME$/Repositories/fout/lib/FOut/GrossPrice.pm" />
       <jump line="138" column="32" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Decision.pm" />
+      <jump line="83" column="29" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" />
+      <jump line="55" column="33" filename="$USER_HOME$/Repositories/fout/lib/FOut/Bid/Science/PCVRBoost.pm" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1173,7 +1173,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boost_value</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1188,13 +1188,13 @@
         <text>kkkkkkkkkkkkkkkkkkkkkkkkkkjkj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>boost_value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRfdG9fZ2V0ZGF0YVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>consumption_rate</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICRjb250ZXh0LT5wY3ZyX2NhbmRpZGF0ZV9sb2ctPnskYmlkX2lkfXtwY3ZyX3BlcmNlbnRpbGV9ID0gJHBlcmNlbnRpbGU7CiAgICAkY29udGV4dC0+cGN2cl9jYW5kaWRhdGVfbG9nLT57JGJpZF9pZH17Ym9vc3RfdmFsdWV9ID0gJGJvb3N0X3ZhbHVlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdW1wdGlvbl9yYXRlICAgICAgID0+ICRtaW51dGVseV9jb25zdW1wdGlvbl9yYXRlLAo=</text>
