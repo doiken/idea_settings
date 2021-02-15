@@ -1,22 +1,27 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="coffee" type="JavaScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern="nn" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="00" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="psgi" type="Perl5 script" />
+      <mapping ext="pm" type="Perl5 Package" />
+      <mapping ext="pl" type="Perl5 Script" />
       <mapping ext="hql" type="SQL" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="psgi" type="Perl5 script" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
