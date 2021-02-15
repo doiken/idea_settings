@@ -24,4 +24,9 @@
       <option name="PERL5" value="true" />
     </context>
   </template>
+  <template name="db" value="$DB::single = 1;" description="db single" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
 </templateSet>
