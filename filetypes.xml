@@ -1,9 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping ext="coffee" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="root" type="PLAIN_TEXT" />
@@ -12,7 +11,6 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="hql" type="SQL" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
