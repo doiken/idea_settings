@@ -9,4 +9,14 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
+    <option name="SPACE_AFTER_COMMA" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Perl5">
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+  </codeStyleSettings>
 </code_scheme>
