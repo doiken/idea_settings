@@ -8,6 +8,7 @@
   <template name="sub" value="sub $NAME$ {&#10;    my ($ARGUMENTS$) = @_;&#10;    $END$&#10;}" description="new sub" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="&quot;subname&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="&quot;$self&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="unless" value="unless ($EXPRESSION$) {&#10;    $END$&#10;}" description="unless block" toReformat="true" toShortenFQNames="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
