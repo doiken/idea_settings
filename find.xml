@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -20,8 +22,9 @@
     <mask>*.conf</mask>
     <mask>.pm</mask>
     <mask>*.hql</mask>
-    <mask>*.pm</mask>
     <mask>docker-compose*</mask>
     <mask>dockerfile</mask>
+    <mask>*.pm</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
