@@ -19,6 +19,10 @@
   </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.AddUnversioned.From.Dialog" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="c" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="alt r" second-keystroke="shift g" />
   </action>
@@ -68,7 +72,6 @@
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift less" />
   </action>
   <action id="Diff.NextConflict">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="c" />
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift down" />
   </action>
   <action id="Diff.PreviousConflict">
@@ -78,6 +81,7 @@
   <action id="Diff.SelectedChange">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
+  <action id="Diff.ShowDiff" />
   <action id="Diff.UpdatedFiles" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="meta alt e" second-keystroke="r" />
@@ -171,14 +175,17 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="b" />
   </action>
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="d" />
-  </action>
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift b" />
   </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="p" />
+  </action>
+  <action id="Git.Stage.Compare.Staged.Head">
+    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="d" />
+  </action>
+  <action id="Git.Stage.ThreeSideDiff">
+    <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="shift d" />
   </action>
   <action id="Github.Open.In.Browser">
     <keyboard-shortcut first-keystroke="ctrl v" second-keystroke="o" />
