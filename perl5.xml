@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2022.2.2" />
+    <option name="pluginVersion" value="2022.3.1" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -210,6 +210,39 @@
         <host id="localhost" />
         <implementation id="porters" />
         <versionManager id="system" />
+      </additional>
+    </perl>
+    <perl version="2">
+      <name value="Local, Plenv[5.24.3]: Perl 5.24.3" />
+      <type value="Perl5 Interpreter" />
+      <version value="5.24.3 for darwin-2level" />
+      <homePath value="$USER_HOME$/.plenv/versions/5.24.3/bin/perl5.24.3" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.plenv/versions/5.24.3/lib/perl5/site_perl/5.24.3/darwin-2level" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.24.3/lib/perl5/site_perl/5.24.3" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.24.3/lib/perl5/5.24.3/darwin-2level" type="simple" />
+            <root url="file://$USER_HOME$/.plenv/versions/5.24.3/lib/perl5/5.24.3" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <host id="localhost" />
+        <implementation id="porters" />
+        <versionManager id="plenv">
+          <versionManagerPath>/opt/homebrew/bin/plenv</versionManagerPath>
+          <perlVersion>5.24.3</perlVersion>
+        </versionManager>
       </additional>
     </perl>
   </component>
