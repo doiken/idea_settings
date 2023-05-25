@@ -35,6 +35,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
+  <action id="CodeMenu">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="c" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="divide" />
   </action>
@@ -332,6 +335,9 @@
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="r" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" second-keystroke="r" />
+  </action>
   <action id="ReformatCode" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -376,6 +382,7 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShowErrorDescription" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
