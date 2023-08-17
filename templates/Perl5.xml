@@ -29,4 +29,9 @@
       <option name="PERL5" value="true" />
     </context>
   </template>
+  <template name="trace" value="use Devel::StackTrace;&#10;print Devel::StackTrace-&gt;new-&gt;as_string;" description="print backtrace" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
 </templateSet>
