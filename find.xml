@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.t" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,7 +18,6 @@
     <mask>*.sql</mask>
     <mask>*.html</mask>
     <mask>*.yaml</mask>
-    <mask>*.t</mask>
     <mask>*.scala</mask>
     <mask>*.conf</mask>
     <mask>.pm</mask>
@@ -27,5 +27,6 @@
     <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.pm</mask>
+    <mask>*.t</mask>
   </component>
 </application>
